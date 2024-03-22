@@ -2,12 +2,12 @@
 	"vote_start_time": 1617595200000,
 	"jammer_list": [
 		{
-			"time": 1617546410000,
-			"link": "https://yumehiko.itch.io/ningen-maru"
-		},
-		{
 			"time": 1617588474000,
 			"link": "https://dunkelgrau.itch.io/starlynx"
+		},
+		{
+			"time": 1617546410000,
+			"link": "https://yumehiko.itch.io/ningen-maru"
 		},
 		{
 			"time": 1617546338000,
@@ -20,10 +20,6 @@
 		{
 			"time": 1617591938000,
 			"link": "https://renanruan.itch.io/chernobog"
-		},
-		{
-			"time": 1617471355000,
-			"link": "https://jackobstudio.itch.io/escape-from-sram-01"
 		},
 		{
 			"time": 1617595107000,
@@ -90,6 +86,10 @@
 			"link": "https://malachy-o.itch.io/the-last-anarchist"
 		},
 		{
+			"time": 1617471355000,
+			"link": "https://jackobstudio.itch.io/escape-from-sram-01"
+		},
+		{
 			"time": 1617813912000,
 			"link": "https://whitehatchicken.itch.io/stick-dungeon"
 		},
@@ -134,10 +134,6 @@
 			"link": "https://eawell.itch.io/alien-quest"
 		},
 		{
-			"time": 1617584042000,
-			"link": "https://fakeflop.itch.io/save-the-president"
-		},
-		{
 			"time": 1617583588000,
 			"link": "https://thatmegalosaurus.itch.io/adopt-a-phoenix"
 		},
@@ -156,6 +152,10 @@
 		{
 			"time": 1617507351000,
 			"link": "https://switchstatements.itch.io/into-the-darkness"
+		},
+		{
+			"time": 1617584042000,
+			"link": "https://fakeflop.itch.io/save-the-president"
 		},
 		{
 			"time": 1617595420000,
@@ -266,12 +266,12 @@
 			"link": "https://burnedtuner.itch.io/the-ghost-note"
 		},
 		{
-			"time": 1617593739000,
-			"link": "https://ezil.itch.io/vovik"
-		},
-		{
 			"time": 1617593281000,
 			"link": "https://poorly-rendered-games.itch.io/lateral"
+		},
+		{
+			"time": 1617593739000,
+			"link": "https://ezil.itch.io/vovik"
 		},
 		{
 			"time": 1617586885000,
@@ -350,12 +350,12 @@
 			"link": "https://indrexx.itch.io/inter"
 		},
 		{
-			"time": 1617581136000,
-			"link": "https://asdaghisppgaisadpgaag.itch.io/valour"
-		},
-		{
 			"time": 1617588491000,
 			"link": "https://lamp1.itch.io/platform-dudes"
+		},
+		{
+			"time": 1617581136000,
+			"link": "https://asdaghisppgaisadpgaag.itch.io/valour"
 		},
 		{
 			"time": 1617590629000,
@@ -518,32 +518,16 @@
 			"link": "https://codemassi.itch.io/bill-and-the-unscalable-wall"
 		},
 		{
-			"time": 1617514050000,
-			"link": "https://mat26.itch.io/unknown-planet"
-		},
-		{
-			"time": 1617633660000,
-			"link": "https://beonlytom.itch.io/led"
-		},
-		{
-			"time": 1617516671000,
-			"link": "https://apo45ty.itch.io/gambelersadventure"
-		},
-		{
-			"time": 1617594539000,
-			"link": "https://michaelsgamelab.itch.io/space-germs"
+			"time": 1617557350000,
+			"link": "https://toby-24.itch.io/plasmaburst"
 		},
 		{
 			"time": 1617553196000,
 			"link": "https://akhmin.itch.io/memoirs"
 		},
 		{
-			"time": 1617557350000,
-			"link": "https://toby-24.itch.io/plasmaburst"
-		},
-		{
-			"time": 1617591317000,
-			"link": "https://ksgd.itch.io/lifeless"
+			"time": 1617633660000,
+			"link": "https://beonlytom.itch.io/led"
 		},
 		{
 			"time": 1617503546000,
@@ -554,12 +538,28 @@
 			"link": "https://silly-ludos-studio.itch.io/animo"
 		},
 		{
-			"time": 1617574362000,
-			"link": "https://tudypie.itch.io/the-dark-planet"
+			"time": 1617514050000,
+			"link": "https://mat26.itch.io/unknown-planet"
 		},
 		{
 			"time": 1617598937000,
 			"link": "https://weird-bug.itch.io/my-mary"
+		},
+		{
+			"time": 1617594539000,
+			"link": "https://michaelsgamelab.itch.io/space-germs"
+		},
+		{
+			"time": 1617516671000,
+			"link": "https://apo45ty.itch.io/gambelersadventure"
+		},
+		{
+			"time": 1617574362000,
+			"link": "https://tudypie.itch.io/the-dark-planet"
+		},
+		{
+			"time": 1617591317000,
+			"link": "https://ksgd.itch.io/lifeless"
 		}
 	]
 }
