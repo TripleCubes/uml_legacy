@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "The Purple Leaf",
-		"jammer_link": "https://jo4blue.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
-				"title": "The Man In Pumpkin",
-				"title_link": "https://jo4blue.itch.io/the-man-in-pumpkin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203883",
-				"by_list": [
-					"The Purple Leaf"
-				],
-				"by_link_list": [
-					"https://jo4blue.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 8,
-				"score": 2.917,
-				"ilscore": 54,
-				"submission_time_diff": 1087000
-			}
-		]
-	},
-	{
-		"jammer": "ailukhin",
-		"jammer_link": "https://ailukhin.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
-				"title": "Power Pumpkin Defense",
-				"title_link": "https://s1aps.itch.io/power-pumpkin-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203877",
-				"by_list": [
-					"Slaps",
-					"ailukhin"
-				],
-				"by_link_list": [
-					"https://s1aps.itch.io/",
-					"https://ailukhin.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 9,
-				"score": 2.861,
-				"ilscore": 53,
-				"submission_time_diff": -199000
-			}
-		]
-	},
-	{
 		"jammer": "kon102",
 		"jammer_link": "https://kon102.itch.io/",
 		"game_list_sorted": [
@@ -667,7 +611,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Asteroid Alley",
 				"title_link": "https://onditech.itch.io/asteroid-alley",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635486",
@@ -838,7 +782,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Fish with Finn​​",
 				"title_link": "https://mknightdev.itch.io/fish-with-finn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563704",
@@ -2687,7 +2631,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Tone Death",
 				"title_link": "https://manbostudio.itch.io/tone-death",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632907",
@@ -3990,6 +3934,81 @@
 				"score": 3.123,
 				"ilscore": 84,
 				"submission_time_diff": -10414000
+			}
+		]
+	},
+	{
+		"jammer": "Smidge7",
+		"jammer_link": "https://smidge7.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"jam_vs": 58,
+				"title": "Rise &amp; Shine",
+				"title_link": "https://smidge7.itch.io/rise-and-shine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041054",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 31,
+				"score": 4.185,
+				"ilscore": 65,
+				"submission_time_diff": -97169000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 129,
+				"title": "Fish N' Ships",
+				"title_link": "https://smidge7.itch.io/fishnships",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238592",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.048,
+				"ilscore": 90,
+				"submission_time_diff": -2575000
+			}
+		]
+	},
+	{
+		"jammer": "Rob Hoff",
+		"jammer_link": "https://robhoff.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 129,
+				"title": "Galactic Fish Collector",
+				"title_link": "https://robhoff.itch.io/galactic-fish-collector",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238097",
+				"by_list": [
+					"Rob Hoff"
+				],
+				"by_link_list": [
+					"https://robhoff.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 23,
+				"score": 3.989,
+				"ilscore": 89,
+				"submission_time_diff": -640000
 			}
 		]
 	}

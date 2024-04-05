@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Mister Morris",
-		"jammer_link": "https://mistermorrisgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 36,
-				"jam_name": "Nature",
-				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
-				"jam_vs": 37,
-				"title": "Save the Ocean",
-				"title_link": "https://mistermorrisgames.itch.io/save-the-ocean",
-				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480682",
-				"by_list": [
-					"Mister Morris"
-				],
-				"by_link_list": [
-					"https://mistermorrisgames.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 3,
-				"score": 2.815,
-				"ilscore": 35,
-				"submission_time_diff": -30142000
-			}
-		]
-	},
-	{
 		"jammer": "Pleasant Peasant",
 		"jammer_link": "https://pleasant-peasant.itch.io/",
 		"game_list_sorted": [
@@ -3846,6 +3819,33 @@
 				"score": 1.945,
 				"ilscore": 20,
 				"submission_time_diff": -27008000
+			}
+		]
+	},
+	{
+		"jammer": "bsovran",
+		"jammer_link": "https://bsovran.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 41,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
+				"jam_vs": 28,
+				"title": "Sorcerer's Lil Helpers",
+				"title_link": "https://bsovran.itch.io/sorcs-helpers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/518490",
+				"by_list": [
+					"bsovran"
+				],
+				"by_link_list": [
+					"https://bsovran.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 5,
+				"score": 1.938,
+				"ilscore": 20,
+				"submission_time_diff": -27205000
 			}
 		]
 	}

@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Wlock",
-		"jammer_link": "https://wlock.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "versus reflection",
-				"title_link": "https://wlock.itch.io/versus-reflection",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831376",
-				"by_list": [
-					"Wlock"
-				],
-				"by_link_list": [
-					"https://wlock.itch.io/"
-				],
-				"rank": 75,
-				"ratings": 9,
-				"score": 2.53,
-				"ilscore": 54,
-				"submission_time_diff": -43992000
-			}
-		]
-	},
-	{
-		"jammer": "Gokiberri",
-		"jammer_link": "https://gokiberri.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "SleepyGraffiti",
-				"title_link": "https://gokiberri.itch.io/sleepygraffiti",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832303",
-				"by_list": [
-					"Gokiberri"
-				],
-				"by_link_list": [
-					"https://gokiberri.itch.io/"
-				],
-				"rank": 76,
-				"ratings": 15,
-				"score": 2.517,
-				"ilscore": 54,
-				"submission_time_diff": -1355000
-			}
-		]
-	},
-	{
 		"jammer": "Kanashi Jiji",
 		"jammer_link": "https://kanashi-jiji.itch.io/",
 		"game_list_sorted": [
@@ -2767,7 +2713,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Soul of Scales",
 				"title_link": "https://metinc.itch.io/soul-of-scales",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1912607",
@@ -3603,7 +3549,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "MiniJam 125 Traffic controller",
 				"title_link": "https://gaboisleno.itch.io/minijam125-traffic-controller",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1909190",
@@ -3684,7 +3630,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Sigbot",
 				"title_link": "https://pixality-official.itch.io/sigbot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1910737",
@@ -3697,7 +3643,7 @@
 				"rank": 31,
 				"ratings": 10,
 				"score": 2.95,
-				"ilscore": 52,
+				"ilscore": 53,
 				"submission_time_diff": -42159000
 			},
 			{
@@ -3791,6 +3737,62 @@
 				"score": 3.479,
 				"ilscore": 94,
 				"submission_time_diff": -14162000
+			}
+		]
+	},
+	{
+		"jammer": "Solarim",
+		"jammer_link": "https://solarim.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 213,
+				"title": "PopUp",
+				"title_link": "https://solarim.itch.io/popup",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869426",
+				"by_list": [
+					"Solarim"
+				],
+				"by_link_list": [
+					"https://solarim.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 10,
+				"score": 3.475,
+				"ilscore": 94,
+				"submission_time_diff": -845000
+			}
+		]
+	},
+	{
+		"jammer": "Quantum",
+		"jammer_link": "https://zhjckfd135.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 213,
+				"title": "I Have PAWS",
+				"title_link": "https://zhjckfd135.itch.io/i-have-paws",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869183",
+				"by_list": [
+					"Quantum",
+					"Beshkek Art"
+				],
+				"by_link_list": [
+					"https://zhjckfd135.itch.io/",
+					"https://beshkekart.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 14,
+				"score": 3.464,
+				"ilscore": 94,
+				"submission_time_diff": -14788000
 			}
 		]
 	}

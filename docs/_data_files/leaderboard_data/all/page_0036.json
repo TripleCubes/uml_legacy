@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Flash001",
-		"jammer_link": "https://flash001.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "Destroy Em!",
-				"title_link": "https://flash001.itch.io/destroy-em",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983035",
-				"by_list": [
-					"Flash001"
-				],
-				"by_link_list": [
-					"https://flash001.itch.io/"
-				],
-				"rank": 127,
-				"ratings": 3,
-				"score": 1.251,
-				"ilscore": 28,
-				"submission_time_diff": -59352000
-			}
-		]
-	},
-	{
-		"jammer": "eksabite",
-		"jammer_link": "https://eksabite.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "HellYeah",
-				"title_link": "https://eksabite.itch.io/hellyeah",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984292",
-				"by_list": [
-					"eksabite"
-				],
-				"by_link_list": [
-					"https://eksabite.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 1,
-				"score": 1.25,
-				"ilscore": 28,
-				"submission_time_diff": -315000
-			}
-		]
-	},
-	{
 		"jammer": "patasakura",
 		"jammer_link": "https://patasakura.itch.io/",
 		"game_list_sorted": [
@@ -1117,7 +1063,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Paintball Panic!",
 				"title_link": "https://willc-squared.itch.io/paintball-panic",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634825",
@@ -1867,7 +1813,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Deep Dive Bubble",
 				"title_link": "https://apiratehat.itch.io/deep-dive-bubble",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119302",
@@ -1880,7 +1826,7 @@
 				"rank": 20,
 				"ratings": 11,
 				"score": 3.795,
-				"ilscore": 90,
+				"ilscore": 89,
 				"submission_time_diff": -132029000
 			},
 			{
@@ -2680,7 +2626,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubbles!",
 				"title_link": "https://game-baker-studio.itch.io/bubbles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121891",
@@ -2693,7 +2639,7 @@
 				"rank": 105,
 				"ratings": 11,
 				"score": 2.659,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -1402000
 			},
 			{
@@ -3766,7 +3712,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Splash Zone!!",
 				"title_link": "https://gwelkind.itch.io/splashzone",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634716",
@@ -4640,6 +4586,66 @@
 				"score": 3.667,
 				"ilscore": 93,
 				"submission_time_diff": -54599000
+			}
+		]
+	},
+	{
+		"jammer": "Lilith",
+		"jammer_link": "https://reglissh.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Frlog",
+				"title_link": "https://reglissh.itch.io/frlog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026038",
+				"by_list": [
+					"Lilith"
+				],
+				"by_link_list": [
+					"https://reglissh.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 12,
+				"score": 3.667,
+				"ilscore": 93,
+				"submission_time_diff": -1475000
+			}
+		]
+	},
+	{
+		"jammer": "Desichan",
+		"jammer_link": "https://desichan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Flop Friction",
+				"title_link": "https://lehandesigns.itch.io/flop-friction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026077",
+				"by_list": [
+					"Lehan Botha",
+					"Desichan",
+					"Tudor",
+					"nooisy"
+				],
+				"by_link_list": [
+					"https://lehandesigns.itch.io/",
+					"https://desichan.itch.io/",
+					"https://tudordrobota.itch.io/",
+					"https://nooisy.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 49,
+				"score": 3.658,
+				"ilscore": 93,
+				"submission_time_diff": -618000
 			}
 		]
 	}

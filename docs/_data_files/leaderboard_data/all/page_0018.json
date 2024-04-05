@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "TackerTacker",
-		"jammer_link": "https://tackertacker.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "FuzzballMcFuzzFace",
-				"title_link": "https://tackertacker.itch.io/fuzzballmcfuzzface",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/630518",
-				"by_list": [
-					"TackerTacker"
-				],
-				"by_link_list": [
-					"https://tackertacker.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 9,
-				"score": 3.378,
-				"ilscore": 52,
-				"submission_time_diff": -23100000
-			}
-		]
-	},
-	{
 		"jammer": "Acropolise",
 		"jammer_link": "https://acropolis.itch.io/",
 		"game_list_sorted": [
@@ -2996,7 +2969,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "Dream vs Nightmare",
 				"title_link": "https://nexade.itch.io/dream-vs-nightmare",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/836733",
@@ -3844,6 +3817,33 @@
 				"score": 1.766,
 				"ilscore": 34,
 				"submission_time_diff": -23867000
+			}
+		]
+	},
+	{
+		"jammer": "CrowG27",
+		"jammer_link": "https://crowg27.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "Reuben",
+				"title_link": "https://crowg27.itch.io/reuben",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647146",
+				"by_list": [
+					"CrowG27"
+				],
+				"by_link_list": [
+					"https://crowg27.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 2,
+				"score": 1.72,
+				"ilscore": 33,
+				"submission_time_diff": -24880000
 			}
 		]
 	}

@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "TriCodeYt",
-		"jammer_link": "https://tricodeyt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
-				"title": "Dungeon escape",
-				"title_link": "https://tricodeyt.itch.io/dungeon-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246946",
-				"by_list": [
-					"TriCodeYt"
-				],
-				"by_link_list": [
-					"https://tricodeyt.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 6,
-				"score": 2.208,
-				"ilscore": 28,
-				"submission_time_diff": -42797000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
-				"title": "Ancient Research",
-				"title_link": "https://tricodeyt.itch.io/ancient-research",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460055",
-				"by_list": [
-					"TriCodeYt"
-				],
-				"by_link_list": [
-					"https://tricodeyt.itch.io/"
-				],
-				"rank": 83,
-				"ratings": 8,
-				"score": 2.75,
-				"ilscore": 66,
-				"submission_time_diff": -4678000
-			}
-		]
-	},
-	{
-		"jammer": "appgameboy",
-		"jammer_link": "https://appgameboy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
-				"title": "Dungeon Crawler",
-				"title_link": "https://appgameboy.itch.io/dungeon-crawler",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247836",
-				"by_list": [
-					"appgameboy"
-				],
-				"by_link_list": [
-					"https://appgameboy.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 5,
-				"score": 2.1,
-				"ilscore": 27,
-				"submission_time_diff": -1906000
-			}
-		]
-	},
-	{
 		"jammer": "OreoPlushie-dev",
 		"jammer_link": "https://oreoplushie-code.itch.io/",
 		"game_list_sorted": [
@@ -250,7 +175,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Lake Vanish",
 				"title_link": "https://jnwjchannel.itch.io/lake-vanish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560363",
@@ -2250,6 +2175,29 @@
 				"score": 2.795,
 				"ilscore": 47,
 				"submission_time_diff": -41200000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 114,
+				"title": "Paper Airplane",
+				"title_link": "https://kingelaim.itch.io/paper-airplane",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617043",
+				"by_list": [
+					"KinGelaim",
+					"Mein-kun"
+				],
+				"by_link_list": [
+					"https://kingelaim.itch.io/",
+					"https://mein-kun.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 16,
+				"score": 2.703,
+				"ilscore": 57,
+				"submission_time_diff": -63768000
 			}
 		]
 	},
@@ -3624,6 +3572,60 @@
 				"score": 2.861,
 				"ilscore": 46,
 				"submission_time_diff": 35656000
+			}
+		]
+	},
+	{
+		"jammer": "derpley",
+		"jammer_link": "https://derpley.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"jam_vs": 63,
+				"title": "Ink's Shadow",
+				"title_link": "https://derpley.itch.io/inks-shadow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315927",
+				"by_list": [
+					"derpley"
+				],
+				"by_link_list": [
+					"https://derpley.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 5,
+				"score": 2.419,
+				"ilscore": 39,
+				"submission_time_diff": -4710000
+			}
+		]
+	},
+	{
+		"jammer": "smburnley3",
+		"jammer_link": "https://smburnley3.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"jam_vs": 63,
+				"title": "Squid Game",
+				"title_link": "https://smburnley3.itch.io/squid-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2316020",
+				"by_list": [
+					"smburnley3"
+				],
+				"by_link_list": [
+					"https://smburnley3.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 5,
+				"score": 2.373,
+				"ilscore": 38,
+				"submission_time_diff": -1293000
 			}
 		]
 	}

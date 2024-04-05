@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "bsovran",
-		"jammer_link": "https://bsovran.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"jam_vs": 28,
-				"title": "Sorcerer's Lil Helpers",
-				"title_link": "https://bsovran.itch.io/sorcs-helpers",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/518490",
-				"by_list": [
-					"bsovran"
-				],
-				"by_link_list": [
-					"https://bsovran.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 5,
-				"score": 1.938,
-				"ilscore": 20,
-				"submission_time_diff": -27205000
-			}
-		]
-	},
-	{
 		"jammer": "tadeaspaule",
 		"jammer_link": "https://tadeaspaule.itch.io/",
 		"game_list_sorted": [
@@ -2126,7 +2099,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669800",
 				"by_list": [
 					"ProfessorCowboi",
-					"jsaarelainen",
+					"Jani",
 					"Tora McJ",
 					"EllisBertrellVO",
 					"TabethaMVO",
@@ -2217,7 +2190,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "GigaMadness",
 				"title_link": "https://professorcowboi.itch.io/gigamadness",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1630907",
@@ -2517,6 +2490,27 @@
 		"jammer": "Daniel Moreno",
 		"jammer_link": "https://daz.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 114,
+				"title": "APOLLO",
+				"title_link": "https://daz.itch.io/apollo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
+				"by_list": [
+					"Daniel Moreno"
+				],
+				"by_link_list": [
+					"https://daz.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 40,
+				"score": 4.181,
+				"ilscore": 88,
+				"submission_time_diff": -23971000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 45,
@@ -3938,6 +3932,96 @@
 				"score": 1.69,
 				"ilscore": 23,
 				"submission_time_diff": -1883000
+			}
+		]
+	},
+	{
+		"jammer": "docjenny",
+		"jammer_link": "https://docjenny.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"jam_vs": 50,
+				"title": "BestBoy",
+				"title_link": "https://docjenny.itch.io/bestboy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1852399",
+				"by_list": [
+					"docjenny"
+				],
+				"by_link_list": [
+					"https://docjenny.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 7,
+				"score": 2.429,
+				"ilscore": 35,
+				"submission_time_diff": 62734000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 45,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-45-dungeons",
+				"jam_vs": 45,
+				"title": "THERES A DUNGEON INSIDE YOUR TV",
+				"title_link": "https://docjenny.itch.io/theres-a-dungeon-inside-your-tv",
+				"submission_page_link": "https://itch.io/jam/mini-jam-45-dungeons/rate/548756",
+				"by_list": [
+					"docjenny"
+				],
+				"by_link_list": [
+					"https://docjenny.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 3,
+				"score": 1.571,
+				"ilscore": 21,
+				"submission_time_diff": -24111000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 72,
+				"jam_name": "Adventure",
+				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
+				"jam_vs": 73,
+				"title": "Gift",
+				"title_link": "https://docjenny.itch.io/gift",
+				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894333",
+				"by_list": [
+					"docjenny"
+				],
+				"by_link_list": [
+					"https://docjenny.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 4,
+				"score": 2.315,
+				"ilscore": 40,
+				"submission_time_diff": 21683000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "Cube&amp;Match",
+				"title_link": "https://docjenny.itch.io/cubematch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879992",
+				"by_list": [
+					"docjenny"
+				],
+				"by_link_list": [
+					"https://docjenny.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 4,
+				"score": 1.9,
+				"ilscore": 36,
+				"submission_time_diff": -40739000
 			}
 		]
 	}

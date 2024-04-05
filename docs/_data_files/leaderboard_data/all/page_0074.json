@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Chamiks",
-		"jammer_link": "https://chamiks.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "KronaK",
-				"title_link": "https://chamiks.itch.io/kronak",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652378",
-				"by_list": [
-					"Chamiks"
-				],
-				"by_link_list": [
-					"https://chamiks.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 5,
-				"score": 2.298,
-				"ilscore": 44,
-				"submission_time_diff": -63494000
-			}
-		]
-	},
-	{
-		"jammer": "IPlayGamesOnPC",
-		"jammer_link": "https://iplaygamesonpc.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "Speedboat",
-				"title_link": "https://iplaygamesonpc.itch.io/speedboat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652425",
-				"by_list": [
-					"IPlayGamesOnPC"
-				],
-				"by_link_list": [
-					"https://iplaygamesonpc.itch.io/"
-				],
-				"rank": 73,
-				"ratings": 11,
-				"score": 2.295,
-				"ilscore": 44,
-				"submission_time_diff": -62012000
-			}
-		]
-	},
-	{
 		"jammer": "GoldenEggStudios",
 		"jammer_link": "https://goldeneggstudios.itch.io/",
 		"game_list_sorted": [
@@ -799,7 +745,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Muscle &amp; Tweet",
 				"title_link": "https://dodoot.itch.io/muscleandtweet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906456",
@@ -816,7 +762,7 @@
 				"rank": 1,
 				"ratings": 26,
 				"score": 4.356,
-				"ilscore": 77,
+				"ilscore": 78,
 				"submission_time_diff": -10528000
 			},
 			{
@@ -3599,6 +3545,84 @@
 				"score": 1.886,
 				"ilscore": 38,
 				"submission_time_diff": -17818000
+			}
+		]
+	},
+	{
+		"jammer": "Jani",
+		"jammer_link": "https://jsaarelainen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 106,
+				"title": "The Chalupagong",
+				"title_link": "https://professorcowboi.itch.io/the-chalupagong",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669800",
+				"by_list": [
+					"ProfessorCowboi",
+					"Jani",
+					"Tora McJ",
+					"EllisBertrellVO",
+					"TabethaMVO",
+					"bartolomeuswk",
+					"StarshipCaptainBecca"
+				],
+				"by_link_list": [
+					"https://professorcowboi.itch.io/",
+					"https://jsaarelainen.itch.io/",
+					"https://tora-mcj.itch.io/",
+					"https://ellisbertrellvo.itch.io/",
+					"https://tabethamvo.itch.io/",
+					"https://bartolomeuswk.itch.io/",
+					"https://starshipcaptainbecca.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 6,
+				"score": 1.833,
+				"ilscore": 37,
+				"submission_time_diff": -304000
+			}
+		]
+	},
+	{
+		"jammer": "EllisBertrellVO",
+		"jammer_link": "https://ellisbertrellvo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 106,
+				"title": "The Chalupagong",
+				"title_link": "https://professorcowboi.itch.io/the-chalupagong",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669800",
+				"by_list": [
+					"ProfessorCowboi",
+					"Jani",
+					"Tora McJ",
+					"EllisBertrellVO",
+					"TabethaMVO",
+					"bartolomeuswk",
+					"StarshipCaptainBecca"
+				],
+				"by_link_list": [
+					"https://professorcowboi.itch.io/",
+					"https://jsaarelainen.itch.io/",
+					"https://tora-mcj.itch.io/",
+					"https://ellisbertrellvo.itch.io/",
+					"https://tabethamvo.itch.io/",
+					"https://bartolomeuswk.itch.io/",
+					"https://starshipcaptainbecca.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 6,
+				"score": 1.833,
+				"ilscore": 37,
+				"submission_time_diff": -304000
 			}
 		]
 	}

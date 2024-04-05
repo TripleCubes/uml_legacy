@@ -368,7 +368,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "CyberCrunch",
 				"title_link": "https://elioth-games.itch.io/cybercrunch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837296",
@@ -1255,6 +1255,33 @@
 				"score": 4.19,
 				"ilscore": 48,
 				"submission_time_diff": -16193000
+			}
+		]
+	},
+	{
+		"jammer": "Daniel Moreno",
+		"jammer_link": "https://daz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 114,
+				"title": "APOLLO",
+				"title_link": "https://daz.itch.io/apollo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
+				"by_list": [
+					"Daniel Moreno"
+				],
+				"by_link_list": [
+					"https://daz.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 40,
+				"score": 4.181,
+				"ilscore": 88,
+				"submission_time_diff": -23971000
 			}
 		]
 	},
@@ -2168,7 +2195,7 @@
 				"jam_id": 20,
 				"jam_name": "Music",
 				"jam_link": "https://itch.io/jam/mini-jam-20-music",
-				"jam_vs": 24,
+				"jam_vs": 23,
 				"title": "Rhythm OwO",
 				"title_link": "https://kingw.itch.io/rhythm-owo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362436",
@@ -2183,7 +2210,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4,
-				"ilscore": 39,
+				"ilscore": 38,
 				"submission_time_diff": -9583000
 			}
 		]
@@ -2863,33 +2890,6 @@
 				"score": 3.554,
 				"ilscore": 52,
 				"submission_time_diff": -1869000
-			}
-		]
-	},
-	{
-		"jammer": "Gnome Made Games",
-		"jammer_link": "https://apollo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 2,
-				"jam_name": "NES",
-				"jam_link": "https://itch.io/jam/mini-jam2ndedition",
-				"jam_vs": 6,
-				"title": "Balloony",
-				"title_link": "https://apollo.itch.io/balloony",
-				"submission_page_link": "https://itch.io/jam/mini-jam2ndedition/rate/259781",
-				"by_list": [
-					"Gnome Made Games"
-				],
-				"by_link_list": [
-					"https://apollo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 3.548,
-				"ilscore": 12,
-				"submission_time_diff": -38507000
 			}
 		]
 	}

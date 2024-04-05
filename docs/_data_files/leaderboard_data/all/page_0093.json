@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "Akiyaki",
-		"jammer_link": "https://akiyaki.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
-				"title": "Laundry Distric",
-				"title_link": "https://akiyaki.itch.io/laundry-distric",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164454",
-				"by_list": [
-					"Akiyaki"
-				],
-				"by_link_list": [
-					"https://akiyaki.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 5,
-				"score": 2.341,
-				"ilscore": 31,
-				"submission_time_diff": 30632000
-			}
-		]
-	},
-	{
-		"jammer": "Skromny Janek",
-		"jammer_link": "https://skromny-janek.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
-				"title": "07.07.2007",
-				"title_link": "https://skromny-janek.itch.io/07072007",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2153112",
-				"by_list": [
-					"Skromny Janek"
-				],
-				"by_link_list": [
-					"https://skromny-janek.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 5,
-				"score": 2.11,
-				"ilscore": 28,
-				"submission_time_diff": -146595000
-			}
-		]
-	},
-	{
-		"jammer": "Sokamonta",
-		"jammer_link": "https://sokamonta.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
-				"title": "Chess Unbound",
-				"title_link": "https://sokamonta.itch.io/chess-unbound",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2152479",
-				"by_list": [
-					"Sokamonta"
-				],
-				"by_link_list": [
-					"https://sokamonta.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 5,
-				"score": 1.813,
-				"ilscore": 24,
-				"submission_time_diff": -35373000
-			}
-		]
-	},
-	{
 		"jammer": "CusoeCZ",
 		"jammer_link": "https://cusoecz.itch.io/",
 		"game_list_sorted": [
@@ -858,7 +777,7 @@
 		]
 	},
 	{
-		"jammer": "TomFraz",
+		"jammer": "Fr4z",
 		"jammer_link": "https://tom-fraz.itch.io/",
 		"game_list_sorted": [
 			{
@@ -871,7 +790,7 @@
 				"title_link": "https://tom-fraz.itch.io/chrono-cassette-chaos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207258",
 				"by_list": [
-					"TomFraz"
+					"Fr4z"
 				],
 				"by_link_list": [
 					"https://tom-fraz.itch.io/"
@@ -1060,10 +979,41 @@
 				"title_link": "https://allonsy.itch.io/the-august-before",
 				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207655",
 				"by_list": [
-					"allonsy"
+					"allonsy",
+					"NikaNat"
 				],
 				"by_link_list": [
-					"https://allonsy.itch.io/"
+					"https://allonsy.itch.io/",
+					"https://nikanat.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 2,
+				"score": 1.804,
+				"ilscore": 17,
+				"submission_time_diff": -616000
+			}
+		]
+	},
+	{
+		"jammer": "NikaNat",
+		"jammer_link": "https://nikanat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 138,
+				"jam_name": "Rewind",
+				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
+				"jam_vs": 23,
+				"title": "The August Before",
+				"title_link": "https://allonsy.itch.io/the-august-before",
+				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2207655",
+				"by_list": [
+					"allonsy",
+					"NikaNat"
+				],
+				"by_link_list": [
+					"https://allonsy.itch.io/",
+					"https://nikanat.itch.io/"
 				],
 				"rank": 23,
 				"ratings": 2,
@@ -3069,6 +3019,81 @@
 				"score": 2.325,
 				"ilscore": 30,
 				"submission_time_diff": -200000
+			}
+		]
+	},
+	{
+		"jammer": "TriCodeYt",
+		"jammer_link": "https://tricodeyt.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Dungeon escape",
+				"title_link": "https://tricodeyt.itch.io/dungeon-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246946",
+				"by_list": [
+					"TriCodeYt"
+				],
+				"by_link_list": [
+					"https://tricodeyt.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 6,
+				"score": 2.208,
+				"ilscore": 28,
+				"submission_time_diff": -42797000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 159,
+				"title": "Ancient Research",
+				"title_link": "https://tricodeyt.itch.io/ancient-research",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460055",
+				"by_list": [
+					"TriCodeYt"
+				],
+				"by_link_list": [
+					"https://tricodeyt.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 8,
+				"score": 2.75,
+				"ilscore": 66,
+				"submission_time_diff": -4678000
+			}
+		]
+	},
+	{
+		"jammer": "appgameboy",
+		"jammer_link": "https://appgameboy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Dungeon Crawler",
+				"title_link": "https://appgameboy.itch.io/dungeon-crawler",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247836",
+				"by_list": [
+					"appgameboy"
+				],
+				"by_link_list": [
+					"https://appgameboy.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 5,
+				"score": 2.1,
+				"ilscore": 27,
+				"submission_time_diff": -1906000
 			}
 		]
 	}

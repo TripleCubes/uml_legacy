@@ -1,39 +1,6 @@
 [
 	{
-		"jammer": "yonatanp",
-		"jammer_link": "https://yonatanp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Event Horizon",
-				"title_link": "https://boaz4.itch.io/event-horizon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934101",
-				"by_list": [
-					"boaz4",
-					"alon.eldan",
-					"Ash",
-					"yonatanp"
-				],
-				"by_link_list": [
-					"https://boaz4.itch.io/",
-					"https://aloneldan.itch.io/",
-					"https://ash42z.itch.io/",
-					"https://yonatanp.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 8,
-				"score": 3.406,
-				"ilscore": 61,
-				"submission_time_diff": -209000
-			}
-		]
-	},
-	{
-		"jammer": "hdboye",
+		"jammer": "tariq",
 		"jammer_link": "https://hdboye.itch.io/",
 		"game_list_sorted": [
 			{
@@ -46,7 +13,7 @@
 				"title_link": "https://hdboye.itch.io/timemart",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934803",
 				"by_list": [
-					"hdboye"
+					"tariq"
 				],
 				"by_link_list": [
 					"https://hdboye.itch.io/"
@@ -1932,7 +1899,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1951,7 +1918,7 @@
 				"rank": 5,
 				"ratings": 23,
 				"score": 4.054,
-				"ilscore": 109,
+				"ilscore": 108,
 				"submission_time_diff": -21006000
 			},
 			{
@@ -2033,7 +2000,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -2052,7 +2019,7 @@
 				"rank": 5,
 				"ratings": 23,
 				"score": 4.054,
-				"ilscore": 109,
+				"ilscore": 108,
 				"submission_time_diff": -21006000
 			},
 			{
@@ -2899,7 +2866,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "Moon's Road Trip",
 				"title_link": "https://tuluk.itch.io/lunar",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017785",
@@ -3022,7 +2989,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "Lunar Rabbit Chase",
 				"title_link": "https://romeosdaydream.itch.io/lunar-rabbit-chase",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021412",
@@ -3687,6 +3654,54 @@
 				"score": 2.741,
 				"ilscore": 59,
 				"submission_time_diff": -24357000
+			}
+		]
+	},
+	{
+		"jammer": "Bump Dev",
+		"jammer_link": "https://bump-dev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"jam_vs": 57,
+				"title": "Cannon Carnage",
+				"title_link": "https://bump-dev.itch.io/cannon-carnage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440045",
+				"by_list": [
+					"Bump Dev"
+				],
+				"by_link_list": [
+					"https://bump-dev.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 16,
+				"score": 3.484,
+				"ilscore": 54,
+				"submission_time_diff": -44403000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 118,
+				"title": "Cat Land Rescue!",
+				"title_link": "https://bump-dev.itch.io/cat-land-rescue",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955872",
+				"by_list": [
+					"Bump Dev"
+				],
+				"by_link_list": [
+					"https://bump-dev.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 8,
+				"score": 2.683,
+				"ilscore": 57,
+				"submission_time_diff": -34236000
 			}
 		]
 	}

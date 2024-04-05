@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "kingphisher",
-		"jammer_link": "https://kingphisher.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"jam_vs": 18,
-				"title": "Very Patient Man",
-				"title_link": "https://kingphisher.itch.io/very-patient-man",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/582942",
-				"by_list": [
-					"kingphisher"
-				],
-				"by_link_list": [
-					"https://kingphisher.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 15,
-				"score": 2.627,
-				"ilscore": 21,
-				"submission_time_diff": -25861000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "A Drift At Sea",
-				"title_link": "https://kingphisher.itch.io/a-drift-at-sea",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592832",
-				"by_list": [
-					"kingphisher"
-				],
-				"by_link_list": [
-					"https://kingphisher.itch.io/"
-				],
-				"rank": 75,
-				"ratings": 7,
-				"score": 2.343,
-				"ilscore": 52,
-				"submission_time_diff": -1276000
-			}
-		]
-	},
-	{
 		"jammer": "Onyx Templar Games",
 		"jammer_link": "https://onyx-templar-games.itch.io/",
 		"game_list_sorted": [
@@ -315,7 +267,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "10 Seconds to Draw",
 				"title_link": "https://alejandro-gamedev.itch.io/10-seconds-to-draw",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020387",
@@ -907,7 +859,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "There is fish in these Halls",
 				"title_link": "https://ilprinni.itch.io/there-is-fish-in-these-halls",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2565918",
@@ -920,7 +872,7 @@
 				"rank": 32,
 				"ratings": 19,
 				"score": 3.605,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": 68952000
 			},
 			{
@@ -1760,7 +1712,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "🌊🐙🛏️🌊",
 				"title_link": "https://ruellia.itch.io/octo-sleep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837588",
@@ -2147,7 +2099,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Inner Darkness",
 				"title_link": "https://fan22.itch.io/inner-darkness",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634477",
@@ -3225,7 +3177,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubbles Game",
 				"title_link": "https://matsgalaxy.itch.io/bubbles-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121364",
@@ -3824,6 +3776,33 @@
 				"score": 1.252,
 				"ilscore": 27,
 				"submission_time_diff": -472000
+			}
+		]
+	},
+	{
+		"jammer": "MellowMoose",
+		"jammer_link": "https://mellowmoose.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Jet Ski Jerry",
+				"title_link": "https://mellowmoose.itch.io/jet-ski-jerry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592646",
+				"by_list": [
+					"MellowMoose"
+				],
+				"by_link_list": [
+					"https://mellowmoose.itch.io/"
+				],
+				"rank": 129,
+				"ratings": 1,
+				"score": 1.226,
+				"ilscore": 27,
+				"submission_time_diff": -17594000
 			}
 		]
 	}

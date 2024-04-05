@@ -1,88 +1,5 @@
 [
 	{
-		"jammer": "JamesSmaleDev",
-		"jammer_link": "https://jamessmaledev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "Labyrinth Sprinter",
-				"title_link": "https://euryalus.itch.io/labyrinth-sprinter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930795",
-				"by_list": [
-					"Hugo Bailey",
-					"JamesSmaleDev",
-					"Adam James Veasey"
-				],
-				"by_link_list": [
-					"https://euryalus.itch.io/",
-					"https://jamessmaledev.itch.io/",
-					"https://adamjveasey.itch.io/"
-				],
-				"rank": 77,
-				"ratings": 4,
-				"score": 1.679,
-				"ilscore": 30,
-				"submission_time_diff": -13879000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
-				"title": "Death's Defiance",
-				"title_link": "https://jamessmaledev.itch.io/deaths-defiance",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259343",
-				"by_list": [
-					"JamesSmaleDev"
-				],
-				"by_link_list": [
-					"https://jamessmaledev.itch.io/"
-				],
-				"rank": 102,
-				"ratings": 3,
-				"score": 1.643,
-				"ilscore": 34,
-				"submission_time_diff": -2694000
-			}
-		]
-	},
-	{
-		"jammer": "Adam James Veasey",
-		"jammer_link": "https://adamjveasey.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "Labyrinth Sprinter",
-				"title_link": "https://euryalus.itch.io/labyrinth-sprinter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930795",
-				"by_list": [
-					"Hugo Bailey",
-					"JamesSmaleDev",
-					"Adam James Veasey"
-				],
-				"by_link_list": [
-					"https://euryalus.itch.io/",
-					"https://jamessmaledev.itch.io/",
-					"https://adamjveasey.itch.io/"
-				],
-				"rank": 77,
-				"ratings": 4,
-				"score": 1.679,
-				"ilscore": 30,
-				"submission_time_diff": -13879000
-			}
-		]
-	},
-	{
 		"jammer": "Yeam7",
 		"jammer_link": "https://yeam7.itch.io/",
 		"game_list_sorted": [
@@ -1033,13 +950,13 @@
 				"by_list": [
 					"Avace",
 					"OrangeScientist1",
-					"Lavinnia",
+					"Transparent Games",
 					"misterG-gamedev"
 				],
 				"by_link_list": [
 					"https://avace.itch.io/",
 					"https://orangescientist1.itch.io/",
-					"https://lavinnia.itch.io/",
+					"https://transparent-games.itch.io/",
 					"https://misterg-gamedev.itch.io/"
 				],
 				"rank": 50,
@@ -1822,7 +1739,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Colour Keepers",
 				"title_link": "https://ithyn.itch.io/colour-keepers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634739",
@@ -3253,7 +3170,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Arm throwing simulator 2013 (ATS2013)",
 				"title_link": "https://mat26.itch.io/ats2013",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120054",
@@ -3942,6 +3859,81 @@
 				"score": 0.766,
 				"ilscore": 15,
 				"submission_time_diff": -13649000
+			}
+		]
+	},
+	{
+		"jammer": "Kultisti",
+		"jammer_link": "https://kultisti.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Cats n Wires",
+				"title_link": "https://kultisti.itch.io/cats-n-wires",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044747",
+				"by_list": [
+					"Kultisti"
+				],
+				"by_link_list": [
+					"https://kultisti.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 34,
+				"score": 4.64,
+				"ilscore": 106,
+				"submission_time_diff": -5734000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "◫",
+				"title_link": "https://kultisti.itch.io/00",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/965281",
+				"by_list": [
+					"Kultisti"
+				],
+				"by_link_list": [
+					"https://kultisti.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 25,
+				"score": 4.45,
+				"ilscore": 97,
+				"submission_time_diff": -399000
+			}
+		]
+	},
+	{
+		"jammer": "Sam Bigos",
+		"jammer_link": "https://sambigos.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "Geiger",
+				"title_link": "https://sambigos.itch.io/geiger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966586",
+				"by_list": [
+					"Sam Bigos"
+				],
+				"by_link_list": [
+					"https://sambigos.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.271,
+				"ilscore": 93,
+				"submission_time_diff": -15075000
 			}
 		]
 	}

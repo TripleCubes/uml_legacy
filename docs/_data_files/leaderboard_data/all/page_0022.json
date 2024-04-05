@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "MiNT",
-		"jammer_link": "https://mintjp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 60,
-				"jam_name": "Crime",
-				"jam_link": "https://itch.io/jam/mini-jam-60",
-				"jam_vs": 64,
-				"title": "My 2D Waifu is a Maniacal Mugging Mistress?!",
-				"title_link": "https://mintjp.itch.io/m2dw",
-				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726811",
-				"by_list": [
-					"MiNT",
-					"SlovGoblin"
-				],
-				"by_link_list": [
-					"https://mintjp.itch.io/",
-					"https://slovgoblin.itch.io/"
-				],
-				"rank": 44,
-				"ratings": 10,
-				"score": 2.575,
-				"ilscore": 42,
-				"submission_time_diff": -237000
-			}
-		]
-	},
-	{
 		"jammer": "SlovGoblin",
 		"jammer_link": "https://slovgoblin.itch.io/",
 		"game_list_sorted": [
@@ -3333,7 +3304,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "(Deep Blue)",
 				"title_link": "https://swordbean.itch.io/deep-blue",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837967",
@@ -3490,7 +3461,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": ".",
 				"title_link": "https://snoopdawggaming.itch.io/o",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837391",
@@ -4785,7 +4756,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Signal Miner",
 				"title_link": "https://the-prancing-pony.itch.io/signal-miner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913567",
@@ -4935,6 +4906,77 @@
 				"score": 3.704,
 				"ilscore": 87,
 				"submission_time_diff": -115866000
+			}
+		]
+	},
+	{
+		"jammer": "Cyporkador",
+		"jammer_link": "https://cypor.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"jam_vs": 55,
+				"title": "Castle Climber",
+				"title_link": "https://cypor.itch.io/castle-climber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070402",
+				"by_list": [
+					"Cyporkador"
+				],
+				"by_link_list": [
+					"https://cypor.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 19,
+				"score": 3.263,
+				"ilscore": 49,
+				"submission_time_diff": -16000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 62,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-62",
+				"jam_vs": 148,
+				"title": "Color Slide",
+				"title_link": "https://cypor.itch.io/color-slide",
+				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751856",
+				"by_list": [
+					"Cyporkador"
+				],
+				"by_link_list": [
+					"https://cypor.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 24,
+				"score": 3.698,
+				"ilscore": 87,
+				"submission_time_diff": -19208000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 114,
+				"title": "Crashy Boulders",
+				"title_link": "https://cypor.itch.io/crashy-boulders",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763659",
+				"by_list": [
+					"Cyporkador",
+					"Fireskelet"
+				],
+				"by_link_list": [
+					"https://cypor.itch.io/",
+					"https://fireskelet.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 11,
+				"score": 3.5,
+				"ilscore": 74,
+				"submission_time_diff": -3366000
 			}
 		]
 	}

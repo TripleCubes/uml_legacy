@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "derpley",
-		"jammer_link": "https://derpley.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Ink's Shadow",
-				"title_link": "https://derpley.itch.io/inks-shadow",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315927",
-				"by_list": [
-					"derpley"
-				],
-				"by_link_list": [
-					"https://derpley.itch.io/"
-				],
-				"rank": 46,
-				"ratings": 5,
-				"score": 2.419,
-				"ilscore": 39,
-				"submission_time_diff": -4710000
-			}
-		]
-	},
-	{
-		"jammer": "smburnley3",
-		"jammer_link": "https://smburnley3.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Squid Game",
-				"title_link": "https://smburnley3.itch.io/squid-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2316020",
-				"by_list": [
-					"smburnley3"
-				],
-				"by_link_list": [
-					"https://smburnley3.itch.io/"
-				],
-				"rank": 49,
-				"ratings": 5,
-				"score": 2.373,
-				"ilscore": 38,
-				"submission_time_diff": -1293000
-			}
-		]
-	},
-	{
 		"jammer": "Lobster",
 		"jammer_link": "https://lobster-1.itch.io/",
 		"game_list_sorted": [
@@ -2395,7 +2341,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Abyssal Catch",
 				"title_link": "https://static-gamin.itch.io/abyssal-catch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563697",
@@ -2408,7 +2354,7 @@
 				"rank": 12,
 				"ratings": 8,
 				"score": 3.83,
-				"ilscore": 103,
+				"ilscore": 102,
 				"submission_time_diff": -20239000
 			},
 			{
@@ -3197,6 +3143,60 @@
 				"score": 3.391,
 				"ilscore": 65,
 				"submission_time_diff": 53145000
+			}
+		]
+	},
+	{
+		"jammer": "FacelessStudios",
+		"jammer_link": "https://facelessstudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"jam_vs": 90,
+				"title": "The Frozen Game",
+				"title_link": "https://facelessstudios.itch.io/loading",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364721",
+				"by_list": [
+					"FacelessStudios"
+				],
+				"by_link_list": [
+					"https://facelessstudios.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 5,
+				"score": 3.381,
+				"ilscore": 64,
+				"submission_time_diff": -16574000
+			}
+		]
+	},
+	{
+		"jammer": "miniignis",
+		"jammer_link": "https://miniignis.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"jam_vs": 90,
+				"title": "FROSTFALL",
+				"title_link": "https://miniignis.itch.io/frostfall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364934",
+				"by_list": [
+					"miniignis"
+				],
+				"by_link_list": [
+					"https://miniignis.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 3,
+				"score": 3.219,
+				"ilscore": 61,
+				"submission_time_diff": -1268000
 			}
 		]
 	}

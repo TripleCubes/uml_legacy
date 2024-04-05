@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "BitBlank",
-		"jammer_link": "https://bitblank.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
-				"title": "TempleJump",
-				"title_link": "https://bitblank.itch.io/templejump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460219",
-				"by_list": [
-					"BitBlank"
-				],
-				"by_link_list": [
-					"https://bitblank.itch.io/"
-				],
-				"rank": 140,
-				"ratings": 1,
-				"score": 1.134,
-				"ilscore": 27,
-				"submission_time_diff": 176129000
-			}
-		]
-	},
-	{
-		"jammer": "Kool Kat Da Coder",
-		"jammer_link": "https://kool-kat-da-coder.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
-				"title": "Ancient Touring",
-				"title_link": "https://kool-kat-da-coder.itch.io/ancient-touring",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2465317",
-				"by_list": [
-					"Kool Kat Da Coder"
-				],
-				"by_link_list": [
-					"https://kool-kat-da-coder.itch.io/"
-				],
-				"rank": 140,
-				"ratings": 1,
-				"score": 1.134,
-				"ilscore": 27,
-				"submission_time_diff": 299280000
-			}
-		]
-	},
-	{
 		"jammer": "CREASTA PIXEL",
 		"jammer_link": "https://creasta.itch.io/",
 		"game_list_sorted": [
@@ -762,7 +708,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -1065,7 +1011,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "No Fish",
 				"title_link": "https://rp011.itch.io/no-fish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562888",
@@ -1628,6 +1574,27 @@
 				"score": 3.357,
 				"ilscore": 75,
 				"submission_time_diff": -24664000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 114,
+				"title": "Accel, The Wind Mage",
+				"title_link": "https://shinkouhai.itch.io/acccel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618939",
+				"by_list": [
+					"Shin"
+				],
+				"by_link_list": [
+					"https://shinkouhai.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 5,
+				"score": 2.394,
+				"ilscore": 50,
+				"submission_time_diff": 29456000
 			}
 		]
 	},
@@ -1898,7 +1865,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Star Trawler",
 				"title_link": "https://matthew-marmalade.itch.io/star-trawler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564371",
@@ -2379,7 +2346,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Grapple Green Fish Eggs",
 				"title_link": "https://dux-dev-games.itch.io/grapple-green-fish-eggs",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/1845411",
@@ -2684,7 +2651,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -3198,7 +3165,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Lunchbox",
 				"title_link": "https://sealnf.itch.io/lunchbox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562279",
@@ -3299,7 +3266,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Lunchbox",
 				"title_link": "https://sealnf.itch.io/lunchbox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562279",
@@ -3357,7 +3324,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Fish Fight: Toxic",
 				"title_link": "https://maruchun.itch.io/fish-fight-toxic",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563218",
@@ -3423,7 +3390,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Lunchbox",
 				"title_link": "https://sealnf.itch.io/lunchbox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562279",
@@ -3637,6 +3604,60 @@
 				"score": 2.646,
 				"ilscore": 59,
 				"submission_time_diff": -1699000
+			}
+		]
+	},
+	{
+		"jammer": "Sideen",
+		"jammer_link": "https://imsideen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 130,
+				"title": "The King's Tower",
+				"title_link": "https://imsideen.itch.io/the-kings-tower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482868",
+				"by_list": [
+					"Sideen"
+				],
+				"by_link_list": [
+					"https://imsideen.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 6,
+				"score": 2.623,
+				"ilscore": 58,
+				"submission_time_diff": -16491000
+			}
+		]
+	},
+	{
+		"jammer": "borbalf",
+		"jammer_link": "https://borbalf.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 130,
+				"title": "Flee from the Darkness",
+				"title_link": "https://borbalf.itch.io/flee-from-the-darkness",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480194",
+				"by_list": [
+					"borbalf"
+				],
+				"by_link_list": [
+					"https://borbalf.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 6,
+				"score": 2.623,
+				"ilscore": 58,
+				"submission_time_diff": -125894000
 			}
 		]
 	}

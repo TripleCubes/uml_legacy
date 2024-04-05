@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Daltman",
-		"jammer_link": "https://daltman.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
-				"title": "Death Comes",
-				"title_link": "https://daltman.itch.io/death-comes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1256925",
-				"by_list": [
-					"Daltman"
-				],
-				"by_link_list": [
-					"https://daltman.itch.io/"
-				],
-				"rank": 114,
-				"ratings": 3,
-				"score": 1.187,
-				"ilscore": 25,
-				"submission_time_diff": -109849000
-			}
-		]
-	},
-	{
-		"jammer": "Urb4nGh0st",
-		"jammer_link": "https://urb4ngh0st.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
-				"title": "Death's solace",
-				"title_link": "https://urb4ngh0st.itch.io/deaths-solace",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259229",
-				"by_list": [
-					"Urb4nGh0st"
-				],
-				"by_link_list": [
-					"https://urb4ngh0st.itch.io/"
-				],
-				"rank": 115,
-				"ratings": 3,
-				"score": 1.187,
-				"ilscore": 25,
-				"submission_time_diff": -5699000
-			}
-		]
-	},
-	{
 		"jammer": "Lex",
 		"jammer_link": "https://lexiestgirl.itch.io/",
 		"game_list_sorted": [
@@ -713,6 +659,27 @@
 				"score": 2.994,
 				"ilscore": 41,
 				"submission_time_diff": -16061000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 114,
+				"title": "Space Fart",
+				"title_link": "https://anarchygames.itch.io/space-fart",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618420",
+				"by_list": [
+					"AnarchyGames"
+				],
+				"by_link_list": [
+					"https://anarchygames.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 7,
+				"score": 1.747,
+				"ilscore": 37,
+				"submission_time_diff": -16374000
 			}
 		]
 	},
@@ -3106,7 +3073,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Melody Maverick",
 				"title_link": "https://emanueler.itch.io/melodymaverick",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913442",
@@ -3733,7 +3700,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "The Forest Horror - Judgement 10 ''",
 				"title_link": "https://aquaramelia.itch.io/the-forest-horror",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2022947",
@@ -4134,6 +4101,60 @@
 				"score": 2.227,
 				"ilscore": 42,
 				"submission_time_diff": -2911000
+			}
+		]
+	},
+	{
+		"jammer": "Jonathan9061",
+		"jammer_link": "https://jonathan9061.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 88,
+				"title": "Bakermobile",
+				"title_link": "https://jonathan9061.itch.io/bakermobile",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296764",
+				"by_list": [
+					"Jonathan9061"
+				],
+				"by_link_list": [
+					"https://jonathan9061.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 5,
+				"score": 2.192,
+				"ilscore": 41,
+				"submission_time_diff": -7170000
+			}
+		]
+	},
+	{
+		"jammer": "chrygore",
+		"jammer_link": "https://chrygore.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 88,
+				"title": "Cake Wars",
+				"title_link": "https://chrygore.itch.io/cake-wars",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296844",
+				"by_list": [
+					"chrygore"
+				],
+				"by_link_list": [
+					"https://chrygore.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 6,
+				"score": 2.162,
+				"ilscore": 41,
+				"submission_time_diff": -678000
 			}
 		]
 	}

@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "chaotune",
-		"jammer_link": "https://chaotune.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Nine Lives",
-				"title_link": "https://ali3ndev.itch.io/nine-lives",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608495",
-				"by_list": [
-					"ali3n",
-					"chaotune",
-					"that-sevvi"
-				],
-				"by_link_list": [
-					"https://ali3ndev.itch.io/",
-					"https://chaotune.itch.io/",
-					"https://that-sevvi.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 38,
-				"score": 3.645,
-				"ilscore": 99,
-				"submission_time_diff": -23167000
-			}
-		]
-	},
-	{
 		"jammer": "that-sevvi",
 		"jammer_link": "https://that-sevvi.itch.io/",
 		"game_list_sorted": [
@@ -586,7 +555,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 78,
 				"title": "Σ Γ Λ",
 				"title_link": "https://drdeadlock.itch.io/game-jam-125",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1902992",
@@ -751,7 +720,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "One and the same",
 				"title_link": "https://tpatall.itch.io/one-and-the-same",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634536",
@@ -919,7 +888,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Unadapt",
 				"title_link": "https://wesm.itch.io/unadapt",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634958",
@@ -1702,7 +1671,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Untitled space game (Gamejam Colors²)",
 				"title_link": "https://kiwithevth.itch.io/untitledspacegame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632902",
@@ -2020,7 +1989,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "The Bat's Echo",
 				"title_link": "https://codingtiger.itch.io/the-bats-echo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634996",
@@ -3019,7 +2988,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "DOTS (Jam-Version)",
 				"title_link": "https://shadyowl.itch.io/dots-jam-version",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634552",
@@ -3169,7 +3138,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Kubi Fighter",
 				"title_link": "https://andrey231.itch.io/kubi-fighter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632500",
@@ -3458,7 +3427,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Umbra - The darkness",
 				"title_link": "https://shubham-chandurkar.itch.io/umbra-the-darkness",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635010",
@@ -3662,6 +3631,33 @@
 				"score": 2.073,
 				"ilscore": 56,
 				"submission_time_diff": -16141000
+			}
+		]
+	},
+	{
+		"jammer": "MAKRORK",
+		"jammer_link": "https://makrork.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 214,
+				"title": "Summoner",
+				"title_link": "https://makrork.itch.io/summoner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609388",
+				"by_list": [
+					"MAKRORK"
+				],
+				"by_link_list": [
+					"https://makrork.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 3,
+				"score": 2.019,
+				"ilscore": 54,
+				"submission_time_diff": -12580000
 			}
 		]
 	}

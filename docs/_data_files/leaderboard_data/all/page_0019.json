@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "CrowG27",
-		"jammer_link": "https://crowg27.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Reuben",
-				"title_link": "https://crowg27.itch.io/reuben",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647146",
-				"by_list": [
-					"CrowG27"
-				],
-				"by_link_list": [
-					"https://crowg27.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 2,
-				"score": 1.72,
-				"ilscore": 33,
-				"submission_time_diff": -24880000
-			}
-		]
-	},
-	{
 		"jammer": "PanBan",
 		"jammer_link": "https://panban.itch.io/",
 		"game_list_sorted": [
@@ -251,7 +224,7 @@
 				"jam_id": 72,
 				"jam_name": "Adventure",
 				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "The revenant fox",
 				"title_link": "https://vivite.itch.io/the-revenant-fox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894194",
@@ -609,7 +582,7 @@
 				"jam_id": 72,
 				"jam_name": "Adventure",
 				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Snow Phantom",
 				"title_link": "https://voycawojka.itch.io/snow-phantom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/893819",
@@ -1407,7 +1380,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "Package Panic",
 				"title_link": "https://simplesystemsstudios.itch.io/package-panic",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020903",
@@ -2782,7 +2755,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 219,
+				"jam_vs": 217,
 				"title": "Oxigen Crisis on the Moon",
 				"title_link": "https://misterm.itch.io/oxigen-crisis-on-the-moon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019111",
@@ -3154,7 +3127,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 208,
+				"jam_vs": 207,
 				"title": "Somewhere Among The Clouds",
 				"title_link": "https://finn-truong.itch.io/somewhere-among-the-clouds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564045",
@@ -3466,6 +3439,35 @@
 				"score": 3.375,
 				"ilscore": 71,
 				"submission_time_diff": -7619000
+			}
+		]
+	},
+	{
+		"jammer": "inacho_",
+		"jammer_link": "https://iinacho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Quack!",
+				"title_link": "https://iinacho.itch.io/quack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672200",
+				"by_list": [
+					"inacho_",
+					"Ornelas"
+				],
+				"by_link_list": [
+					"https://iinacho.itch.io/",
+					"https://ornelas.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 36,
+				"score": 3.34,
+				"ilscore": 70,
+				"submission_time_diff": -1245000
 			}
 		]
 	}

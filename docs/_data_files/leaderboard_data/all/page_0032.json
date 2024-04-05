@@ -1,84 +1,5 @@
 [
 	{
-		"jammer": "Claratosaure",
-		"jammer_link": "https://claratosaure.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Big Sister",
-				"title_link": "https://fuegosuave.itch.io/big-sister",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912394",
-				"by_list": [
-					"fuegosuave",
-					"Bcraft",
-					"Claratosaure"
-				],
-				"by_link_list": [
-					"https://fuegosuave.itch.io/",
-					"https://bcraft128.itch.io/",
-					"https://claratosaure.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 5,
-				"score": 2.298,
-				"ilscore": 57,
-				"submission_time_diff": -19690000
-			}
-		]
-	},
-	{
-		"jammer": "Bernartik",
-		"jammer_link": "https://bernartik.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
-				"title": "Gifts for Fuschia",
-				"title_link": "https://bernartik.itch.io/gifts-for-fuschia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347684",
-				"by_list": [
-					"Bernartik"
-				],
-				"by_link_list": [
-					"https://bernartik.itch.io/"
-				],
-				"rank": 25,
-				"ratings": 14,
-				"score": 3.429,
-				"ilscore": 70,
-				"submission_time_diff": -12475000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Danger Charge",
-				"title_link": "https://bernartik.itch.io/danger-charge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912945",
-				"by_list": [
-					"Bernartik"
-				],
-				"by_link_list": [
-					"https://bernartik.itch.io/"
-				],
-				"rank": 130,
-				"ratings": 4,
-				"score": 2.293,
-				"ilscore": 57,
-				"submission_time_diff": -5315000
-			}
-		]
-	},
-	{
 		"jammer": "GE Games",
 		"jammer_link": "https://ge-games.itch.io/",
 		"game_list_sorted": [
@@ -3359,6 +3280,89 @@
 	{
 		"jammer": "Hugo Bailey",
 		"jammer_link": "https://euryalus.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Labyrinth Sprinter",
+				"title_link": "https://euryalus.itch.io/labyrinth-sprinter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930795",
+				"by_list": [
+					"Hugo Bailey",
+					"JamesSmaleDev",
+					"Adam James Veasey"
+				],
+				"by_link_list": [
+					"https://euryalus.itch.io/",
+					"https://jamessmaledev.itch.io/",
+					"https://adamjveasey.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 4,
+				"score": 1.679,
+				"ilscore": 30,
+				"submission_time_diff": -13879000
+			}
+		]
+	},
+	{
+		"jammer": "JamesSmaleDev",
+		"jammer_link": "https://jamessmaledev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Labyrinth Sprinter",
+				"title_link": "https://euryalus.itch.io/labyrinth-sprinter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930795",
+				"by_list": [
+					"Hugo Bailey",
+					"JamesSmaleDev",
+					"Adam James Veasey"
+				],
+				"by_link_list": [
+					"https://euryalus.itch.io/",
+					"https://jamessmaledev.itch.io/",
+					"https://adamjveasey.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 4,
+				"score": 1.679,
+				"ilscore": 30,
+				"submission_time_diff": -13879000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 112,
+				"title": "Death's Defiance",
+				"title_link": "https://jamessmaledev.itch.io/deaths-defiance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259343",
+				"by_list": [
+					"JamesSmaleDev"
+				],
+				"by_link_list": [
+					"https://jamessmaledev.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 3,
+				"score": 1.643,
+				"ilscore": 34,
+				"submission_time_diff": -2694000
+			}
+		]
+	},
+	{
+		"jammer": "Adam James Veasey",
+		"jammer_link": "https://adamjveasey.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

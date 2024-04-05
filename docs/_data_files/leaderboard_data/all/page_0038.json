@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "thebigplum",
-		"jammer_link": "https://thebigplum.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Kaeru",
-				"title_link": "https://thebigplum.itch.io/kaeru",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026008",
-				"by_list": [
-					"thebigplum"
-				],
-				"by_link_list": [
-					"https://thebigplum.itch.io/"
-				],
-				"rank": 167,
-				"ratings": 3,
-				"score": 1.917,
-				"ilscore": 49,
-				"submission_time_diff": -3445000
-			}
-		]
-	},
-	{
-		"jammer": "SBREN_SBEVE",
-		"jammer_link": "https://sbren-sbeve.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "PLAT - F",
-				"title_link": "https://sbren-sbeve.itch.io/plat-f",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025089",
-				"by_list": [
-					"SBREN_SBEVE"
-				],
-				"by_link_list": [
-					"https://sbren-sbeve.itch.io/"
-				],
-				"rank": 168,
-				"ratings": 6,
-				"score": 1.904,
-				"ilscore": 48,
-				"submission_time_diff": -39016000
-			}
-		]
-	},
-	{
 		"jammer": "Kammil",
 		"jammer_link": "https://kammil.itch.io/",
 		"game_list_sorted": [
@@ -3630,6 +3576,112 @@
 				"score": 2.44,
 				"ilscore": 56,
 				"submission_time_diff": -34025000
+			}
+		]
+	},
+	{
+		"jammer": "rahdnus",
+		"jammer_link": "https://rahdnus.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 116,
+				"jam_name": "Pocket Sized",
+				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
+				"jam_vs": 43,
+				"title": "Nano Escape",
+				"title_link": "https://rahdnus.itch.io/nano-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1729939",
+				"by_list": [
+					"rahdnus",
+					"synicon",
+					"Zahiri Shahri",
+					"timaza",
+					"Xenika",
+					"rtnman"
+				],
+				"by_link_list": [
+					"https://rahdnus.itch.io/",
+					"https://synicon.itch.io/",
+					"https://zahirishahri.itch.io/",
+					"https://timaza.itch.io/",
+					"https://xenika.itch.io/",
+					"https://rtnman.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 3,
+				"score": 2.298,
+				"ilscore": 31,
+				"submission_time_diff": -156000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 104,
+				"title": "8Beat",
+				"title_link": "https://rahdnus.itch.io/8beat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490363",
+				"by_list": [
+					"rahdnus"
+				],
+				"by_link_list": [
+					"https://rahdnus.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 3,
+				"score": 1.732,
+				"ilscore": 35,
+				"submission_time_diff": -10067000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "TestEscape_218",
+				"title_link": "https://rahdnus.itch.io/testescape-218",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044958",
+				"by_list": [
+					"rahdnus"
+				],
+				"by_link_list": [
+					"https://rahdnus.itch.io/"
+				],
+				"rank": 112,
+				"ratings": 4,
+				"score": 2.332,
+				"ilscore": 53,
+				"submission_time_diff": -4651000
+			}
+		]
+	},
+	{
+		"jammer": "righy",
+		"jammer_link": "https://righy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Catocalypse",
+				"title_link": "https://righy.itch.io/catocalypse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1041626",
+				"by_list": [
+					"righy"
+				],
+				"by_link_list": [
+					"https://righy.itch.io/"
+				],
+				"rank": 113,
+				"ratings": 8,
+				"score": 2.32,
+				"ilscore": 53,
+				"submission_time_diff": -138213000
 			}
 		]
 	}
