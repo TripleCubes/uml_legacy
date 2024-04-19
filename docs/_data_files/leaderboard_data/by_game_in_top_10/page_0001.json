@@ -368,11 +368,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448464",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster"
+					"Regular Sized Hamster"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/"
+					"https://regularsizedhamster.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 9,
@@ -391,12 +391,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469888",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster",
+					"Regular Sized Hamster",
 					"PixiVan"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/",
+					"https://regularsizedhamster.itch.io/",
 					"https://pixivan.itch.io/"
 				],
 				"rank": 3,
@@ -408,8 +408,8 @@
 		]
 	},
 	{
-		"jammer": "Busy Hamster",
-		"jammer_link": "https://busyhamster.itch.io/",
+		"jammer": "Regular Sized Hamster",
+		"jammer_link": "https://regularsizedhamster.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -422,11 +422,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448464",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster"
+					"Regular Sized Hamster"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/"
+					"https://regularsizedhamster.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 9,
@@ -445,12 +445,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469888",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster",
+					"Regular Sized Hamster",
 					"PixiVan"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/",
+					"https://regularsizedhamster.itch.io/",
 					"https://pixivan.itch.io/"
 				],
 				"rank": 3,
@@ -1359,7 +1359,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Chadowlands",
 				"title_link": "https://indieklem.itch.io/chadowlands",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956599",
@@ -1607,7 +1607,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Geronimo the Cat Slayer",
 				"title_link": "https://badpiggy.itch.io/geronimo-the-cat-slayer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955996",
@@ -1620,7 +1620,7 @@
 				"rank": 4,
 				"ratings": 30,
 				"score": 4.142,
-				"ilscore": 89,
+				"ilscore": 88,
 				"submission_time_diff": -31322000
 			}
 		]
@@ -1784,7 +1784,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Phasegate",
 				"title_link": "https://admiralento.itch.io/phasegate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672783",
@@ -2126,6 +2126,54 @@
 				"score": 3.543,
 				"ilscore": 48,
 				"submission_time_diff": -26441000
+			}
+		]
+	},
+	{
+		"jammer": "BACON BEAST",
+		"jammer_link": "https://bacon-beast.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 146,
+				"jam_name": "Windows",
+				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
+				"jam_vs": 57,
+				"title": "Dual Monitor Window Pong Rally",
+				"title_link": "https://bacon-beast.itch.io/dmwpr",
+				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2387229",
+				"by_list": [
+					"BACON BEAST"
+				],
+				"by_link_list": [
+					"https://bacon-beast.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 8,
+				"score": 3.906,
+				"ilscore": 60,
+				"submission_time_diff": -894000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Curse of the Mystical Mushroom",
+				"title_link": "https://bacon-beast.itch.io/curse-of-the-mystical-mushroom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2642863",
+				"by_list": [
+					"BACON BEAST"
+				],
+				"by_link_list": [
+					"https://bacon-beast.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 6,
+				"score": 3.75,
+				"ilscore": 73,
+				"submission_time_diff": -4837000
 			}
 		]
 	},
@@ -3072,8 +3120,8 @@
 		]
 	},
 	{
-		"jammer": "Hekla Björk Unnardóttir",
-		"jammer_link": "https://hekla.itch.io/",
+		"jammer": "Joy Deluxe",
+		"jammer_link": "https://joydeluxe.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3082,14 +3130,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
 				"jam_vs": 45,
 				"title": "Songs of Change",
-				"title_link": "https://hekla.itch.io/songs-of-change",
+				"title_link": "https://joydeluxe.itch.io/songs-of-change",
 				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402439",
 				"by_list": [
-					"Hekla Björk Unnardóttir",
+					"Joy Deluxe",
 					"Elyon"
 				],
 				"by_link_list": [
-					"https://hekla.itch.io/",
+					"https://joydeluxe.itch.io/",
 					"https://elyon.itch.io/"
 				],
 				"rank": 3,
@@ -3109,11 +3157,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583825",
 				"by_list": [
 					"Elyon",
-					"Hekla Björk Unnardóttir"
+					"Joy Deluxe"
 				],
 				"by_link_list": [
 					"https://elyon.itch.io/",
-					"https://hekla.itch.io/"
+					"https://joydeluxe.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 14,
@@ -4502,7 +4550,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -4917,7 +4965,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Color Collect",
 				"title_link": "https://chloethemonke.itch.io/color-collect",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633334",
@@ -4944,7 +4992,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Trip + Trap",
 				"title_link": "https://okai.itch.io/trip-trap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634474",
@@ -4957,7 +5005,7 @@
 				"rank": 1,
 				"ratings": 26,
 				"score": 4.423,
-				"ilscore": 147,
+				"ilscore": 148,
 				"submission_time_diff": -19495000
 			},
 			{
@@ -5174,54 +5222,6 @@
 				"score": 4,
 				"ilscore": 83,
 				"submission_time_diff": -50017000
-			}
-		]
-	},
-	{
-		"jammer": "Badcat Games",
-		"jammer_link": "https://teambadcat.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Harmony Dungeon",
-				"title_link": "https://teambadcat.itch.io/harmony-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1552907",
-				"by_list": [
-					"Badcat Games"
-				],
-				"by_link_list": [
-					"https://teambadcat.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 14,
-				"score": 3.946,
-				"ilscore": 77,
-				"submission_time_diff": 2888000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 138,
-				"title": "Miner's Way",
-				"title_link": "https://teambadcat.itch.io/miners-way",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591719",
-				"by_list": [
-					"Badcat Games"
-				],
-				"by_link_list": [
-					"https://teambadcat.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 14,
-				"score": 4.054,
-				"ilscore": 93,
-				"submission_time_diff": 58806000
 			}
 		]
 	}

@@ -1,5 +1,57 @@
 [
 	{
+		"jammer": "Doot",
+		"jammer_link": "https://dodoot.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 125,
+				"jam_name": "Signal",
+				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
+				"jam_vs": 78,
+				"title": "Muscle &amp; Tweet",
+				"title_link": "https://dodoot.itch.io/muscleandtweet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906456",
+				"by_list": [
+					"Doot",
+					"Dou_d",
+					"jeanremi"
+				],
+				"by_link_list": [
+					"https://dodoot.itch.io/",
+					"https://dou-d.itch.io/",
+					"https://jeanremi.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 26,
+				"score": 4.356,
+				"ilscore": 78,
+				"submission_time_diff": -10528000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 105,
+				"title": "Froggy's Battle - Jam",
+				"title_link": "https://dodoot.itch.io/froggys-battle-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1670824",
+				"by_list": [
+					"Doot"
+				],
+				"by_link_list": [
+					"https://dodoot.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 42,
+				"score": 4.292,
+				"ilscore": 88,
+				"submission_time_diff": -18020000
+			}
+		]
+	},
+	{
 		"jammer": "Denis_Grenier",
 		"jammer_link": "https://denis-grenier.itch.io/",
 		"game_list_sorted": [
@@ -306,11 +358,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448464",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster"
+					"Regular Sized Hamster"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/"
+					"https://regularsizedhamster.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 9,
@@ -329,12 +381,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469888",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster",
+					"Regular Sized Hamster",
 					"PixiVan"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/",
+					"https://regularsizedhamster.itch.io/",
 					"https://pixivan.itch.io/"
 				],
 				"rank": 3,
@@ -346,8 +398,8 @@
 		]
 	},
 	{
-		"jammer": "Busy Hamster",
-		"jammer_link": "https://busyhamster.itch.io/",
+		"jammer": "Regular Sized Hamster",
+		"jammer_link": "https://regularsizedhamster.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -360,11 +412,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448464",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster"
+					"Regular Sized Hamster"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/"
+					"https://regularsizedhamster.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 9,
@@ -383,12 +435,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469888",
 				"by_list": [
 					"Gearless",
-					"Busy Hamster",
+					"Regular Sized Hamster",
 					"PixiVan"
 				],
 				"by_link_list": [
 					"https://gearless-june.itch.io/",
-					"https://busyhamster.itch.io/",
+					"https://regularsizedhamster.itch.io/",
 					"https://pixivan.itch.io/"
 				],
 				"rank": 3,
@@ -1031,7 +1083,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Chadowlands",
 				"title_link": "https://indieklem.itch.io/chadowlands",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956599",
@@ -1360,7 +1412,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Phasegate",
 				"title_link": "https://admiralento.itch.io/phasegate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672783",
@@ -2232,8 +2284,8 @@
 		]
 	},
 	{
-		"jammer": "Hekla Björk Unnardóttir",
-		"jammer_link": "https://hekla.itch.io/",
+		"jammer": "Joy Deluxe",
+		"jammer_link": "https://joydeluxe.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2242,14 +2294,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
 				"jam_vs": 45,
 				"title": "Songs of Change",
-				"title_link": "https://hekla.itch.io/songs-of-change",
+				"title_link": "https://joydeluxe.itch.io/songs-of-change",
 				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402439",
 				"by_list": [
-					"Hekla Björk Unnardóttir",
+					"Joy Deluxe",
 					"Elyon"
 				],
 				"by_link_list": [
-					"https://hekla.itch.io/",
+					"https://joydeluxe.itch.io/",
 					"https://elyon.itch.io/"
 				],
 				"rank": 3,
@@ -2269,11 +2321,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583825",
 				"by_list": [
 					"Elyon",
-					"Hekla Björk Unnardóttir"
+					"Joy Deluxe"
 				],
 				"by_link_list": [
 					"https://elyon.itch.io/",
-					"https://hekla.itch.io/"
+					"https://joydeluxe.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 14,
@@ -3182,7 +3234,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -3451,7 +3503,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Color Collect",
 				"title_link": "https://chloethemonke.itch.io/color-collect",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633334",
@@ -3478,7 +3530,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Trip + Trap",
 				"title_link": "https://okai.itch.io/trip-trap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634474",
@@ -3491,7 +3543,7 @@
 				"rank": 1,
 				"ratings": 26,
 				"score": 4.423,
-				"ilscore": 147,
+				"ilscore": 148,
 				"submission_time_diff": -19495000
 			},
 			{
@@ -4657,7 +4709,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Curse of The Nekomancer",
 				"title_link": "https://zera-dev.itch.io/curse-of-the-nekomancer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632326",
@@ -4815,7 +4867,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Birthday Strike",
 				"title_link": "https://drakenaz.itch.io/birthday-strike",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673159",
@@ -5090,54 +5142,6 @@
 				"score": 3.464,
 				"ilscore": 32,
 				"submission_time_diff": -1246000
-			}
-		]
-	},
-	{
-		"jammer": "nev",
-		"jammer_link": "https://neverix.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 27,
-				"jam_name": "Celebration",
-				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
-				"jam_vs": 24,
-				"title": "Henhouse 1.5",
-				"title_link": "https://neverix.itch.io/henhouse-1-5",
-				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418105",
-				"by_list": [
-					"nev"
-				],
-				"by_link_list": [
-					"https://neverix.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 6,
-				"score": 3.083,
-				"ilscore": 30,
-				"submission_time_diff": -46823000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 34,
-				"jam_name": "Balance",
-				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
-				"jam_vs": 26,
-				"title": "The Two-Finger Pianist",
-				"title_link": "https://neverix.itch.io/tfp",
-				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/467425",
-				"by_list": [
-					"nev"
-				],
-				"by_link_list": [
-					"https://neverix.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 3.409,
-				"ilscore": 34,
-				"submission_time_diff": -30438000
 			}
 		]
 	}

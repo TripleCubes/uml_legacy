@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "Rhyickk",
+		"jammer_link": "https://rhyickk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 213,
+				"title": "Hell 9",
+				"title_link": "https://nathongols.itch.io/hell-9",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867049",
+				"by_list": [
+					"Nathongols",
+					"Rhyickk"
+				],
+				"by_link_list": [
+					"https://nathongols.itch.io/",
+					"https://rhyickk.itch.io/"
+				],
+				"rank": 167,
+				"ratings": 5,
+				"score": 1.838,
+				"ilscore": 49,
+				"submission_time_diff": -8298000
+			}
+		]
+	},
+	{
 		"jammer": "HitOrMissDev",
 		"jammer_link": "https://hitormissdev.itch.io/",
 		"game_list_sorted": [
@@ -1153,7 +1182,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "The Notes",
 				"title_link": "https://theboredkid.itch.io/the-notes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459875",
@@ -1336,7 +1365,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Cat Burglar",
 				"title_link": "https://rem23.itch.io/cat-burglar",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956602",
@@ -1940,7 +1969,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Munchkittens",
 				"title_link": "https://mintwatercolor.itch.io/munchkittens",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1954522",
@@ -3310,35 +3339,6 @@
 				"score": 2.694,
 				"ilscore": 57,
 				"submission_time_diff": -24938000
-			}
-		]
-	},
-	{
-		"jammer": "FloppyD",
-		"jammer_link": "https://floppyd.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
-				"title": "A Simple Game Where You Throw Cards Into A Furnace Until It Goes Out Or Explodes",
-				"title_link": "https://floppyd.itch.io/asgwytciafuigooe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889597",
-				"by_list": [
-					"FloppyD",
-					"LiquiQ"
-				],
-				"by_link_list": [
-					"https://floppyd.itch.io/",
-					"https://liquiq.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 3,
-				"score": 2.673,
-				"ilscore": 56,
-				"submission_time_diff": -15452000
 			}
 		]
 	}

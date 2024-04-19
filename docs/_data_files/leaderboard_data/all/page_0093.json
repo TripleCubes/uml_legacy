@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "CusoeCZ",
-		"jammer_link": "https://cusoecz.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
-				"title": "9 Lives in washing mashine",
-				"title_link": "https://cusoecz.itch.io/9-lives-in-washing-mashine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164425",
-				"by_list": [
-					"CusoeCZ"
-				],
-				"by_link_list": [
-					"https://cusoecz.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 5,
-				"score": 1.714,
-				"ilscore": 23,
-				"submission_time_diff": -230000
-			}
-		]
-	},
-	{
 		"jammer": "Hasenpartyyy",
 		"jammer_link": "https://hasenpartyyy.itch.io/",
 		"game_list_sorted": [
@@ -35,7 +8,7 @@
 				"jam_id": 136,
 				"jam_name": "Cycles",
 				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
+				"jam_vs": 43,
 				"title": "run Main",
 				"title_link": "https://hasenpartyyy.itch.io/mygame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2163909",
@@ -83,7 +56,7 @@
 				"jam_id": 136,
 				"jam_name": "Cycles",
 				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
+				"jam_vs": 43,
 				"title": "Pink Cycle hero",
 				"title_link": "https://bhatura.itch.io/pink-cycle-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164429",
@@ -98,6 +71,29 @@
 				"score": 1.354,
 				"ilscore": 18,
 				"submission_time_diff": -35000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Mess of Mushrooms",
+				"title_link": "https://bhatura.itch.io/mess-of-mushrooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646989",
+				"by_list": [
+					"bhatura",
+					"budgiemint"
+				],
+				"by_link_list": [
+					"https://bhatura.itch.io/",
+					"https://budgiemint.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 4,
+				"score": 2.347,
+				"ilscore": 45,
+				"submission_time_diff": 32236000
 			}
 		]
 	},
@@ -263,11 +259,32 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "The Loop - GBStyle Online",
+				"title_link": "https://ourdungeon.itch.io/minijam156-mushroom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2639909",
+				"by_list": [
+					"OURダンジョン"
+				],
+				"by_link_list": [
+					"https://ourdungeon.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 7,
+				"score": 3.393,
+				"ilscore": 66,
+				"submission_time_diff": -7673000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
 				"jam_vs": 97,
-				"title": "深い - WIP",
+				"title": "深い",
 				"title_link": "https://ourdungeon.itch.io/the-deep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512686",
 				"by_list": [
@@ -308,7 +325,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "√--/",
 				"title_link": "https://ourdungeon.itch.io/sanoyara",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459874",
@@ -449,8 +466,8 @@
 		]
 	},
 	{
-		"jammer": "AOllivierre",
-		"jammer_link": "https://aollivierre.itch.io/",
+		"jammer": "BardsGames",
+		"jammer_link": "https://bardsgames.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -459,13 +476,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
 				"jam_vs": 29,
 				"title": "Duk Duk ROW!",
-				"title_link": "https://aollivierre.itch.io/duk-duk-row",
+				"title_link": "https://bardsgames.itch.io/duk-duk-row",
 				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2184795",
 				"by_list": [
-					"AOllivierre"
+					"BardsGames"
 				],
 				"by_link_list": [
-					"https://aollivierre.itch.io/"
+					"https://bardsgames.itch.io/"
 				],
 				"rank": 17,
 				"ratings": 11,
@@ -2504,6 +2521,27 @@
 				"score": 3.018,
 				"ilscore": 39,
 				"submission_time_diff": -29110000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "En Route.",
+				"title_link": "https://krengdroid.itch.io/en-route",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646132",
+				"by_list": [
+					"krengdroid"
+				],
+				"by_link_list": [
+					"https://krengdroid.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 2,
+				"score": 1.804,
+				"ilscore": 35,
+				"submission_time_diff": -20088000
 			}
 		]
 	},
@@ -3052,7 +3090,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "Ancient Research",
 				"title_link": "https://tricodeyt.itch.io/ancient-research",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460055",
@@ -3094,6 +3132,33 @@
 				"score": 2.1,
 				"ilscore": 27,
 				"submission_time_diff": -1906000
+			}
+		]
+	},
+	{
+		"jammer": "OreoPlushie-dev",
+		"jammer_link": "https://oreoplushie-code.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Dungeon Clicker",
+				"title_link": "https://oreoplushie-code.itch.io/dungeon-clicker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247213",
+				"by_list": [
+					"OreoPlushie-dev"
+				],
+				"by_link_list": [
+					"https://oreoplushie-code.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 5,
+				"score": 1.689,
+				"ilscore": 21,
+				"submission_time_diff": -32723000
 			}
 		]
 	}

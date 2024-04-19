@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "OreoPlushie-dev",
-		"jammer_link": "https://oreoplushie-code.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
-				"title": "Dungeon Clicker",
-				"title_link": "https://oreoplushie-code.itch.io/dungeon-clicker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247213",
-				"by_list": [
-					"OreoPlushie-dev"
-				],
-				"by_link_list": [
-					"https://oreoplushie-code.itch.io/"
-				],
-				"rank": 37,
-				"ratings": 5,
-				"score": 1.689,
-				"ilscore": 21,
-				"submission_time_diff": -32723000
-			}
-		]
-	},
-	{
 		"jammer": "In Haze Games",
 		"jammer_link": "https://in-haze.itch.io/",
 		"game_list_sorted": [
@@ -175,7 +148,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 207,
+				"jam_vs": 206,
 				"title": "Lake Vanish",
 				"title_link": "https://jnwjchannel.itch.io/lake-vanish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560363",
@@ -188,7 +161,7 @@
 				"rank": 54,
 				"ratings": 61,
 				"score": 3.389,
-				"ilscore": 91,
+				"ilscore": 90,
 				"submission_time_diff": -33527000
 			}
 		]
@@ -3626,6 +3599,33 @@
 				"score": 2.373,
 				"ilscore": 38,
 				"submission_time_diff": -1293000
+			}
+		]
+	},
+	{
+		"jammer": "Lobster",
+		"jammer_link": "https://lobster-1.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"jam_vs": 63,
+				"title": "Inker",
+				"title_link": "https://lobster-1.itch.io/inker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315794",
+				"by_list": [
+					"Lobster"
+				],
+				"by_link_list": [
+					"https://lobster-1.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 5,
+				"score": 2.373,
+				"ilscore": 38,
+				"submission_time_diff": -383000
 			}
 		]
 	}

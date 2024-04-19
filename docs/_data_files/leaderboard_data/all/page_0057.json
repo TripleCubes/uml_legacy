@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "DoloDev",
+		"jammer_link": "https://dolodev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Last Stand",
+				"title_link": "https://dolodev.itch.io/last-stand",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409926",
+				"by_list": [
+					"DoloDev"
+				],
+				"by_link_list": [
+					"https://dolodev.itch.io/"
+				],
+				"rank": 158,
+				"ratings": 3,
+				"score": 1.735,
+				"ilscore": 42,
+				"submission_time_diff": -4000
+			}
+		]
+	},
+	{
 		"jammer": "Guigger",
 		"jammer_link": "https://guigger.itch.io/",
 		"game_list_sorted": [
@@ -1313,7 +1340,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Bees and Fireflies",
 				"title_link": "https://willemh.itch.io/beesandfireflies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632636",
@@ -3135,7 +3162,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "magicat",
 				"title_link": "https://cubic-the-cumbe.itch.io/magicat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1957533",
@@ -3448,9 +3475,30 @@
 		]
 	},
 	{
-		"jammer": "dreamscapemansion",
+		"jammer": "Dreamscape Mansion",
 		"jammer_link": "https://dreamscapemansion.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Tincture!",
+				"title_link": "https://dreamscapemansion.itch.io/tincture",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646135",
+				"by_list": [
+					"Dreamscape Mansion"
+				],
+				"by_link_list": [
+					"https://dreamscapemansion.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 5,
+				"score": 2.83,
+				"ilscore": 55,
+				"submission_time_diff": -15911000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 101,
@@ -3461,7 +3509,7 @@
 				"title_link": "https://dreamscapemansion.itch.io/the-escape-key",
 				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431594",
 				"by_list": [
-					"dreamscapemansion"
+					"Dreamscape Mansion"
 				],
 				"by_link_list": [
 					"https://dreamscapemansion.itch.io/"
@@ -3633,33 +3681,6 @@
 				"score": 1.944,
 				"ilscore": 45,
 				"submission_time_diff": -12000
-			}
-		]
-	},
-	{
-		"jammer": "Der_tolle_Dude",
-		"jammer_link": "https://der-tolle-dude.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Dark Lights",
-				"title_link": "https://der-tolle-dude.itch.io/dark-lights",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1429206",
-				"by_list": [
-					"Der_tolle_Dude"
-				],
-				"by_link_list": [
-					"https://der-tolle-dude.itch.io/"
-				],
-				"rank": 116,
-				"ratings": 6,
-				"score": 1.905,
-				"ilscore": 44,
-				"submission_time_diff": -21614000
 			}
 		]
 	}

@@ -270,7 +270,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "Runeshot",
 				"title_link": "https://ilynn.itch.io/runeshot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459617",
@@ -291,7 +291,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Copy TV - minijam 111",
 				"title_link": "https://ilynn.itch.io/copy-tv-minijam-111",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634294",
@@ -1328,7 +1328,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Feline Frenzy",
 				"title_link": "https://cyber-squib.itch.io/feline-frenzy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956543",
@@ -1341,7 +1341,7 @@
 				"rank": 10,
 				"ratings": 17,
 				"score": 4.044,
-				"ilscore": 87,
+				"ilscore": 86,
 				"submission_time_diff": -7530000
 			},
 			{
@@ -1542,7 +1542,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 207,
+				"jam_vs": 206,
 				"title": "Super Rush",
 				"title_link": "https://cyber-squib.itch.io/super-rush",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562966",
@@ -2009,10 +2009,41 @@
 				"title_link": "https://async-fish.itch.io/be-good",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347679",
 				"by_list": [
-					"Fish"
+					"Fish",
+					"mumusen"
 				],
 				"by_link_list": [
-					"https://async-fish.itch.io/"
+					"https://async-fish.itch.io/",
+					"https://mumusen.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 6,
+				"score": 2.74,
+				"ilscore": 56,
+				"submission_time_diff": -583000
+			}
+		]
+	},
+	{
+		"jammer": "mumusen",
+		"jammer_link": "https://mumusen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 107,
+				"title": "Be Good",
+				"title_link": "https://async-fish.itch.io/be-good",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347679",
+				"by_list": [
+					"Fish",
+					"mumusen"
+				],
+				"by_link_list": [
+					"https://async-fish.itch.io/",
+					"https://mumusen.itch.io/"
 				],
 				"rank": 64,
 				"ratings": 6,
@@ -3353,7 +3384,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Cat Catastrophe",
 				"title_link": "https://kadby.itch.io/cat-catastrophe",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956146",
@@ -3497,7 +3528,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Hard souls",
 				"title_link": "https://neocybercat.itch.io/hard-souls",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633657",
@@ -3661,7 +3692,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Timelooper",
 				"title_link": "https://benjames171.itch.io/timelooper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634006",
@@ -4067,54 +4098,6 @@
 				"score": 3.571,
 				"ilscore": 76,
 				"submission_time_diff": -7000
-			}
-		]
-	},
-	{
-		"jammer": "FryDev",
-		"jammer_link": "https://frydev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "Suck, Suck, Ghost",
-				"title_link": "https://frydev.itch.io/suck-suck-ghost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366100",
-				"by_list": [
-					"FryDev"
-				],
-				"by_link_list": [
-					"https://frydev.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 18,
-				"score": 3.569,
-				"ilscore": 76,
-				"submission_time_diff": -3632000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Charge Barrage",
-				"title_link": "https://frydev.itch.io/charge-barrage",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409525",
-				"by_list": [
-					"FryDev"
-				],
-				"by_link_list": [
-					"https://frydev.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 22,
-				"score": 3.08,
-				"ilscore": 75,
-				"submission_time_diff": -42000
 			}
 		]
 	}

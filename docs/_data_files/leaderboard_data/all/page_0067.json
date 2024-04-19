@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "ganglyimp",
+		"jammer_link": "https://ganglyimp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 138,
+				"title": "MeatYourMaker",
+				"title_link": "https://birdcat-nate.itch.io/meatyourmaker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1589418",
+				"by_list": [
+					"BirdCat Nate",
+					"Cristian",
+					"ganglyimp"
+				],
+				"by_link_list": [
+					"https://birdcat-nate.itch.io/",
+					"https://cristian-villaran.itch.io/",
+					"https://ganglyimp.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 8,
+				"score": 3.656,
+				"ilscore": 83,
+				"submission_time_diff": -548000
+			}
+		]
+	},
+	{
 		"jammer": "Tofi",
 		"jammer_link": "https://tofi-dev.itch.io/",
 		"game_list_sorted": [
@@ -29,7 +60,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Robot TimeBomb",
 				"title_link": "https://tofi-dev.itch.io/robot-timebomb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634706",
@@ -785,7 +816,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 386,
 				"title": "Out of Ink",
 				"title_link": "https://randomhuman97.itch.io/out-of-ink",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634459",
@@ -1074,7 +1105,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Nyan-chan Does Rhythym",
 				"title_link": "https://macleodian.itch.io/nyan-chan-does-rhythym",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956622",
@@ -1087,7 +1118,7 @@
 				"rank": 64,
 				"ratings": 7,
 				"score": 2.839,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -132000
 			},
 			{
@@ -2766,7 +2797,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 207,
+				"jam_vs": 206,
 				"title": "Carpin' Around",
 				"title_link": "https://filipex2000.itch.io/carpin-around",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563580",
@@ -2945,7 +2976,7 @@
 				"jam_id": 136,
 				"jam_name": "Cycles",
 				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 44,
+				"jam_vs": 43,
 				"title": "Sock Quest III: Remastered Edition",
 				"title_link": "https://thejamark1.itch.io/sockquest3remastered",
 				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2151538",
@@ -3294,7 +3325,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Combobulate",
 				"title_link": "https://thejackofclubs.itch.io/combobulate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672310",
@@ -3422,37 +3453,6 @@
 				"score": 3.659,
 				"ilscore": 99,
 				"submission_time_diff": -6868000
-			}
-		]
-	},
-	{
-		"jammer": "chaotune",
-		"jammer_link": "https://chaotune.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Nine Lives",
-				"title_link": "https://ali3ndev.itch.io/nine-lives",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608495",
-				"by_list": [
-					"ali3n",
-					"chaotune",
-					"that-sevvi"
-				],
-				"by_link_list": [
-					"https://ali3ndev.itch.io/",
-					"https://chaotune.itch.io/",
-					"https://that-sevvi.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 38,
-				"score": 3.645,
-				"ilscore": 99,
-				"submission_time_diff": -23167000
 			}
 		]
 	}

@@ -832,14 +832,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
 				"jam_vs": 213,
 				"title": "Fluffy Climb Ball",
-				"title_link": "https://from-the-bottom-games.itch.io/fluffy-climb-ball",
+				"title_link": "https://from-the-bottom.itch.io/fluffy-climb-ball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869394",
 				"by_list": [
-					"From The Bottom Games",
+					"From The Bottom",
 					"Enzitoc"
 				],
 				"by_link_list": [
-					"https://from-the-bottom-games.itch.io/",
+					"https://from-the-bottom.itch.io/",
 					"https://enzitoc.itch.io/"
 				],
 				"rank": 70,
@@ -1613,7 +1613,7 @@
 				"jam_id": 146,
 				"jam_name": "Windows",
 				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Synchronous",
 				"title_link": "https://kostra.itch.io/synchronous",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389184",
@@ -1770,7 +1770,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 159,
+				"jam_vs": 158,
 				"title": "Gaia",
 				"title_link": "https://farmdogs.itch.io/gaia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2461357",
@@ -1783,7 +1783,7 @@
 				"rank": 60,
 				"ratings": 8,
 				"score": 3.094,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": 59272000
 			},
 			{
@@ -2059,7 +2059,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Pod-Cat !",
 				"title_link": "https://taxidermysoldier.itch.io/kitty-gotchi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1953734",
@@ -2113,11 +2113,13 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869019",
 				"by_list": [
 					"Marcus Maier",
-					"Mr.Soooup"
+					"Mr.Soooup",
+					"hghjgfjgf"
 				],
 				"by_link_list": [
 					"https://marcus-maier.itch.io/",
-					"https://mrsoooup.itch.io/"
+					"https://mrsoooup.itch.io/",
+					"https://hghjgfjgf.itch.io/"
 				],
 				"rank": 122,
 				"ratings": 4,
@@ -2142,11 +2144,44 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869019",
 				"by_list": [
 					"Marcus Maier",
-					"Mr.Soooup"
+					"Mr.Soooup",
+					"hghjgfjgf"
 				],
 				"by_link_list": [
 					"https://marcus-maier.itch.io/",
-					"https://mrsoooup.itch.io/"
+					"https://mrsoooup.itch.io/",
+					"https://hghjgfjgf.itch.io/"
+				],
+				"rank": 122,
+				"ratings": 4,
+				"score": 2.53,
+				"ilscore": 68,
+				"submission_time_diff": -18685000
+			}
+		]
+	},
+	{
+		"jammer": "hghjgfjgf",
+		"jammer_link": "https://hghjgfjgf.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 213,
+				"title": "InterWeb",
+				"title_link": "https://marcus-maier.itch.io/interweb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869019",
+				"by_list": [
+					"Marcus Maier",
+					"Mr.Soooup",
+					"hghjgfjgf"
+				],
+				"by_link_list": [
+					"https://marcus-maier.itch.io/",
+					"https://mrsoooup.itch.io/",
+					"https://hghjgfjgf.itch.io/"
 				],
 				"rank": 122,
 				"ratings": 4,
@@ -2409,10 +2444,37 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Mushhoom Loop",
+				"title_link": "https://thebestmrand.itch.io/mushhoom-loop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646905",
+				"by_list": [
+					"TheBestMrand",
+					"Getsometea",
+					"silenceremember",
+					"R0MF"
+				],
+				"by_link_list": [
+					"https://thebestmrand.itch.io/",
+					"https://getsometea.itch.io/",
+					"https://silenceremember.itch.io/",
+					"https://r0mf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 3.143,
+				"ilscore": 61,
+				"submission_time_diff": -8000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 146,
 				"jam_name": "Windows",
 				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Bob the time agent",
 				"title_link": "https://thebestmrand.itch.io/bob-the-time-agent",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2391019",
@@ -2429,7 +2491,7 @@
 				"rank": 43,
 				"ratings": 3,
 				"score": 2.237,
-				"ilscore": 35,
+				"ilscore": 34,
 				"submission_time_diff": 69785000
 			},
 			{
@@ -2525,6 +2587,33 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Mushhoom Loop",
+				"title_link": "https://thebestmrand.itch.io/mushhoom-loop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646905",
+				"by_list": [
+					"TheBestMrand",
+					"Getsometea",
+					"silenceremember",
+					"R0MF"
+				],
+				"by_link_list": [
+					"https://thebestmrand.itch.io/",
+					"https://getsometea.itch.io/",
+					"https://silenceremember.itch.io/",
+					"https://r0mf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 3.143,
+				"ilscore": 61,
+				"submission_time_diff": -8000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
@@ -2616,10 +2705,37 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Mushhoom Loop",
+				"title_link": "https://thebestmrand.itch.io/mushhoom-loop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646905",
+				"by_list": [
+					"TheBestMrand",
+					"Getsometea",
+					"silenceremember",
+					"R0MF"
+				],
+				"by_link_list": [
+					"https://thebestmrand.itch.io/",
+					"https://getsometea.itch.io/",
+					"https://silenceremember.itch.io/",
+					"https://r0mf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 3.143,
+				"ilscore": 61,
+				"submission_time_diff": -8000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 146,
 				"jam_name": "Windows",
 				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Bob the time agent",
 				"title_link": "https://thebestmrand.itch.io/bob-the-time-agent",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2391019",
@@ -2636,7 +2752,7 @@
 				"rank": 43,
 				"ratings": 3,
 				"score": 2.237,
-				"ilscore": 35,
+				"ilscore": 34,
 				"submission_time_diff": 69785000
 			},
 			{
@@ -2732,10 +2848,37 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 94,
+				"title": "Mushhoom Loop",
+				"title_link": "https://thebestmrand.itch.io/mushhoom-loop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646905",
+				"by_list": [
+					"TheBestMrand",
+					"Getsometea",
+					"silenceremember",
+					"R0MF"
+				],
+				"by_link_list": [
+					"https://thebestmrand.itch.io/",
+					"https://getsometea.itch.io/",
+					"https://silenceremember.itch.io/",
+					"https://r0mf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 3.143,
+				"ilscore": 61,
+				"submission_time_diff": -8000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 146,
 				"jam_name": "Windows",
 				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Bob the time agent",
 				"title_link": "https://thebestmrand.itch.io/bob-the-time-agent",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2391019",
@@ -2752,7 +2895,7 @@
 				"rank": 43,
 				"ratings": 3,
 				"score": 2.237,
-				"ilscore": 35,
+				"ilscore": 34,
 				"submission_time_diff": 69785000
 			},
 			{
@@ -2922,7 +3065,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "The Cats Realm",
 				"title_link": "https://luks753.itch.io/the-cats-realm",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956695",
@@ -3444,35 +3587,6 @@
 	{
 		"jammer": "Nathongols",
 		"jammer_link": "https://nathongols.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 213,
-				"title": "Hell 9",
-				"title_link": "https://nathongols.itch.io/hell-9",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867049",
-				"by_list": [
-					"Nathongols",
-					"Rhyickk"
-				],
-				"by_link_list": [
-					"https://nathongols.itch.io/",
-					"https://rhyickk.itch.io/"
-				],
-				"rank": 167,
-				"ratings": 5,
-				"score": 1.838,
-				"ilscore": 49,
-				"submission_time_diff": -8298000
-			}
-		]
-	},
-	{
-		"jammer": "Rhyickk",
-		"jammer_link": "https://rhyickk.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
