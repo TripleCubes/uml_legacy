@@ -1,5 +1,59 @@
 [
 	{
+		"jammer": "blek",
+		"jammer_link": "https://blek.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Starving Sniper",
+				"title_link": "https://blek.itch.io/starving-sniper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672037",
+				"by_list": [
+					"blek"
+				],
+				"by_link_list": [
+					"https://blek.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 34,
+				"score": 3.956,
+				"ilscore": 83,
+				"submission_time_diff": -17499000
+			}
+		]
+	},
+	{
+		"jammer": "Flyber",
+		"jammer_link": "https://flyber.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 10,
+				"jam_name": "Micro",
+				"jam_link": "https://itch.io/jam/mini-jam-10-micro-",
+				"jam_vs": 22,
+				"title": "ant the ants",
+				"title_link": "https://flyber.itch.io/ant-the-ants",
+				"submission_page_link": "https://itch.io/jam/mini-jam-10-micro-/rate/303774",
+				"by_list": [
+					"Flyber"
+				],
+				"by_link_list": [
+					"https://flyber.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 3.905,
+				"ilscore": 36,
+				"submission_time_diff": -20628000
+			}
+		]
+	},
+	{
 		"jammer": "DevNugget",
 		"jammer_link": "https://devnugget.itch.io/",
 		"game_list_sorted": [
@@ -367,7 +421,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 285,
+				"jam_vs": 284,
 				"title": "Chefrog",
 				"title_link": "https://faunagames.itch.io/chefrog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532708",
@@ -421,7 +475,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 47,
+				"jam_vs": 45,
 				"title": "Knight Diana and the Dungeon of the Fire Spewing Skeletons",
 				"title_link": "https://luismoreira.itch.io/knight-diana-and-the-dungeon-of-the-fire-spewing-skeletons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536588",
@@ -434,7 +488,7 @@
 				"rank": 2,
 				"ratings": 32,
 				"score": 4.414,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": -41309000
 			}
 		]
@@ -713,6 +767,35 @@
 		]
 	},
 	{
+		"jammer": "MauricioH97",
+		"jammer_link": "https://mauricioh97.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Express Electrical Emergencies",
+				"title_link": "https://olanti.itch.io/express-electrical-emergencies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676111",
+				"by_list": [
+					"Olanti",
+					"MauricioH97"
+				],
+				"by_link_list": [
+					"https://olanti.itch.io/",
+					"https://mauricioh97.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 17,
+				"score": 4.353,
+				"ilscore": 94,
+				"submission_time_diff": -207000
+			}
+		]
+	},
+	{
 		"jammer": "FreshBone",
 		"jammer_link": "https://freshbone.itch.io/",
 		"game_list_sorted": [
@@ -779,7 +862,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 97,
+				"jam_vs": 95,
 				"title": "Dragon Hoarder",
 				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
@@ -792,7 +875,7 @@
 				"rank": 2,
 				"ratings": 14,
 				"score": 4.321,
-				"ilscore": 85,
+				"ilscore": 84,
 				"submission_time_diff": -33447000
 			}
 		]
@@ -833,7 +916,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Carpin' Around",
 				"title_link": "https://filipex2000.itch.io/carpin-around",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563580",
@@ -1106,7 +1189,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 213,
+				"jam_vs": 211,
 				"title": "Web Journey",
 				"title_link": "https://pakodev.itch.io/web-journey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869405",
@@ -1160,7 +1243,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 158,
+				"jam_vs": 156,
 				"title": "Ancient Misunderstanding",
 				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
@@ -1303,7 +1386,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 188,
+				"jam_vs": 187,
 				"title": "Haunted Shotgun",
 				"title_link": "https://wack13.itch.io/haunted-shotgun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748899",
@@ -1316,7 +1399,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 4.207,
-				"ilscore": 109,
+				"ilscore": 108,
 				"submission_time_diff": -40827000
 			}
 		]
@@ -1552,8 +1635,8 @@
 		]
 	},
 	{
-		"jammer": "Hollow Neko",
-		"jammer_link": "https://hollow-neko.itch.io/",
+		"jammer": "hollow_art",
+		"jammer_link": "https://hollow-art.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1562,14 +1645,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
 				"jam_vs": 112,
 				"title": "Memento Mori",
-				"title_link": "https://hollow-neko.itch.io/memento-mori",
+				"title_link": "https://hollow-art.itch.io/memento-mori",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258933",
 				"by_list": [
-					"Hollow Neko",
+					"hollow_art",
 					"Elvendwarf"
 				],
 				"by_link_list": [
-					"https://hollow-neko.itch.io/",
+					"https://hollow-art.itch.io/",
 					"https://elvendwarf.itch.io/"
 				],
 				"rank": 2,
@@ -1724,7 +1807,7 @@
 				"jam_id": 147,
 				"jam_name": "Cinema",
 				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 41,
+				"jam_vs": 40,
 				"title": "Clappy",
 				"title_link": "https://breckheck.itch.io/clappy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2414972",
@@ -1737,7 +1820,7 @@
 				"rank": 2,
 				"ratings": 15,
 				"score": 4.133,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -36863000
 			}
 		]
@@ -1832,7 +1915,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Lunar 10",
 				"title_link": "https://r1gby-games.itch.io/lunar-10",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
@@ -1886,7 +1969,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Wind Of Change",
 				"title_link": "https://pixemisti.itch.io/wind-of-change",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617783",
@@ -1994,7 +2077,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
+				"jam_vs": 90,
 				"title": "Trapped spore",
 				"title_link": "https://greekdev137.itch.io/trapped-spore",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646798",
@@ -2007,7 +2090,7 @@
 				"rank": 2,
 				"ratings": 11,
 				"score": 4.068,
-				"ilscore": 79,
+				"ilscore": 78,
 				"submission_time_diff": 32206000
 			}
 		]
@@ -2048,7 +2131,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "ROCKBOTTOM HERO",
 				"title_link": "https://megamelone.itch.io/rockbottom-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440732",
@@ -2063,7 +2146,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.047,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": -420000
 			}
 		]
@@ -2077,7 +2160,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "ROCKBOTTOM HERO",
 				"title_link": "https://megamelone.itch.io/rockbottom-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440732",
@@ -2092,7 +2175,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.047,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": -420000
 			}
 		]
@@ -2783,95 +2866,6 @@
 				"score": 3.909,
 				"ilscore": 60,
 				"submission_time_diff": -1357000
-			}
-		]
-	},
-	{
-		"jammer": "PixelPanda",
-		"jammer_link": "https://pixpnd.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"jam_vs": 29,
-				"title": "No Brakez",
-				"title_link": "https://pixpnd.itch.io/no-brakez",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185600",
-				"by_list": [
-					"PixelPanda"
-				],
-				"by_link_list": [
-					"https://pixpnd.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 12,
-				"score": 3.896,
-				"ilscore": 42,
-				"submission_time_diff": -6746000
-			}
-		]
-	},
-	{
-		"jammer": "Munro",
-		"jammer_link": "https://munro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 61,
-				"jam_name": "Ancient Egypt",
-				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
-				"title": "UFO: Scorpion's Curse",
-				"title_link": "https://munro.itch.io/ufo-pyramid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
-				"by_list": [
-					"Munro",
-					"Onygox",
-					"jmmusic"
-				],
-				"by_link_list": [
-					"https://munro.itch.io/",
-					"https://onygox.itch.io/",
-					"https://jmmusic.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 16,
-				"score": 3.891,
-				"ilscore": 56,
-				"submission_time_diff": -25977000
-			}
-		]
-	},
-	{
-		"jammer": "Onygox",
-		"jammer_link": "https://onygox.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 61,
-				"jam_name": "Ancient Egypt",
-				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
-				"title": "UFO: Scorpion's Curse",
-				"title_link": "https://munro.itch.io/ufo-pyramid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
-				"by_list": [
-					"Munro",
-					"Onygox",
-					"jmmusic"
-				],
-				"by_link_list": [
-					"https://munro.itch.io/",
-					"https://onygox.itch.io/",
-					"https://jmmusic.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 16,
-				"score": 3.891,
-				"ilscore": 56,
-				"submission_time_diff": -25977000
 			}
 		]
 	}

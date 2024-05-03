@@ -1,5 +1,94 @@
 [
 	{
+		"jammer": "Florian Launay",
+		"jammer_link": "https://florianl.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Métro, boulot, dodo",
+				"title_link": "https://cleofnt.itch.io/metro-boulot-dodo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407207",
+				"by_list": [
+					"Cléo Fontaine",
+					"Florian Launay",
+					"Purring Campfire"
+				],
+				"by_link_list": [
+					"https://cleofnt.itch.io/",
+					"https://florianl.itch.io/",
+					"https://purringcampfire.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 4.26,
+				"ilscore": 104,
+				"submission_time_diff": -20000
+			}
+		]
+	},
+	{
+		"jammer": "Purring Campfire",
+		"jammer_link": "https://purringcampfire.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Métro, boulot, dodo",
+				"title_link": "https://cleofnt.itch.io/metro-boulot-dodo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407207",
+				"by_list": [
+					"Cléo Fontaine",
+					"Florian Launay",
+					"Purring Campfire"
+				],
+				"by_link_list": [
+					"https://cleofnt.itch.io/",
+					"https://florianl.itch.io/",
+					"https://purringcampfire.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 4.26,
+				"ilscore": 104,
+				"submission_time_diff": -20000
+			}
+		]
+	},
+	{
+		"jammer": "JaxStutz",
+		"jammer_link": "https://jaxstutz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 386,
+				"title": "Sink",
+				"title_link": "https://jaxstutz.itch.io/sink",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635047",
+				"by_list": [
+					"JaxStutz"
+				],
+				"by_link_list": [
+					"https://jaxstutz.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 4.25,
+				"ilscore": 142,
+				"submission_time_diff": 2222000
+			}
+		]
+	},
+	{
 		"jammer": "NoonSense",
 		"jammer_link": "https://noonsense.itch.io/",
 		"game_list_sorted": [
@@ -166,6 +255,33 @@
 		]
 	},
 	{
+		"jammer": "Kak's",
+		"jammer_link": "https://kaks.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Circuit Rush",
+				"title_link": "https://kaks.itch.io/circuit-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674292",
+				"by_list": [
+					"Kak's"
+				],
+				"by_link_list": [
+					"https://kaks.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 12,
+				"score": 4.146,
+				"ilscore": 90,
+				"submission_time_diff": -35871000
+			}
+		]
+	},
+	{
 		"jammer": "GC95000",
 		"jammer_link": "https://gc95000.itch.io/",
 		"game_list_sorted": [
@@ -228,7 +344,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 47,
+				"jam_vs": 45,
 				"title": "Wizard Battle",
 				"title_link": "https://aran-makes-games.itch.io/wizard-battle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2534904",
@@ -243,7 +359,7 @@
 				"rank": 5,
 				"ratings": 24,
 				"score": 4.104,
-				"ilscore": 58,
+				"ilscore": 56,
 				"submission_time_diff": -18713000
 			}
 		]
@@ -257,7 +373,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 47,
+				"jam_vs": 45,
 				"title": "Wizard Battle",
 				"title_link": "https://aran-makes-games.itch.io/wizard-battle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2534904",
@@ -272,7 +388,7 @@
 				"rank": 5,
 				"ratings": 24,
 				"score": 4.104,
-				"ilscore": 58,
+				"ilscore": 56,
 				"submission_time_diff": -18713000
 			}
 		]
@@ -367,7 +483,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 158,
+				"jam_vs": 156,
 				"title": "Ancient Song",
 				"title_link": "https://piroporopi.itch.io/ancient-song",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459536",
@@ -380,7 +496,7 @@
 				"rank": 5,
 				"ratings": 33,
 				"score": 4.091,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -21840000
 			}
 		]
@@ -845,7 +961,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -878,7 +994,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -911,7 +1027,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -944,7 +1060,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1085,7 +1201,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 188,
+				"jam_vs": 187,
 				"title": "Ghost Revenge",
 				"title_link": "https://ghmr.itch.io/ghost-revenge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750029",
@@ -1098,7 +1214,7 @@
 				"rank": 5,
 				"ratings": 26,
 				"score": 4.019,
-				"ilscore": 104,
+				"ilscore": 103,
 				"submission_time_diff": -878000
 			}
 		]
@@ -1501,7 +1617,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Little Luna",
 				"title_link": "https://in-aeviternum.itch.io/little-luna",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021066",
@@ -1514,7 +1630,7 @@
 				"rank": 5,
 				"ratings": 49,
 				"score": 3.954,
-				"ilscore": 108,
+				"ilscore": 107,
 				"submission_time_diff": -526000
 			}
 		]
@@ -2091,7 +2207,7 @@
 				"jam_id": 147,
 				"jam_name": "Cinema",
 				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 41,
+				"jam_vs": 40,
 				"title": "Windmill Slam",
 				"title_link": "https://tavoe.itch.io/windmillslam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2416254",
@@ -2104,7 +2220,7 @@
 				"rank": 5,
 				"ratings": 7,
 				"score": 3.821,
-				"ilscore": 50,
+				"ilscore": 49,
 				"submission_time_diff": 40171000
 			}
 		]
@@ -2118,7 +2234,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
+				"jam_vs": 90,
 				"title": "Psilo's Schism - SUPER CYBIN EDITION",
 				"title_link": "https://jadc.itch.io/psilos-schism",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646318",
@@ -2131,7 +2247,7 @@
 				"rank": 5,
 				"ratings": 13,
 				"score": 3.808,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -1383000
 			}
 		]
@@ -2566,7 +2682,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "Line Puzzle",
 				"title_link": "https://gaboisleno.itch.io/line-puzzle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437610",
@@ -2579,7 +2695,7 @@
 				"rank": 5,
 				"ratings": 27,
 				"score": 3.694,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -48868000
 			}
 		]
@@ -2794,162 +2910,6 @@
 				"score": 3.667,
 				"ilscore": 34,
 				"submission_time_diff": -37120000
-			}
-		]
-	},
-	{
-		"jammer": "OURダンジョン",
-		"jammer_link": "https://ourdungeon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"jam_vs": 29,
-				"title": "未知なるもの",
-				"title_link": "https://ourdungeon.itch.io/michi-naru-mono",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2182038",
-				"by_list": [
-					"OURダンジョン"
-				],
-				"by_link_list": [
-					"https://ourdungeon.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 3.654,
-				"ilscore": 39,
-				"submission_time_diff": -13259000
-			}
-		]
-	},
-	{
-		"jammer": "Grimoire Games",
-		"jammer_link": "https://grimoire-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 81,
-				"jam_name": "Kaiju",
-				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
-				"title": "KAI U",
-				"title_link": "https://grimoire-games.itch.io/kai-u",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
-				"by_list": [
-					"Grimoire Games",
-					"Say.say9",
-					"HassanHellm",
-					"drolejan",
-					"Andrew2115",
-					"NanisZamora",
-					"MrUltraEnder",
-					"Kinckich",
-					"PachucoAtomico"
-				],
-				"by_link_list": [
-					"https://grimoire-games.itch.io/",
-					"https://saysay9.itch.io/",
-					"https://hassanhellm.itch.io/",
-					"https://drolejan.itch.io/",
-					"https://andrew2115.itch.io/",
-					"https://naniszamora.itch.io/",
-					"https://mrultraender.itch.io/",
-					"https://kinckich.itch.io/",
-					"https://pachucoatomico.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 22,
-				"score": 3.636,
-				"ilscore": 64,
-				"submission_time_diff": 383000
-			}
-		]
-	},
-	{
-		"jammer": "Say.say9",
-		"jammer_link": "https://saysay9.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 81,
-				"jam_name": "Kaiju",
-				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
-				"title": "KAI U",
-				"title_link": "https://grimoire-games.itch.io/kai-u",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
-				"by_list": [
-					"Grimoire Games",
-					"Say.say9",
-					"HassanHellm",
-					"drolejan",
-					"Andrew2115",
-					"NanisZamora",
-					"MrUltraEnder",
-					"Kinckich",
-					"PachucoAtomico"
-				],
-				"by_link_list": [
-					"https://grimoire-games.itch.io/",
-					"https://saysay9.itch.io/",
-					"https://hassanhellm.itch.io/",
-					"https://drolejan.itch.io/",
-					"https://andrew2115.itch.io/",
-					"https://naniszamora.itch.io/",
-					"https://mrultraender.itch.io/",
-					"https://kinckich.itch.io/",
-					"https://pachucoatomico.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 22,
-				"score": 3.636,
-				"ilscore": 64,
-				"submission_time_diff": 383000
-			}
-		]
-	},
-	{
-		"jammer": "HassanHellm",
-		"jammer_link": "https://hassanhellm.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 81,
-				"jam_name": "Kaiju",
-				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
-				"title": "KAI U",
-				"title_link": "https://grimoire-games.itch.io/kai-u",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
-				"by_list": [
-					"Grimoire Games",
-					"Say.say9",
-					"HassanHellm",
-					"drolejan",
-					"Andrew2115",
-					"NanisZamora",
-					"MrUltraEnder",
-					"Kinckich",
-					"PachucoAtomico"
-				],
-				"by_link_list": [
-					"https://grimoire-games.itch.io/",
-					"https://saysay9.itch.io/",
-					"https://hassanhellm.itch.io/",
-					"https://drolejan.itch.io/",
-					"https://andrew2115.itch.io/",
-					"https://naniszamora.itch.io/",
-					"https://mrultraender.itch.io/",
-					"https://kinckich.itch.io/",
-					"https://pachucoatomico.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 22,
-				"score": 3.636,
-				"ilscore": 64,
-				"submission_time_diff": 383000
 			}
 		]
 	}

@@ -463,7 +463,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -565,7 +565,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 130,
+				"jam_vs": 129,
 				"title": "Into The Dark",
 				"title_link": "https://solroo.itch.io/into-the-dark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480500",
@@ -622,6 +622,33 @@
 				"score": 3.523,
 				"ilscore": 51,
 				"submission_time_diff": -26632000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Project EEL",
+				"title_link": "https://solroo.itch.io/project-eel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674196",
+				"by_list": [
+					"Joan Sol ROO",
+					"Garazbolg",
+					"Fscibe",
+					"Julien Delaunay"
+				],
+				"by_link_list": [
+					"https://solroo.itch.io/",
+					"https://garazbolg.itch.io/",
+					"https://fscibe.itch.io/",
+					"https://julien-delaunay.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.875,
+				"ilscore": 84,
+				"submission_time_diff": -41767000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1279,7 +1306,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Obbo",
 				"title_link": "https://cy-s.itch.io/obbo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511606",
@@ -1292,7 +1319,7 @@
 				"rank": 30,
 				"ratings": 8,
 				"score": 3.477,
-				"ilscore": 80,
+				"ilscore": 79,
 				"submission_time_diff": -173000
 			},
 			{
@@ -1321,7 +1348,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 285,
+				"jam_vs": 284,
 				"title": "Frog Out of Water",
 				"title_link": "https://cy-s.itch.io/frog-out-of-water",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532679",
@@ -2045,6 +2072,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Time Surge",
+				"title_link": "https://fmlad.itch.io/time-surge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674605",
+				"by_list": [
+					"FmladGames"
+				],
+				"by_link_list": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 17,
+				"score": 4.176,
+				"ilscore": 90,
+				"submission_time_diff": -665000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
@@ -2111,7 +2159,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 130,
+				"jam_vs": 129,
 				"title": "Escape The Depth",
 				"title_link": "https://fmlad.itch.io/into-the-depth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483222",
@@ -2174,7 +2222,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "DreamLoop",
 				"title_link": "https://fmlad.itch.io/dream-loop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510194",
@@ -2195,7 +2243,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Wind Ball",
 				"title_link": "https://fmlad.itch.io/windball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618042",
@@ -2208,7 +2256,7 @@
 				"rank": 5,
 				"ratings": 13,
 				"score": 3.731,
-				"ilscore": 79,
+				"ilscore": 78,
 				"submission_time_diff": -527000
 			},
 			{
@@ -2300,7 +2348,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 97,
+				"jam_vs": 95,
 				"title": "LootScale",
 				"title_link": "https://fmlad.itch.io/lootscale",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513144",

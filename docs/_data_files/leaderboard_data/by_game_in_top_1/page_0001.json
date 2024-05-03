@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "matgraz",
+		"jammer_link": "https://matgraz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"jam_vs": 51,
+				"title": "Heart 2 Beat",
+				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
+				"by_list": [
+					"André Lima e Silva",
+					"matgraz",
+					"phantompauer"
+				],
+				"by_link_list": [
+					"https://andrelimaesilva.itch.io/",
+					"https://matgraz.itch.io/",
+					"https://phantompauer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 19,
+				"score": 4.289,
+				"ilscore": 63,
+				"submission_time_diff": -5122000
+			}
+		]
+	},
+	{
 		"jammer": "phantompauer",
 		"jammer_link": "https://phantompauer.itch.io/",
 		"game_list_sorted": [
@@ -124,7 +155,7 @@
 				"jam_id": 147,
 				"jam_name": "Cinema",
 				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 41,
+				"jam_vs": 40,
 				"title": "Camera Man",
 				"title_link": "https://mcwolke.itch.io/camera-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415568",
@@ -137,7 +168,7 @@
 				"rank": 1,
 				"ratings": 8,
 				"score": 4.281,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -19829000
 			}
 		]
@@ -1267,7 +1298,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "APOLLO",
 				"title_link": "https://daz.itch.io/apollo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
@@ -1779,7 +1810,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "Hexagon Hazard",
 				"title_link": "https://danisaurous.itch.io/hexagon-hazard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
@@ -1792,7 +1823,7 @@
 				"rank": 1,
 				"ratings": 16,
 				"score": 4.141,
-				"ilscore": 64,
+				"ilscore": 63,
 				"submission_time_diff": 40370000
 			}
 		]
@@ -1862,7 +1893,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
+				"jam_vs": 90,
 				"title": "On-Shroom!",
 				"title_link": "https://kemipo.itch.io/on-shroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644264",
@@ -1875,7 +1906,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.089,
-				"ilscore": 79,
+				"ilscore": 78,
 				"submission_time_diff": -10216000
 			}
 		]
@@ -2505,12 +2536,12 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"szym0"
+					"Loona"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
-					"https://theziutapl.itch.io/",
-					"https://szym0.itch.io/"
+					"https://flaware-studios.itch.io/",
+					"https://loonadev.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 6,
@@ -2522,7 +2553,7 @@
 	},
 	{
 		"jammer": "TheZiutaPL",
-		"jammer_link": "https://theziutapl.itch.io/",
+		"jammer_link": "https://flaware-studios.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2536,12 +2567,12 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"szym0"
+					"Loona"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
-					"https://theziutapl.itch.io/",
-					"https://szym0.itch.io/"
+					"https://flaware-studios.itch.io/",
+					"https://loonadev.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 6,
@@ -2552,8 +2583,8 @@
 		]
 	},
 	{
-		"jammer": "szym0",
-		"jammer_link": "https://szym0.itch.io/",
+		"jammer": "Loona",
+		"jammer_link": "https://loonadev.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2567,12 +2598,12 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"szym0"
+					"Loona"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
-					"https://theziutapl.itch.io/",
-					"https://szym0.itch.io/"
+					"https://flaware-studios.itch.io/",
+					"https://loonadev.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 6,
@@ -2863,33 +2894,6 @@
 				"score": 3.643,
 				"ilscore": 25,
 				"submission_time_diff": 253000
-			}
-		]
-	},
-	{
-		"jammer": "Jesse Eisenbart",
-		"jammer_link": "https://jesseeisenbart.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"jam_vs": 18,
-				"title": "4 Seasons Journey",
-				"title_link": "https://jesseeisenbart.itch.io/4-seasons-journey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/584362",
-				"by_list": [
-					"Jesse Eisenbart"
-				],
-				"by_link_list": [
-					"https://jesseeisenbart.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 3.642,
-				"ilscore": 29,
-				"submission_time_diff": -397000
 			}
 		]
 	}

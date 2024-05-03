@@ -1,14 +1,68 @@
 [
 	{
-		"jammer": "LoxoHighScore",
-		"jammer_link": "https://loxohighscore.itch.io/",
+		"jammer": "No whOne",
+		"jammer_link": "https://no-whone.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"jam_vs": 50,
+				"title": "Rock Paper Scissors But It's Weird",
+				"title_link": "https://no-whone.itch.io/rock-paper-scissors-but-its-weird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851719",
+				"by_list": [
+					"No whOne"
+				],
+				"by_link_list": [
+					"https://no-whone.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 18,
+				"score": 3.722,
+				"ilscore": 54,
+				"submission_time_diff": -21534000
+			}
+		]
+	},
+	{
+		"jammer": "James",
+		"jammer_link": "https://jamesc01.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"jam_vs": 70,
+				"title": "Quantum Rooms (Mini Jam 90)",
+				"title_link": "https://jamesc01.itch.io/quantum-rooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221224",
+				"by_list": [
+					"James"
+				],
+				"by_link_list": [
+					"https://jamesc01.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 15,
+				"score": 3.717,
+				"ilscore": 63,
+				"submission_time_diff": -19912000
+			}
+		]
+	},
+	{
+		"jammer": "PSEMO",
+		"jammer_link": "https://psemo.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "Hack();",
 				"title_link": "https://psemo.itch.io/hack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
@@ -27,7 +81,40 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 3.708,
-				"ilscore": 57,
+				"ilscore": 56,
+				"submission_time_diff": 47355000
+			}
+		]
+	},
+	{
+		"jammer": "LoxoHighScore",
+		"jammer_link": "https://loxohighscore.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"jam_vs": 55,
+				"title": "Hack();",
+				"title_link": "https://psemo.itch.io/hack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
+				"by_list": [
+					"PSEMO",
+					"LoxoHighScore",
+					"Hugo Belperron",
+					"Abdya"
+				],
+				"by_link_list": [
+					"https://psemo.itch.io/",
+					"https://loxohighscore.itch.io/",
+					"https://siropfraisecitron.itch.io/",
+					"https://qweny.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 12,
+				"score": 3.708,
+				"ilscore": 56,
 				"submission_time_diff": 47355000
 			}
 		]
@@ -41,7 +128,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "Hack();",
 				"title_link": "https://psemo.itch.io/hack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
@@ -60,7 +147,7 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 3.708,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": 47355000
 			}
 		]
@@ -74,7 +161,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
+				"jam_vs": 55,
 				"title": "Hack();",
 				"title_link": "https://psemo.itch.io/hack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
@@ -93,7 +180,7 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 3.708,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": 47355000
 			}
 		]
@@ -983,6 +1070,33 @@
 		]
 	},
 	{
+		"jammer": "Kak's",
+		"jammer_link": "https://kaks.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Circuit Rush",
+				"title_link": "https://kaks.itch.io/circuit-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674292",
+				"by_list": [
+					"Kak's"
+				],
+				"by_link_list": [
+					"https://kaks.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 12,
+				"score": 4.146,
+				"ilscore": 90,
+				"submission_time_diff": -35871000
+			}
+		]
+	},
+	{
 		"jammer": "draketrought",
 		"jammer_link": "https://draketrought.itch.io/",
 		"game_list_sorted": [
@@ -1072,7 +1186,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 158,
+				"jam_vs": 156,
 				"title": "Ancient Song",
 				"title_link": "https://piroporopi.itch.io/ancient-song",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459536",
@@ -1085,7 +1199,7 @@
 				"rank": 5,
 				"ratings": 33,
 				"score": 4.091,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -21840000
 			}
 		]
@@ -1519,7 +1633,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1552,7 +1666,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1585,7 +1699,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1618,7 +1732,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -1759,7 +1873,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 188,
+				"jam_vs": 187,
 				"title": "Ghost Revenge",
 				"title_link": "https://ghmr.itch.io/ghost-revenge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750029",
@@ -1772,7 +1886,7 @@
 				"rank": 5,
 				"ratings": 26,
 				"score": 4.019,
-				"ilscore": 104,
+				"ilscore": 103,
 				"submission_time_diff": -878000
 			}
 		]
@@ -1999,7 +2113,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Little Luna",
 				"title_link": "https://in-aeviternum.itch.io/little-luna",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021066",
@@ -2012,7 +2126,7 @@
 				"rank": 5,
 				"ratings": 49,
 				"score": 3.954,
-				"ilscore": 108,
+				"ilscore": 107,
 				"submission_time_diff": -526000
 			}
 		]
@@ -2535,7 +2649,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
+				"jam_vs": 90,
 				"title": "Psilo's Schism - SUPER CYBIN EDITION",
 				"title_link": "https://jadc.itch.io/psilos-schism",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646318",
@@ -2548,7 +2662,7 @@
 				"rank": 5,
 				"ratings": 13,
 				"score": 3.808,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -1383000
 			}
 		]
@@ -2782,114 +2896,6 @@
 				"score": 3.743,
 				"ilscore": 33,
 				"submission_time_diff": -1473000
-			}
-		]
-	},
-	{
-		"jammer": "Small Vibes",
-		"jammer_link": "https://smallvibes.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 80,
-				"title": "Jaws Of Cardboard",
-				"title_link": "https://smallvibes.itch.io/jaws-of-cardboard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591688",
-				"by_list": [
-					"Small Vibes"
-				],
-				"by_link_list": [
-					"https://smallvibes.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 16,
-				"score": 3.734,
-				"ilscore": 68,
-				"submission_time_diff": -552000
-			}
-		]
-	},
-	{
-		"jammer": "Josh Larminay",
-		"jammer_link": "https://jlarminay.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Swords n Souls",
-				"title_link": "https://jlarminay.itch.io/swords-n-souls",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867999",
-				"by_list": [
-					"Josh Larminay"
-				],
-				"by_link_list": [
-					"https://jlarminay.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 27,
-				"score": 3.713,
-				"ilscore": 60,
-				"submission_time_diff": -13155000
-			}
-		]
-	},
-	{
-		"jammer": "CloneDeath",
-		"jammer_link": "https://clonedeath.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"jam_vs": 45,
-				"title": "Midnight Drive",
-				"title_link": "https://clonedeath.itch.io/midnight-drive",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402405",
-				"by_list": [
-					"CloneDeath"
-				],
-				"by_link_list": [
-					"https://clonedeath.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 3.712,
-				"ilscore": 51,
-				"submission_time_diff": -24478000
-			}
-		]
-	},
-	{
-		"jammer": "Gaboisleno",
-		"jammer_link": "https://gaboisleno.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 57,
-				"title": "Line Puzzle",
-				"title_link": "https://gaboisleno.itch.io/line-puzzle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2437610",
-				"by_list": [
-					"Gaboisleno"
-				],
-				"by_link_list": [
-					"https://gaboisleno.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 27,
-				"score": 3.694,
-				"ilscore": 57,
-				"submission_time_diff": -48868000
 			}
 		]
 	}

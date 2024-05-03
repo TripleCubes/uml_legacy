@@ -425,7 +425,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 213,
+				"jam_vs": 211,
 				"title": "Itsy Bitsy",
 				"title_link": "https://benjatk.itch.io/itsy-bitsy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867036",
@@ -1480,7 +1480,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "The Fifth Prayer",
 				"title_link": "https://tolis123.itch.io/the-fifth-prayer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021241",
@@ -2984,7 +2984,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Lunar Arena",
 				"title_link": "https://elyon.itch.io/lunar-arena",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020381",
@@ -4551,6 +4551,31 @@
 				"score": 3.652,
 				"ilscore": 83,
 				"submission_time_diff": -315000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Powerline Express",
+				"title_link": "https://chesnov.itch.io/powerline-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675429",
+				"by_list": [
+					"v39",
+					"Nashman88",
+					"ben nissimov"
+				],
+				"by_link_list": [
+					"https://chesnov.itch.io/",
+					"https://nashman88.itch.io/",
+					"https://bennissimov.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 17,
+				"score": 2.912,
+				"ilscore": 63,
+				"submission_time_diff": -22827000
 			}
 		]
 	},

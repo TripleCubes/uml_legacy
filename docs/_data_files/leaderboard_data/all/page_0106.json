@@ -1,82 +1,2581 @@
 [
 	{
-		"jammer": "DragonBRN",
-		"jammer_link": "https://dragonbrn.itch.io/",
+		"jammer": "Pusio",
+		"jammer_link": "https://pusio-kot.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
-				"title": "Escape the Loop",
-				"title_link": "https://dragonbrn.itch.io/escape-the-loop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2643347",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "RC Master",
+				"title_link": "https://pusio-kot.itch.io/rc-master",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675219",
 				"by_list": [
-					"DragonBRN"
+					"Pusio"
 				],
 				"by_link_list": [
-					"https://dragonbrn.itch.io/"
+					"https://pusio-kot.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 12,
+				"score": 3.917,
+				"ilscore": 85,
+				"submission_time_diff": -31176000
+			}
+		]
+	},
+	{
+		"jammer": "nickbdawg",
+		"jammer_link": "https://nickbdawg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Bulby's Afraid of the Dark",
+				"title_link": "https://nickbdawg.itch.io/bulbys-afraid-of-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676153",
+				"by_list": [
+					"nickbdawg"
+				],
+				"by_link_list": [
+					"https://nickbdawg.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.888,
+				"ilscore": 84,
+				"submission_time_diff": -632000
+			}
+		]
+	},
+	{
+		"jammer": "Garazbolg",
+		"jammer_link": "https://garazbolg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Project EEL",
+				"title_link": "https://solroo.itch.io/project-eel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674196",
+				"by_list": [
+					"Joan Sol ROO",
+					"Garazbolg",
+					"Fscibe",
+					"Julien Delaunay"
+				],
+				"by_link_list": [
+					"https://solroo.itch.io/",
+					"https://garazbolg.itch.io/",
+					"https://fscibe.itch.io/",
+					"https://julien-delaunay.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.875,
+				"ilscore": 84,
+				"submission_time_diff": -41767000
+			}
+		]
+	},
+	{
+		"jammer": "Julien Delaunay",
+		"jammer_link": "https://julien-delaunay.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Project EEL",
+				"title_link": "https://solroo.itch.io/project-eel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674196",
+				"by_list": [
+					"Joan Sol ROO",
+					"Garazbolg",
+					"Fscibe",
+					"Julien Delaunay"
+				],
+				"by_link_list": [
+					"https://solroo.itch.io/",
+					"https://garazbolg.itch.io/",
+					"https://fscibe.itch.io/",
+					"https://julien-delaunay.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.875,
+				"ilscore": 84,
+				"submission_time_diff": -41767000
+			}
+		]
+	},
+	{
+		"jammer": "CocoaShell",
+		"jammer_link": "https://cocoashell.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Low %",
+				"title_link": "https://cocoashell.itch.io/lowpercent",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674562",
+				"by_list": [
+					"CocoaShell"
+				],
+				"by_link_list": [
+					"https://cocoashell.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 17,
+				"score": 3.853,
+				"ilscore": 83,
+				"submission_time_diff": -49353000
+			}
+		]
+	},
+	{
+		"jammer": "EvergreenThree",
+		"jammer_link": "https://evergreenthree.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Stormcrow",
+				"title_link": "https://evergreenthree.itch.io/stormcrow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674118",
+				"by_list": [
+					"EvergreenThree"
+				],
+				"by_link_list": [
+					"https://evergreenthree.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 13,
+				"score": 3.635,
+				"ilscore": 79,
+				"submission_time_diff": -4079000
+			}
+		]
+	},
+	{
+		"jammer": "11slx",
+		"jammer_link": "https://11slx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Light Off!",
+				"title_link": "https://11slx.itch.io/light-off",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675837",
+				"by_list": [
+					"11slx"
+				],
+				"by_link_list": [
+					"https://11slx.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 16,
+				"score": 3.609,
+				"ilscore": 78,
+				"submission_time_diff": -8424000
+			}
+		]
+	},
+	{
+		"jammer": "Not_Erikk",
+		"jammer_link": "https://not-erikk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "CLONE ZONE",
+				"title_link": "https://not-erikk.itch.io/clone-zone",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675046",
+				"by_list": [
+					"Not_Erikk"
+				],
+				"by_link_list": [
+					"https://not-erikk.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 10,
+				"score": 3.6,
+				"ilscore": 78,
+				"submission_time_diff": -34990000
+			}
+		]
+	},
+	{
+		"jammer": "Garpejio",
+		"jammer_link": "https://garpejio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "power thieves",
+				"title_link": "https://garpejio.itch.io/power-thieves",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673613",
+				"by_list": [
+					"Garpejio"
+				],
+				"by_link_list": [
+					"https://garpejio.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 8,
+				"score": 3.594,
+				"ilscore": 78,
+				"submission_time_diff": -24454000
+			}
+		]
+	},
+	{
+		"jammer": "zannnia",
+		"jammer_link": "https://zannnia.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Clocky",
+				"title_link": "https://zannnia.itch.io/clocky",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675170",
+				"by_list": [
+					"zannnia"
+				],
+				"by_link_list": [
+					"https://zannnia.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 8,
+				"score": 3.531,
+				"ilscore": 76,
+				"submission_time_diff": -32574000
+			}
+		]
+	},
+	{
+		"jammer": "Mixal &amp; friends",
+		"jammer_link": "https://mixalaznik.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Faulty The Robot",
+				"title_link": "https://mixalaznik.itch.io/faulty-the-robot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675141",
+				"by_list": [
+					"Mixal &amp; friends"
+				],
+				"by_link_list": [
+					"https://mixalaznik.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 7,
+				"score": 3.508,
+				"ilscore": 76,
+				"submission_time_diff": -33049000
+			}
+		]
+	},
+	{
+		"jammer": "MobTonio",
+		"jammer_link": "https://mobtonio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Deckminder",
+				"title_link": "https://mobtonio.itch.io/deckminder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675306",
+				"by_list": [
+					"MobTonio"
+				],
+				"by_link_list": [
+					"https://mobtonio.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 21,
+				"score": 3.5,
+				"ilscore": 76,
+				"submission_time_diff": -19536000
+			}
+		]
+	},
+	{
+		"jammer": "toxazol",
+		"jammer_link": "https://toxazol.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "EELectric",
+				"title_link": "https://toxazol.itch.io/eelectric",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672258",
+				"by_list": [
+					"toxazol",
+					"tenori-nori"
+				],
+				"by_link_list": [
+					"https://toxazol.itch.io/",
+					"https://tenori-nori.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 25,
+				"score": 3.49,
+				"ilscore": 75,
+				"submission_time_diff": -74000
+			}
+		]
+	},
+	{
+		"jammer": "tenori-nori",
+		"jammer_link": "https://tenori-nori.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "EELectric",
+				"title_link": "https://toxazol.itch.io/eelectric",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672258",
+				"by_list": [
+					"toxazol",
+					"tenori-nori"
+				],
+				"by_link_list": [
+					"https://toxazol.itch.io/",
+					"https://tenori-nori.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 25,
+				"score": 3.49,
+				"ilscore": 75,
+				"submission_time_diff": -74000
+			}
+		]
+	},
+	{
+		"jammer": "RIXX",
+		"jammer_link": "https://chrxx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "EelecTrip",
+				"title_link": "https://chrxx.itch.io/eelectrip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673990",
+				"by_list": [
+					"RIXX"
+				],
+				"by_link_list": [
+					"https://chrxx.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 8,
+				"score": 3.469,
+				"ilscore": 75,
+				"submission_time_diff": -72912000
+			}
+		]
+	},
+	{
+		"jammer": "Soothsayer",
+		"jammer_link": "https://soothsayer19.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Lightning Larry",
+				"title_link": "https://soothsayer19.itch.io/lightning-larry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675860",
+				"by_list": [
+					"Soothsayer"
+				],
+				"by_link_list": [
+					"https://soothsayer19.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 26,
+				"score": 3.462,
+				"ilscore": 75,
+				"submission_time_diff": -1321000
+			}
+		]
+	},
+	{
+		"jammer": "Wamien",
+		"jammer_link": "https://wamien.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Wired-Up",
+				"title_link": "https://wamien.itch.io/wired-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675594",
+				"by_list": [
+					"Wamien",
+					"jtgdev",
+					"klimkam"
+				],
+				"by_link_list": [
+					"https://wamien.itch.io/",
+					"https://jtgdev.itch.io/",
+					"https://klimkam.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 9,
+				"score": 3.444,
+				"ilscore": 74,
+				"submission_time_diff": -1058000
+			}
+		]
+	},
+	{
+		"jammer": "jtgdev",
+		"jammer_link": "https://jtgdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Wired-Up",
+				"title_link": "https://wamien.itch.io/wired-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675594",
+				"by_list": [
+					"Wamien",
+					"jtgdev",
+					"klimkam"
+				],
+				"by_link_list": [
+					"https://wamien.itch.io/",
+					"https://jtgdev.itch.io/",
+					"https://klimkam.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 9,
+				"score": 3.444,
+				"ilscore": 74,
+				"submission_time_diff": -1058000
+			}
+		]
+	},
+	{
+		"jammer": "cowmoomoooooo",
+		"jammer_link": "https://cowmoomoooooo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Tesla Trooper with a Tesla Coil",
+				"title_link": "https://cowmoomoooooo.itch.io/tesla-trooper-with-tesla-coil",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674774",
+				"by_list": [
+					"cowmoomoooooo"
+				],
+				"by_link_list": [
+					"https://cowmoomoooooo.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 7,
+				"score": 3.441,
+				"ilscore": 74,
+				"submission_time_diff": -41788000
+			}
+		]
+	},
+	{
+		"jammer": "NaiName",
+		"jammer_link": "https://nainame.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Faster than lightning",
+				"title_link": "https://nainame.itch.io/faster-than-lightning",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674558",
+				"by_list": [
+					"NaiName"
+				],
+				"by_link_list": [
+					"https://nainame.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 14,
+				"score": 3.411,
+				"ilscore": 74,
+				"submission_time_diff": -47331000
+			}
+		]
+	},
+	{
+		"jammer": "Luckythespacecat",
+		"jammer_link": "https://luckythespacecat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Ekrixi Cavia",
+				"title_link": "https://luckythespacecat.itch.io/ekrixi-cavia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674874",
+				"by_list": [
+					"Luckythespacecat"
+				],
+				"by_link_list": [
+					"https://luckythespacecat.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 21,
+				"score": 3.393,
+				"ilscore": 73,
+				"submission_time_diff": -39374000
+			}
+		]
+	},
+	{
+		"jammer": "Wully",
+		"jammer_link": "https://wully.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Cross Country",
+				"title_link": "https://wully.itch.io/cross-country",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675450",
+				"by_list": [
+					"Wully"
+				],
+				"by_link_list": [
+					"https://wully.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 73,
+				"submission_time_diff": -24252000
+			}
+		]
+	},
+	{
+		"jammer": "Zubzii",
+		"jammer_link": "https://zubzii.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Light's Asylum",
+				"title_link": "https://zubzii.itch.io/lights-asylum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675907",
+				"by_list": [
+					"Zubzii"
+				],
+				"by_link_list": [
+					"https://zubzii.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 12,
+				"score": 3.375,
+				"ilscore": 73,
+				"submission_time_diff": -4244000
+			}
+		]
+	},
+	{
+		"jammer": "theGentleflumph",
+		"jammer_link": "https://thegentleflumph.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Frem's Quest",
+				"title_link": "https://thegentleflumph.itch.io/frems-quest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676075",
+				"by_list": [
+					"theGentleflumph"
+				],
+				"by_link_list": [
+					"https://thegentleflumph.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 73,
+				"submission_time_diff": -3351000
+			}
+		]
+	},
+	{
+		"jammer": "tomekp97",
+		"jammer_link": "https://tomekp97.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Power Festival",
+				"title_link": "https://tomekp97.itch.io/power-festival",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675537",
+				"by_list": [
+					"tomekp97"
+				],
+				"by_link_list": [
+					"https://tomekp97.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 7,
+				"score": 3.341,
+				"ilscore": 72,
+				"submission_time_diff": -23110000
+			}
+		]
+	},
+	{
+		"jammer": "Ghoulcel",
+		"jammer_link": "https://ghoulcel.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Wattile",
+				"title_link": "https://ghoulcel.itch.io/wattile",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675947",
+				"by_list": [
+					"Ghoulcel"
+				],
+				"by_link_list": [
+					"https://ghoulcel.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 5,
+				"score": 3.281,
+				"ilscore": 71,
+				"submission_time_diff": -2911000
+			}
+		]
+	},
+	{
+		"jammer": "sprachmensch",
+		"jammer_link": "https://sprachmensch.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "charge my phone",
+				"title_link": "https://sprachmensch.itch.io/chargemyphone",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672592",
+				"by_list": [
+					"sprachmensch"
+				],
+				"by_link_list": [
+					"https://sprachmensch.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 18,
+				"score": 3.278,
+				"ilscore": 71,
+				"submission_time_diff": -16718000
+			}
+		]
+	},
+	{
+		"jammer": "NuntiusNivis",
+		"jammer_link": "https://nuntiusnivis.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Drift Escape",
+				"title_link": "https://nuntiusnivis.itch.io/electric-drift-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675770",
+				"by_list": [
+					"NuntiusNivis"
+				],
+				"by_link_list": [
+					"https://nuntiusnivis.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 10,
+				"score": 3.25,
+				"ilscore": 70,
+				"submission_time_diff": -14630000
+			}
+		]
+	},
+	{
+		"jammer": "CadetTheGameCooker",
+		"jammer_link": "https://cadetthegamecooker.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "The Leaps of Zeus",
+				"title_link": "https://cadetthegamecooker.itch.io/the-leaps-of-zeus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676073",
+				"by_list": [
+					"CadetTheGameCooker"
+				],
+				"by_link_list": [
+					"https://cadetthegamecooker.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 6,
+				"score": 3.248,
+				"ilscore": 70,
+				"submission_time_diff": -4041000
+			}
+		]
+	},
+	{
+		"jammer": "PyroSplat",
+		"jammer_link": "https://pyrosplat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Ginger Power",
+				"title_link": "https://pyrosplat.itch.io/ginger-power",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673383",
+				"by_list": [
+					"PyroSplat"
+				],
+				"by_link_list": [
+					"https://pyrosplat.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 26,
+				"score": 3.24,
+				"ilscore": 70,
+				"submission_time_diff": -107686000
+			}
+		]
+	},
+	{
+		"jammer": "Mikey McSherry",
+		"jammer_link": "https://creatormikey.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Power Creep",
+				"title_link": "https://creatormikey.itch.io/power-creep",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675742",
+				"by_list": [
+					"Mikey McSherry"
+				],
+				"by_link_list": [
+					"https://creatormikey.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 11,
+				"score": 3.182,
+				"ilscore": 69,
+				"submission_time_diff": -14946000
+			}
+		]
+	},
+	{
+		"jammer": "AnonymousPenguin",
+		"jammer_link": "https://anonymouspenguin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "On The Clock",
+				"title_link": "https://anonymouspenguin.itch.io/on-the-clock",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676171",
+				"by_list": [
+					"AnonymousPenguin"
+				],
+				"by_link_list": [
+					"https://anonymouspenguin.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 11,
+				"score": 3.045,
+				"ilscore": 66,
+				"submission_time_diff": -288000
+			}
+		]
+	},
+	{
+		"jammer": "FoxyProgramm",
+		"jammer_link": "https://foxyprogramm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Knight",
+				"title_link": "https://foxyprogramm.itch.io/electric-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674271",
+				"by_list": [
+					"FoxyProgramm"
+				],
+				"by_link_list": [
+					"https://foxyprogramm.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 10,
+				"score": 3.025,
+				"ilscore": 65,
+				"submission_time_diff": -26775000
+			}
+		]
+	},
+	{
+		"jammer": "The_BM",
+		"jammer_link": "https://the-bm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "E.D.I. - Electric Direction Instructions",
+				"title_link": "https://the-bm.itch.io/edi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675472",
+				"by_list": [
+					"The_BM",
+					"Bros."
+				],
+				"by_link_list": [
+					"https://the-bm.itch.io/",
+					"https://bros-ld.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 6,
+				"score": 2.959,
+				"ilscore": 64,
+				"submission_time_diff": -17133000
+			}
+		]
+	},
+	{
+		"jammer": "Bros.",
+		"jammer_link": "https://bros-ld.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "E.D.I. - Electric Direction Instructions",
+				"title_link": "https://the-bm.itch.io/edi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675472",
+				"by_list": [
+					"The_BM",
+					"Bros."
+				],
+				"by_link_list": [
+					"https://the-bm.itch.io/",
+					"https://bros-ld.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 6,
+				"score": 2.959,
+				"ilscore": 64,
+				"submission_time_diff": -17133000
+			}
+		]
+	},
+	{
+		"jammer": "v39",
+		"jammer_link": "https://chesnov.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Powerline Express",
+				"title_link": "https://chesnov.itch.io/powerline-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675429",
+				"by_list": [
+					"v39",
+					"Nashman88",
+					"ben nissimov"
+				],
+				"by_link_list": [
+					"https://chesnov.itch.io/",
+					"https://nashman88.itch.io/",
+					"https://bennissimov.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 17,
+				"score": 2.912,
+				"ilscore": 63,
+				"submission_time_diff": -22827000
+			}
+		]
+	},
+	{
+		"jammer": "Nashman88",
+		"jammer_link": "https://nashman88.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Powerline Express",
+				"title_link": "https://chesnov.itch.io/powerline-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675429",
+				"by_list": [
+					"v39",
+					"Nashman88",
+					"ben nissimov"
+				],
+				"by_link_list": [
+					"https://chesnov.itch.io/",
+					"https://nashman88.itch.io/",
+					"https://bennissimov.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 17,
+				"score": 2.912,
+				"ilscore": 63,
+				"submission_time_diff": -22827000
+			}
+		]
+	},
+	{
+		"jammer": "LeJaune_citron",
+		"jammer_link": "https://lejaune-citron.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Spark pipes",
+				"title_link": "https://lejaune-citron.itch.io/spark-pipes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671436",
+				"by_list": [
+					"LeJaune_citron"
+				],
+				"by_link_list": [
+					"https://lejaune-citron.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 6,
+				"score": 2.851,
+				"ilscore": 62,
+				"submission_time_diff": -204926000
+			}
+		]
+	},
+	{
+		"jammer": "yoave",
+		"jammer_link": "https://yoaveini9.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Lightning Guy EXTREME",
+				"title_link": "https://yoaveini9.itch.io/lightning-guy-extreme",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675856",
+				"by_list": [
+					"yoave"
+				],
+				"by_link_list": [
+					"https://yoaveini9.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 6,
+				"score": 2.815,
+				"ilscore": 61,
+				"submission_time_diff": -12474000
+			}
+		]
+	},
+	{
+		"jammer": "beardlings",
+		"jammer_link": "https://beardlings.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Chess",
+				"title_link": "https://beardlings.itch.io/electric-chess",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675868",
+				"by_list": [
+					"beardlings"
+				],
+				"by_link_list": [
+					"https://beardlings.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 6,
+				"score": 2.815,
+				"ilscore": 61,
+				"submission_time_diff": -11387000
+			}
+		]
+	},
+	{
+		"jammer": "Artias",
+		"jammer_link": "https://artias.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "All On Timers",
+				"title_link": "https://artias.itch.io/all-on-timer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675599",
+				"by_list": [
+					"Artias"
+				],
+				"by_link_list": [
+					"https://artias.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 5,
+				"score": 2.807,
+				"ilscore": 61,
+				"submission_time_diff": -19571000
+			}
+		]
+	},
+	{
+		"jammer": "Pigg_master",
+		"jammer_link": "https://pigg-master.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Beam Blitz",
+				"title_link": "https://pigg-master.itch.io/beam-blitz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672896",
+				"by_list": [
+					"Pigg_master"
+				],
+				"by_link_list": [
+					"https://pigg-master.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 18,
+				"score": 2.75,
+				"ilscore": 59,
+				"submission_time_diff": -45794000
+			}
+		]
+	},
+	{
+		"jammer": "FalahMumtaz",
+		"jammer_link": "https://falahmumtaz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Light The Circuit",
+				"title_link": "https://falahmumtaz.itch.io/light-the-circuit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675152",
+				"by_list": [
+					"FalahMumtaz"
+				],
+				"by_link_list": [
+					"https://falahmumtaz.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 9,
+				"score": 2.75,
+				"ilscore": 59,
+				"submission_time_diff": -31912000
+			}
+		]
+	},
+	{
+		"jammer": "Dark",
+		"jammer_link": "https://darkdragonart.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Divine Tactics",
+				"title_link": "https://loddisjourney.itch.io/divine-tactics",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675925",
+				"by_list": [
+					"loddisjourney",
+					"TheRealReynold",
+					"Dark"
+				],
+				"by_link_list": [
+					"https://loddisjourney.itch.io/",
+					"https://therealreynold.itch.io/",
+					"https://darkdragonart.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 7,
+				"score": 2.706,
+				"ilscore": 58,
+				"submission_time_diff": -3286000
+			}
+		]
+	},
+	{
+		"jammer": "DynamicVoid9",
+		"jammer_link": "https://dynamicvoid9.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Tree of Life",
+				"title_link": "https://qangeldratsch.itch.io/tree-of-life",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672709",
+				"by_list": [
+					"Qangeldratsch",
+					"DynamicVoid9"
+				],
+				"by_link_list": [
+					"https://qangeldratsch.itch.io/",
+					"https://dynamicvoid9.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 7,
+				"score": 2.706,
+				"ilscore": 58,
+				"submission_time_diff": -18238000
+			}
+		]
+	},
+	{
+		"jammer": "Nahnoo",
+		"jammer_link": "https://nahnoo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Rolling Rock",
+				"title_link": "https://campachino1.itch.io/rolling-rock",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670846",
+				"by_list": [
+					"Campachino1",
+					"Nahnoo",
+					"Alfabiche",
+					"faqu786",
+					"WAranicaton"
+				],
+				"by_link_list": [
+					"https://campachino1.itch.io/",
+					"https://nahnoo.itch.io/",
+					"https://alfabiche.itch.io/",
+					"https://faqu786.itch.io/",
+					"https://waranicaton.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 18,
+				"score": 2.694,
+				"ilscore": 58,
+				"submission_time_diff": 1075000
+			}
+		]
+	},
+	{
+		"jammer": "Alfabiche",
+		"jammer_link": "https://alfabiche.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Rolling Rock",
+				"title_link": "https://campachino1.itch.io/rolling-rock",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670846",
+				"by_list": [
+					"Campachino1",
+					"Nahnoo",
+					"Alfabiche",
+					"faqu786",
+					"WAranicaton"
+				],
+				"by_link_list": [
+					"https://campachino1.itch.io/",
+					"https://nahnoo.itch.io/",
+					"https://alfabiche.itch.io/",
+					"https://faqu786.itch.io/",
+					"https://waranicaton.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 18,
+				"score": 2.694,
+				"ilscore": 58,
+				"submission_time_diff": 1075000
+			}
+		]
+	},
+	{
+		"jammer": "faqu786",
+		"jammer_link": "https://faqu786.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Rolling Rock",
+				"title_link": "https://campachino1.itch.io/rolling-rock",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670846",
+				"by_list": [
+					"Campachino1",
+					"Nahnoo",
+					"Alfabiche",
+					"faqu786",
+					"WAranicaton"
+				],
+				"by_link_list": [
+					"https://campachino1.itch.io/",
+					"https://nahnoo.itch.io/",
+					"https://alfabiche.itch.io/",
+					"https://faqu786.itch.io/",
+					"https://waranicaton.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 18,
+				"score": 2.694,
+				"ilscore": 58,
+				"submission_time_diff": 1075000
+			}
+		]
+	},
+	{
+		"jammer": "karlomka",
+		"jammer_link": "https://karlomka.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Lightning Ball Larry",
+				"title_link": "https://karlomka.itch.io/lightning-ball-larry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674919",
+				"by_list": [
+					"karlomka"
+				],
+				"by_link_list": [
+					"https://karlomka.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 8,
+				"score": 2.688,
+				"ilscore": 58,
+				"submission_time_diff": -38689000
+			}
+		]
+	},
+	{
+		"jammer": "Finis (Tan Phat)",
+		"jammer_link": "https://valeth2124.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Mech Rampage",
+				"title_link": "https://valeth2124.itch.io/mech-rampage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670943",
+				"by_list": [
+					"Finis (Tan Phat)"
+				],
+				"by_link_list": [
+					"https://valeth2124.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 11,
+				"score": 2.636,
+				"ilscore": 57,
+				"submission_time_diff": -217077000
+			}
+		]
+	},
+	{
+		"jammer": "poliwer",
+		"jammer_link": "https://poliwer.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Addicted Battery",
+				"title_link": "https://poliwer.itch.io/addicted-battery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675741",
+				"by_list": [
+					"poliwer"
+				],
+				"by_link_list": [
+					"https://poliwer.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 4,
+				"score": 2.607,
+				"ilscore": 56,
+				"submission_time_diff": -16261000
+			}
+		]
+	},
+	{
+		"jammer": "ZenLOG",
+		"jammer_link": "https://zenlog.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "First Game: Shooting Ghosts",
+				"title_link": "https://zenlog.itch.io/first-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675900",
+				"by_list": [
+					"ZenLOG"
+				],
+				"by_link_list": [
+					"https://zenlog.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 5,
+				"score": 2.569,
+				"ilscore": 55,
+				"submission_time_diff": -10894000
+			}
+		]
+	},
+	{
+		"jammer": "Cyteon",
+		"jammer_link": "https://cyteon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "MiniJam is Coming!",
+				"title_link": "https://cyteon.itch.io/minijam-is-coming",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673111",
+				"by_list": [
+					"Cyteon"
+				],
+				"by_link_list": [
+					"https://cyteon.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 7,
+				"score": 2.539,
+				"ilscore": 55,
+				"submission_time_diff": -39410000
+			}
+		]
+	},
+	{
+		"jammer": "Sanjay Duggal",
+		"jammer_link": "https://sanjayduggal.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Zuce",
+				"title_link": "https://sanjayduggal.itch.io/zuce",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675341",
+				"by_list": [
+					"Sanjay Duggal",
+					"robonub",
+					"JaneDuke"
+				],
+				"by_link_list": [
+					"https://sanjayduggal.itch.io/",
+					"https://robonub.itch.io/",
+					"https://janeduke.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 6,
+				"score": 2.526,
+				"ilscore": 54,
+				"submission_time_diff": -26346000
+			}
+		]
+	},
+	{
+		"jammer": "robonub",
+		"jammer_link": "https://robonub.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Zuce",
+				"title_link": "https://sanjayduggal.itch.io/zuce",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675341",
+				"by_list": [
+					"Sanjay Duggal",
+					"robonub",
+					"JaneDuke"
+				],
+				"by_link_list": [
+					"https://sanjayduggal.itch.io/",
+					"https://robonub.itch.io/",
+					"https://janeduke.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 6,
+				"score": 2.526,
+				"ilscore": 54,
+				"submission_time_diff": -26346000
+			}
+		]
+	},
+	{
+		"jammer": "JaneDuke",
+		"jammer_link": "https://janeduke.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Zuce",
+				"title_link": "https://sanjayduggal.itch.io/zuce",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675341",
+				"by_list": [
+					"Sanjay Duggal",
+					"robonub",
+					"JaneDuke"
+				],
+				"by_link_list": [
+					"https://sanjayduggal.itch.io/",
+					"https://robonub.itch.io/",
+					"https://janeduke.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 6,
+				"score": 2.526,
+				"ilscore": 54,
+				"submission_time_diff": -26346000
+			}
+		]
+	},
+	{
+		"jammer": "Melnact19",
+		"jammer_link": "https://melnact19.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Speed Rock Run",
+				"title_link": "https://melnact19.itch.io/speed-rock-run",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676049",
+				"by_list": [
+					"Melnact19"
+				],
+				"by_link_list": [
+					"https://melnact19.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 6,
+				"score": 2.454,
+				"ilscore": 53,
+				"submission_time_diff": -3970000
+			}
+		]
+	},
+	{
+		"jammer": "Dima",
+		"jammer_link": "https://dima-34.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Pingo",
+				"title_link": "https://dima-34.itch.io/pingo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675423",
+				"by_list": [
+					"Dima"
+				],
+				"by_link_list": [
+					"https://dima-34.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 10,
+				"score": 2.45,
+				"ilscore": 53,
+				"submission_time_diff": -26578000
+			}
+		]
+	},
+	{
+		"jammer": "IPSO FACTO",
+		"jammer_link": "https://lorenipsvm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "TiME CLiMB",
+				"title_link": "https://lorenipsvm.itch.io/time-climb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676025",
+				"by_list": [
+					"IPSO FACTO"
+				],
+				"by_link_list": [
+					"https://lorenipsvm.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 3,
+				"score": 2.449,
+				"ilscore": 53,
+				"submission_time_diff": -5854000
+			}
+		]
+	},
+	{
+		"jammer": "Stellar Studio",
+		"jammer_link": "https://stellar-studio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Farmer",
+				"title_link": "https://stellar-studio.itch.io/electric-farmer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676189",
+				"by_list": [
+					"Stellar Studio"
+				],
+				"by_link_list": [
+					"https://stellar-studio.itch.io/"
+				],
+				"rank": 85,
+				"ratings": 12,
+				"score": 2.417,
+				"ilscore": 52,
+				"submission_time_diff": 5617000
+			}
+		]
+	},
+	{
+		"jammer": "xio's Lab",
+		"jammer_link": "https://xioslab.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Citadel",
+				"title_link": "https://xioslab.itch.io/electric-citadel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676167",
+				"by_list": [
+					"xio's Lab",
+					"Crazy Potato Game Studio"
+				],
+				"by_link_list": [
+					"https://xioslab.itch.io/",
+					"https://crazy-potato-game-studio.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 5,
+				"score": 2.372,
+				"ilscore": 51,
+				"submission_time_diff": -269000
+			}
+		]
+	},
+	{
+		"jammer": "Crazy Potato Game Studio",
+		"jammer_link": "https://crazy-potato-game-studio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electric Citadel",
+				"title_link": "https://xioslab.itch.io/electric-citadel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676167",
+				"by_list": [
+					"xio's Lab",
+					"Crazy Potato Game Studio"
+				],
+				"by_link_list": [
+					"https://xioslab.itch.io/",
+					"https://crazy-potato-game-studio.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 5,
+				"score": 2.372,
+				"ilscore": 51,
+				"submission_time_diff": -269000
+			}
+		]
+	},
+	{
+		"jammer": "Rush1t",
+		"jammer_link": "https://rush1t.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Lightning Defender",
+				"title_link": "https://rush1t.itch.io/lightning-defender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676159",
+				"by_list": [
+					"Rush1t"
+				],
+				"by_link_list": [
+					"https://rush1t.itch.io/"
+				],
+				"rank": 88,
+				"ratings": 10,
+				"score": 2.325,
+				"ilscore": 50,
+				"submission_time_diff": -92000
+			}
+		]
+	},
+	{
+		"jammer": "DumbGC",
+		"jammer_link": "https://dumbgc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Illumination",
+				"title_link": "https://dumbgc.itch.io/illumination",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676188",
+				"by_list": [
+					"DumbGC"
+				],
+				"by_link_list": [
+					"https://dumbgc.itch.io/"
+				],
+				"rank": 89,
+				"ratings": 3,
+				"score": 2.296,
+				"ilscore": 49,
+				"submission_time_diff": 1274000
+			}
+		]
+	},
+	{
+		"jammer": "Americium241",
+		"jammer_link": "https://americium241.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "FLIPSWITCH",
+				"title_link": "https://americium241.itch.io/flipswitch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674213",
+				"by_list": [
+					"Americium241"
+				],
+				"by_link_list": [
+					"https://americium241.itch.io/"
+				],
+				"rank": 90,
+				"ratings": 5,
+				"score": 2.293,
+				"ilscore": 49,
+				"submission_time_diff": -63385000
+			}
+		]
+	},
+	{
+		"jammer": "KaizarNike",
+		"jammer_link": "https://kaizarnike.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Copyfrog and The Electric City",
+				"title_link": "https://kaizarnike.itch.io/copyfrog-and-the-electric-city",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672201",
+				"by_list": [
+					"KaizarNike",
+					"OneWayMusic"
+				],
+				"by_link_list": [
+					"https://kaizarnike.itch.io/",
+					"https://emanueleboth.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 8,
+				"score": 2.281,
+				"ilscore": 49,
+				"submission_time_diff": -2234000
+			}
+		]
+	},
+	{
+		"jammer": "Kopetan Kuretsa",
+		"jammer_link": "https://izjaslaw-ctibor.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Charge the Robot",
+				"title_link": "https://izjaslaw-ctibor.itch.io/charge-the-robot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673526",
+				"by_list": [
+					"Kopetan Kuretsa"
+				],
+				"by_link_list": [
+					"https://izjaslaw-ctibor.itch.io/"
 				],
 				"rank": 92,
-				"ratings": 1,
-				"score": 0.919,
-				"ilscore": 17,
-				"submission_time_diff": -104611000
+				"ratings": 10,
+				"score": 2.275,
+				"ilscore": 49,
+				"submission_time_diff": -102889000
 			}
 		]
 	},
 	{
-		"jammer": "PeachyTea",
-		"jammer_link": "https://anio.itch.io/",
+		"jammer": "6cpz",
+		"jammer_link": "https://6cpz.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
-				"title": "Mush You Tempt Me?",
-				"title_link": "https://anio.itch.io/mush-you-tempt-me",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2639862",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Lightning Round",
+				"title_link": "https://6cpz.itch.io/lightning-round",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675236",
 				"by_list": [
-					"PeachyTea"
+					"6cpz"
 				],
 				"by_link_list": [
-					"https://anio.itch.io/"
+					"https://6cpz.itch.io/"
 				],
 				"rank": 93,
-				"ratings": 1,
-				"score": 0.714,
-				"ilscore": 13,
-				"submission_time_diff": 311482000
+				"ratings": 6,
+				"score": 2.273,
+				"ilscore": 49,
+				"submission_time_diff": -30485000
 			}
 		]
 	},
 	{
-		"jammer": "Chicken_Nugget3941",
-		"jammer_link": "https://chicken-nugget3941.itch.io/",
+		"jammer": "Dooke",
+		"jammer_link": "https://dooke.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 94,
-				"title": "Mushroom MX Biking",
-				"title_link": "https://chicken-nugget3941.itch.io/mushroom-mx-biking",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2645009",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Battery Burglary",
+				"title_link": "https://dooke.itch.io/battery-burglary",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673867",
 				"by_list": [
-					"Chicken_Nugget3941"
+					"Dooke"
 				],
 				"by_link_list": [
-					"https://chicken-nugget3941.itch.io/"
+					"https://dooke.itch.io/"
 				],
 				"rank": 94,
-				"ratings": 1,
-				"score": 0.408,
-				"ilscore": 7,
-				"submission_time_diff": -42835000
+				"ratings": 5,
+				"score": 2.253,
+				"ilscore": 49,
+				"submission_time_diff": 32691000
+			}
+		]
+	},
+	{
+		"jammer": "FilthyMinx",
+		"jammer_link": "https://filthyminx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Spark of Urgency",
+				"title_link": "https://filthyminx.itch.io/spark-of-urgency",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673764",
+				"by_list": [
+					"FilthyMinx"
+				],
+				"by_link_list": [
+					"https://filthyminx.itch.io/"
+				],
+				"rank": 95,
+				"ratings": 6,
+				"score": 2.237,
+				"ilscore": 48,
+				"submission_time_diff": -64065000
+			}
+		]
+	},
+	{
+		"jammer": "en0by",
+		"jammer_link": "https://en0by.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Spark Summoner",
+				"title_link": "https://en0by.itch.io/spark-summoner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676181",
+				"by_list": [
+					"en0by"
+				],
+				"by_link_list": [
+					"https://en0by.itch.io/"
+				],
+				"rank": 96,
+				"ratings": 6,
+				"score": 2.201,
+				"ilscore": 47,
+				"submission_time_diff": -88000
+			}
+		]
+	},
+	{
+		"jammer": "alepe",
+		"jammer_link": "https://alepe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "ELEGUN",
+				"title_link": "https://alepe.itch.io/elegun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670999",
+				"by_list": [
+					"alepe"
+				],
+				"by_link_list": [
+					"https://alepe.itch.io/"
+				],
+				"rank": 97,
+				"ratings": 3,
+				"score": 2.194,
+				"ilscore": 47,
+				"submission_time_diff": -220096000
+			}
+		]
+	},
+	{
+		"jammer": "Dodouce",
+		"jammer_link": "https://dodouce.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Vampires Paradise",
+				"title_link": "https://dodouce.itch.io/vampires-paradise",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675192",
+				"by_list": [
+					"Dodouce"
+				],
+				"by_link_list": [
+					"https://dodouce.itch.io/"
+				],
+				"rank": 98,
+				"ratings": 6,
+				"score": 2.165,
+				"ilscore": 47,
+				"submission_time_diff": -31407000
+			}
+		]
+	},
+	{
+		"jammer": "Angry Piranha Games",
+		"jammer_link": "https://angry-piranha-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "A Plug's Life",
+				"title_link": "https://angry-piranha-games.itch.io/a-plugs-life",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673615",
+				"by_list": [
+					"Angry Piranha Games"
+				],
+				"by_link_list": [
+					"https://angry-piranha-games.itch.io/"
+				],
+				"rank": 100,
+				"ratings": 5,
+				"score": 2.135,
+				"ilscore": 46,
+				"submission_time_diff": -16439000
+			}
+		]
+	},
+	{
+		"jammer": "rau-itch",
+		"jammer_link": "https://rau-itch.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Crank",
+				"title_link": "https://rau-itch.itch.io/crank",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676174",
+				"by_list": [
+					"rau-itch"
+				],
+				"by_link_list": [
+					"https://rau-itch.itch.io/"
+				],
+				"rank": 101,
+				"ratings": 4,
+				"score": 2.121,
+				"ilscore": 46,
+				"submission_time_diff": -324000
+			}
+		]
+	},
+	{
+		"jammer": "khokun",
+		"jammer_link": "https://khokun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Electrical Forest",
+				"title_link": "https://khokun.itch.io/electrical-forest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675617",
+				"by_list": [
+					"khokun"
+				],
+				"by_link_list": [
+					"https://khokun.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 9,
+				"score": 2.111,
+				"ilscore": 45,
+				"submission_time_diff": -12218000
+			}
+		]
+	},
+	{
+		"jammer": "Anduezadev",
+		"jammer_link": "https://anduezadev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "P0-CH45",
+				"title_link": "https://anduezadev.itch.io/p0-ch45",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675760",
+				"by_list": [
+					"Anduezadev"
+				],
+				"by_link_list": [
+					"https://anduezadev.itch.io/"
+				],
+				"rank": 103,
+				"ratings": 5,
+				"score": 2.055,
+				"ilscore": 44,
+				"submission_time_diff": -16148000
+			}
+		]
+	},
+	{
+		"jammer": "Maple Games",
+		"jammer_link": "https://mrmaplesyrup.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Bixel the Scavenger - Mini Jam 157",
+				"title_link": "https://mrmaplesyrup.itch.io/bixel-the-scavenger-mini-jam-157",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674723",
+				"by_list": [
+					"Maple Games"
+				],
+				"by_link_list": [
+					"https://mrmaplesyrup.itch.io/"
+				],
+				"rank": 104,
+				"ratings": 3,
+				"score": 2.041,
+				"ilscore": 44,
+				"submission_time_diff": -43972000
+			}
+		]
+	},
+	{
+		"jammer": "talayavodichka",
+		"jammer_link": "https://talayavodichka.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Meriem",
+				"title_link": "https://talayavodichka.itch.io/meriem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671400",
+				"by_list": [
+					"talayavodichka"
+				],
+				"by_link_list": [
+					"https://talayavodichka.itch.io/"
+				],
+				"rank": 105,
+				"ratings": 4,
+				"score": 2.033,
+				"ilscore": 44,
+				"submission_time_diff": -206018000
+			}
+		]
+	},
+	{
+		"jammer": "ITZCOOPER",
+		"jammer_link": "https://itzcooper.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Parkour Power Electric",
+				"title_link": "https://itzcooper.itch.io/parkour-power-electric",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672161",
+				"by_list": [
+					"ITZCOOPER"
+				],
+				"by_link_list": [
+					"https://itzcooper.itch.io/"
+				],
+				"rank": 108,
+				"ratings": 4,
+				"score": 1.989,
+				"ilscore": 43,
+				"submission_time_diff": -170366000
+			}
+		]
+	},
+	{
+		"jammer": "Matt²Games",
+		"jammer_link": "https://mattsquaredgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Sparky's Battery Bonanza",
+				"title_link": "https://mattsquaredgames.itch.io/sparkys-battery-bonanza",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676084",
+				"by_list": [
+					"Matt²Games",
+					"CysticSleet51",
+					"AttractiveAxe"
+				],
+				"by_link_list": [
+					"https://mattsquaredgames.itch.io/",
+					"https://cysticsleet51.itch.io/",
+					"https://attractiveaxe.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 6,
+				"score": 1.985,
+				"ilscore": 43,
+				"submission_time_diff": 5623000
+			}
+		]
+	},
+	{
+		"jammer": "CysticSleet51",
+		"jammer_link": "https://cysticsleet51.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Sparky's Battery Bonanza",
+				"title_link": "https://mattsquaredgames.itch.io/sparkys-battery-bonanza",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676084",
+				"by_list": [
+					"Matt²Games",
+					"CysticSleet51",
+					"AttractiveAxe"
+				],
+				"by_link_list": [
+					"https://mattsquaredgames.itch.io/",
+					"https://cysticsleet51.itch.io/",
+					"https://attractiveaxe.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 6,
+				"score": 1.985,
+				"ilscore": 43,
+				"submission_time_diff": 5623000
+			}
+		]
+	},
+	{
+		"jammer": "AttractiveAxe",
+		"jammer_link": "https://attractiveaxe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Sparky's Battery Bonanza",
+				"title_link": "https://mattsquaredgames.itch.io/sparkys-battery-bonanza",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676084",
+				"by_list": [
+					"Matt²Games",
+					"CysticSleet51",
+					"AttractiveAxe"
+				],
+				"by_link_list": [
+					"https://mattsquaredgames.itch.io/",
+					"https://cysticsleet51.itch.io/",
+					"https://attractiveaxe.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 6,
+				"score": 1.985,
+				"ilscore": 43,
+				"submission_time_diff": 5623000
+			}
+		]
+	},
+	{
+		"jammer": "CTX_112266",
+		"jammer_link": "https://ctx-112266.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "ElectroBall",
+				"title_link": "https://ctx-112266.itch.io/electroball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673192",
+				"by_list": [
+					"CTX_112266"
+				],
+				"by_link_list": [
+					"https://ctx-112266.itch.io/"
+				],
+				"rank": 111,
+				"ratings": 6,
+				"score": 1.804,
+				"ilscore": 39,
+				"submission_time_diff": -117224000
+			}
+		]
+	},
+	{
+		"jammer": "TowaFR",
+		"jammer_link": "https://towafr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Magnet Rush",
+				"title_link": "https://towafr.itch.io/magnet-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674107",
+				"by_list": [
+					"TowaFR"
+				],
+				"by_link_list": [
+					"https://towafr.itch.io/"
+				],
+				"rank": 112,
+				"ratings": 3,
+				"score": 1.786,
+				"ilscore": 38,
+				"submission_time_diff": -67000000
+			}
+		]
+	},
+	{
+		"jammer": "Admstudiosofficial",
+		"jammer_link": "https://admstudiosofficial.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Flappy bird",
+				"title_link": "https://admstudiosofficial.itch.io/flappy-bird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674117",
+				"by_list": [
+					"Admstudiosofficial"
+				],
+				"by_link_list": [
+					"https://admstudiosofficial.itch.io/"
+				],
+				"rank": 113,
+				"ratings": 17,
+				"score": 1.779,
+				"ilscore": 38,
+				"submission_time_diff": -39250000
+			}
+		]
+	},
+	{
+		"jammer": "ProbablyDanny",
+		"jammer_link": "https://probablydanny.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Anti-Battery",
+				"title_link": "https://probablydanny.itch.io/anti-battery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676109",
+				"by_list": [
+					"ProbablyDanny"
+				],
+				"by_link_list": [
+					"https://probablydanny.itch.io/"
+				],
+				"rank": 115,
+				"ratings": 5,
+				"score": 1.739,
+				"ilscore": 37,
+				"submission_time_diff": -2620000
+			}
+		]
+	},
+	{
+		"jammer": "PantherKnight",
+		"jammer_link": "https://pantherknight.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "GET TO WORK",
+				"title_link": "https://pantherknight.itch.io/get-to-work",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675465",
+				"by_list": [
+					"PantherKnight"
+				],
+				"by_link_list": [
+					"https://pantherknight.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 4,
+				"score": 1.547,
+				"ilscore": 33,
+				"submission_time_diff": -25479000
+			}
+		]
+	},
+	{
+		"jammer": "lyricsz",
+		"jammer_link": "https://lyricsz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Robolite",
+				"title_link": "https://lyricsz.itch.io/robolite",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674696",
+				"by_list": [
+					"lyricsz"
+				],
+				"by_link_list": [
+					"https://lyricsz.itch.io/"
+				],
+				"rank": 117,
+				"ratings": 5,
+				"score": 1.502,
+				"ilscore": 32,
+				"submission_time_diff": -44465000
+			}
+		]
+	},
+	{
+		"jammer": "pítr d dog",
+		"jammer_link": "https://pitrddog.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Hard Timer",
+				"title_link": "https://pitrddog.itch.io/hard-timer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675918",
+				"by_list": [
+					"pítr d dog"
+				],
+				"by_link_list": [
+					"https://pitrddog.itch.io/"
+				],
+				"rank": 118,
+				"ratings": 3,
+				"score": 1.48,
+				"ilscore": 32,
+				"submission_time_diff": -10138000
+			}
+		]
+	},
+	{
+		"jammer": "Starberg",
+		"jammer_link": "https://starberg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Louie's Adventure",
+				"title_link": "https://starberg.itch.io/louies-adventure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675928",
+				"by_list": [
+					"Starberg"
+				],
+				"by_link_list": [
+					"https://starberg.itch.io/"
+				],
+				"rank": 119,
+				"ratings": 2,
+				"score": 1.188,
+				"ilscore": 25,
+				"submission_time_diff": -7670000
+			}
+		]
+	},
+	{
+		"jammer": "stevenwarner991@gmail.com",
+		"jammer_link": "https://stevenwarner991gmailcom.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 121,
+				"title": "Avoid",
+				"title_link": "https://stevenwarner991gmailcom.itch.io/avoid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2656976",
+				"by_list": [
+					"stevenwarner991@gmail.com"
+				],
+				"by_link_list": [
+					"https://stevenwarner991gmailcom.itch.io/"
+				],
+				"rank": 120,
+				"ratings": 4,
+				"score": 0.884,
+				"ilscore": 19,
+				"submission_time_diff": -112083000
 			}
 		]
 	}
