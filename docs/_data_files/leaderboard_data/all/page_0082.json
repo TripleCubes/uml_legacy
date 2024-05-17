@@ -1,5 +1,67 @@
 [
 	{
+		"jammer": "BryanO",
+		"jammer_link": "https://bryano.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 211,
+				"title": "Web Hop",
+				"title_link": "https://muddddd.itch.io/web-hop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868424",
+				"by_list": [
+					"Mudd",
+					"BryanO",
+					"albelock"
+				],
+				"by_link_list": [
+					"https://muddddd.itch.io/",
+					"https://bryano.itch.io/",
+					"https://albelock.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 18,
+				"score": 3.458,
+				"ilscore": 93,
+				"submission_time_diff": -33056000
+			}
+		]
+	},
+	{
+		"jammer": "albelock",
+		"jammer_link": "https://albelock.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 211,
+				"title": "Web Hop",
+				"title_link": "https://muddddd.itch.io/web-hop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868424",
+				"by_list": [
+					"Mudd",
+					"BryanO",
+					"albelock"
+				],
+				"by_link_list": [
+					"https://muddddd.itch.io/",
+					"https://bryano.itch.io/",
+					"https://albelock.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 18,
+				"score": 3.458,
+				"ilscore": 93,
+				"submission_time_diff": -33056000
+			}
+		]
+	},
+	{
 		"jammer": "lemon juice",
 		"jammer_link": "https://lemonjuice17.itch.io/",
 		"game_list_sorted": [
@@ -220,7 +282,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Auto Store",
 				"title_link": "https://shunpeng1.itch.io/auto-store",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113090",
@@ -990,7 +1052,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Love Letter",
 				"title_link": "https://crazy-vixen.itch.io/love-letter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2090880",
@@ -3548,62 +3610,6 @@
 				"score": 1.838,
 				"ilscore": 49,
 				"submission_time_diff": -8298000
-			}
-		]
-	},
-	{
-		"jammer": "HitOrMissDev",
-		"jammer_link": "https://hitormissdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
-				"title": "Cliffhanger",
-				"title_link": "https://hitormissdev.itch.io/cliffhanger",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869231",
-				"by_list": [
-					"HitOrMissDev"
-				],
-				"by_link_list": [
-					"https://hitormissdev.itch.io/"
-				],
-				"rank": 167,
-				"ratings": 5,
-				"score": 1.838,
-				"ilscore": 49,
-				"submission_time_diff": -12882000
-			}
-		]
-	},
-	{
-		"jammer": "Gamrets",
-		"jammer_link": "https://gamrets.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
-				"title": "PAWS-LAB",
-				"title_link": "https://gamrets.itch.io/paws-lab",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869209",
-				"by_list": [
-					"Gamrets",
-					"thibor13"
-				],
-				"by_link_list": [
-					"https://gamrets.itch.io/",
-					"https://thibor13.itch.io/"
-				],
-				"rank": 171,
-				"ratings": 6,
-				"score": 1.807,
-				"ilscore": 48,
-				"submission_time_diff": -13164000
 			}
 		]
 	}

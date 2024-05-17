@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "cactus_cat",
+		"jammer_link": "https://cactus-cat-bruh.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "Lucky's Bubbles",
+				"title_link": "https://cactus-cat-bruh.itch.io/luckys-bubbles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121982",
+				"by_list": [
+					"cactus_cat"
+				],
+				"by_link_list": [
+					"https://cactus-cat-bruh.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 10,
+				"score": 2.9,
+				"ilscore": 68,
+				"submission_time_diff": 4161000
+			}
+		]
+	},
+	{
 		"jammer": "TimMelnikov",
 		"jammer_link": "https://timmelnikov.itch.io/",
 		"game_list_sorted": [
@@ -1145,7 +1172,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Offset Archipelago",
 				"title_link": "https://laptopcoder11.itch.io/offset-archipelago",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2111276",
@@ -1158,7 +1185,7 @@
 				"rank": 26,
 				"ratings": 12,
 				"score": 3.604,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -2345000
 			},
 			{
@@ -3943,33 +3970,6 @@
 				"score": 3.14,
 				"ilscore": 78,
 				"submission_time_diff": -41955000
-			}
-		]
-	},
-	{
-		"jammer": "PixeladeStudios",
-		"jammer_link": "https://pixeladestudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
-				"title": "A u, Thief!",
-				"title_link": "https://pixeladestudios.itch.io/a-u-thief",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137088",
-				"by_list": [
-					"PixeladeStudios"
-				],
-				"by_link_list": [
-					"https://pixeladestudios.itch.io/"
-				],
-				"rank": 52,
-				"ratings": 9,
-				"score": 3.139,
-				"ilscore": 78,
-				"submission_time_diff": -37748000
 			}
 		]
 	}

@@ -1,5 +1,38 @@
 [
 	{
+		"jammer": "Desichan",
+		"jammer_link": "https://desichan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Flop Friction",
+				"title_link": "https://lehandesigns.itch.io/flop-friction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026077",
+				"by_list": [
+					"Lehan Botha",
+					"Desichan",
+					"Tudor",
+					"nooisy"
+				],
+				"by_link_list": [
+					"https://lehandesigns.itch.io/",
+					"https://desichan.itch.io/",
+					"https://tudordrobota.itch.io/",
+					"https://nooisy.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 49,
+				"score": 3.658,
+				"ilscore": 93,
+				"submission_time_diff": -618000
+			}
+		]
+	},
+	{
 		"jammer": "Tudor",
 		"jammer_link": "https://tudordrobota.itch.io/",
 		"game_list_sorted": [
@@ -477,7 +510,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Joust Crab",
 				"title_link": "https://calalinta.itch.io/joustcrab",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570511",
@@ -1613,7 +1646,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "O'Fishal Fishing",
 				"title_link": "https://happy-games.itch.io/ofishal-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572023",
@@ -2671,7 +2704,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "One-Hit Arena",
 				"title_link": "https://denis-tuners.itch.io/one-hit-arena",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570265",
@@ -3777,33 +3810,6 @@
 				"score": 1.917,
 				"ilscore": 49,
 				"submission_time_diff": -3445000
-			}
-		]
-	},
-	{
-		"jammer": "SBREN_SBEVE",
-		"jammer_link": "https://sbren-sbeve.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "PLAT - F",
-				"title_link": "https://sbren-sbeve.itch.io/plat-f",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025089",
-				"by_list": [
-					"SBREN_SBEVE"
-				],
-				"by_link_list": [
-					"https://sbren-sbeve.itch.io/"
-				],
-				"rank": 168,
-				"ratings": 6,
-				"score": 1.904,
-				"ilscore": 48,
-				"submission_time_diff": -39016000
 			}
 		]
 	}

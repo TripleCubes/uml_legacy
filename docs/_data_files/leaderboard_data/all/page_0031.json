@@ -1,5 +1,40 @@
 [
 	{
+		"jammer": "GFelberg",
+		"jammer_link": "https://gfelberg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"jam_vs": 171,
+				"title": "RG&amp;B",
+				"title_link": "https://the-hat-guy.itch.io/rgb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/911640",
+				"by_list": [
+					"The_Hat_Guy",
+					"Murisocrates",
+					"GFelberg",
+					"txera",
+					"weltmano"
+				],
+				"by_link_list": [
+					"https://the-hat-guy.itch.io/",
+					"https://murisocrates.itch.io/",
+					"https://gfelberg.itch.io/",
+					"https://txera.itch.io/",
+					"https://weltmano.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 19,
+				"score": 3.776,
+				"ilscore": 94,
+				"submission_time_diff": -12194000
+			}
+		]
+	},
+	{
 		"jammer": "txera",
 		"jammer_link": "https://txera.itch.io/",
 		"game_list_sorted": [
@@ -3778,54 +3813,6 @@
 				"score": 2.298,
 				"ilscore": 57,
 				"submission_time_diff": -19690000
-			}
-		]
-	},
-	{
-		"jammer": "Bernartik",
-		"jammer_link": "https://bernartik.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
-				"title": "Gifts for Fuschia",
-				"title_link": "https://bernartik.itch.io/gifts-for-fuschia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347684",
-				"by_list": [
-					"Bernartik"
-				],
-				"by_link_list": [
-					"https://bernartik.itch.io/"
-				],
-				"rank": 25,
-				"ratings": 14,
-				"score": 3.429,
-				"ilscore": 70,
-				"submission_time_diff": -12475000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Danger Charge",
-				"title_link": "https://bernartik.itch.io/danger-charge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912945",
-				"by_list": [
-					"Bernartik"
-				],
-				"by_link_list": [
-					"https://bernartik.itch.io/"
-				],
-				"rank": 130,
-				"ratings": 4,
-				"score": 2.293,
-				"ilscore": 57,
-				"submission_time_diff": -5315000
 			}
 		]
 	}

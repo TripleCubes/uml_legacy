@@ -128,7 +128,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Dungeon Shapest",
 				"title_link": "https://casualbystander.itch.io/dungeon-shapest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2094242",
@@ -141,7 +141,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.286,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": 71292000
 			}
 		]
@@ -1276,10 +1276,76 @@
 				"title_link": "https://horsehead.itch.io/team-swap-heroes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
 				"by_list": [
-					"Team Horsehead"
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
 				],
 				"by_link_list": [
-					"https://horsehead.itch.io/"
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.19,
+				"ilscore": 48,
+				"submission_time_diff": -16193000
+			}
+		]
+	},
+	{
+		"jammer": "Amy Elliott",
+		"jammer_link": "https://amy-elliott.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"jam_vs": 32,
+				"title": "Team Swap Heroes",
+				"title_link": "https://horsehead.itch.io/team-swap-heroes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
+				"by_list": [
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
+				],
+				"by_link_list": [
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.19,
+				"ilscore": 48,
+				"submission_time_diff": -16193000
+			}
+		]
+	},
+	{
+		"jammer": "Joe Shanahan",
+		"jammer_link": "https://joe-shanahan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"jam_vs": 32,
+				"title": "Team Swap Heroes",
+				"title_link": "https://horsehead.itch.io/team-swap-heroes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
+				"by_list": [
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
+				],
+				"by_link_list": [
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 20,
@@ -1514,6 +1580,33 @@
 		]
 	},
 	{
+		"jammer": "Celtican",
+		"jammer_link": "https://celtican.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Kill the Dungeon Shopkeeper",
+				"title_link": "https://celtican.itch.io/kill-the-dungeon-shopkeeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705184",
+				"by_list": [
+					"Celtican"
+				],
+				"by_link_list": [
+					"https://celtican.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 9,
+				"score": 4.167,
+				"ilscore": 63,
+				"submission_time_diff": 41900000
+			}
+		]
+	},
+	{
 		"jammer": "Thulko",
 		"jammer_link": "https://thulko.itch.io/",
 		"game_list_sorted": [
@@ -1725,7 +1818,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -1754,7 +1847,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -2805,95 +2898,6 @@
 				"score": 3.643,
 				"ilscore": 25,
 				"submission_time_diff": -54000
-			}
-		]
-	},
-	{
-		"jammer": "Hawkigamer1",
-		"jammer_link": "https://hawkigamer1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "DeRailed",
-				"title_link": "https://flalcon.itch.io/derailed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536469",
-				"by_list": [
-					"Flalcon",
-					"Hawkigamer1",
-					"kajdev"
-				],
-				"by_link_list": [
-					"https://flalcon.itch.io/",
-					"https://hawkigamer1.itch.io/",
-					"https://kajdev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": -54000
-			}
-		]
-	},
-	{
-		"jammer": "kajdev",
-		"jammer_link": "https://kajdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "DeRailed",
-				"title_link": "https://flalcon.itch.io/derailed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536469",
-				"by_list": [
-					"Flalcon",
-					"Hawkigamer1",
-					"kajdev"
-				],
-				"by_link_list": [
-					"https://flalcon.itch.io/",
-					"https://hawkigamer1.itch.io/",
-					"https://kajdev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": -54000
-			}
-		]
-	},
-	{
-		"jammer": "Saturnaut",
-		"jammer_link": "https://saturnaut.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "9 Lives",
-				"title_link": "https://saturnaut.itch.io/9lives",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536512",
-				"by_list": [
-					"Saturnaut"
-				],
-				"by_link_list": [
-					"https://saturnaut.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": 253000
 			}
 		]
 	}

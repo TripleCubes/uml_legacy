@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "LukasWho",
+		"jammer_link": "https://lukaswho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"jam_vs": 139,
+				"title": "Leaping Anyway",
+				"title_link": "https://lukaswho.itch.io/leaping-anyway",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983113",
+				"by_list": [
+					"LukasWho"
+				],
+				"by_link_list": [
+					"https://lukaswho.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 20,
+				"score": 3.587,
+				"ilscore": 82,
+				"submission_time_diff": -4760000
+			}
+		]
+	},
+	{
 		"jammer": "Indrexx",
 		"jammer_link": "https://indrexx.itch.io/",
 		"game_list_sorted": [
@@ -2904,7 +2931,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Octo Panic",
 				"title_link": "https://moosdruide13.itch.io/octo-panic",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572033",
@@ -4423,33 +4450,6 @@
 				"score": 1.251,
 				"ilscore": 28,
 				"submission_time_diff": -59352000
-			}
-		]
-	},
-	{
-		"jammer": "eksabite",
-		"jammer_link": "https://eksabite.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "HellYeah",
-				"title_link": "https://eksabite.itch.io/hellyeah",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984292",
-				"by_list": [
-					"eksabite"
-				],
-				"by_link_list": [
-					"https://eksabite.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 1,
-				"score": 1.25,
-				"ilscore": 28,
-				"submission_time_diff": -315000
 			}
 		]
 	}

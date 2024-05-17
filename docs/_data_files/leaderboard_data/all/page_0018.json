@@ -1,5 +1,80 @@
 [
 	{
+		"jammer": "AndreRM",
+		"jammer_link": "https://andrerm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "Perfect Crime",
+				"title_link": "https://andrerm.itch.io/perfect-crime",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726806",
+				"by_list": [
+					"AndreRM"
+				],
+				"by_link_list": [
+					"https://andrerm.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 8,
+				"score": 4.25,
+				"ilscore": 69,
+				"submission_time_diff": -1150000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Oasis Runner",
+				"title_link": "https://andrerm.itch.io/oasis-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/631775",
+				"by_list": [
+					"AndreRM"
+				],
+				"by_link_list": [
+					"https://andrerm.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 7,
+				"score": 3.402,
+				"ilscore": 52,
+				"submission_time_diff": -23886000
+			}
+		]
+	},
+	{
+		"jammer": "TackerTacker",
+		"jammer_link": "https://tackertacker.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "FuzzballMcFuzzFace",
+				"title_link": "https://tackertacker.itch.io/fuzzballmcfuzzface",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/630518",
+				"by_list": [
+					"TackerTacker"
+				],
+				"by_link_list": [
+					"https://tackertacker.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 9,
+				"score": 3.378,
+				"ilscore": 52,
+				"submission_time_diff": -23100000
+			}
+		]
+	},
+	{
 		"jammer": "Acropolise",
 		"jammer_link": "https://acropolis.itch.io/",
 		"game_list_sorted": [
@@ -1123,7 +1198,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Island Hop",
 				"title_link": "https://ssdf.itch.io/island-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113511",
@@ -1136,7 +1211,7 @@
 				"rank": 4,
 				"ratings": 41,
 				"score": 4.03,
-				"ilscore": 85,
+				"ilscore": 84,
 				"submission_time_diff": -17897000
 			},
 			{
@@ -3790,60 +3865,6 @@
 				"score": 1.948,
 				"ilscore": 37,
 				"submission_time_diff": -24251000
-			}
-		]
-	},
-	{
-		"jammer": "Nover",
-		"jammer_link": "https://nover.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Forever Dazed",
-				"title_link": "https://nover.itch.io/forever-dazed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647167",
-				"by_list": [
-					"Nover"
-				],
-				"by_link_list": [
-					"https://nover.itch.io/"
-				],
-				"rank": 80,
-				"ratings": 3,
-				"score": 1.766,
-				"ilscore": 34,
-				"submission_time_diff": -23867000
-			}
-		]
-	},
-	{
-		"jammer": "CrowG27",
-		"jammer_link": "https://crowg27.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Reuben",
-				"title_link": "https://crowg27.itch.io/reuben",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647146",
-				"by_list": [
-					"CrowG27"
-				],
-				"by_link_list": [
-					"https://crowg27.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 2,
-				"score": 1.72,
-				"ilscore": 33,
-				"submission_time_diff": -24880000
 			}
 		]
 	}

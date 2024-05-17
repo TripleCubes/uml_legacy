@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Hobby",
+		"jammer_link": "https://game-of-groans.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"jam_vs": 110,
+				"title": "Viral Wall",
+				"title_link": "https://game-of-groans.itch.io/viral-wall-prologue",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1103879",
+				"by_list": [
+					"Hobby"
+				],
+				"by_link_list": [
+					"https://game-of-groans.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 8,
+				"score": 2.313,
+				"ilscore": 48,
+				"submission_time_diff": -102316000
+			}
+		]
+	},
+	{
 		"jammer": "JimBorne",
 		"jammer_link": "https://jimborne.itch.io/",
 		"game_list_sorted": [
@@ -1901,7 +1928,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "CHRONO TEMPEST",
 				"title_link": "https://mfproject.itch.io/chrono-tempest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676194",
@@ -1970,7 +1997,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Sea Toss",
 				"title_link": "https://razziefox.itch.io/sea-toss",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1568604",
@@ -3950,33 +3977,6 @@
 				"score": 1.476,
 				"ilscore": 38,
 				"submission_time_diff": -331000
-			}
-		]
-	},
-	{
-		"jammer": "cactus_cat",
-		"jammer_link": "https://cactus-cat-bruh.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 84,
-				"jam_name": "Bubbles",
-				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
-				"title": "Lucky's Bubbles",
-				"title_link": "https://cactus-cat-bruh.itch.io/luckys-bubbles",
-				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121982",
-				"by_list": [
-					"cactus_cat"
-				],
-				"by_link_list": [
-					"https://cactus-cat-bruh.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 10,
-				"score": 2.9,
-				"ilscore": 68,
-				"submission_time_diff": 4161000
 			}
 		]
 	}

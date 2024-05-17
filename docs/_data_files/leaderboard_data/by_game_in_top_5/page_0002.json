@@ -1,5 +1,38 @@
 [
 	{
+		"jammer": "MarblesFr",
+		"jammer_link": "https://marblesfr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"jam_vs": 79,
+				"title": "Chugga' Chugga' Chop Chop",
+				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
+				"by_list": [
+					"MarblesFr",
+					"raph",
+					"Fylipp",
+					"danielgangl"
+				],
+				"by_link_list": [
+					"https://marblesfr.itch.io/",
+					"https://raph7.itch.io/",
+					"https://fylipp.itch.io/",
+					"https://danielgangl.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.275,
+				"ilscore": 77,
+				"submission_time_diff": 43894000
+			}
+		]
+	},
+	{
 		"jammer": "raph",
 		"jammer_link": "https://raph7.itch.io/",
 		"game_list_sorted": [
@@ -816,10 +849,76 @@
 				"title_link": "https://horsehead.itch.io/team-swap-heroes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
 				"by_list": [
-					"Team Horsehead"
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
 				],
 				"by_link_list": [
-					"https://horsehead.itch.io/"
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.19,
+				"ilscore": 48,
+				"submission_time_diff": -16193000
+			}
+		]
+	},
+	{
+		"jammer": "Amy Elliott",
+		"jammer_link": "https://amy-elliott.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"jam_vs": 32,
+				"title": "Team Swap Heroes",
+				"title_link": "https://horsehead.itch.io/team-swap-heroes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
+				"by_list": [
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
+				],
+				"by_link_list": [
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.19,
+				"ilscore": 48,
+				"submission_time_diff": -16193000
+			}
+		]
+	},
+	{
+		"jammer": "Joe Shanahan",
+		"jammer_link": "https://joe-shanahan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"jam_vs": 32,
+				"title": "Team Swap Heroes",
+				"title_link": "https://horsehead.itch.io/team-swap-heroes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575095",
+				"by_list": [
+					"Team Horsehead",
+					"Amy Elliott",
+					"Joe Shanahan"
+				],
+				"by_link_list": [
+					"https://horsehead.itch.io/",
+					"https://amy-elliott.itch.io/",
+					"https://joe-shanahan.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 20,
@@ -992,6 +1091,33 @@
 				"score": 4.167,
 				"ilscore": 67,
 				"submission_time_diff": 132499000
+			}
+		]
+	},
+	{
+		"jammer": "Celtican",
+		"jammer_link": "https://celtican.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Kill the Dungeon Shopkeeper",
+				"title_link": "https://celtican.itch.io/kill-the-dungeon-shopkeeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705184",
+				"by_list": [
+					"Celtican"
+				],
+				"by_link_list": [
+					"https://celtican.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 9,
+				"score": 4.167,
+				"ilscore": 63,
+				"submission_time_diff": 41900000
 			}
 		]
 	},
@@ -1207,7 +1333,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -1236,7 +1362,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -2583,7 +2709,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "Express Electrical Emergencies",
 				"title_link": "https://olanti.itch.io/express-electrical-emergencies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676111",
@@ -2772,120 +2898,6 @@
 				"score": 4.304,
 				"ilscore": 117,
 				"submission_time_diff": -4574000
-			}
-		]
-	},
-	{
-		"jammer": "Domeen0",
-		"jammer_link": "https://domeen0.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
-				"title": "Carpin' Around",
-				"title_link": "https://filipex2000.itch.io/carpin-around",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563580",
-				"by_list": [
-					"fil",
-					"Domeen0"
-				],
-				"by_link_list": [
-					"https://filipex2000.itch.io/",
-					"https://domeen0.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 26,
-				"score": 4.298,
-				"ilscore": 115,
-				"submission_time_diff": -21815000
-			}
-		]
-	},
-	{
-		"jammer": "Brainoid",
-		"jammer_link": "https://brainoid.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"jam_vs": 45,
-				"title": "Spirits Within : The Washing Machine?",
-				"title_link": "https://brainoid.itch.io/spirits-within-the-washing-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402522",
-				"by_list": [
-					"Brainoid",
-					"Elthen's Pixel Art Shop"
-				],
-				"by_link_list": [
-					"https://brainoid.itch.io/",
-					"https://elthen.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 34,
-				"score": 4.294,
-				"ilscore": 59,
-				"submission_time_diff": -4734000
-			}
-		]
-	},
-	{
-		"jammer": "Elthen's Pixel Art Shop",
-		"jammer_link": "https://elthen.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"jam_vs": 45,
-				"title": "Spirits Within : The Washing Machine?",
-				"title_link": "https://brainoid.itch.io/spirits-within-the-washing-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402522",
-				"by_list": [
-					"Brainoid",
-					"Elthen's Pixel Art Shop"
-				],
-				"by_link_list": [
-					"https://brainoid.itch.io/",
-					"https://elthen.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 34,
-				"score": 4.294,
-				"ilscore": 59,
-				"submission_time_diff": -4734000
-			}
-		]
-	},
-	{
-		"jammer": "Zander_Games",
-		"jammer_link": "https://zander-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 3,
-				"jam_name": "Major Jam 3: Retro",
-				"jam_link": "https://itch.io/jam/major-jam-3",
-				"jam_vs": 55,
-				"title": "AV",
-				"title_link": "https://zander-games.itch.io/av",
-				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/844574",
-				"by_list": [
-					"Zander_Games"
-				],
-				"by_link_list": [
-					"https://zander-games.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 12,
-				"score": 4.292,
-				"ilscore": 65,
-				"submission_time_diff": -94808000
 			}
 		]
 	}

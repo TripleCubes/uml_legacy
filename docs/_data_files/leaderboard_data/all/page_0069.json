@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "bennettapps",
+		"jammer_link": "https://bennettapps.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 214,
+				"title": "Saru",
+				"title_link": "https://bennettapps.itch.io/saru",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609574",
+				"by_list": [
+					"bennettapps"
+				],
+				"by_link_list": [
+					"https://bennettapps.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 3,
+				"score": 2.019,
+				"ilscore": 54,
+				"submission_time_diff": -865000
+			}
+		]
+	},
+	{
 		"jammer": "KaiKaoMoa",
 		"jammer_link": "https://kaikaomoa.itch.io/",
 		"game_list_sorted": [
@@ -2395,7 +2422,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Ghost Dungeon",
 				"title_link": "https://thatrandomdeveloper.itch.io/ghostdungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089702",
@@ -3269,33 +3296,6 @@
 				"score": 2.95,
 				"ilscore": 79,
 				"submission_time_diff": -819000
-			}
-		]
-	},
-	{
-		"jammer": "Mysterious Worlds",
-		"jammer_link": "https://mysterious-worlds.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "Towermainai",
-				"title_link": "https://mysterious-worlds.itch.io/towermaina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634411",
-				"by_list": [
-					"Mysterious Worlds"
-				],
-				"by_link_list": [
-					"https://mysterious-worlds.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 12,
-				"score": 3.833,
-				"ilscore": 128,
-				"submission_time_diff": -26567000
 			}
 		]
 	}

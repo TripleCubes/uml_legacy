@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "adamnguyen",
+		"jammer_link": "https://adamnguyen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 88,
+				"title": "Candied Hearts",
+				"title_link": "https://adamnguyen.itch.io/candied-hearts",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296918",
+				"by_list": [
+					"adamnguyen"
+				],
+				"by_link_list": [
+					"https://adamnguyen.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 5,
+				"score": 2.086,
+				"ilscore": 39,
+				"submission_time_diff": 584000
+			}
+		]
+	},
+	{
 		"jammer": "GnatCustard",
 		"jammer_link": "https://nathanking.itch.io/",
 		"game_list_sorted": [
@@ -1214,7 +1241,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Stack Island",
 				"title_link": "https://cemkaanu.itch.io/stack-island",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113836",
@@ -1227,7 +1254,7 @@
 				"rank": 22,
 				"ratings": 24,
 				"score": 3.698,
-				"ilscore": 78,
+				"ilscore": 77,
 				"submission_time_diff": -5730000
 			},
 			{
@@ -2462,7 +2489,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "The Seaside Is Infinite",
 				"title_link": "https://newvid.itch.io/seaside-is-infinite",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572522",
@@ -3185,6 +3212,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Shopping-Flash",
+				"title_link": "https://oppodelldog.itch.io/shopping-flash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2704726",
+				"by_list": [
+					"Oppodelldog"
+				],
+				"by_link_list": [
+					"https://oppodelldog.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 7,
+				"score": 2.607,
+				"ilscore": 39,
+				"submission_time_diff": -18175000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 135,
 				"jam_name": "Deception",
 				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
@@ -3230,7 +3278,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Grid Activation: Island Chronicles",
 				"title_link": "https://oppodelldog.itch.io/grid-activation-island-chronicles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112970",
@@ -3424,33 +3472,6 @@
 				"score": 1.271,
 				"ilscore": 20,
 				"submission_time_diff": -130610000
-			}
-		]
-	},
-	{
-		"jammer": "ikk1422",
-		"jammer_link": "https://ikk1422.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 96,
-				"jam_name": "Fate",
-				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 60,
-				"title": "Ghost Runner",
-				"title_link": "https://ikk1422.itch.io/ghost-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332337",
-				"by_list": [
-					"ikk1422"
-				],
-				"by_link_list": [
-					"https://ikk1422.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 6,
-				"score": 1.019,
-				"ilscore": 16,
-				"submission_time_diff": -29405000
 			}
 		]
 	}

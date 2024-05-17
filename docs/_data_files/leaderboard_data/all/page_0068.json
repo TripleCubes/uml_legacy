@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "that-sevvi",
+		"jammer_link": "https://that-sevvi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 214,
+				"title": "Nine Lives",
+				"title_link": "https://ali3ndev.itch.io/nine-lives",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608495",
+				"by_list": [
+					"ali3n",
+					"chaotune",
+					"that-sevvi"
+				],
+				"by_link_list": [
+					"https://ali3ndev.itch.io/",
+					"https://chaotune.itch.io/",
+					"https://that-sevvi.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 38,
+				"score": 3.645,
+				"ilscore": 99,
+				"submission_time_diff": -23167000
+			}
+		]
+	},
+	{
 		"jammer": "Line Swan",
 		"jammer_link": "https://line-swan.itch.io/",
 		"game_list_sorted": [
@@ -461,7 +492,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Chips",
 				"title_link": "https://drdeadlock.itch.io/chips",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113655",
@@ -474,7 +505,7 @@
 				"rank": 31,
 				"ratings": 14,
 				"score": 3.554,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": -482000
 			},
 			{
@@ -482,7 +513,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Station 16",
 				"title_link": "https://drdeadlock.itch.io/gem-factory",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089813",
@@ -495,7 +526,7 @@
 				"rank": 32,
 				"ratings": 14,
 				"score": 3.482,
-				"ilscore": 79,
+				"ilscore": 78,
 				"submission_time_diff": -441000
 			},
 			{
@@ -3627,33 +3658,6 @@
 				"score": 2.019,
 				"ilscore": 54,
 				"submission_time_diff": -12580000
-			}
-		]
-	},
-	{
-		"jammer": "bennettapps",
-		"jammer_link": "https://bennettapps.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Saru",
-				"title_link": "https://bennettapps.itch.io/saru",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609574",
-				"by_list": [
-					"bennettapps"
-				],
-				"by_link_list": [
-					"https://bennettapps.itch.io/"
-				],
-				"rank": 153,
-				"ratings": 3,
-				"score": 2.019,
-				"ilscore": 54,
-				"submission_time_diff": -865000
 			}
 		]
 	}

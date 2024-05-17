@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Name",
+		"jammer_link": "https://hgyvtfgc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"jam_vs": 43,
+				"title": "The Sky is Grey Today",
+				"title_link": "https://hgyvtfgc.itch.io/the-sky-is-grey-today",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268456",
+				"by_list": [
+					"Name"
+				],
+				"by_link_list": [
+					"https://hgyvtfgc.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.365,
+				"ilscore": 45,
+				"submission_time_diff": -5549000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 68,
+				"title": "Watching Nightmares",
+				"title_link": "https://hgyvtfgc.itch.io/watching-nightmares",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341107",
+				"by_list": [
+					"Name"
+				],
+				"by_link_list": [
+					"https://hgyvtfgc.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 12,
+				"score": 3.188,
+				"ilscore": 53,
+				"submission_time_diff": -8830000
+			}
+		]
+	},
+	{
 		"jammer": "Gurpreet Singh Matharoo",
 		"jammer_link": "https://matharoo.itch.io/",
 		"game_list_sorted": [
@@ -1263,8 +1311,8 @@
 		]
 	},
 	{
-		"jammer": "Antisonon",
-		"jammer_link": "https://antisonon.itch.io/",
+		"jammer": "Dark Sun Arts",
+		"jammer_link": "https://darksunarts.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1273,15 +1321,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
 				"jam_vs": 41,
 				"title": "AlienAugur",
-				"title_link": "https://antisonon.itch.io/alienaugur",
+				"title_link": "https://darksunarts.itch.io/alienaugur",
 				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
 				"by_list": [
-					"Antisonon",
+					"Dark Sun Arts",
 					"AskError",
 					"Cane B"
 				],
 				"by_link_list": [
-					"https://antisonon.itch.io/",
+					"https://darksunarts.itch.io/",
 					"https://askerror.itch.io/",
 					"https://cane-b.itch.io/"
 				],
@@ -1298,14 +1346,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
 				"jam_vs": 129,
 				"title": "VANQUISH THEM",
-				"title_link": "https://antisonon.itch.io/vanquish-them",
+				"title_link": "https://darksunarts.itch.io/vanquish-them",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482905",
 				"by_list": [
-					"Antisonon",
+					"Dark Sun Arts",
 					"TankTheta"
 				],
 				"by_link_list": [
-					"https://antisonon.itch.io/",
+					"https://darksunarts.itch.io/",
 					"https://tanktheta.itch.io/"
 				],
 				"rank": 35,
@@ -1316,18 +1364,39 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Danmaku Shopping",
+				"title_link": "https://darksunarts.itch.io/danmaku-shopping",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2712671",
+				"by_list": [
+					"Dark Sun Arts"
+				],
+				"by_link_list": [
+					"https://darksunarts.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 1,
+				"score": 1.134,
+				"ilscore": 17,
+				"submission_time_diff": 325096000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
 				"jam_vs": 95,
 				"title": "DragonPetals",
-				"title_link": "https://antisonon.itch.io/dragonpetals",
+				"title_link": "https://darksunarts.itch.io/dragonpetals",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514725",
 				"by_list": [
-					"Antisonon"
+					"Dark Sun Arts"
 				],
 				"by_link_list": [
-					"https://antisonon.itch.io/"
+					"https://darksunarts.itch.io/"
 				],
 				"rank": 75,
 				"ratings": 4,
@@ -1348,15 +1417,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
 				"jam_vs": 41,
 				"title": "AlienAugur",
-				"title_link": "https://antisonon.itch.io/alienaugur",
+				"title_link": "https://darksunarts.itch.io/alienaugur",
 				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
 				"by_list": [
-					"Antisonon",
+					"Dark Sun Arts",
 					"AskError",
 					"Cane B"
 				],
 				"by_link_list": [
-					"https://antisonon.itch.io/",
+					"https://darksunarts.itch.io/",
 					"https://askerror.itch.io/",
 					"https://cane-b.itch.io/"
 				],
@@ -1379,15 +1448,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
 				"jam_vs": 41,
 				"title": "AlienAugur",
-				"title_link": "https://antisonon.itch.io/alienaugur",
+				"title_link": "https://darksunarts.itch.io/alienaugur",
 				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
 				"by_list": [
-					"Antisonon",
+					"Dark Sun Arts",
 					"AskError",
 					"Cane B"
 				],
 				"by_link_list": [
-					"https://antisonon.itch.io/",
+					"https://darksunarts.itch.io/",
 					"https://askerror.itch.io/",
 					"https://cane-b.itch.io/"
 				],
@@ -1582,8 +1651,8 @@
 		]
 	},
 	{
-		"jammer": "PolloLoco",
-		"jammer_link": "https://rayanpollo.itch.io/",
+		"jammer": "PooGangster",
+		"jammer_link": "https://poogangster.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1592,13 +1661,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
 				"jam_vs": 41,
 				"title": "Dawn of the black sect",
-				"title_link": "https://rayanpollo.itch.io/dawn-of-the-black-sect",
+				"title_link": "https://poogangster.itch.io/dawn-of-the-black-sect",
 				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2291279",
 				"by_list": [
-					"PolloLoco"
+					"PooGangster"
 				],
 				"by_link_list": [
-					"https://rayanpollo.itch.io/"
+					"https://poogangster.itch.io/"
 				],
 				"rank": 20,
 				"ratings": 11,
@@ -3496,33 +3565,6 @@
 				"score": 1.804,
 				"ilscore": 29,
 				"submission_time_diff": -122753000
-			}
-		]
-	},
-	{
-		"jammer": "ILoveCake08",
-		"jammer_link": "https://ilovecake08.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Space Link - Mini Jam 143",
-				"title_link": "https://ilovecake08.itch.io/space-link-minijam-143",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2314534",
-				"by_list": [
-					"ILoveCake08"
-				],
-				"by_link_list": [
-					"https://ilovecake08.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 1,
-				"score": 1.327,
-				"ilscore": 21,
-				"submission_time_diff": -59040000
 			}
 		]
 	}

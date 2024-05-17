@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "DoloDev",
+		"jammer_link": "https://dolodev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Last Stand",
+				"title_link": "https://dolodev.itch.io/last-stand",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409926",
+				"by_list": [
+					"DoloDev"
+				],
+				"by_link_list": [
+					"https://dolodev.itch.io/"
+				],
+				"rank": 158,
+				"ratings": 3,
+				"score": 1.735,
+				"ilscore": 42,
+				"submission_time_diff": -4000
+			}
+		]
+	},
+	{
 		"jammer": "Guigger",
 		"jammer_link": "https://guigger.itch.io/",
 		"game_list_sorted": [
@@ -1290,7 +1317,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Grid Jump",
 				"title_link": "https://sealnf.itch.io/jamjump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2111457",
@@ -2709,6 +2736,29 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Mom's credit card",
+				"title_link": "https://phoque.itch.io/moms-credit-card",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2703271",
+				"by_list": [
+					"Phoque",
+					"SabifiedSab"
+				],
+				"by_link_list": [
+					"https://phoque.itch.io/",
+					"https://sabified.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 24,
+				"score": 3.677,
+				"ilscore": 55,
+				"submission_time_diff": -26423000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 101,
 				"jam_name": "Limit",
 				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
@@ -3177,7 +3227,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "grapple cube",
 				"title_link": "https://cubic-the-cumbe.itch.io/grapple-cube",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1568899",
@@ -3654,33 +3704,6 @@
 				"score": 1.944,
 				"ilscore": 45,
 				"submission_time_diff": -12000
-			}
-		]
-	},
-	{
-		"jammer": "Der_tolle_Dude",
-		"jammer_link": "https://der-tolle-dude.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Dark Lights",
-				"title_link": "https://der-tolle-dude.itch.io/dark-lights",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1429206",
-				"by_list": [
-					"Der_tolle_Dude"
-				],
-				"by_link_list": [
-					"https://der-tolle-dude.itch.io/"
-				],
-				"rank": 116,
-				"ratings": 6,
-				"score": 1.905,
-				"ilscore": 44,
-				"submission_time_diff": -21614000
 			}
 		]
 	}

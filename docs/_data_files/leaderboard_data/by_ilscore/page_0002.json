@@ -1,5 +1,96 @@
 [
 	{
+		"jammer": "breadroll",
+		"jammer_link": "https://breadroll.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 129,
+				"title": "SANITIZE THE DARK",
+				"title_link": "https://breadroll.itch.io/sanitize-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483444",
+				"by_list": [
+					"breadroll"
+				],
+				"by_link_list": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 26,
+				"score": 4.26,
+				"ilscore": 95,
+				"submission_time_diff": 49051000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 128,
+				"title": "EAFO",
+				"title_link": "https://breadroll.itch.io/eafo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238604",
+				"by_list": [
+					"breadroll"
+				],
+				"by_link_list": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 27,
+				"score": 3.843,
+				"ilscore": 85,
+				"submission_time_diff": -1154000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 138,
+				"title": "Deepwater Dive",
+				"title_link": "https://breadroll.itch.io/deepwater-dive",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591739",
+				"by_list": [
+					"breadroll"
+				],
+				"by_link_list": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 8,
+				"score": 3.406,
+				"ilscore": 78,
+				"submission_time_diff": -39000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "Sweeping Services",
+				"title_link": "https://breadroll.itch.io/sweeping-services",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366368",
+				"by_list": [
+					"breadroll"
+				],
+				"by_link_list": [
+					"https://breadroll.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 9,
+				"score": 3.367,
+				"ilscore": 72,
+				"submission_time_diff": 38979000
+			}
+		],
+		"total_ilscore": 330
+	},
+	{
 		"jammer": "Chibachi",
 		"jammer_link": "https://chibachi.itch.io/",
 		"game_list_sorted": [
@@ -415,7 +506,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Auroth",
 				"title_link": "https://sodoj.itch.io/auroth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572469",
@@ -896,7 +987,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Fear of Dreams",
 				"title_link": "https://phi-dragon.itch.io/fear-of-dreams",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572624",
@@ -1124,7 +1215,7 @@
 				"jam_id": 66,
 				"jam_name": "Sweets",
 				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 101,
+				"jam_vs": 100,
 				"title": "Candy Bouncer",
 				"title_link": "https://hyo331.itch.io/candy-bouncer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807924",
@@ -1768,7 +1859,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "env_ctrl",
 				"title_link": "https://seomeenu.itch.io/press-ctrl",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091567",
@@ -1786,124 +1877,6 @@
 			}
 		],
 		"total_ilscore": 319
-	},
-	{
-		"jammer": "Breck",
-		"jammer_link": "https://breckheck.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"jam_vs": 137,
-				"title": "Cosmic Defenders",
-				"title_link": "https://tk-creations.itch.io/cosmic-defenders",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160895",
-				"by_list": [
-					"TK Creations",
-					"Extroias",
-					"Breck",
-					"JackLuxon"
-				],
-				"by_link_list": [
-					"https://tk-creations.itch.io/",
-					"https://extroias.itch.io/",
-					"https://breckheck.itch.io/",
-					"https://jackluxon.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 26,
-				"score": 3.346,
-				"ilscore": 76,
-				"submission_time_diff": -9000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 138,
-				"title": "Fishy Game",
-				"title_link": "https://breckheck.itch.io/fishy-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591723",
-				"by_list": [
-					"Breck"
-				],
-				"by_link_list": [
-					"https://breckheck.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 12,
-				"score": 3.083,
-				"ilscore": 70,
-				"submission_time_diff": -268000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "War Medic",
-				"title_link": "https://breckheck.itch.io/war-medic",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169562",
-				"by_list": [
-					"Breck"
-				],
-				"by_link_list": [
-					"https://breckheck.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 13,
-				"score": 3.423,
-				"ilscore": 69,
-				"submission_time_diff": -538000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 40,
-				"title": "Clappy",
-				"title_link": "https://breckheck.itch.io/clappy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2414972",
-				"by_list": [
-					"Breck"
-				],
-				"by_link_list": [
-					"https://breckheck.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 15,
-				"score": 4.133,
-				"ilscore": 53,
-				"submission_time_diff": -36863000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 55,
-				"title": "Guardian Rails",
-				"title_link": "https://breckheck.itch.io/guardian-rails",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440764",
-				"by_list": [
-					"Breck"
-				],
-				"by_link_list": [
-					"https://breckheck.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 12,
-				"score": 3.333,
-				"ilscore": 50,
-				"submission_time_diff": -93000
-			}
-		],
-		"total_ilscore": 318
 	},
 	{
 		"jammer": "Unbreakable",
@@ -3969,155 +3942,6 @@
 		"total_ilscore": 307
 	},
 	{
-		"jammer": "Buyana114",
-		"jammer_link": "https://buyana114.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "Welcome to Drugland",
-				"title_link": "https://blockhead-maniac.itch.io/welcome-to-drugland",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634788",
-				"by_list": [
-					"Blockhead Maniac",
-					"Buyana114"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://buyana114.itch.io/"
-				],
-				"rank": 185,
-				"ratings": 14,
-				"score": 2.946,
-				"ilscore": 98,
-				"submission_time_diff": -9379000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
-				"title": "Office Merge",
-				"title_link": "https://blockhead-maniac.itch.io/mini-jam-133",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2086862",
-				"by_list": [
-					"Blockhead Maniac",
-					"Buyana114"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://buyana114.itch.io/"
-				],
-				"rank": 83,
-				"ratings": 6,
-				"score": 2.654,
-				"ilscore": 60,
-				"submission_time_diff": 148241000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
-				"title": "BarrelFall",
-				"title_link": "https://blockhead-maniac.itch.io/barrelfall",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1489587",
-				"by_list": [
-					"Blockhead Maniac",
-					"Buyana114"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://buyana114.itch.io/"
-				],
-				"rank": 56,
-				"ratings": 10,
-				"score": 2.7,
-				"ilscore": 55,
-				"submission_time_diff": -13192000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "Need for Time",
-				"title_link": "https://blockhead-maniac.itch.io/time-car",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653619",
-				"by_list": [
-					"Blockhead Maniac",
-					"Buyana114"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://buyana114.itch.io/"
-				],
-				"rank": 64,
-				"ratings": 7,
-				"score": 2.719,
-				"ilscore": 52,
-				"submission_time_diff": 74922000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "What comes up, Must come down",
-				"title_link": "https://blockhead-maniac.itch.io/mini-jam-107-music",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1552524",
-				"by_list": [
-					"Blockhead Maniac",
-					"frodoTimBaku",
-					"Buyana114"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://frodotimbaku.itch.io/",
-					"https://buyana114.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 6,
-				"score": 1.503,
-				"ilscore": 29,
-				"submission_time_diff": 125320000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Lost Dog",
-				"title_link": "https://blockhead-maniac.itch.io/lost-dog",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1931192",
-				"by_list": [
-					"Blockhead Maniac",
-					"Buyana114",
-					"Soninho dev"
-				],
-				"by_link_list": [
-					"https://blockhead-maniac.itch.io/",
-					"https://buyana114.itch.io/",
-					"https://soninho-dev.itch.io/"
-				],
-				"rank": 82,
-				"ratings": 1,
-				"score": 0.707,
-				"ilscore": 12,
-				"submission_time_diff": 319054000
-			}
-		],
-		"total_ilscore": 306
-	},
-	{
 		"jammer": "Olanti",
 		"jammer_link": "https://olanti.itch.io/",
 		"game_list_sorted": [
@@ -4147,7 +3971,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "Express Electrical Emergencies",
 				"title_link": "https://olanti.itch.io/express-electrical-emergencies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676111",
@@ -4170,7 +3994,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "Shady Business",
 				"title_link": "https://olanti.itch.io/shady-business",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671827",
@@ -4267,7 +4091,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Grid Jump",
 				"title_link": "https://sealnf.itch.io/jamjump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2111457",
@@ -4885,145 +4709,6 @@
 		"total_ilscore": 304
 	},
 	{
-		"jammer": "candycaneannihalator",
-		"jammer_link": "https://candycaneannihalator.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
-				"title": "The Ancient Explorer",
-				"title_link": "https://team-bean.itch.io/ancient-explorer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457416",
-				"by_list": [
-					"Team Bean",
-					"Retropone",
-					"candycaneannihalator"
-				],
-				"by_link_list": [
-					"https://team-bean.itch.io/",
-					"https://retropone.itch.io/",
-					"https://candycaneannihalator.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 10,
-				"score": 3.125,
-				"ilscore": 75,
-				"submission_time_diff": -123004000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Night Fisher",
-				"title_link": "https://candycaneannihalator.itch.io/nightfisher",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019578",
-				"by_list": [
-					"candycaneannihalator",
-					"TripleCubes"
-				],
-				"by_link_list": [
-					"https://candycaneannihalator.itch.io/",
-					"https://triplecubes.itch.io/"
-				],
-				"rank": 120,
-				"ratings": 13,
-				"score": 2.731,
-				"ilscore": 74,
-				"submission_time_diff": -23725000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
-				"title": "poison_hospital",
-				"title_link": "https://candycaneannihalator.itch.io/poison-hospital",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999843",
-				"by_list": [
-					"candycaneannihalator"
-				],
-				"by_link_list": [
-					"https://candycaneannihalator.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 14,
-				"score": 3,
-				"ilscore": 53,
-				"submission_time_diff": -9799000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
-				"title": "eden clone",
-				"title_link": "https://candycaneannihalator.itch.io/eden-clone",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113820",
-				"by_list": [
-					"candycaneannihalator"
-				],
-				"by_link_list": [
-					"https://candycaneannihalator.itch.io/"
-				],
-				"rank": 93,
-				"ratings": 13,
-				"score": 2.038,
-				"ilscore": 43,
-				"submission_time_diff": -6047000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
-				"title": "nuclear reaction fix",
-				"title_link": "https://candycaneannihalator.itch.io/nuclear-reaction-fix",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091796",
-				"by_list": [
-					"candycaneannihalator"
-				],
-				"by_link_list": [
-					"https://candycaneannihalator.itch.io/"
-				],
-				"rank": 134,
-				"ratings": 4,
-				"score": 1.458,
-				"ilscore": 33,
-				"submission_time_diff": -24965000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 132,
-				"jam_name": "Severed",
-				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"jam_vs": 55,
-				"title": "half finished warioware game",
-				"title_link": "https://candycaneannihalator.itch.io/half-finished-warioware-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070057",
-				"by_list": [
-					"candycaneannihalator"
-				],
-				"by_link_list": [
-					"https://candycaneannihalator.itch.io/"
-				],
-				"rank": 51,
-				"ratings": 3,
-				"score": 1.65,
-				"ilscore": 25,
-				"submission_time_diff": -21479000
-			}
-		],
-		"total_ilscore": 303
-	},
-	{
 		"jammer": "Game Baker Studio",
 		"jammer_link": "https://game-baker-studio.itch.io/",
 		"game_list_sorted": [
@@ -5468,7 +5153,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "skybuilder",
 				"title_link": "https://madebychill.itch.io/skybuilder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089691",
@@ -5790,7 +5475,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Fish a cake",
 				"title_link": "https://waty.itch.io/fish-a-cake",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572538",
@@ -5809,6 +5494,145 @@
 				"score": 2.154,
 				"ilscore": 58,
 				"submission_time_diff": -7000
+			}
+		],
+		"total_ilscore": 301
+	},
+	{
+		"jammer": "candycaneannihalator",
+		"jammer_link": "https://candycaneannihalator.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 156,
+				"title": "The Ancient Explorer",
+				"title_link": "https://team-bean.itch.io/ancient-explorer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457416",
+				"by_list": [
+					"Team Bean",
+					"Retropone",
+					"candycaneannihalator"
+				],
+				"by_link_list": [
+					"https://team-bean.itch.io/",
+					"https://retropone.itch.io/",
+					"https://candycaneannihalator.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 10,
+				"score": 3.125,
+				"ilscore": 75,
+				"submission_time_diff": -123004000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 216,
+				"title": "Night Fisher",
+				"title_link": "https://candycaneannihalator.itch.io/nightfisher",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019578",
+				"by_list": [
+					"candycaneannihalator",
+					"TripleCubes"
+				],
+				"by_link_list": [
+					"https://candycaneannihalator.itch.io/",
+					"https://triplecubes.itch.io/"
+				],
+				"rank": 120,
+				"ratings": 13,
+				"score": 2.731,
+				"ilscore": 74,
+				"submission_time_diff": -23725000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 76,
+				"title": "poison_hospital",
+				"title_link": "https://candycaneannihalator.itch.io/poison-hospital",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999843",
+				"by_list": [
+					"candycaneannihalator"
+				],
+				"by_link_list": [
+					"https://candycaneannihalator.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 14,
+				"score": 3,
+				"ilscore": 53,
+				"submission_time_diff": -9799000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"jam_vs": 112,
+				"title": "eden clone",
+				"title_link": "https://candycaneannihalator.itch.io/eden-clone",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113820",
+				"by_list": [
+					"candycaneannihalator"
+				],
+				"by_link_list": [
+					"https://candycaneannihalator.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 13,
+				"score": 2.038,
+				"ilscore": 42,
+				"submission_time_diff": -6047000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 133,
+				"title": "nuclear reaction fix",
+				"title_link": "https://candycaneannihalator.itch.io/nuclear-reaction-fix",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091796",
+				"by_list": [
+					"candycaneannihalator"
+				],
+				"by_link_list": [
+					"https://candycaneannihalator.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 4,
+				"score": 1.458,
+				"ilscore": 32,
+				"submission_time_diff": -24965000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"jam_vs": 55,
+				"title": "half finished warioware game",
+				"title_link": "https://candycaneannihalator.itch.io/half-finished-warioware-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070057",
+				"by_list": [
+					"candycaneannihalator"
+				],
+				"by_link_list": [
+					"https://candycaneannihalator.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 3,
+				"score": 1.65,
+				"ilscore": 25,
+				"submission_time_diff": -21479000
 			}
 		],
 		"total_ilscore": 301
@@ -6095,7 +5919,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "Gotta go fast!",
 				"title_link": "https://kaeselord.itch.io/gotta-go-fast",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674232",
@@ -6703,7 +6527,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Drown the sorrow",
 				"title_link": "https://cupofgames.itch.io/drown-the-sorrow",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570851",
@@ -6752,7 +6576,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "GOBLINOMICON",
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
@@ -6869,7 +6693,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "GOBLINOMICON",
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
@@ -7211,7 +7035,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "world-&gt;trees",
 				"title_link": "https://gamesbykent.itch.io/world-trees",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092376",
@@ -7399,7 +7223,7 @@
 				"jam_id": 66,
 				"jam_name": "Sweets",
 				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 101,
+				"jam_vs": 100,
 				"title": "Night Candy",
 				"title_link": "https://sandrofigo.itch.io/night-candy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808067",
@@ -7827,76 +7651,6 @@
 				"score": 3.047,
 				"ilscore": 59,
 				"submission_time_diff": -735000
-			}
-		],
-		"total_ilscore": 287
-	},
-	{
-		"jammer": "GameDocs",
-		"jammer_link": "https://gamedocs.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
-				"title": "Seaside Keeper",
-				"title_link": "https://gamedocs.itch.io/seaside-keeper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571297",
-				"by_list": [
-					"GameDocs"
-				],
-				"by_link_list": [
-					"https://gamedocs.itch.io/"
-				],
-				"rank": 27,
-				"ratings": 14,
-				"score": 3.679,
-				"ilscore": 100,
-				"submission_time_diff": -63093000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "In The Cave",
-				"title_link": "https://gamedocs.itch.io/in-the-cave",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1386878",
-				"by_list": [
-					"GameDocs"
-				],
-				"by_link_list": [
-					"https://gamedocs.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 8,
-				"score": 3.3,
-				"ilscore": 95,
-				"submission_time_diff": -102333000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Fruit Hunting",
-				"title_link": "https://gamedocs.itch.io/fruit-hunting",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020734",
-				"by_list": [
-					"GameDocs"
-				],
-				"by_link_list": [
-					"https://gamedocs.itch.io/"
-				],
-				"rank": 46,
-				"ratings": 12,
-				"score": 3.396,
-				"ilscore": 92,
-				"submission_time_diff": -28155000
 			}
 		],
 		"total_ilscore": 287
@@ -8606,6 +8360,76 @@
 				"score": 2.975,
 				"ilscore": 59,
 				"submission_time_diff": -27134000
+			}
+		],
+		"total_ilscore": 286
+	},
+	{
+		"jammer": "GameDocs",
+		"jammer_link": "https://gamedocs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 213,
+				"title": "Seaside Keeper",
+				"title_link": "https://gamedocs.itch.io/seaside-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571297",
+				"by_list": [
+					"GameDocs"
+				],
+				"by_link_list": [
+					"https://gamedocs.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 14,
+				"score": 3.679,
+				"ilscore": 99,
+				"submission_time_diff": -63093000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "In The Cave",
+				"title_link": "https://gamedocs.itch.io/in-the-cave",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1386878",
+				"by_list": [
+					"GameDocs"
+				],
+				"by_link_list": [
+					"https://gamedocs.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 8,
+				"score": 3.3,
+				"ilscore": 95,
+				"submission_time_diff": -102333000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 216,
+				"title": "Fruit Hunting",
+				"title_link": "https://gamedocs.itch.io/fruit-hunting",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020734",
+				"by_list": [
+					"GameDocs"
+				],
+				"by_link_list": [
+					"https://gamedocs.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 12,
+				"score": 3.396,
+				"ilscore": 92,
+				"submission_time_diff": -28155000
 			}
 		],
 		"total_ilscore": 286
@@ -9389,6 +9213,97 @@
 		"total_ilscore": 282
 	},
 	{
+		"jammer": "SeedSproutGames",
+		"jammer_link": "https://mafesto87.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 386,
+				"title": "Color Splash",
+				"title_link": "https://mafesto87.itch.io/color-splash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634197",
+				"by_list": [
+					"SeedSproutGames"
+				],
+				"by_link_list": [
+					"https://mafesto87.itch.io/"
+				],
+				"rank": 115,
+				"ratings": 8,
+				"score": 3.406,
+				"ilscore": 114,
+				"submission_time_diff": -11784000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 156,
+				"title": "The Lost Tomb",
+				"title_link": "https://mafesto87.itch.io/the-lost-tomb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460034",
+				"by_list": [
+					"SeedSproutGames"
+				],
+				"by_link_list": [
+					"https://mafesto87.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 9,
+				"score": 3.139,
+				"ilscore": 75,
+				"submission_time_diff": -5591000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 211,
+				"title": "Galactic Arachnids",
+				"title_link": "https://mafesto87.itch.io/galactic-arachnids",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869359",
+				"by_list": [
+					"SeedSproutGames"
+				],
+				"by_link_list": [
+					"https://mafesto87.itch.io/"
+				],
+				"rank": 104,
+				"ratings": 9,
+				"score": 2.714,
+				"ilscore": 73,
+				"submission_time_diff": -8229000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 158,
+				"jam_name": "Shopping",
+				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
+				"jam_vs": 54,
+				"title": "Astroshop",
+				"title_link": "https://mafesto87.itch.io/astroshop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705179",
+				"by_list": [
+					"SeedSproutGames"
+				],
+				"by_link_list": [
+					"https://mafesto87.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 7,
+				"score": 1.286,
+				"ilscore": 19,
+				"submission_time_diff": -66000
+			}
+		],
+		"total_ilscore": 281
+	},
+	{
 		"jammer": "Hiro",
 		"jammer_link": "https://hirogames.itch.io/",
 		"game_list_sorted": [
@@ -9513,7 +9428,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Skip",
 				"title_link": "https://shawnhuangfernandes.itch.io/skip",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571813",
@@ -9564,7 +9479,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Stick It",
 				"title_link": "https://jaxtermg.itch.io/stick-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091618",
@@ -9627,7 +9542,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "No animals were harmed",
 				"title_link": "https://jaxtermg.itch.io/no-animals-were-harmed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675249",
@@ -9883,7 +9798,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "grapple cube",
 				"title_link": "https://cubic-the-cumbe.itch.io/grapple-cube",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1568899",

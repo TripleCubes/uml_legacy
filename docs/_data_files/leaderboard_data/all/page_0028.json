@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "fiumals",
+		"jammer_link": "https://fiumals.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"jam_vs": 98,
+				"title": "Inferno Dealer",
+				"title_link": "https://fiumals.itch.io/inferno-dealer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854857",
+				"by_list": [
+					"fiumals"
+				],
+				"by_link_list": [
+					"https://fiumals.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 13,
+				"score": 4.077,
+				"ilscore": 81,
+				"submission_time_diff": -429000
+			}
+		]
+	},
+	{
 		"jammer": "xamuil2",
 		"jammer_link": "https://xamuil2.itch.io/",
 		"game_list_sorted": [
@@ -2627,7 +2654,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 121,
+				"jam_vs": 119,
 				"title": "black white lightning",
 				"title_link": "https://cedesdc.itch.io/black-white-lightning",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676180",
@@ -4060,75 +4087,6 @@
 				"score": 3.298,
 				"ilscore": 53,
 				"submission_time_diff": -291000
-			}
-		]
-	},
-	{
-		"jammer": "Pixel Sprouts",
-		"jammer_link": "https://pixel-sprouts.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Minimalungeon (Mini Jam #101)",
-				"title_link": "https://pixel-sprouts.itch.io/minimalungeon-mini-jam-101",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430634",
-				"by_list": [
-					"Pixel Sprouts"
-				],
-				"by_link_list": [
-					"https://pixel-sprouts.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 40,
-				"score": 3.837,
-				"ilscore": 89,
-				"submission_time_diff": -26969000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Heaven VS Hell Tennis (Mini Jam #70)",
-				"title_link": "https://pixel-sprouts.itch.io/heavenhelltennisminijam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867540",
-				"by_list": [
-					"Pixel Sprouts"
-				],
-				"by_link_list": [
-					"https://pixel-sprouts.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 24,
-				"score": 3.292,
-				"ilscore": 53,
-				"submission_time_diff": -49797000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
-				"title": "Brittlo (Mini Jam #97)",
-				"title_link": "https://pixel-sprouts.itch.io/brittlo-mini-jam-97",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346760",
-				"by_list": [
-					"Pixel Sprouts"
-				],
-				"by_link_list": [
-					"https://pixel-sprouts.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 26,
-				"score": 3.173,
-				"ilscore": 65,
-				"submission_time_diff": -43143000
 			}
 		]
 	}

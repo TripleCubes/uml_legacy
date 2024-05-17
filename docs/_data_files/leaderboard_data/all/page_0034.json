@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Sam Bigos",
+		"jammer_link": "https://sambigos.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "Geiger",
+				"title_link": "https://sambigos.itch.io/geiger",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966586",
+				"by_list": [
+					"Sam Bigos"
+				],
+				"by_link_list": [
+					"https://sambigos.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.271,
+				"ilscore": 93,
+				"submission_time_diff": -15075000
+			}
+		]
+	},
+	{
 		"jammer": "Team TreeFish",
 		"jammer_link": "https://team-treefish.itch.io/",
 		"game_list_sorted": [
@@ -700,7 +727,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Seaside Scramble",
 				"title_link": "https://minimechmedia.itch.io/seaside-scramble",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113530",
@@ -3447,33 +3474,6 @@
 				"score": 3.596,
 				"ilscore": 82,
 				"submission_time_diff": -24871000
-			}
-		]
-	},
-	{
-		"jammer": "LukasWho",
-		"jammer_link": "https://lukaswho.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "Leaping Anyway",
-				"title_link": "https://lukaswho.itch.io/leaping-anyway",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983113",
-				"by_list": [
-					"LukasWho"
-				],
-				"by_link_list": [
-					"https://lukaswho.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 20,
-				"score": 3.587,
-				"ilscore": 82,
-				"submission_time_diff": -4760000
 			}
 		]
 	}

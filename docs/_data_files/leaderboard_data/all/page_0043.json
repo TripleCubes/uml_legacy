@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "PixeladeStudios",
+		"jammer_link": "https://pixeladestudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 171,
+				"title": "A u, Thief!",
+				"title_link": "https://pixeladestudios.itch.io/a-u-thief",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137088",
+				"by_list": [
+					"PixeladeStudios"
+				],
+				"by_link_list": [
+					"https://pixeladestudios.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 9,
+				"score": 3.139,
+				"ilscore": 78,
+				"submission_time_diff": -37748000
+			}
+		]
+	},
+	{
 		"jammer": "shraa1",
 		"jammer_link": "https://shraa1.itch.io/",
 		"game_list_sorted": [
@@ -37,7 +64,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "GOBLINOMICON",
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
@@ -153,7 +180,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "GOBLINOMICON",
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
@@ -2116,7 +2143,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Seaside Smash",
 				"title_link": "https://chakibehappy.itch.io/seaside-smash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571681",
@@ -2534,7 +2561,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "DiveDeep",
 				"title_link": "https://noji.itch.io/divedeep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113711",
@@ -3649,75 +3676,6 @@
 				"score": 1.061,
 				"ilscore": 26,
 				"submission_time_diff": 14549000
-			}
-		]
-	},
-	{
-		"jammer": "Thulko",
-		"jammer_link": "https://thulko.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "KnifeBot",
-				"title_link": "https://thulko.itch.io/knifebot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153327",
-				"by_list": [
-					"Thulko"
-				],
-				"by_link_list": [
-					"https://thulko.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 17,
-				"score": 4.162,
-				"ilscore": 85,
-				"submission_time_diff": 2462000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
-				"title": "Untitled Rhythm Game",
-				"title_link": "https://thulko.itch.io/untitledrhythmgame",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1909541",
-				"by_list": [
-					"Thulko"
-				],
-				"by_link_list": [
-					"https://thulko.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 6,
-				"score": 3.5,
-				"ilscore": 63,
-				"submission_time_diff": -4170000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
-				"title": "Ocean Abduction",
-				"title_link": "https://thulko.itch.io/ocean-abduction",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239913",
-				"by_list": [
-					"Thulko"
-				],
-				"by_link_list": [
-					"https://thulko.itch.io/"
-				],
-				"rank": 63,
-				"ratings": 16,
-				"score": 2.891,
-				"ilscore": 64,
-				"submission_time_diff": -100000
 			}
 		]
 	}
