@@ -673,6 +673,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Quark Sea",
+				"title_link": "https://radace.itch.io/quark-sea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734304",
+				"by_list": [
+					"Radace"
+				],
+				"by_link_list": [
+					"https://radace.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 8,
+				"score": 3.844,
+				"ilscore": 85,
+				"submission_time_diff": -1706000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
@@ -1742,7 +1763,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
+				"jam_vs": 46,
 				"title": "MrTwoItems",
 				"title_link": "https://rufflesworth.itch.io/mrtwoitems",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537755",

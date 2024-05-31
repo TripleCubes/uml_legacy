@@ -29,7 +29,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 217,
 				"title": "10 Seconds FARM!",
 				"title_link": "https://yumehiko.itch.io/10-seconds-farm",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019993",
@@ -445,7 +445,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "No Fish in the Sea",
 				"title_link": "https://elvendwarf.itch.io/no-fish-in-the-sea",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239210",
@@ -458,7 +458,7 @@
 				"rank": 1,
 				"ratings": 41,
 				"score": 4.311,
-				"ilscore": 96,
+				"ilscore": 95,
 				"submission_time_diff": -29927000
 			},
 			{
@@ -514,7 +514,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -1719,7 +1719,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
+				"jam_vs": 46,
 				"title": "TWOLOOP",
 				"title_link": "https://rogocat.itch.io/twoloop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537481",
@@ -1748,7 +1748,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
+				"jam_vs": 46,
 				"title": "TWOLOOP",
 				"title_link": "https://rogocat.itch.io/twoloop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537481",
@@ -2746,7 +2746,7 @@
 		]
 	},
 	{
-		"jammer": "rmonthil",
+		"jammer": "Rémi's Games",
 		"jammer_link": "https://rmonthil.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2759,7 +2759,7 @@
 				"title_link": "https://rmonthil.itch.io/a-coin-in-the-dark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228056",
 				"by_list": [
-					"rmonthil"
+					"Rémi's Games"
 				],
 				"by_link_list": [
 					"https://rmonthil.itch.io/"
@@ -3430,6 +3430,33 @@
 		]
 	},
 	{
+		"jammer": "Ghoulcel",
+		"jammer_link": "https://ghoulcel.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Windbound Mortal",
+				"title_link": "https://ghoulcel.itch.io/windbound-mortal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734154",
+				"by_list": [
+					"Ghoulcel"
+				],
+				"by_link_list": [
+					"https://ghoulcel.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 17,
+				"score": 4.324,
+				"ilscore": 95,
+				"submission_time_diff": -8492000
+			}
+		]
+	},
+	{
 		"jammer": "Fscibe",
 		"jammer_link": "https://fscibe.itch.io/",
 		"game_list_sorted": [
@@ -3438,7 +3465,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -3469,7 +3496,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -3596,37 +3623,6 @@
 				"score": 4.292,
 				"ilscore": 86,
 				"submission_time_diff": -5989000
-			}
-		]
-	},
-	{
-		"jammer": "André Lima e Silva",
-		"jammer_link": "https://andrelimaesilva.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 2,
-				"jam_name": "Major Jam 2: Love",
-				"jam_link": "https://itch.io/jam/major-jam-2",
-				"jam_vs": 51,
-				"title": "Heart 2 Beat",
-				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
-				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
-				"by_list": [
-					"André Lima e Silva",
-					"matgraz",
-					"phantompauer"
-				],
-				"by_link_list": [
-					"https://andrelimaesilva.itch.io/",
-					"https://matgraz.itch.io/",
-					"https://phantompauer.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 19,
-				"score": 4.289,
-				"ilscore": 63,
-				"submission_time_diff": -5122000
 			}
 		]
 	}

@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "André Lima e Silva",
+		"jammer_link": "https://andrelimaesilva.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"jam_vs": 51,
+				"title": "Heart 2 Beat",
+				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
+				"by_list": [
+					"André Lima e Silva",
+					"matgraz",
+					"phantompauer"
+				],
+				"by_link_list": [
+					"https://andrelimaesilva.itch.io/",
+					"https://matgraz.itch.io/",
+					"https://phantompauer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 19,
+				"score": 4.289,
+				"ilscore": 63,
+				"submission_time_diff": -5122000
+			}
+		]
+	},
+	{
 		"jammer": "matgraz",
 		"jammer_link": "https://matgraz.itch.io/",
 		"game_list_sorted": [
@@ -728,7 +759,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Magic penguin",
 				"title_link": "https://verduritas04.itch.io/magic-penguin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363258",
@@ -1364,7 +1395,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "APOLLO",
 				"title_link": "https://daz.itch.io/apollo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
@@ -1588,7 +1619,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Kill the Dungeon Shopkeeper",
 				"title_link": "https://celtican.itch.io/kill-the-dungeon-shopkeeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705184",
@@ -1601,7 +1632,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.167,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": 41900000
 			}
 		]
@@ -2867,37 +2898,6 @@
 				"score": 3.712,
 				"ilscore": 24,
 				"submission_time_diff": -42000
-			}
-		]
-	},
-	{
-		"jammer": "Flalcon",
-		"jammer_link": "https://flalcon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "DeRailed",
-				"title_link": "https://flalcon.itch.io/derailed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536469",
-				"by_list": [
-					"Flalcon",
-					"Hawkigamer1",
-					"kajdev"
-				],
-				"by_link_list": [
-					"https://flalcon.itch.io/",
-					"https://hawkigamer1.itch.io/",
-					"https://kajdev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": -54000
 			}
 		]
 	}

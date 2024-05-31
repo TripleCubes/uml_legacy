@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Nyx_Dev",
+		"jammer_link": "https://thenyx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"jam_vs": 43,
+				"title": "A Headless Story",
+				"title_link": "https://thenyx.itch.io/a-headless-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2268319",
+				"by_list": [
+					"Nyx_Dev"
+				],
+				"by_link_list": [
+					"https://thenyx.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.411,
+				"ilscore": 46,
+				"submission_time_diff": -11220000
+			}
+		]
+	},
+	{
 		"jammer": "Name",
 		"jammer_link": "https://hgyvtfgc.itch.io/",
 		"game_list_sorted": [
@@ -1367,7 +1394,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Danmaku Shopping",
 				"title_link": "https://darksunarts.itch.io/danmaku-shopping",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2712671",
@@ -1403,6 +1430,27 @@
 				"score": 2.125,
 				"ilscore": 41,
 				"submission_time_diff": 70894000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Super Marino",
+				"title_link": "https://darksunarts.itch.io/super-marino-world",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734376",
+				"by_list": [
+					"Dark Sun Arts"
+				],
+				"by_link_list": [
+					"https://darksunarts.itch.io/"
+				],
+				"rank": 100,
+				"ratings": 5,
+				"score": 2.155,
+				"ilscore": 47,
+				"submission_time_diff": -331000
 			}
 		]
 	},
@@ -1954,7 +2002,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Paper Airplane",
 				"title_link": "https://kingelaim.itch.io/paper-airplane",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617043",
@@ -1969,7 +2017,7 @@
 				"rank": 54,
 				"ratings": 16,
 				"score": 2.703,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -63768000
 			}
 		]
@@ -3538,33 +3586,6 @@
 				"score": 1.949,
 				"ilscore": 31,
 				"submission_time_diff": -38374000
-			}
-		]
-	},
-	{
-		"jammer": "CloudWhisperer",
-		"jammer_link": "https://cloudwhisperer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Draw To Exit",
-				"title_link": "https://cloudwhisperer.itch.io/draw-to-exit",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313459",
-				"by_list": [
-					"CloudWhisperer"
-				],
-				"by_link_list": [
-					"https://cloudwhisperer.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 2,
-				"score": 1.804,
-				"ilscore": 29,
-				"submission_time_diff": -122753000
 			}
 		]
 	}

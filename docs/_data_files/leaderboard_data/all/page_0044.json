@@ -50,7 +50,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Ocean Abduction",
 				"title_link": "https://thulko.itch.io/ocean-abduction",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239913",
@@ -968,7 +968,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "A Balloon Journey",
 				"title_link": "https://ximer.itch.io/aballoonjourney",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/1957879",
@@ -1184,7 +1184,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Caviar Way",
 				"title_link": "https://rpstudio.itch.io/caviar-way",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563585",
@@ -1677,10 +1677,41 @@
 				"title_link": "https://jskh1999.itch.io/puck-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153286",
 				"by_list": [
-					"jskh1999"
+					"jskh1999",
+					"willzerrs"
 				],
 				"by_link_list": [
-					"https://jskh1999.itch.io/"
+					"https://jskh1999.itch.io/",
+					"https://willzerrs.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 7,
+				"score": 2.339,
+				"ilscore": 47,
+				"submission_time_diff": -2743000
+			}
+		]
+	},
+	{
+		"jammer": "willzerrs",
+		"jammer_link": "https://willzerrs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"jam_vs": 105,
+				"title": "Puck It!",
+				"title_link": "https://jskh1999.itch.io/puck-it",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153286",
+				"by_list": [
+					"jskh1999",
+					"willzerrs"
+				],
+				"by_link_list": [
+					"https://jskh1999.itch.io/",
+					"https://willzerrs.itch.io/"
 				],
 				"rank": 71,
 				"ratings": 7,
@@ -2455,7 +2486,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "5 Hour Space Game",
 				"title_link": "https://ragnar-dragonson.itch.io/5-hour-space-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564070",
@@ -2647,7 +2678,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Laser the Space Narwhale",
 				"title_link": "https://paperfoxstudio.itch.io/laser-the-space-narwal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239409",
@@ -2932,7 +2963,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Grilling fish",
 				"title_link": "https://maougame.itch.io/grilling-fish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238520",
@@ -3460,33 +3491,6 @@
 				"score": 3.355,
 				"ilscore": 68,
 				"submission_time_diff": -36953000
-			}
-		]
-	},
-	{
-		"jammer": "AteBits",
-		"jammer_link": "https://i8bits.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "COFFEE? BREAK!",
-				"title_link": "https://i8bits.itch.io/coffee-break",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1168752",
-				"by_list": [
-					"AteBits"
-				],
-				"by_link_list": [
-					"https://i8bits.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 9,
-				"score": 3.294,
-				"ilscore": 67,
-				"submission_time_diff": -45545000
 			}
 		]
 	}

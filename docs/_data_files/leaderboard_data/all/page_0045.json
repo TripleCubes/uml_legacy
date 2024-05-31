@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "AteBits",
+		"jammer_link": "https://i8bits.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "COFFEE? BREAK!",
+				"title_link": "https://i8bits.itch.io/coffee-break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1168752",
+				"by_list": [
+					"AteBits"
+				],
+				"by_link_list": [
+					"https://i8bits.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 9,
+				"score": 3.294,
+				"ilscore": 67,
+				"submission_time_diff": -45545000
+			}
+		]
+	},
+	{
 		"jammer": "GameDevR",
 		"jammer_link": "https://gamedevr.itch.io/",
 		"game_list_sorted": [
@@ -98,6 +125,27 @@
 				"score": 3.182,
 				"ilscore": 64,
 				"submission_time_diff": -64140000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "fork fishing",
+				"title_link": "https://arbab.itch.io/fork-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732395",
+				"by_list": [
+					"A.R.B.A.B"
+				],
+				"by_link_list": [
+					"https://arbab.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 9,
+				"score": 3.028,
+				"ilscore": 67,
+				"submission_time_diff": -64641000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2288,7 +2336,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Regular Fishing",
 				"title_link": "https://rdgmr.itch.io/regularfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564269",
@@ -3298,33 +3346,6 @@
 				"score": 3.55,
 				"ilscore": 96,
 				"submission_time_diff": -6756000
-			}
-		]
-	},
-	{
-		"jammer": "DevEdee",
-		"jammer_link": "https://devedee.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
-				"title": "Darkest Safest",
-				"title_link": "https://devedee.itch.io/darkest-safest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188072",
-				"by_list": [
-					"DevEdee"
-				],
-				"by_link_list": [
-					"https://devedee.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 6,
-				"score": 3.356,
-				"ilscore": 71,
-				"submission_time_diff": -10965000
 			}
 		]
 	}

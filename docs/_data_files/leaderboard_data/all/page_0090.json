@@ -1,5 +1,63 @@
 [
 	{
+		"jammer": "Loona",
+		"jammer_link": "https://loonadev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 132,
+				"jam_name": "Severed",
+				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
+				"jam_vs": 55,
+				"title": "Helping Hand",
+				"title_link": "https://berecik.itch.io/helping-hand",
+				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070353",
+				"by_list": [
+					"Berecik",
+					"TheZiutaPL",
+					"Loona"
+				],
+				"by_link_list": [
+					"https://berecik.itch.io/",
+					"https://flaware-studios.itch.io/",
+					"https://loonadev.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 6,
+				"score": 3.875,
+				"ilscore": 59,
+				"submission_time_diff": -1995000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 39,
+				"title": "Spellcaster's Fortune",
+				"title_link": "https://berecik.itch.io/spellcasters-fortune",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
+				"by_list": [
+					"Berecik",
+					"Loona",
+					"Alex0_qq",
+					"TheZiutaPL"
+				],
+				"by_link_list": [
+					"https://berecik.itch.io/",
+					"https://loonadev.itch.io/",
+					"https://alex0-qq.itch.io/",
+					"https://flaware-studios.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 12,
+				"score": 3.833,
+				"ilscore": 49,
+				"submission_time_diff": -5990000
+			}
+		]
+	},
+	{
 		"jammer": "Ric Haines Makes Games",
 		"jammer_link": "https://absentmindedness.itch.io/",
 		"game_list_sorted": [
@@ -142,6 +200,27 @@
 				"score": 2.638,
 				"ilscore": 34,
 				"submission_time_diff": -1392000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Shrink Ink",
+				"title_link": "https://bacon-beast.itch.io/shrink-ink",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2731190",
+				"by_list": [
+					"BACON BEAST"
+				],
+				"by_link_list": [
+					"https://bacon-beast.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 8,
+				"score": 3.5,
+				"ilscore": 77,
+				"submission_time_diff": -466000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3394,33 +3473,6 @@
 				"score": 2.55,
 				"ilscore": 57,
 				"submission_time_diff": 59008000
-			}
-		]
-	},
-	{
-		"jammer": "Smile3329",
-		"jammer_link": "https://smile3329.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
-				"title": "Fuslab",
-				"title_link": "https://smile3329.itch.io/fuslab",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091928",
-				"by_list": [
-					"Smile3329"
-				],
-				"by_link_list": [
-					"https://smile3329.itch.io/"
-				],
-				"rank": 93,
-				"ratings": 5,
-				"score": 2.534,
-				"ilscore": 57,
-				"submission_time_diff": -18044000
 			}
 		]
 	}

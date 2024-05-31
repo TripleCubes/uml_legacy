@@ -1,5 +1,101 @@
 [
 	{
+		"jammer": "okAi",
+		"jammer_link": "https://okai.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 386,
+				"title": "Trip + Trap",
+				"title_link": "https://okai.itch.io/trip-trap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634474",
+				"by_list": [
+					"okAi"
+				],
+				"by_link_list": [
+					"https://okai.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 26,
+				"score": 4.423,
+				"ilscore": 148,
+				"submission_time_diff": -19495000
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"jam_vs": 139,
+				"title": "Skill Garden",
+				"title_link": "https://okai.itch.io/skill-garden",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2197052",
+				"by_list": [
+					"okAi"
+				],
+				"by_link_list": [
+					"https://okai.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.862,
+				"ilscore": 88,
+				"submission_time_diff": -1230000
+			}
+		]
+	},
+	{
+		"jammer": "cookiecrayon",
+		"jammer_link": "https://cookiecrayon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"jam_vs": 79,
+				"title": "Pikwip",
+				"title_link": "https://cookiecrayon.itch.io/pikwip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/613121",
+				"by_list": [
+					"cookiecrayon"
+				],
+				"by_link_list": [
+					"https://cookiecrayon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 38,
+				"score": 4.237,
+				"ilscore": 76,
+				"submission_time_diff": -13782000
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"jam_vs": 103,
+				"title": "Quiet Space",
+				"title_link": "https://cookiecrayon.itch.io/quiet-space",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/598566",
+				"by_list": [
+					"cookiecrayon"
+				],
+				"by_link_list": [
+					"https://cookiecrayon.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 24,
+				"score": 3.896,
+				"ilscore": 79,
+				"submission_time_diff": -32767000
+			}
+		]
+	},
+	{
 		"jammer": "ahmetahaydemir",
 		"jammer_link": "https://ahmetahaydemir.itch.io/",
 		"game_list_sorted": [
@@ -79,7 +175,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "EAFO",
 				"title_link": "https://breadroll.itch.io/eafo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238604",
@@ -300,7 +396,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Frosty Fields",
 				"title_link": "https://onditech.itch.io/frosty-fields",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363366",
@@ -313,7 +409,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.922,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": -63443000
 			},
 			{
@@ -724,7 +820,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Magic penguin",
 				"title_link": "https://verduritas04.itch.io/magic-penguin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363258",
@@ -1006,54 +1102,6 @@
 		]
 	},
 	{
-		"jammer": "muupi",
-		"jammer_link": "https://muupi.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Zine",
-				"title_link": "https://muupi.itch.io/zine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2313228",
-				"by_list": [
-					"muupi"
-				],
-				"by_link_list": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 7,
-				"score": 4.107,
-				"ilscore": 66,
-				"submission_time_diff": -21878000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 129,
-				"title": "Cards of Light",
-				"title_link": "https://muupi.itch.io/cards-of-light",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484686",
-				"by_list": [
-					"muupi"
-				],
-				"by_link_list": [
-					"https://muupi.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 12,
-				"score": 3.958,
-				"ilscore": 88,
-				"submission_time_diff": 67564000
-			}
-		]
-	},
-	{
 		"jammer": "atlou",
 		"jammer_link": "https://atlou.itch.io/",
 		"game_list_sorted": [
@@ -1220,7 +1268,7 @@
 				"jam_id": 91,
 				"jam_name": "UFO",
 				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Farm Fresh Fish",
 				"title_link": "https://readymajor.itch.io/farm-fresh-fish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239638",
@@ -4253,7 +4301,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Shape-Shop Shuffle",
 				"title_link": "https://onion.itch.io/shapeshopshuffle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2704926",
@@ -4711,36 +4759,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
-				"title": "TWOLOOP",
-				"title_link": "https://rogocat.itch.io/twoloop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537481",
-				"by_list": [
-					"ROGOCAT",
-					"NuXareon"
-				],
-				"by_link_list": [
-					"https://rogocat.itch.io/",
-					"https://nuxareon.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.563,
-				"ilscore": 63,
-				"submission_time_diff": -12050000
-			}
-		]
-	},
-	{
-		"jammer": "NuXareon",
-		"jammer_link": "https://nuxareon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 152,
-				"jam_name": "Heroes",
-				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
+				"jam_vs": 46,
 				"title": "TWOLOOP",
 				"title_link": "https://rogocat.itch.io/twoloop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537481",

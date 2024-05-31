@@ -93,7 +93,7 @@
 		]
 	},
 	{
-		"jammer": "carnalmantrap",
+		"jammer": "CarnalMantrap",
 		"jammer_link": "https://carnalmantrap.itch.io/",
 		"game_list_sorted": [
 			{
@@ -106,7 +106,7 @@
 				"title_link": "https://carnalmantrap.itch.io/the-fortune-channel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164332",
 				"by_list": [
-					"carnalmantrap",
+					"CarnalMantrap",
 					"artiethebeeboi"
 				],
 				"by_link_list": [
@@ -129,7 +129,7 @@
 				"title_link": "https://carnalmantrap.itch.io/petunias-journey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532540",
 				"by_list": [
-					"carnalmantrap"
+					"CarnalMantrap"
 				],
 				"by_link_list": [
 					"https://carnalmantrap.itch.io/"
@@ -975,8 +975,8 @@
 		]
 	},
 	{
-		"jammer": "Lauberat",
-		"jammer_link": "https://lauberat.itch.io/",
+		"jammer": "Laubeski",
+		"jammer_link": "https://laubeski.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -985,13 +985,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
 				"jam_vs": 284,
 				"title": "Quest Frog",
-				"title_link": "https://lauberat.itch.io/quest-frog",
+				"title_link": "https://laubeski.itch.io/quest-frog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1534247",
 				"by_list": [
-					"Lauberat"
+					"Laubeski"
 				],
 				"by_link_list": [
-					"https://lauberat.itch.io/"
+					"https://laubeski.itch.io/"
 				],
 				"rank": 59,
 				"ratings": 9,
@@ -1221,7 +1221,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Fishland",
 				"title_link": "https://murgn.itch.io/fishland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2566054",
@@ -1234,7 +1234,7 @@
 				"rank": 13,
 				"ratings": 21,
 				"score": 3.81,
-				"ilscore": 101,
+				"ilscore": 102,
 				"submission_time_diff": 147472000
 			},
 			{
@@ -1355,7 +1355,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Clapping in April",
 				"title_link": "https://murgn.itch.io/clapping-in-april",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2620360",
@@ -1368,7 +1368,7 @@
 				"rank": 57,
 				"ratings": 7,
 				"score": 2.606,
-				"ilscore": 55,
+				"ilscore": 54,
 				"submission_time_diff": 63905000
 			},
 			{
@@ -2035,6 +2035,27 @@
 				"score": 4.107,
 				"ilscore": 66,
 				"submission_time_diff": -21878000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Tugboat",
+				"title_link": "https://muupi.itch.io/tugboat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732793",
+				"by_list": [
+					"muupi"
+				],
+				"by_link_list": [
+					"https://muupi.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 16,
+				"score": 4.25,
+				"ilscore": 94,
+				"submission_time_diff": -10984000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3065,7 +3086,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "GOfish.",
 				"title_link": "https://coruscare.itch.io/gofish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564877",

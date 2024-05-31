@@ -1,5 +1,38 @@
 [
 	{
+		"jammer": "alon.eldan",
+		"jammer_link": "https://aloneldan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Undeaf",
+				"title_link": "https://ash42z.itch.io/undeaf",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810986",
+				"by_list": [
+					"Ash",
+					"boaz4",
+					"avboag",
+					"alon.eldan"
+				],
+				"by_link_list": [
+					"https://ash42z.itch.io/",
+					"https://boaz4.itch.io/",
+					"https://avboag.itch.io/",
+					"https://aloneldan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.042,
+				"ilscore": 61,
+				"submission_time_diff": 666000
+			}
+		]
+	},
+	{
 		"jammer": "Old Dry Witch",
 		"jammer_link": "https://olddrywitch.itch.io/",
 		"game_list_sorted": [
@@ -622,7 +655,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
+				"jam_vs": 46,
 				"title": "Knight Diana and the Dungeon of the Fire Spewing Skeletons",
 				"title_link": "https://luismoreira.itch.io/knight-diana-and-the-dungeon-of-the-fire-spewing-skeletons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536588",
@@ -1028,6 +1061,33 @@
 		]
 	},
 	{
+		"jammer": "Honey Basil",
+		"jammer_link": "https://honey-basil.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "Sea Monarch",
+				"title_link": "https://honey-basil.itch.io/sea-monarch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733141",
+				"by_list": [
+					"Honey Basil"
+				],
+				"by_link_list": [
+					"https://honey-basil.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 9,
+				"score": 4.306,
+				"ilscore": 95,
+				"submission_time_diff": -7007000
+			}
+		]
+	},
+	{
 		"jammer": "YouDoYouBuddy",
 		"jammer_link": "https://youdoyoubuddy.itch.io/",
 		"game_list_sorted": [
@@ -1063,7 +1123,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 206,
 				"title": "Carpin' Around",
 				"title_link": "https://filipex2000.itch.io/carpin-around",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563580",
@@ -1363,7 +1423,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Midas Well Face It",
 				"title_link": "https://breakfish.itch.io/midas-well-face-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364937",
@@ -2035,7 +2095,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 217,
 				"title": "Lunar 10",
 				"title_link": "https://r1gby-games.itch.io/lunar-10",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
@@ -2089,7 +2149,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 113,
+				"jam_vs": 112,
 				"title": "Wind Of Change",
 				"title_link": "https://pixemisti.itch.io/wind-of-change",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617783",
@@ -2102,7 +2162,7 @@
 				"rank": 2,
 				"ratings": 19,
 				"score": 4.079,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": -35224000
 			}
 		]
@@ -2779,76 +2839,6 @@
 	{
 		"jammer": "DuffusWaffleButt",
 		"jammer_link": "https://duffuswafflebutt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
-				"title": "The Pilgrims",
-				"title_link": "https://arzza.itch.io/thepilgrims",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
-				"by_list": [
-					"Arzza",
-					"R3D",
-					"DuffusWaffleButt",
-					"CloMousse",
-					"Roxling"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://r3david.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://clomousse.itch.io/",
-					"https://roxling.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 3.95,
-				"ilscore": 78,
-				"submission_time_diff": -12987000
-			}
-		]
-	},
-	{
-		"jammer": "CloMousse",
-		"jammer_link": "https://clomousse.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
-				"title": "The Pilgrims",
-				"title_link": "https://arzza.itch.io/thepilgrims",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
-				"by_list": [
-					"Arzza",
-					"R3D",
-					"DuffusWaffleButt",
-					"CloMousse",
-					"Roxling"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://r3david.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://clomousse.itch.io/",
-					"https://roxling.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 3.95,
-				"ilscore": 78,
-				"submission_time_diff": -12987000
-			}
-		]
-	},
-	{
-		"jammer": "Roxling",
-		"jammer_link": "https://roxling.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
