@@ -1,5 +1,88 @@
 [
 	{
+		"jammer": "1ByteUniverse",
+		"jammer_link": "https://1byteuniverse.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 138,
+				"title": "New Game Plus",
+				"title_link": "https://1byteuniverse.itch.io/new-game-plus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1512031",
+				"by_list": [
+					"1ByteUniverse"
+				],
+				"by_link_list": [
+					"https://1byteuniverse.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.6,
+				"ilscore": 105,
+				"submission_time_diff": 30846000
+			}
+		]
+	},
+	{
+		"jammer": "chiyeon",
+		"jammer_link": "https://chiyeon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 1,
+				"jam_name": "Major Jam: Isolation",
+				"jam_link": "https://itch.io/jam/major-jam-isolation",
+				"jam_vs": 103,
+				"title": "ANIMA",
+				"title_link": "https://chiyeon.itch.io/anima",
+				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601525",
+				"by_list": [
+					"chiyeon"
+				],
+				"by_link_list": [
+					"https://chiyeon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.571,
+				"ilscore": 92,
+				"submission_time_diff": -7983000
+			}
+		]
+	},
+	{
+		"jammer": "ROGOCAT",
+		"jammer_link": "https://rogocat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 46,
+				"title": "TWOLOOP",
+				"title_link": "https://rogocat.itch.io/twoloop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537481",
+				"by_list": [
+					"ROGOCAT",
+					"NuXareon"
+				],
+				"by_link_list": [
+					"https://rogocat.itch.io/",
+					"https://nuxareon.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.563,
+				"ilscore": 63,
+				"submission_time_diff": -12050000
+			}
+		]
+	},
+	{
 		"jammer": "NuXareon",
 		"jammer_link": "https://nuxareon.itch.io/",
 		"game_list_sorted": [
@@ -87,35 +170,6 @@
 				"score": 4.554,
 				"ilscore": 61,
 				"submission_time_diff": -4075000
-			}
-		]
-	},
-	{
-		"jammer": "SpiralFlip",
-		"jammer_link": "https://spiralflip.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 138,
-				"title": "Heart Donor",
-				"title_link": "https://yollie.itch.io/heart-donor",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591754",
-				"by_list": [
-					"Yollie",
-					"SpiralFlip"
-				],
-				"by_link_list": [
-					"https://yollie.itch.io/",
-					"https://spiralflip.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 36,
-				"score": 4.542,
-				"ilscore": 104,
-				"submission_time_diff": -163000
 			}
 		]
 	},
@@ -422,7 +476,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Beatshot",
 				"title_link": "https://aren227.itch.io/beatshot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1674838",
@@ -435,7 +489,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.481,
-				"ilscore": 91,
+				"ilscore": 92,
 				"submission_time_diff": 130513000
 			}
 		]
@@ -832,6 +886,37 @@
 		]
 	},
 	{
+		"jammer": "jfoe",
+		"jammer_link": "https://jfoe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Stealth Optional",
+				"title_link": "https://yollie.itch.io/stealth-optional",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2765159",
+				"by_list": [
+					"Yollie",
+					"SpiralFlip",
+					"jfoe"
+				],
+				"by_link_list": [
+					"https://yollie.itch.io/",
+					"https://spiralflip.itch.io/",
+					"https://jfoe.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.375,
+				"ilscore": 97,
+				"submission_time_diff": 33488000
+			}
+		]
+	},
+	{
 		"jammer": "sadgirls",
 		"jammer_link": "https://sadgirls.itch.io/",
 		"game_list_sorted": [
@@ -921,7 +1006,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Approaching Zero (game jam version)",
 				"title_link": "https://cryy22.itch.io/approaching-zero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869470",
@@ -936,7 +1021,7 @@
 				"rank": 1,
 				"ratings": 31,
 				"score": 4.363,
-				"ilscore": 118,
+				"ilscore": 117,
 				"submission_time_diff": 31640000
 			}
 		]
@@ -2654,8 +2739,8 @@
 		]
 	},
 	{
-		"jammer": "Danisaurous",
-		"jammer_link": "https://danisaurous.itch.io/",
+		"jammer": "Danisaur",
+		"jammer_link": "https://danisaurawr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2664,13 +2749,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"jam_vs": 55,
 				"title": "Hexagon Hazard",
-				"title_link": "https://danisaurous.itch.io/hexagon-hazard",
+				"title_link": "https://danisaurawr.itch.io/hexagon-hazard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
 				"by_list": [
-					"Danisaurous"
+					"Danisaur"
 				],
 				"by_link_list": [
-					"https://danisaurous.itch.io/"
+					"https://danisaurawr.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 16,
@@ -2718,7 +2803,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "On-Shroom!",
 				"title_link": "https://kemipo.itch.io/on-shroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644264",
@@ -2841,105 +2926,6 @@
 				"score": 4.056,
 				"ilscore": 73,
 				"submission_time_diff": -33175000
-			}
-		]
-	},
-	{
-		"jammer": "Ash",
-		"jammer_link": "https://ash42z.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"jam_vs": 55,
-				"title": "Undeaf",
-				"title_link": "https://ash42z.itch.io/undeaf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810986",
-				"by_list": [
-					"Ash",
-					"boaz4",
-					"avboag",
-					"alon.eldan"
-				],
-				"by_link_list": [
-					"https://ash42z.itch.io/",
-					"https://boaz4.itch.io/",
-					"https://avboag.itch.io/",
-					"https://aloneldan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.042,
-				"ilscore": 61,
-				"submission_time_diff": 666000
-			}
-		]
-	},
-	{
-		"jammer": "boaz4",
-		"jammer_link": "https://boaz4.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"jam_vs": 55,
-				"title": "Undeaf",
-				"title_link": "https://ash42z.itch.io/undeaf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810986",
-				"by_list": [
-					"Ash",
-					"boaz4",
-					"avboag",
-					"alon.eldan"
-				],
-				"by_link_list": [
-					"https://ash42z.itch.io/",
-					"https://boaz4.itch.io/",
-					"https://avboag.itch.io/",
-					"https://aloneldan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.042,
-				"ilscore": 61,
-				"submission_time_diff": 666000
-			}
-		]
-	},
-	{
-		"jammer": "avboag",
-		"jammer_link": "https://avboag.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"jam_vs": 55,
-				"title": "Undeaf",
-				"title_link": "https://ash42z.itch.io/undeaf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810986",
-				"by_list": [
-					"Ash",
-					"boaz4",
-					"avboag",
-					"alon.eldan"
-				],
-				"by_link_list": [
-					"https://ash42z.itch.io/",
-					"https://boaz4.itch.io/",
-					"https://avboag.itch.io/",
-					"https://aloneldan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.042,
-				"ilscore": 61,
-				"submission_time_diff": 666000
 			}
 		]
 	}

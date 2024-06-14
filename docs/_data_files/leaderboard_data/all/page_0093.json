@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "PixelPanda",
+		"jammer_link": "https://pixpnd.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 137,
+				"jam_name": "Judgement",
+				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
+				"jam_vs": 28,
+				"title": "No Brakez",
+				"title_link": "https://pixpnd.itch.io/no-brakez",
+				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185600",
+				"by_list": [
+					"PixelPanda"
+				],
+				"by_link_list": [
+					"https://pixpnd.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.896,
+				"ilscore": 41,
+				"submission_time_diff": -6746000
+			}
+		]
+	},
+	{
 		"jammer": "Luicel",
 		"jammer_link": "https://luicel.itch.io/",
 		"game_list_sorted": [
@@ -451,6 +478,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Defuser",
+				"title_link": "https://noobernoobnoob.itch.io/defuser",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763533",
+				"by_list": [
+					"Noobernoobnoob"
+				],
+				"by_link_list": [
+					"https://noobernoobnoob.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.575,
+				"ilscore": 79,
+				"submission_time_diff": -33332000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 137,
 				"jam_name": "Judgement",
 				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
@@ -565,6 +613,27 @@
 				"score": 3.214,
 				"ilscore": 71,
 				"submission_time_diff": -742000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Spotlight Lockpick",
+				"title_link": "https://perpetuaperalta.itch.io/spotlight-lockpick",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764142",
+				"by_list": [
+					"Perpetua Peralta"
+				],
+				"by_link_list": [
+					"https://perpetuaperalta.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 6,
+				"score": 2.634,
+				"ilscore": 58,
+				"submission_time_diff": -14999000
 			}
 		]
 	},
@@ -2085,14 +2154,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"jam_vs": 40,
 				"title": "Dungeon Detox",
-				"title_link": "https://gonse.itch.io/dungeon-detox",
+				"title_link": "https://christianbookout.itch.io/dungeon-detox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247847",
 				"by_list": [
-					"gose",
+					"christianbookout",
 					"DisguisedGrandpa"
 				],
 				"by_link_list": [
-					"https://gonse.itch.io/",
+					"https://christianbookout.itch.io/",
 					"https://disguisedgrandpa.itch.io/"
 				],
 				"rank": 10,
@@ -2375,7 +2444,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "En Route.",
 				"title_link": "https://krengdroid.itch.io/en-route",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646132",
@@ -2463,7 +2532,7 @@
 				"by_list": [
 					"Yumulak",
 					"Blae",
-					"Christian-J-Pereda-Rives"
+					"Graysannin"
 				],
 				"by_link_list": [
 					"https://yumulak.itch.io/",
@@ -2494,7 +2563,7 @@
 				"by_list": [
 					"Yumulak",
 					"Blae",
-					"Christian-J-Pereda-Rives"
+					"Graysannin"
 				],
 				"by_link_list": [
 					"https://yumulak.itch.io/",
@@ -2510,7 +2579,7 @@
 		]
 	},
 	{
-		"jammer": "Christian-J-Pereda-Rives",
+		"jammer": "Graysannin",
 		"jammer_link": "https://christian-j-pereda-rives.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2525,7 +2594,7 @@
 				"by_list": [
 					"Yumulak",
 					"Blae",
-					"Christian-J-Pereda-Rives"
+					"Graysannin"
 				],
 				"by_link_list": [
 					"https://yumulak.itch.io/",
@@ -3174,33 +3243,6 @@
 				"score": 3.389,
 				"ilscore": 90,
 				"submission_time_diff": -33527000
-			}
-		]
-	},
-	{
-		"jammer": "FortyVsZero",
-		"jammer_link": "https://fortyvszero.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 141,
-				"jam_name": "Stories",
-				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
-				"jam_vs": 43,
-				"title": "Overtoasted",
-				"title_link": "https://fortyvszero.itch.io/overtoasted",
-				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267805",
-				"by_list": [
-					"FortyVsZero"
-				],
-				"by_link_list": [
-					"https://fortyvszero.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 19,
-				"score": 3.763,
-				"ilscore": 50,
-				"submission_time_diff": -30250000
 			}
 		]
 	}

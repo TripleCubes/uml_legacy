@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "tariq",
+		"jammer_link": "https://oketariq.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"jam_vs": 79,
+				"title": "timemart",
+				"title_link": "https://oketariq.itch.io/timemart",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934803",
+				"by_list": [
+					"tariq"
+				],
+				"by_link_list": [
+					"https://oketariq.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 15,
+				"score": 3.317,
+				"ilscore": 60,
+				"submission_time_diff": -14280000
+			}
+		]
+	},
+	{
 		"jammer": "Paolotto Games",
 		"jammer_link": "https://paolottogames.itch.io/",
 		"game_list_sorted": [
@@ -2330,7 +2357,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "mushroom plus gun",
 				"title_link": "https://happy-dev.itch.io/mushroom-plus-gun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2645169",
@@ -2470,7 +2497,7 @@
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
 				"by_list": [
-					"lethargic",
+					"leth",
 					"alexgeshtar",
 					"panchenko",
 					"bigslav",
@@ -2502,7 +2529,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956270",
 				"by_list": [
 					"budnichniy",
-					"lethargic",
+					"leth",
 					"bigslav",
 					"SouJll",
 					"alexgeshtar",
@@ -2525,7 +2552,7 @@
 		]
 	},
 	{
-		"jammer": "lethargic",
+		"jammer": "leth",
 		"jammer_link": "https://leth4.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2538,7 +2565,7 @@
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
 				"by_list": [
-					"lethargic",
+					"leth",
 					"alexgeshtar",
 					"panchenko",
 					"bigslav",
@@ -2570,7 +2597,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956270",
 				"by_list": [
 					"budnichniy",
-					"lethargic",
+					"leth",
 					"bigslav",
 					"SouJll",
 					"alexgeshtar",
@@ -2607,7 +2634,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956270",
 				"by_list": [
 					"budnichniy",
-					"lethargic",
+					"leth",
 					"bigslav",
 					"SouJll",
 					"alexgeshtar",
@@ -2643,7 +2670,7 @@
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
 				"by_list": [
-					"lethargic",
+					"leth",
 					"alexgeshtar",
 					"panchenko",
 					"bigslav",
@@ -2675,7 +2702,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956270",
 				"by_list": [
 					"budnichniy",
-					"lethargic",
+					"leth",
 					"bigslav",
 					"SouJll",
 					"alexgeshtar",
@@ -3696,35 +3723,6 @@
 				"score": 2.682,
 				"ilscore": 57,
 				"submission_time_diff": -2683000
-			}
-		]
-	},
-	{
-		"jammer": "PatitoDev",
-		"jammer_link": "https://patitodev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 127,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 117,
-				"title": "Estrey",
-				"title_link": "https://patitodev.itch.io/estrey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956675",
-				"by_list": [
-					"PatitoDev",
-					"AnnCinn"
-				],
-				"by_link_list": [
-					"https://patitodev.itch.io/",
-					"https://anncinn.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 7,
-				"score": 2.659,
-				"ilscore": 57,
-				"submission_time_diff": -333000
 			}
 		]
 	}

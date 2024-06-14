@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Blue_Giant",
+		"jammer_link": "https://blue-giant.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Ducky Dungeon",
+				"title_link": "https://blue-giant.itch.io/ducky-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1390421",
+				"by_list": [
+					"Blue_Giant"
+				],
+				"by_link_list": [
+					"https://blue-giant.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 14,
+				"score": 3.696,
+				"ilscore": 107,
+				"submission_time_diff": 72683000
+			}
+		]
+	},
+	{
 		"jammer": "RoyalJudas",
 		"jammer_link": "https://royaljudas.itch.io/",
 		"game_list_sorted": [
@@ -304,7 +331,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Morkhërr",
 				"title_link": "https://amealky.itch.io/morkherr",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673048",
@@ -319,7 +346,7 @@
 				"rank": 22,
 				"ratings": 10,
 				"score": 3.55,
-				"ilscore": 72,
+				"ilscore": 73,
 				"submission_time_diff": -709000
 			},
 			{
@@ -431,7 +458,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Clockwork Angel",
 				"title_link": "https://robothamj.itch.io/clockwork-angel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672709",
@@ -444,7 +471,7 @@
 				"rank": 4,
 				"ratings": 14,
 				"score": 4.232,
-				"ilscore": 86,
+				"ilscore": 87,
 				"submission_time_diff": -23728000
 			},
 			{
@@ -1025,7 +1052,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Spliter",
 				"title_link": "https://squape.itch.io/spliter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868655",
@@ -2115,7 +2142,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Butterfly Nightmare",
 				"title_link": "https://nightmodegames.itch.io/butterfly-nightmare",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869560",
@@ -4231,33 +4258,6 @@
 				"score": 2.74,
 				"ilscore": 79,
 				"submission_time_diff": -8426000
-			}
-		]
-	},
-	{
-		"jammer": "Psychic Snail Studios",
-		"jammer_link": "https://psychic-snail-studios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Bird Box Co",
-				"title_link": "https://psychic-snail-studios.itch.io/bird-box-co",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388443",
-				"by_list": [
-					"Psychic Snail Studios"
-				],
-				"by_link_list": [
-					"https://psychic-snail-studios.itch.io/"
-				],
-				"rank": 146,
-				"ratings": 11,
-				"score": 2.727,
-				"ilscore": 78,
-				"submission_time_diff": -1117000
 			}
 		]
 	}

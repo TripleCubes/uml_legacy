@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "chrygore",
+		"jammer_link": "https://chrygore.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 88,
+				"title": "Cake Wars",
+				"title_link": "https://chrygore.itch.io/cake-wars",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296844",
+				"by_list": [
+					"chrygore"
+				],
+				"by_link_list": [
+					"https://chrygore.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 6,
+				"score": 2.162,
+				"ilscore": 41,
+				"submission_time_diff": -678000
+			}
+		]
+	},
+	{
 		"jammer": "adamnguyen",
 		"jammer_link": "https://adamnguyen.itch.io/",
 		"game_list_sorted": [
@@ -997,7 +1024,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Cyber Webber",
 				"title_link": "https://saschanian.itch.io/cyber-webber",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869169",
@@ -1450,7 +1477,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "The Floor is Spiders",
 				"title_link": "https://kitchaos.itch.io/the-floor-is-spiders",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1870216",
@@ -3468,33 +3495,6 @@
 				"score": 1.544,
 				"ilscore": 24,
 				"submission_time_diff": 37945000
-			}
-		]
-	},
-	{
-		"jammer": "bronzalit",
-		"jammer_link": "https://bronzalit.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 96,
-				"jam_name": "Fate",
-				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 60,
-				"title": "Run after the bus!",
-				"title_link": "https://bronzalit.itch.io/game-for-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331380",
-				"by_list": [
-					"bronzalit"
-				],
-				"by_link_list": [
-					"https://bronzalit.itch.io/"
-				],
-				"rank": 68,
-				"ratings": 5,
-				"score": 1.271,
-				"ilscore": 20,
-				"submission_time_diff": -130610000
 			}
 		]
 	}

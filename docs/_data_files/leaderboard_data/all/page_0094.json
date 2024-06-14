@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "FortyVsZero",
+		"jammer_link": "https://fortyvszero.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"jam_vs": 43,
+				"title": "Overtoasted",
+				"title_link": "https://fortyvszero.itch.io/overtoasted",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267805",
+				"by_list": [
+					"FortyVsZero"
+				],
+				"by_link_list": [
+					"https://fortyvszero.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 19,
+				"score": 3.763,
+				"ilscore": 50,
+				"submission_time_diff": -30250000
+			}
+		]
+	},
+	{
 		"jammer": "Nyx_Dev",
 		"jammer_link": "https://thenyx.itch.io/",
 		"game_list_sorted": [
@@ -2362,8 +2389,8 @@
 		]
 	},
 	{
-		"jammer": "GolfMaster",
-		"jammer_link": "https://golfmaster.itch.io/",
+		"jammer": "golfmaestro",
+		"jammer_link": "https://golfmaestro.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2372,13 +2399,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
 				"jam_vs": 63,
 				"title": "Colorize",
-				"title_link": "https://golfmaster.itch.io/colorize",
+				"title_link": "https://golfmaestro.itch.io/colorize",
 				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315264",
 				"by_list": [
-					"GolfMaster"
+					"golfmaestro"
 				],
 				"by_link_list": [
-					"https://golfmaster.itch.io/"
+					"https://golfmaestro.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 10,
@@ -3534,35 +3561,6 @@
 	{
 		"jammer": "larry_mag_uruk",
 		"jammer_link": "https://larry-mag-uruk.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "NORDSEEKUESTE",
-				"title_link": "https://larry-mag-uruk.itch.io/nordseekueste",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315073",
-				"by_list": [
-					"larry_mag_uruk",
-					"Styxcon"
-				],
-				"by_link_list": [
-					"https://larry-mag-uruk.itch.io/",
-					"https://styxcon.itch.io/"
-				],
-				"rank": 56,
-				"ratings": 2,
-				"score": 1.949,
-				"ilscore": 31,
-				"submission_time_diff": -38374000
-			}
-		]
-	},
-	{
-		"jammer": "Styxcon",
-		"jammer_link": "https://styxcon.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

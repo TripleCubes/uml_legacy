@@ -1,5 +1,61 @@
 [
 	{
+		"jammer": "sha-bits",
+		"jammer_link": "https://sha-bits.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 76,
+				"title": "&gt;immutable",
+				"title_link": "https://sha-bits.itch.io/immutable",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999785",
+				"by_list": [
+					"sha-bits",
+					"aureoreo"
+				],
+				"by_link_list": [
+					"https://sha-bits.itch.io/",
+					"https://aureoreo.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.286,
+				"ilscore": 76,
+				"submission_time_diff": -906000
+			}
+		]
+	},
+	{
+		"jammer": "casualBystander",
+		"jammer_link": "https://casualbystander.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 133,
+				"title": "Dungeon Shapest",
+				"title_link": "https://casualbystander.itch.io/dungeon-shapest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2094242",
+				"by_list": [
+					"casualBystander"
+				],
+				"by_link_list": [
+					"https://casualbystander.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.286,
+				"ilscore": 96,
+				"submission_time_diff": 71292000
+			}
+		]
+	},
+	{
 		"jammer": "McWolke",
 		"jammer_link": "https://mcwolke.itch.io/",
 		"game_list_sorted": [
@@ -1468,8 +1524,8 @@
 		]
 	},
 	{
-		"jammer": "Danisaurous",
-		"jammer_link": "https://danisaurous.itch.io/",
+		"jammer": "Danisaur",
+		"jammer_link": "https://danisaurawr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1478,13 +1534,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"jam_vs": 55,
 				"title": "Hexagon Hazard",
-				"title_link": "https://danisaurous.itch.io/hexagon-hazard",
+				"title_link": "https://danisaurawr.itch.io/hexagon-hazard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
 				"by_list": [
-					"Danisaurous"
+					"Danisaur"
 				],
 				"by_link_list": [
-					"https://danisaurous.itch.io/"
+					"https://danisaurawr.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 16,
@@ -1532,7 +1588,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "On-Shroom!",
 				"title_link": "https://kemipo.itch.io/on-shroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644264",
@@ -2844,64 +2900,6 @@
 				"score": 4.343,
 				"ilscore": 28,
 				"submission_time_diff": -575000
-			}
-		]
-	},
-	{
-		"jammer": "FreshBone",
-		"jammer_link": "https://freshbone.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 64,
-				"jam_name": "Nintendo 64",
-				"jam_link": "https://itch.io/jam/mini-jam-64",
-				"jam_vs": 13,
-				"title": "MINI RACERS",
-				"title_link": "https://luismint.itch.io/mini-racers",
-				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778165",
-				"by_list": [
-					"LuisMint",
-					"FreshBone",
-					"SubstandardShrimp"
-				],
-				"by_link_list": [
-					"https://luismint.itch.io/",
-					"https://freshbone.itch.io/",
-					"https://substandardshrimp.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 7,
-				"score": 4.343,
-				"ilscore": 28,
-				"submission_time_diff": -575000
-			}
-		]
-	},
-	{
-		"jammer": "Walker Perkins",
-		"jammer_link": "https://walker-p.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 33,
-				"jam_name": "Underwater",
-				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"jam_vs": 46,
-				"title": "Bibbledy Pip",
-				"title_link": "https://walker-p.itch.io/bibbledy-pip",
-				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456779",
-				"by_list": [
-					"Walker Perkins"
-				],
-				"by_link_list": [
-					"https://walker-p.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 21,
-				"score": 4.333,
-				"ilscore": 60,
-				"submission_time_diff": -6676000
 			}
 		]
 	}

@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "KorubiiGames",
+		"jammer_link": "https://korubiigames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Frogger Baron",
+				"title_link": "https://korubiigames.itch.io/frogger-baron",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532586",
+				"by_list": [
+					"KorubiiGames"
+				],
+				"by_link_list": [
+					"https://korubiigames.itch.io/"
+				],
+				"rank": 265,
+				"ratings": 2,
+				"score": 1.604,
+				"ilscore": 48,
+				"submission_time_diff": -4485000
+			}
+		]
+	},
+	{
 		"jammer": "Vectoral",
 		"jammer_link": "https://vectoral.itch.io/",
 		"game_list_sorted": [
@@ -943,7 +970,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Soul Breakers",
 				"title_link": "https://kerneliron.itch.io/soul-breakers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672369",
@@ -1682,7 +1709,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Electrical Ground",
 				"title_link": "https://blodyx.itch.io/electrical-ground",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868978",
@@ -1957,7 +1984,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1550981",
 				"by_list": [
 					"Silvyger",
-					"Teshia Bennett",
+					"TL Thomas Bennett",
 					"ChriztiUit",
 					"Tony Cable"
 				],
@@ -3410,6 +3437,27 @@
 				"score": 3.964,
 				"ilscore": 64,
 				"submission_time_diff": 38612000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Lightspeed Express",
+				"title_link": "https://trash-can.itch.io/lightspeed-express",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764580",
+				"by_list": [
+					"Trashcan"
+				],
+				"by_link_list": [
+					"https://trash-can.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 8,
+				"score": 3.563,
+				"ilscore": 79,
+				"submission_time_diff": 674000
 			}
 		]
 	},
@@ -3595,54 +3643,6 @@
 				"score": 3.625,
 				"ilscore": 83,
 				"submission_time_diff": -7532000
-			}
-		]
-	},
-	{
-		"jammer": "Looncaller",
-		"jammer_link": "https://looncaller.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
-				"title": "Faint Horizon",
-				"title_link": "https://looncaller.itch.io/faint-horizon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572434",
-				"by_list": [
-					"Looncaller"
-				],
-				"by_link_list": [
-					"https://looncaller.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 16,
-				"score": 3.906,
-				"ilscore": 106,
-				"submission_time_diff": -4133000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Down with the (Space) Ship",
-				"title_link": "https://looncaller.itch.io/down-with-the-space-ship",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609630",
-				"by_list": [
-					"Looncaller"
-				],
-				"by_link_list": [
-					"https://looncaller.itch.io/"
-				],
-				"rank": 207,
-				"ratings": 2,
-				"score": 1.336,
-				"ilscore": 36,
-				"submission_time_diff": -511000
 			}
 		]
 	}

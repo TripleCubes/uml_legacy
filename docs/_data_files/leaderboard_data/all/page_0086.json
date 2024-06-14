@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "PatitoDev",
+		"jammer_link": "https://patitodev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 117,
+				"title": "Estrey",
+				"title_link": "https://patitodev.itch.io/estrey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956675",
+				"by_list": [
+					"PatitoDev",
+					"AnnCinn"
+				],
+				"by_link_list": [
+					"https://patitodev.itch.io/",
+					"https://anncinn.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 7,
+				"score": 2.659,
+				"ilscore": 57,
+				"submission_time_diff": -333000
+			}
+		]
+	},
+	{
 		"jammer": "AnnCinn",
 		"jammer_link": "https://anncinn.itch.io/",
 		"game_list_sorted": [
@@ -2243,8 +2272,8 @@
 		]
 	},
 	{
-		"jammer": "issacdb",
-		"jammer_link": "https://issacdb.itch.io/",
+		"jammer": "isaacdbs",
+		"jammer_link": "https://isaacdbs.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2253,14 +2282,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-128-health",
 				"jam_vs": 133,
 				"title": "Jump to Health",
-				"title_link": "https://issacdb.itch.io/jump-to-health",
+				"title_link": "https://isaacdbs.itch.io/jump-to-health",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977743",
 				"by_list": [
-					"issacdb",
+					"isaacdbs",
 					"Victor Matheus"
 				],
 				"by_link_list": [
-					"https://issacdb.itch.io/",
+					"https://isaacdbs.itch.io/",
 					"https://matheusum.itch.io/"
 				],
 				"rank": 53,
@@ -2282,14 +2311,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-128-health",
 				"jam_vs": 133,
 				"title": "Jump to Health",
-				"title_link": "https://issacdb.itch.io/jump-to-health",
+				"title_link": "https://isaacdbs.itch.io/jump-to-health",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977743",
 				"by_list": [
-					"issacdb",
+					"isaacdbs",
 					"Victor Matheus"
 				],
 				"by_link_list": [
-					"https://issacdb.itch.io/",
+					"https://isaacdbs.itch.io/",
 					"https://matheusum.itch.io/"
 				],
 				"rank": 53,
@@ -3298,33 +3327,6 @@
 				"score": 2.288,
 				"ilscore": 51,
 				"submission_time_diff": -21595000
-			}
-		]
-	},
-	{
-		"jammer": "DevinBT",
-		"jammer_link": "https://devinbt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "Hell's Stairs",
-				"title_link": "https://devinbt.itch.io/hells-stairs",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977571",
-				"by_list": [
-					"DevinBT"
-				],
-				"by_link_list": [
-					"https://devinbt.itch.io/"
-				],
-				"rank": 90,
-				"ratings": 6,
-				"score": 2.269,
-				"ilscore": 51,
-				"submission_time_diff": -15389000
 			}
 		]
 	}

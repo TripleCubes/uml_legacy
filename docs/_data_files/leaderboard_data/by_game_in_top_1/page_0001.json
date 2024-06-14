@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "MD Wade",
+		"jammer_link": "https://md-wade.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"jam_vs": 100,
+				"title": "Malicious Confectionery",
+				"title_link": "https://md-wade.itch.io/malicious-confectionery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808000",
+				"by_list": [
+					"MD Wade"
+				],
+				"by_link_list": [
+					"https://md-wade.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.292,
+				"ilscore": 86,
+				"submission_time_diff": -5989000
+			}
+		]
+	},
+	{
 		"jammer": "André Lima e Silva",
 		"jammer_link": "https://andrelimaesilva.itch.io/",
 		"game_list_sorted": [
@@ -1926,8 +1953,8 @@
 		]
 	},
 	{
-		"jammer": "Danisaurous",
-		"jammer_link": "https://danisaurous.itch.io/",
+		"jammer": "Danisaur",
+		"jammer_link": "https://danisaurawr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1936,13 +1963,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"jam_vs": 55,
 				"title": "Hexagon Hazard",
-				"title_link": "https://danisaurous.itch.io/hexagon-hazard",
+				"title_link": "https://danisaurawr.itch.io/hexagon-hazard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
 				"by_list": [
-					"Danisaurous"
+					"Danisaur"
 				],
 				"by_link_list": [
-					"https://danisaurous.itch.io/"
+					"https://danisaurawr.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 16,
@@ -2017,7 +2044,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "On-Shroom!",
 				"title_link": "https://kemipo.itch.io/on-shroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644264",
@@ -2869,35 +2896,6 @@
 				"score": 3.778,
 				"ilscore": 36,
 				"submission_time_diff": -40557000
-			}
-		]
-	},
-	{
-		"jammer": "JamesGMarks",
-		"jammer_link": "https://revelationgt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 21,
-				"jam_name": "Stories",
-				"jam_link": "https://itch.io/jam/mini-jam-21-stories",
-				"jam_vs": 13,
-				"title": "Princess Story",
-				"title_link": "https://readymajor.itch.io/princess-story",
-				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369100",
-				"by_list": [
-					"ReadyMajor",
-					"JamesGMarks"
-				],
-				"by_link_list": [
-					"https://readymajor.itch.io/",
-					"https://revelationgt.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 3.712,
-				"ilscore": 24,
-				"submission_time_diff": -42000
 			}
 		]
 	}

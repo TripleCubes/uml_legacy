@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "chaotune",
+		"jammer_link": "https://chaotune.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 214,
+				"title": "Nine Lives",
+				"title_link": "https://ali3ndev.itch.io/nine-lives",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608495",
+				"by_list": [
+					"ali3n",
+					"chaotune",
+					"that-sevvi"
+				],
+				"by_link_list": [
+					"https://ali3ndev.itch.io/",
+					"https://chaotune.itch.io/",
+					"https://that-sevvi.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 38,
+				"score": 3.645,
+				"ilscore": 99,
+				"submission_time_diff": -23167000
+			}
+		]
+	},
+	{
 		"jammer": "that-sevvi",
 		"jammer_link": "https://that-sevvi.itch.io/",
 		"game_list_sorted": [
@@ -1629,7 +1660,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Looping around Evil (Mini Gamejam 113 : FinalBoss)",
 				"title_link": "https://kiwithevth.itch.io/looping-around-evil",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672128",
@@ -1847,7 +1878,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "TowerBuilder",
 				"title_link": "https://crowlog.itch.io/towerbuilder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673013",
@@ -3096,7 +3127,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Man and Mushrooms",
 				"title_link": "https://andrey231.itch.io/man-and-mushrooms",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2642610",
@@ -3109,7 +3140,7 @@
 				"rank": 35,
 				"ratings": 8,
 				"score": 2.875,
-				"ilscore": 55,
+				"ilscore": 54,
 				"submission_time_diff": -123186000
 			},
 			{
@@ -3631,33 +3662,6 @@
 				"score": 2.073,
 				"ilscore": 56,
 				"submission_time_diff": -16141000
-			}
-		]
-	},
-	{
-		"jammer": "MAKRORK",
-		"jammer_link": "https://makrork.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Summoner",
-				"title_link": "https://makrork.itch.io/summoner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609388",
-				"by_list": [
-					"MAKRORK"
-				],
-				"by_link_list": [
-					"https://makrork.itch.io/"
-				],
-				"rank": 153,
-				"ratings": 3,
-				"score": 2.019,
-				"ilscore": 54,
-				"submission_time_diff": -12580000
 			}
 		]
 	}

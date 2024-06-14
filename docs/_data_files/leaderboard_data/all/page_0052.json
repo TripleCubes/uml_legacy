@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "bronzalit",
+		"jammer_link": "https://bronzalit.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 96,
+				"jam_name": "Fate",
+				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
+				"jam_vs": 60,
+				"title": "Run after the bus!",
+				"title_link": "https://bronzalit.itch.io/game-for-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331380",
+				"by_list": [
+					"bronzalit"
+				],
+				"by_link_list": [
+					"https://bronzalit.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 5,
+				"score": 1.271,
+				"ilscore": 20,
+				"submission_time_diff": -130610000
+			}
+		]
+	},
+	{
 		"jammer": "ikk1422",
 		"jammer_link": "https://ikk1422.itch.io/",
 		"game_list_sorted": [
@@ -2147,7 +2174,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "String Theory",
 				"title_link": "https://gradientogames.itch.io/string-theory",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867258",
@@ -3486,7 +3513,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "PROJECT E.A.R.T.H",
 				"title_link": "https://neocybercat.itch.io/project-earth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868013",
@@ -4050,33 +4077,6 @@
 				"score": 3.552,
 				"ilscore": 107,
 				"submission_time_diff": -90000
-			}
-		]
-	},
-	{
-		"jammer": "pkelixs",
-		"jammer_link": "https://pkelixs.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "Empty Cartridge",
-				"title_link": "https://pkelixs.itch.io/empty-catridge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366307",
-				"by_list": [
-					"pkelixs"
-				],
-				"by_link_list": [
-					"https://pkelixs.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 14,
-				"score": 3.571,
-				"ilscore": 76,
-				"submission_time_diff": -7000
 			}
 		]
 	}

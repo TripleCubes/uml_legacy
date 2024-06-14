@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Robin Tea",
+		"jammer_link": "https://robin-tea.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"jam_vs": 40,
+				"title": "Reckless Leap",
+				"title_link": "https://robin-tea.itch.io/reckless-leap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415856",
+				"by_list": [
+					"Robin Tea"
+				],
+				"by_link_list": [
+					"https://robin-tea.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 6,
+				"score": 3.375,
+				"ilscore": 43,
+				"submission_time_diff": -5223000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 156,
+				"title": "A Guide to Dating the Eldritch",
+				"title_link": "https://robin-tea.itch.io/a-guide-to-dating-the-eldritch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459777",
+				"by_list": [
+					"Robin Tea"
+				],
+				"by_link_list": [
+					"https://robin-tea.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 8,
+				"score": 3.656,
+				"ilscore": 88,
+				"submission_time_diff": -6853000
+			}
+		]
+	},
+	{
 		"jammer": "Emrlin",
 		"jammer_link": "https://floofy-emrlin.itch.io/",
 		"game_list_sorted": [
@@ -514,8 +562,8 @@
 		]
 	},
 	{
-		"jammer": "Danisaurous",
-		"jammer_link": "https://danisaurous.itch.io/",
+		"jammer": "Danisaur",
+		"jammer_link": "https://danisaurawr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -524,13 +572,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
 				"jam_vs": 55,
 				"title": "Hexagon Hazard",
-				"title_link": "https://danisaurous.itch.io/hexagon-hazard",
+				"title_link": "https://danisaurawr.itch.io/hexagon-hazard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
 				"by_list": [
-					"Danisaurous"
+					"Danisaur"
 				],
 				"by_link_list": [
-					"https://danisaurous.itch.io/"
+					"https://danisaurawr.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 16,
@@ -2138,6 +2186,27 @@
 				"score": 2.742,
 				"ilscore": 59,
 				"submission_time_diff": -187445000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Sunlight Survivor",
+				"title_link": "https://olanti.itch.io/sunlight-survivor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764498",
+				"by_list": [
+					"Olanti"
+				],
+				"by_link_list": [
+					"https://olanti.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 6,
+				"score": 2.634,
+				"ilscore": 58,
+				"submission_time_diff": -2753000
 			}
 		]
 	},
@@ -2321,7 +2390,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Five Nights at Mushroom Palace",
 				"title_link": "https://teammelodies.itch.io/five-nights-at-mushroom-palace",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644047",
@@ -2529,6 +2598,27 @@
 				"score": 3.786,
 				"ilscore": 91,
 				"submission_time_diff": -346000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Dungeon Light",
+				"title_link": "https://cranberryninja.itch.io/dungeon-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2761043",
+				"by_list": [
+					"Cranberry Ninja"
+				],
+				"by_link_list": [
+					"https://cranberryninja.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 7,
+				"score": 2.806,
+				"ilscore": 62,
+				"submission_time_diff": -2009000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -2751,7 +2841,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Mushroom Wardener",
 				"title_link": "https://axelftv.itch.io/mushroom-wardener",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2640787",
@@ -2781,10 +2871,12 @@
 				"title_link": "https://sealantern.itch.io/titan",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734368",
 				"by_list": [
-					"SeaLantern"
+					"SeaLantern",
+					"v39"
 				],
 				"by_link_list": [
-					"https://sealantern.itch.io/"
+					"https://sealantern.itch.io/",
+					"https://chesnov.itch.io/"
 				],
 				"rank": 68,
 				"ratings": 8,
@@ -2866,6 +2958,27 @@
 				"score": 3.714,
 				"ilscore": 89,
 				"submission_time_diff": -18277000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Bubca",
+				"title_link": "https://towarzyszfatcat.itch.io/bubca",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763527",
+				"by_list": [
+					"TowarzyszFatCat"
+				],
+				"by_link_list": [
+					"https://towarzyszfatcat.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 13,
+				"score": 3.115,
+				"ilscore": 69,
+				"submission_time_diff": -34078000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3109,7 +3222,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "El chamuco",
 				"title_link": "https://gatozerogames.itch.io/el-chamuco",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644887",
@@ -3371,33 +3484,6 @@
 				"score": 3.338,
 				"ilscore": 80,
 				"submission_time_diff": 127581000
-			}
-		]
-	},
-	{
-		"jammer": "Awptimas",
-		"jammer_link": "https://awptimas.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
-				"title": "DebtMixologist",
-				"title_link": "https://awptimas.itch.io/debtlife",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460171",
-				"by_list": [
-					"Awptimas"
-				],
-				"by_link_list": [
-					"https://awptimas.itch.io/"
-				],
-				"rank": 46,
-				"ratings": 7,
-				"score": 3.321,
-				"ilscore": 80,
-				"submission_time_diff": 2658000
 			}
 		]
 	}

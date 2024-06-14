@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "pkelixs",
+		"jammer_link": "https://pkelixs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "Empty Cartridge",
+				"title_link": "https://pkelixs.itch.io/empty-catridge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366307",
+				"by_list": [
+					"pkelixs"
+				],
+				"by_link_list": [
+					"https://pkelixs.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 14,
+				"score": 3.571,
+				"ilscore": 76,
+				"submission_time_diff": -7000
+			}
+		]
+	},
+	{
 		"jammer": "FryDev",
 		"jammer_link": "https://frydev.itch.io/",
 		"game_list_sorted": [
@@ -305,7 +332,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Edgeblast",
 				"title_link": "https://badpiggy.itch.io/edgeblast",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672339",
@@ -318,7 +345,7 @@
 				"rank": 16,
 				"ratings": 22,
 				"score": 3.693,
-				"ilscore": 75,
+				"ilscore": 76,
 				"submission_time_diff": -34452000
 			},
 			{
@@ -1315,7 +1342,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Frog Out Of Time",
 				"title_link": "https://wbarteck.itch.io/frog-out-of-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646574",
@@ -3107,6 +3134,31 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Stealth Optional",
+				"title_link": "https://yollie.itch.io/stealth-optional",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2765159",
+				"by_list": [
+					"Yollie",
+					"SpiralFlip",
+					"jfoe"
+				],
+				"by_link_list": [
+					"https://yollie.itch.io/",
+					"https://spiralflip.itch.io/",
+					"https://jfoe.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.375,
+				"ilscore": 97,
+				"submission_time_diff": 33488000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
@@ -3865,7 +3917,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Mechalike",
 				"title_link": "https://nezt50.itch.io/mechalike",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673056",
@@ -3961,7 +4013,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Space Boss",
 				"title_link": "https://bingo-enormous-name.itch.io/space-boss",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673192",
@@ -4142,33 +4194,6 @@
 				"score": 3.712,
 				"ilscore": 107,
 				"submission_time_diff": 134213000
-			}
-		]
-	},
-	{
-		"jammer": "Blue_Giant",
-		"jammer_link": "https://blue-giant.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Ducky Dungeon",
-				"title_link": "https://blue-giant.itch.io/ducky-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1390421",
-				"by_list": [
-					"Blue_Giant"
-				],
-				"by_link_list": [
-					"https://blue-giant.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 14,
-				"score": 3.696,
-				"ilscore": 107,
-				"submission_time_diff": 72683000
 			}
 		]
 	}

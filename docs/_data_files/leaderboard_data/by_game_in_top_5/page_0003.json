@@ -1,5 +1,63 @@
 [
 	{
+		"jammer": "FreshBone",
+		"jammer_link": "https://freshbone.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 64,
+				"jam_name": "Nintendo 64",
+				"jam_link": "https://itch.io/jam/mini-jam-64",
+				"jam_vs": 13,
+				"title": "MINI RACERS",
+				"title_link": "https://luismint.itch.io/mini-racers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778165",
+				"by_list": [
+					"LuisMint",
+					"FreshBone",
+					"SubstandardShrimp"
+				],
+				"by_link_list": [
+					"https://luismint.itch.io/",
+					"https://freshbone.itch.io/",
+					"https://substandardshrimp.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 4.343,
+				"ilscore": 28,
+				"submission_time_diff": -575000
+			}
+		]
+	},
+	{
+		"jammer": "Walker Perkins",
+		"jammer_link": "https://walker-p.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"jam_vs": 46,
+				"title": "Bibbledy Pip",
+				"title_link": "https://walker-p.itch.io/bibbledy-pip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456779",
+				"by_list": [
+					"Walker Perkins"
+				],
+				"by_link_list": [
+					"https://walker-p.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.333,
+				"ilscore": 60,
+				"submission_time_diff": -6676000
+			}
+		]
+	},
+	{
 		"jammer": "Aletuno",
 		"jammer_link": "https://alejandroaceytunogonzalez.itch.io/",
 		"game_list_sorted": [
@@ -389,7 +447,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Web Journey",
 				"title_link": "https://pakodev.itch.io/web-journey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869405",
@@ -402,7 +460,7 @@
 				"rank": 2,
 				"ratings": 40,
 				"score": 4.256,
-				"ilscore": 115,
+				"ilscore": 114,
 				"submission_time_diff": -883000
 			}
 		]
@@ -1459,33 +1517,6 @@
 		]
 	},
 	{
-		"jammer": "pixemistic games",
-		"jammer_link": "https://pixemisti.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 155,
-				"jam_name": "Wind",
-				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 112,
-				"title": "Wind Of Change",
-				"title_link": "https://pixemisti.itch.io/wind-of-change",
-				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617783",
-				"by_list": [
-					"pixemistic games"
-				],
-				"by_link_list": [
-					"https://pixemisti.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 19,
-				"score": 4.079,
-				"ilscore": 85,
-				"submission_time_diff": -35224000
-			}
-		]
-	},
-	{
 		"jammer": "CuriousCinni",
 		"jammer_link": "https://curiouscinni.itch.io/",
 		"game_list_sorted": [
@@ -1575,7 +1606,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Trapped spore",
 				"title_link": "https://greekdev137.itch.io/trapped-spore",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646798",
@@ -1588,7 +1619,7 @@
 				"rank": 2,
 				"ratings": 11,
 				"score": 4.068,
-				"ilscore": 78,
+				"ilscore": 77,
 				"submission_time_diff": 32206000
 			}
 		]
@@ -1859,7 +1890,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603832",
 				"by_list": [
 					"Manuel Rincón",
-					"dessketch"
+					"Diego.dessketch@gmail.com"
 				],
 				"by_link_list": [
 					"https://manurgamedev.itch.io/",
@@ -1874,7 +1905,7 @@
 		]
 	},
 	{
-		"jammer": "dessketch",
+		"jammer": "Diego.dessketch@gmail.com",
 		"jammer_link": "https://dessketch.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1888,7 +1919,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603832",
 				"by_list": [
 					"Manuel Rincón",
-					"dessketch"
+					"Diego.dessketch@gmail.com"
 				],
 				"by_link_list": [
 					"https://manurgamedev.itch.io/",
@@ -2830,39 +2861,6 @@
 	{
 		"jammer": "JohnLee Cooper",
 		"jammer_link": "https://ergman.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"jam_vs": 26,
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by_list": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link_list": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833,
-				"ilscore": 39,
-				"submission_time_diff": -2884000
-			}
-		]
-	},
-	{
-		"jammer": "Teal_ish",
-		"jammer_link": "https://teal-ish.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

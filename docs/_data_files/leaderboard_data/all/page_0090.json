@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "saadi technion projects",
+		"jammer_link": "https://saadi-technion-projects.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"jam_vs": 58,
+				"title": "procedurally generated space",
+				"title_link": "https://saadi-technion-projects.itch.io/procedurally-generated-space",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2034433",
+				"by_list": [
+					"saadi technion projects"
+				],
+				"by_link_list": [
+					"https://saadi-technion-projects.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 3,
+				"score": 0.577,
+				"ilscore": 9,
+				"submission_time_diff": -7063000
+			}
+		]
+	},
+	{
 		"jammer": "Loona",
 		"jammer_link": "https://loonadev.itch.io/",
 		"game_list_sorted": [
@@ -143,7 +170,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Curse of the Mystical Mushroom",
 				"title_link": "https://bacon-beast.itch.io/curse-of-the-mystical-mushroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2642863",
@@ -1127,7 +1154,7 @@
 				"title_link": "https://leth4.itch.io/goblinomicon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091794",
 				"by_list": [
-					"lethargic",
+					"leth",
 					"alexgeshtar",
 					"panchenko",
 					"bigslav",
@@ -3148,7 +3175,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Out of The Shell",
 				"title_link": "https://robbie-wagner.itch.io/out-of-the-shell",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2643755",
@@ -3161,7 +3188,7 @@
 				"rank": 48,
 				"ratings": 3,
 				"score": 2.711,
-				"ilscore": 52,
+				"ilscore": 51,
 				"submission_time_diff": -9781000
 			},
 			{
@@ -3446,33 +3473,6 @@
 				"score": 2.552,
 				"ilscore": 57,
 				"submission_time_diff": -22552000
-			}
-		]
-	},
-	{
-		"jammer": "mattihase",
-		"jammer_link": "https://mattihase.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
-				"title": "Weather Wizard!",
-				"title_link": "https://mattihase.itch.io/weather-wizard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2093938",
-				"by_list": [
-					"mattihase"
-				],
-				"by_link_list": [
-					"https://mattihase.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 3,
-				"score": 2.55,
-				"ilscore": 57,
-				"submission_time_diff": 59008000
 			}
 		]
 	}

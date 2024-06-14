@@ -28,7 +28,7 @@
 	},
 	{
 		"jammer": "Pusio",
-		"jammer_link": "https://pusio-kot.itch.io/",
+		"jammer_link": "https://pusiodev.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -36,14 +36,14 @@
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
 				"jam_vs": 119,
-				"title": "RC Master",
-				"title_link": "https://pusio-kot.itch.io/rc-master",
+				"title": "RC Master (Zero)",
+				"title_link": "https://pusiodev.itch.io/rc-master-0",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675219",
 				"by_list": [
 					"Pusio"
 				],
 				"by_link_list": [
-					"https://pusio-kot.itch.io/"
+					"https://pusiodev.itch.io/"
 				],
 				"rank": 9,
 				"ratings": 12,
@@ -773,6 +773,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Me HATE Fire",
+				"title_link": "https://ghoulcel.itch.io/me-hate-fire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764153",
+				"by_list": [
+					"Ghoulcel"
+				],
+				"by_link_list": [
+					"https://ghoulcel.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 40,
+				"score": 3.737,
+				"ilscore": 82,
+				"submission_time_diff": -7310000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
@@ -1094,6 +1115,29 @@
 				"score": 2.912,
 				"ilscore": 62,
 				"submission_time_diff": -22827000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 126,
+				"title": "TITAN",
+				"title_link": "https://sealantern.itch.io/titan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734368",
+				"by_list": [
+					"SeaLantern",
+					"v39"
+				],
+				"by_link_list": [
+					"https://sealantern.itch.io/",
+					"https://chesnov.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 8,
+				"score": 2.875,
+				"ilscore": 63,
+				"submission_time_diff": -456000
 			}
 		]
 	},

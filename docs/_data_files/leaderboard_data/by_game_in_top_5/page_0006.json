@@ -1,5 +1,119 @@
 [
 	{
+		"jammer": "jpeg2k",
+		"jammer_link": "https://jpeg2k.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Record Scratch Fever",
+				"title_link": "https://lapspider45.itch.io/record-scratch-fever",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1041476",
+				"by_list": [
+					"lapspider45",
+					"jpeg2k"
+				],
+				"by_link_list": [
+					"https://lapspider45.itch.io/",
+					"https://jpeg2k.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 40,
+				"score": 4.269,
+				"ilscore": 98,
+				"submission_time_diff": -9396000
+			}
+		]
+	},
+	{
+		"jammer": "ragir",
+		"jammer_link": "https://ragir.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Hungry Frog",
+				"title_link": "https://ragir.itch.io/hungry-frog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025690",
+				"by_list": [
+					"ragir"
+				],
+				"by_link_list": [
+					"https://ragir.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 10,
+				"score": 4.25,
+				"ilscore": 108,
+				"submission_time_diff": -18916000
+			}
+		]
+	},
+	{
+		"jammer": "loafy co.",
+		"jammer_link": "https://loafyco.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "b-e-e-t-l-e",
+				"title_link": "https://loafyco.itch.io/b-e-e-t-l-e",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880570",
+				"by_list": [
+					"loafy co.",
+					"smuckerz"
+				],
+				"by_link_list": [
+					"https://loafyco.itch.io/",
+					"https://smuckerz.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 29,
+				"score": 4.241,
+				"ilscore": 82,
+				"submission_time_diff": -279000
+			}
+		]
+	},
+	{
+		"jammer": "smuckerz",
+		"jammer_link": "https://smuckerz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "b-e-e-t-l-e",
+				"title_link": "https://loafyco.itch.io/b-e-e-t-l-e",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880570",
+				"by_list": [
+					"loafy co.",
+					"smuckerz"
+				],
+				"by_link_list": [
+					"https://loafyco.itch.io/",
+					"https://smuckerz.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 29,
+				"score": 4.241,
+				"ilscore": 82,
+				"submission_time_diff": -279000
+			}
+		]
+	},
+	{
 		"jammer": "dawsonLIED",
 		"jammer_link": "https://dawsonlied.itch.io/",
 		"game_list_sorted": [
@@ -62,7 +176,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "Clockwork Angel",
 				"title_link": "https://robothamj.itch.io/clockwork-angel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672709",
@@ -75,7 +189,7 @@
 				"rank": 4,
 				"ratings": 14,
 				"score": 4.232,
-				"ilscore": 86,
+				"ilscore": 87,
 				"submission_time_diff": -23728000
 			}
 		]
@@ -1055,7 +1169,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "Sticky Jump",
 				"title_link": "https://a-cup-of-coffee.itch.io/sticky-jump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868088",
@@ -1155,6 +1269,33 @@
 				"score": 4.06,
 				"ilscore": 67,
 				"submission_time_diff": -1541000
+			}
+		]
+	},
+	{
+		"jammer": "Quasari",
+		"jammer_link": "https://quasari.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 127,
+				"title": "Inflamed Breath",
+				"title_link": "https://quasari.itch.io/inflamed-breath",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764078",
+				"by_list": [
+					"Quasari"
+				],
+				"by_link_list": [
+					"https://quasari.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 16,
+				"score": 4.031,
+				"ilscore": 89,
+				"submission_time_diff": -4343000
 			}
 		]
 	},
@@ -2317,7 +2458,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 90,
+				"jam_vs": 89,
 				"title": "Loop Bouncer (We have cookies!!)",
 				"title_link": "https://sideron.itch.io/loop-bouncer-we-have-cookies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646866",
@@ -2695,151 +2836,6 @@
 				"score": 3.825,
 				"ilscore": 69,
 				"submission_time_diff": -104000
-			}
-		]
-	},
-	{
-		"jammer": "Raddic",
-		"jammer_link": "https://raddic.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 80,
-				"title": "Jam Packed",
-				"title_link": "https://t-spawn.itch.io/jam-packed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591622",
-				"by_list": [
-					"T-Spawn",
-					"Raddic",
-					"Sperkins"
-				],
-				"by_link_list": [
-					"https://t-spawn.itch.io/",
-					"https://raddic.itch.io/",
-					"https://sperkins.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 20,
-				"score": 3.825,
-				"ilscore": 69,
-				"submission_time_diff": -104000
-			}
-		]
-	},
-	{
-		"jammer": "Sperkins",
-		"jammer_link": "https://sperkins.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 80,
-				"title": "Jam Packed",
-				"title_link": "https://t-spawn.itch.io/jam-packed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591622",
-				"by_list": [
-					"T-Spawn",
-					"Raddic",
-					"Sperkins"
-				],
-				"by_link_list": [
-					"https://t-spawn.itch.io/",
-					"https://raddic.itch.io/",
-					"https://sperkins.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 20,
-				"score": 3.825,
-				"ilscore": 69,
-				"submission_time_diff": -104000
-			}
-		]
-	},
-	{
-		"jammer": "powernoel",
-		"jammer_link": "https://powernoel.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 137,
-				"jam_name": "Judgement",
-				"jam_link": "https://itch.io/jam/mini-jam-137-judgement",
-				"jam_vs": 28,
-				"title": "Hello_Underworld",
-				"title_link": "https://powernoel.itch.io/hello-underworld",
-				"submission_page_link": "https://itch.io/jam/mini-jam-137-judgement/rate/2185265",
-				"by_list": [
-					"powernoel"
-				],
-				"by_link_list": [
-					"https://powernoel.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 11,
-				"score": 3.795,
-				"ilscore": 40,
-				"submission_time_diff": -22067000
-			}
-		]
-	},
-	{
-		"jammer": "hby",
-		"jammer_link": "https://hby.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 47,
-				"jam_name": "Internet",
-				"jam_link": "https://itch.io/jam/mini-jam-47-internet",
-				"jam_vs": 53,
-				"title": "Last Train Home",
-				"title_link": "https://hby.itch.io/last-train-home",
-				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/566214",
-				"by_list": [
-					"hby"
-				],
-				"by_link_list": [
-					"https://hby.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 29,
-				"score": 3.786,
-				"ilscore": 56,
-				"submission_time_diff": -121000
-			}
-		]
-	},
-	{
-		"jammer": "Rucksack",
-		"jammer_link": "https://rucksack.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Ceaseless",
-				"title_link": "https://rucksack.itch.io/ceaseless",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633058",
-				"by_list": [
-					"Rucksack",
-					"LLlarsO"
-				],
-				"by_link_list": [
-					"https://rucksack.itch.io/",
-					"https://lllarso.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 15,
-				"score": 3.773,
-				"ilscore": 58,
-				"submission_time_diff": -22168000
 			}
 		]
 	}

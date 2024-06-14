@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "Point",
+		"jammer_link": "https://justapoint.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 386,
+				"title": "Color Slime",
+				"title_link": "https://justapoint.itch.io/color-slime",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634492",
+				"by_list": [
+					"Point",
+					"calculatoriq",
+					"Alpatyk"
+				],
+				"by_link_list": [
+					"https://justapoint.itch.io/",
+					"https://calculatoriq.itch.io/",
+					"https://alpatyk.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 12,
+				"score": 3.208,
+				"ilscore": 107,
+				"submission_time_diff": -1502000
+			}
+		]
+	},
+	{
 		"jammer": "calculatoriq",
 		"jammer_link": "https://calculatoriq.itch.io/",
 		"game_list_sorted": [
@@ -468,14 +499,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
 				"jam_vs": 53,
 				"title": "ORGANS, PLEASE",
-				"title_link": "https://colethehuman.itch.io/organs-please",
+				"title_link": "https://pascaldev.itch.io/organs-please",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2704863",
 				"by_list": [
-					"ColetheHuman",
+					"PASCAL",
 					"Pathetic Games"
 				],
 				"by_link_list": [
-					"https://colethehuman.itch.io/",
+					"https://pascaldev.itch.io/",
 					"https://pathetic-games.itch.io/"
 				],
 				"rank": 12,
@@ -491,15 +522,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
 				"jam_vs": 79,
 				"title": "Escape Pod 7",
-				"title_link": "https://colethehuman.itch.io/escapepod7",
+				"title_link": "https://pascaldev.itch.io/escapepod7",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932452",
 				"by_list": [
-					"ColetheHuman",
+					"PASCAL",
 					"Pathetic Games",
 					"TeffyD"
 				],
 				"by_link_list": [
-					"https://colethehuman.itch.io/",
+					"https://pascaldev.itch.io/",
 					"https://pathetic-games.itch.io/",
 					"https://teffyd.itch.io/"
 				],
@@ -742,7 +773,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 211,
+				"jam_vs": 210,
 				"title": "A Web Too Far",
 				"title_link": "https://pseudodev.itch.io/a-web-too-far",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869634",
@@ -1920,7 +1951,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "The knights toilet adventure",
 				"title_link": "https://maxwelltheape.itch.io/the-knights-toilet-adventure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672653",
@@ -2037,7 +2068,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "The Big Boss Fight",
 				"title_link": "https://proboy-beater.itch.io/the-big-boss-fight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1671618",
@@ -2367,7 +2398,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "QUARTER MUNCHER",
 				"title_link": "https://jasonbot.itch.io/quarter-muncher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1670861",
@@ -2380,7 +2411,7 @@
 				"rank": 51,
 				"ratings": 5,
 				"score": 2.876,
-				"ilscore": 58,
+				"ilscore": 59,
 				"submission_time_diff": -45390000
 			},
 			{
@@ -3368,7 +3399,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 106,
 				"title": "The End is coming! ... In 3 minutes to be precise",
 				"title_link": "https://littledevgames.itch.io/the-end-is-coming-in-3-minutes-to-be-precise",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672693",
@@ -3381,7 +3412,7 @@
 				"rank": 38,
 				"ratings": 13,
 				"score": 3.212,
-				"ilscore": 65,
+				"ilscore": 66,
 				"submission_time_diff": -24161000
 			},
 			{
@@ -3635,33 +3666,6 @@
 				"score": 2.438,
 				"ilscore": 81,
 				"submission_time_diff": -7380000
-			}
-		]
-	},
-	{
-		"jammer": "Marge._.Bouvier",
-		"jammer_link": "https://marge-bouvier.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "Party 'Til We're Purple",
-				"title_link": "https://marge-bouvier.itch.io/party-til-were-purple",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634995",
-				"by_list": [
-					"Marge._.Bouvier"
-				],
-				"by_link_list": [
-					"https://marge-bouvier.itch.io/"
-				],
-				"rank": 245,
-				"ratings": 4,
-				"score": 2.431,
-				"ilscore": 81,
-				"submission_time_diff": -604000
 			}
 		]
 	}
