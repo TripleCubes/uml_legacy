@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "eksabite",
-		"jammer_link": "https://eksabite.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "HellYeah",
-				"title_link": "https://eksabite.itch.io/hellyeah",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984292",
-				"by_list": [
-					"eksabite"
-				],
-				"by_link_list": [
-					"https://eksabite.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 1,
-				"score": 1.25,
-				"ilscore": 28,
-				"submission_time_diff": -315000
-			}
-		]
-	},
-	{
-		"jammer": "patasakura",
-		"jammer_link": "https://patasakura.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "BackToEarth",
-				"title_link": "https://patasakura.itch.io/backtoearth",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984416",
-				"by_list": [
-					"patasakura"
-				],
-				"by_link_list": [
-					"https://patasakura.itch.io/"
-				],
-				"rank": 131,
-				"ratings": 2,
-				"score": 1.179,
-				"ilscore": 27,
-				"submission_time_diff": 38569000
-			}
-		]
-	},
-	{
-		"jammer": "Litwick4Life",
-		"jammer_link": "https://litwick4life.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
-				"title": "PlanaStar",
-				"title_link": "https://litwick4life.itch.io/planastar",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984194",
-				"by_list": [
-					"Litwick4Life"
-				],
-				"by_link_list": [
-					"https://litwick4life.itch.io/"
-				],
-				"rank": 132,
-				"ratings": 1,
-				"score": 1.167,
-				"ilscore": 26,
-				"submission_time_diff": -3999000
-			}
-		]
-	},
-	{
 		"jammer": "jackewing",
 		"jammer_link": "https://jackewing.itch.io/",
 		"game_list_sorted": [
@@ -2968,7 +2887,7 @@
 				"jam_id": 140,
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
+				"jam_vs": 39,
 				"title": "Whacky Weapons",
 				"title_link": "https://silvyger.itch.io/whackyweapons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2243808",
@@ -2985,7 +2904,7 @@
 				"rank": 3,
 				"ratings": 15,
 				"score": 4.017,
-				"ilscore": 52,
+				"ilscore": 51,
 				"submission_time_diff": -4345000
 			},
 			{
@@ -4333,7 +4252,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 60,
+				"jam_vs": 59,
 				"title": "Fateful Dungeon",
 				"title_link": "https://kasmeltz.itch.io/fateful-dungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1329943",
@@ -4661,6 +4580,105 @@
 				"score": 3.667,
 				"ilscore": 93,
 				"submission_time_diff": -1475000
+			}
+		]
+	},
+	{
+		"jammer": "Desichan",
+		"jammer_link": "https://desichan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Flop Friction",
+				"title_link": "https://lehandesigns.itch.io/flop-friction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026077",
+				"by_list": [
+					"Lehan Botha",
+					"Desichan",
+					"Tudor",
+					"nooisy"
+				],
+				"by_link_list": [
+					"https://lehandesigns.itch.io/",
+					"https://desichan.itch.io/",
+					"https://tudordrobota.itch.io/",
+					"https://nooisy.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 49,
+				"score": 3.658,
+				"ilscore": 93,
+				"submission_time_diff": -618000
+			}
+		]
+	},
+	{
+		"jammer": "Tudor",
+		"jammer_link": "https://tudordrobota.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Flop Friction",
+				"title_link": "https://lehandesigns.itch.io/flop-friction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026077",
+				"by_list": [
+					"Lehan Botha",
+					"Desichan",
+					"Tudor",
+					"nooisy"
+				],
+				"by_link_list": [
+					"https://lehandesigns.itch.io/",
+					"https://desichan.itch.io/",
+					"https://tudordrobota.itch.io/",
+					"https://nooisy.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 49,
+				"score": 3.658,
+				"ilscore": 93,
+				"submission_time_diff": -618000
+			}
+		]
+	},
+	{
+		"jammer": "nooisy",
+		"jammer_link": "https://nooisy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Flop Friction",
+				"title_link": "https://lehandesigns.itch.io/flop-friction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026077",
+				"by_list": [
+					"Lehan Botha",
+					"Desichan",
+					"Tudor",
+					"nooisy"
+				],
+				"by_link_list": [
+					"https://lehandesigns.itch.io/",
+					"https://desichan.itch.io/",
+					"https://tudordrobota.itch.io/",
+					"https://nooisy.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 49,
+				"score": 3.658,
+				"ilscore": 93,
+				"submission_time_diff": -618000
 			}
 		]
 	}

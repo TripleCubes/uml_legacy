@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Markus-Krugel",
-		"jammer_link": "https://markus-krugel.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Broken Menu",
-				"title_link": "https://markus-krugel.itch.io/broken-menu",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592842",
-				"by_list": [
-					"Markus-Krugel"
-				],
-				"by_link_list": [
-					"https://markus-krugel.itch.io/"
-				],
-				"rank": 128,
-				"ratings": 3,
-				"score": 1.252,
-				"ilscore": 27,
-				"submission_time_diff": -472000
-			}
-		]
-	},
-	{
-		"jammer": "MellowMoose",
-		"jammer_link": "https://mellowmoose.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Jet Ski Jerry",
-				"title_link": "https://mellowmoose.itch.io/jet-ski-jerry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592646",
-				"by_list": [
-					"MellowMoose"
-				],
-				"by_link_list": [
-					"https://mellowmoose.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 1,
-				"score": 1.226,
-				"ilscore": 27,
-				"submission_time_diff": -17594000
-			}
-		]
-	},
-	{
 		"jammer": "Eric Tran",
 		"jammer_link": "https://eric-tran.itch.io/",
 		"game_list_sorted": [
@@ -551,7 +497,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 64,
+				"jam_vs": 63,
 				"title": "The Jims",
 				"title_link": "https://heavyboson.itch.io/the-jims",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837745",
@@ -3751,7 +3697,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 64,
+				"jam_vs": 63,
 				"title": "wipe stress",
 				"title_link": "https://rodrigo151515151515151.itch.io/wipe-stress",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837836",
@@ -3764,7 +3710,7 @@
 				"rank": 68,
 				"ratings": 4,
 				"score": 1.591,
-				"ilscore": 26,
+				"ilscore": 25,
 				"submission_time_diff": -179000
 			},
 			{
@@ -4259,7 +4205,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "Pôôp de poulé",
 				"title_link": "https://rendersoft.itch.io/poopdepoule",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752014",
@@ -4481,7 +4427,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "RGBunny Squad",
 				"title_link": "https://mewore.itch.io/rgbunny-squad",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752254",
@@ -4494,7 +4440,7 @@
 				"rank": 59,
 				"ratings": 15,
 				"score": 3.183,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": 1460000
 			},
 			{
@@ -4517,6 +4463,81 @@
 				"score": 2.709,
 				"ilscore": 62,
 				"submission_time_diff": -156000
+			}
+		]
+	},
+	{
+		"jammer": "AndreRM",
+		"jammer_link": "https://andrerm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "Perfect Crime",
+				"title_link": "https://andrerm.itch.io/perfect-crime",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726806",
+				"by_list": [
+					"AndreRM"
+				],
+				"by_link_list": [
+					"https://andrerm.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 8,
+				"score": 4.25,
+				"ilscore": 69,
+				"submission_time_diff": -1150000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Oasis Runner",
+				"title_link": "https://andrerm.itch.io/oasis-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/631775",
+				"by_list": [
+					"AndreRM"
+				],
+				"by_link_list": [
+					"https://andrerm.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 7,
+				"score": 3.402,
+				"ilscore": 52,
+				"submission_time_diff": -23886000
+			}
+		]
+	},
+	{
+		"jammer": "TackerTacker",
+		"jammer_link": "https://tackertacker.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "FuzzballMcFuzzFace",
+				"title_link": "https://tackertacker.itch.io/fuzzballmcfuzzface",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/630518",
+				"by_list": [
+					"TackerTacker"
+				],
+				"by_link_list": [
+					"https://tackertacker.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 9,
+				"score": 3.378,
+				"ilscore": 52,
+				"submission_time_diff": -23100000
 			}
 		]
 	}

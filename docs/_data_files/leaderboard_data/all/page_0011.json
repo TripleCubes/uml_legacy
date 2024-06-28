@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "mervpls",
-		"jammer_link": "https://mervpls.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 27,
-				"jam_name": "Celebration",
-				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
-				"jam_vs": 24,
-				"title": "Get Balloons into The Mini Jam",
-				"title_link": "https://mervpls.itch.io/get-balloons-into-the-mini-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/417587",
-				"by_list": [
-					"mervpls"
-				],
-				"by_link_list": [
-					"https://mervpls.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 2,
-				"score": 2.167,
-				"ilscore": 21,
-				"submission_time_diff": -96974000
-			}
-		]
-	},
-	{
-		"jammer": "MindJinx",
-		"jammer_link": "https://mindjinx.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 27,
-				"jam_name": "Celebration",
-				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
-				"jam_vs": 24,
-				"title": "Fight to marry",
-				"title_link": "https://mindjinx.itch.io/fight-to-marry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418451",
-				"by_list": [
-					"MindJinx"
-				],
-				"by_link_list": [
-					"https://mindjinx.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 7,
-				"score": 2.143,
-				"ilscore": 20,
-				"submission_time_diff": -159000
-			}
-		]
-	},
-	{
 		"jammer": "MASSIVEtinyWorkshop",
 		"jammer_link": "https://massivetinyworkshop.itch.io/",
 		"game_list_sorted": [
@@ -1164,7 +1110,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 129,
+				"jam_vs": 128,
 				"title": "Lighthouse",
 				"title_link": "https://summersuperb.itch.io/lighthouse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482686",
@@ -1239,7 +1185,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 129,
+				"jam_vs": 128,
 				"title": "Lighthouse",
 				"title_link": "https://summersuperb.itch.io/lighthouse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482686",
@@ -3906,7 +3852,7 @@
 				"jam_id": 140,
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
+				"jam_vs": 39,
 				"title": "Call of Dungeons | Harmless Weapons",
 				"title_link": "https://x17boy.itch.io/callofdungeons-harmless-weapons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247713",
@@ -3984,6 +3930,60 @@
 				"score": 2.385,
 				"ilscore": 32,
 				"submission_time_diff": -12908000
+			}
+		]
+	},
+	{
+		"jammer": "MADiFold Studio",
+		"jammer_link": "https://madifold.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"jam_vs": 36,
+				"title": "Boom!Tube",
+				"title_link": "https://madifold.itch.io/boomtube",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450465",
+				"by_list": [
+					"MADiFold Studio"
+				],
+				"by_link_list": [
+					"https://madifold.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 10,
+				"score": 3.025,
+				"ilscore": 37,
+				"submission_time_diff": -32182000
+			}
+		]
+	},
+	{
+		"jammer": "Beth333",
+		"jammer_link": "https://beth333.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"jam_vs": 36,
+				"title": "Demolition Pig",
+				"title_link": "https://beth333.itch.io/demolition-pig",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450638",
+				"by_list": [
+					"Beth333"
+				],
+				"by_link_list": [
+					"https://beth333.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 17,
+				"score": 2.765,
+				"ilscore": 33,
+				"submission_time_diff": -10162000
 			}
 		]
 	}

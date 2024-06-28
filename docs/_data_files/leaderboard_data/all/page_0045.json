@@ -1,107 +1,5 @@
 [
 	{
-		"jammer": "AteBits",
-		"jammer_link": "https://i8bits.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "COFFEE? BREAK!",
-				"title_link": "https://i8bits.itch.io/coffee-break",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1168752",
-				"by_list": [
-					"AteBits"
-				],
-				"by_link_list": [
-					"https://i8bits.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 9,
-				"score": 3.294,
-				"ilscore": 67,
-				"submission_time_diff": -45545000
-			}
-		]
-	},
-	{
-		"jammer": "GameDevR",
-		"jammer_link": "https://gamedevr.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 138,
-				"jam_name": "Rewind",
-				"jam_link": "https://itch.io/jam/mini-jam-138-rewind",
-				"jam_vs": 23,
-				"title": "Rewind Master",
-				"title_link": "https://gamedevr.itch.io/rewind-master",
-				"submission_page_link": "https://itch.io/jam/mini-jam-138-rewind/rate/2206475",
-				"by_list": [
-					"GameDevR"
-				],
-				"by_link_list": [
-					"https://gamedevr.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 7,
-				"score": 2.179,
-				"ilscore": 20,
-				"submission_time_diff": -56427000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "Coffee Break",
-				"title_link": "https://gamedevr.itch.io/coffee-break",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1167520",
-				"by_list": [
-					"GameDevR"
-				],
-				"by_link_list": [
-					"https://gamedevr.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 16,
-				"score": 3.25,
-				"ilscore": 66,
-				"submission_time_diff": -67868000
-			}
-		]
-	},
-	{
-		"jammer": "N0ne Developer",
-		"jammer_link": "https://n0ne-developer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "Breakfast : Operation Escape",
-				"title_link": "https://n0ne-developer.itch.io/breakfast-operation-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1167118",
-				"by_list": [
-					"N0ne Developer"
-				],
-				"by_link_list": [
-					"https://n0ne-developer.itch.io/"
-				],
-				"rank": 32,
-				"ratings": 11,
-				"score": 3.205,
-				"ilscore": 65,
-				"submission_time_diff": -110438000
-			}
-		]
-	},
-	{
 		"jammer": "A.R.B.A.B",
 		"jammer_link": "https://arbab.itch.io/",
 		"game_list_sorted": [
@@ -2336,7 +2234,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Regular Fishing",
 				"title_link": "https://rdgmr.itch.io/regularfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564269",
@@ -3346,6 +3244,91 @@
 				"score": 3.55,
 				"ilscore": 96,
 				"submission_time_diff": -6756000
+			}
+		]
+	},
+	{
+		"jammer": "DevEdee",
+		"jammer_link": "https://devedee.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Darkest Safest",
+				"title_link": "https://devedee.itch.io/darkest-safest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188072",
+				"by_list": [
+					"DevEdee"
+				],
+				"by_link_list": [
+					"https://devedee.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 6,
+				"score": 3.356,
+				"ilscore": 71,
+				"submission_time_diff": -10965000
+			}
+		]
+	},
+	{
+		"jammer": "phyllis29",
+		"jammer_link": "https://phyllis29.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Rush Race",
+				"title_link": "https://nothing-d.itch.io/rush-race",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188310",
+				"by_list": [
+					"Nothing",
+					"Vinscent13",
+					"phyllis29"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://vinscent13.itch.io/",
+					"https://phyllis29.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 10,
+				"score": 3.3,
+				"ilscore": 70,
+				"submission_time_diff": -80000
+			}
+		]
+	},
+	{
+		"jammer": "LOKIDYLAN",
+		"jammer_link": "https://lokidylan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Emoji Text - Mini Jam",
+				"title_link": "https://lokidylan.itch.io/emoji-text-mini-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188156",
+				"by_list": [
+					"LOKIDYLAN"
+				],
+				"by_link_list": [
+					"https://lokidylan.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 5,
+				"score": 3.296,
+				"ilscore": 69,
+				"submission_time_diff": -11500000
 			}
 		]
 	}

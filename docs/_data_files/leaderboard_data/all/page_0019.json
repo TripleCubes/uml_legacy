@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Nover",
-		"jammer_link": "https://nover.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Forever Dazed",
-				"title_link": "https://nover.itch.io/forever-dazed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647167",
-				"by_list": [
-					"Nover"
-				],
-				"by_link_list": [
-					"https://nover.itch.io/"
-				],
-				"rank": 80,
-				"ratings": 3,
-				"score": 1.766,
-				"ilscore": 34,
-				"submission_time_diff": -23867000
-			}
-		]
-	},
-	{
-		"jammer": "CrowG27",
-		"jammer_link": "https://crowg27.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Reuben",
-				"title_link": "https://crowg27.itch.io/reuben",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647146",
-				"by_list": [
-					"CrowG27"
-				],
-				"by_link_list": [
-					"https://crowg27.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 2,
-				"score": 1.72,
-				"ilscore": 33,
-				"submission_time_diff": -24880000
-			}
-		]
-	},
-	{
 		"jammer": "PanBan",
 		"jammer_link": "https://panban.itch.io/",
 		"game_list_sorted": [
@@ -3206,7 +3152,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Somewhere Among The Clouds",
 				"title_link": "https://finn-truong.itch.io/somewhere-among-the-clouds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564045",
@@ -3219,7 +3165,7 @@
 				"rank": 24,
 				"ratings": 18,
 				"score": 3.694,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -8300000
 			}
 		]
@@ -3506,6 +3452,68 @@
 				"score": 3.375,
 				"ilscore": 71,
 				"submission_time_diff": -7619000
+			}
+		]
+	},
+	{
+		"jammer": "garbagebag",
+		"jammer_link": "https://garbagebag.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Donut Drop Delivery",
+				"title_link": "https://riks.itch.io/donut-drop-delivery",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672058",
+				"by_list": [
+					"riks",
+					"Harold Air Conditioner",
+					"Blast",
+					"garbagebag"
+				],
+				"by_link_list": [
+					"https://riks.itch.io/",
+					"https://harold-ac.itch.io/",
+					"https://cameron-connolly.itch.io/",
+					"https://garbagebag.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 10,
+				"score": 3.375,
+				"ilscore": 71,
+				"submission_time_diff": -7619000
+			}
+		]
+	},
+	{
+		"jammer": "inacho_",
+		"jammer_link": "https://iinacho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Quack!",
+				"title_link": "https://iinacho.itch.io/quack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672200",
+				"by_list": [
+					"inacho_",
+					"Ornelas"
+				],
+				"by_link_list": [
+					"https://iinacho.itch.io/",
+					"https://ornelas.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 36,
+				"score": 3.34,
+				"ilscore": 70,
+				"submission_time_diff": -1245000
 			}
 		]
 	}

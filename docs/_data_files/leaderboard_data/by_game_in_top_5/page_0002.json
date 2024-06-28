@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "phantompauer",
+		"jammer_link": "https://phantompauer.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"jam_vs": 51,
+				"title": "Heart 2 Beat",
+				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
+				"by_list": [
+					"André Lima e Silva",
+					"matgraz",
+					"phantompauer"
+				],
+				"by_link_list": [
+					"https://andrelimaesilva.itch.io/",
+					"https://matgraz.itch.io/",
+					"https://phantompauer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 19,
+				"score": 4.289,
+				"ilscore": 63,
+				"submission_time_diff": -5122000
+			}
+		]
+	},
+	{
 		"jammer": "sha-bits",
 		"jammer_link": "https://sha-bits.itch.io/",
 		"game_list_sorted": [
@@ -281,7 +312,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 64,
+				"jam_vs": 63,
 				"title": "CyberCrunch",
 				"title_link": "https://elioth-games.itch.io/cybercrunch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837296",
@@ -294,7 +325,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.268,
-				"ilscore": 70,
+				"ilscore": 69,
 				"submission_time_diff": -20913000
 			}
 		]
@@ -1132,7 +1163,7 @@
 				"jam_id": 140,
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
+				"jam_vs": 39,
 				"title": "blov :&gt;",
 				"title_link": "https://blinyadebil.itch.io/blov",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246860",
@@ -1145,7 +1176,7 @@
 				"rank": 1,
 				"ratings": 6,
 				"score": 4.167,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -24888000
 			}
 		]
@@ -1524,33 +1555,6 @@
 		]
 	},
 	{
-		"jammer": "Danisaur",
-		"jammer_link": "https://danisaurawr.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 55,
-				"title": "Hexagon Hazard",
-				"title_link": "https://danisaurawr.itch.io/hexagon-hazard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440995",
-				"by_list": [
-					"Danisaur"
-				],
-				"by_link_list": [
-					"https://danisaurawr.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 16,
-				"score": 4.141,
-				"ilscore": 63,
-				"submission_time_diff": 40370000
-			}
-		]
-	},
-	{
 		"jammer": "Astolsko",
 		"jammer_link": "https://astolsko.itch.io/",
 		"game_list_sorted": [
@@ -1696,7 +1700,7 @@
 				"jam_id": 154,
 				"jam_name": "Travel",
 				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 80,
+				"jam_vs": 79,
 				"title": "The Boxed Visionary",
 				"title_link": "https://rowbay.itch.io/the-boxed-visionary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2590407",
@@ -1967,33 +1971,6 @@
 		]
 	},
 	{
-		"jammer": "Wombart",
-		"jammer_link": "https://wombart.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 7,
-				"jam_name": "Greek Mythology",
-				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
-				"jam_vs": 10,
-				"title": "Tiny Coliseum (Gamejam version)",
-				"title_link": "https://wombart.itch.io/tiny-coliseum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285315",
-				"by_list": [
-					"Wombart"
-				],
-				"by_link_list": [
-					"https://wombart.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 15,
-				"score": 3.971,
-				"ilscore": 21,
-				"submission_time_diff": -483000
-			}
-		]
-	},
-	{
 		"jammer": "blek",
 		"jammer_link": "https://blek.itch.io/",
 		"game_list_sorted": [
@@ -2137,7 +2114,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 60,
+				"jam_vs": 59,
 				"title": "Adventuring Pixx",
 				"title_link": "https://rhaelzo.itch.io/adventuring-pixx",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332664",
@@ -2150,7 +2127,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 3.833,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -1259000
 			}
 		]
@@ -2496,7 +2473,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "Link",
 				"title_link": "https://the1337est.itch.io/link",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752125",
@@ -2738,7 +2715,7 @@
 				"jam_id": 16,
 				"jam_name": "Western",
 				"jam_link": "https://itch.io/jam/mini-jam-16-western",
-				"jam_vs": 13,
+				"jam_vs": 12,
 				"title": "Quest for the West (LD43)",
 				"title_link": "https://tigerj.itch.io/quest-for-the-west",
 				"submission_page_link": "https://itch.io/jam/mini-jam-16-western/rate/337571",
@@ -2751,7 +2728,7 @@
 				"rank": 2,
 				"ratings": 7,
 				"score": 4.357,
-				"ilscore": 28,
+				"ilscore": 27,
 				"submission_time_diff": -11910000
 			}
 		]
@@ -2875,6 +2852,37 @@
 	{
 		"jammer": "LuisMint",
 		"jammer_link": "https://luismint.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 64,
+				"jam_name": "Nintendo 64",
+				"jam_link": "https://itch.io/jam/mini-jam-64",
+				"jam_vs": 13,
+				"title": "MINI RACERS",
+				"title_link": "https://luismint.itch.io/mini-racers",
+				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778165",
+				"by_list": [
+					"LuisMint",
+					"FreshBone",
+					"SubstandardShrimp"
+				],
+				"by_link_list": [
+					"https://luismint.itch.io/",
+					"https://freshbone.itch.io/",
+					"https://substandardshrimp.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 4.343,
+				"ilscore": 28,
+				"submission_time_diff": -575000
+			}
+		]
+	},
+	{
+		"jammer": "FreshBone",
+		"jammer_link": "https://freshbone.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

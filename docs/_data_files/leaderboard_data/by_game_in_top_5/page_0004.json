@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "Teal_ish",
-		"jammer_link": "https://teal-ish.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 9,
-				"jam_name": "Back To School",
-				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"jam_vs": 26,
-				"title": "Nerd Bus",
-				"title_link": "https://ergman.itch.io/nerd-bus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
-				"by_list": [
-					"JohnLee Cooper",
-					"Teal_ish",
-					"guattery",
-					"PuzzSoft"
-				],
-				"by_link_list": [
-					"https://ergman.itch.io/",
-					"https://teal-ish.itch.io/",
-					"https://guattery.itch.io/",
-					"https://puzzsoft.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.833,
-				"ilscore": 39,
-				"submission_time_diff": -2884000
-			}
-		]
-	},
-	{
 		"jammer": "guattery",
 		"jammer_link": "https://guattery.itch.io/",
 		"game_list_sorted": [
@@ -41,7 +8,7 @@
 				"jam_id": 9,
 				"jam_name": "Back To School",
 				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"jam_vs": 26,
+				"jam_vs": 25,
 				"title": "Nerd Bus",
 				"title_link": "https://ergman.itch.io/nerd-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
@@ -60,7 +27,7 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 3.833,
-				"ilscore": 39,
+				"ilscore": 38,
 				"submission_time_diff": -2884000
 			}
 		]
@@ -74,7 +41,7 @@
 				"jam_id": 9,
 				"jam_name": "Back To School",
 				"jam_link": "https://itch.io/jam/mini-jam-9-back-to-school-",
-				"jam_vs": 26,
+				"jam_vs": 25,
 				"title": "Nerd Bus",
 				"title_link": "https://ergman.itch.io/nerd-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-9-back-to-school-/rate/297677",
@@ -93,8 +60,101 @@
 				"rank": 2,
 				"ratings": 9,
 				"score": 3.833,
-				"ilscore": 39,
+				"ilscore": 38,
 				"submission_time_diff": -2884000
+			}
+		]
+	},
+	{
+		"jammer": "OfficialChaser8",
+		"jammer_link": "https://officialchaser8.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 54,
+				"title": "Bob's New Car",
+				"title_link": "https://officialchaser8.itch.io/bobsnewcar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789406",
+				"by_list": [
+					"OfficialChaser8",
+					"gobbe",
+					"Crazed Pianist"
+				],
+				"by_link_list": [
+					"https://officialchaser8.itch.io/",
+					"https://dgobbe.itch.io/",
+					"https://dj5412.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 3.833,
+				"ilscore": 58,
+				"submission_time_diff": -630000
+			}
+		]
+	},
+	{
+		"jammer": "gobbe",
+		"jammer_link": "https://dgobbe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 54,
+				"title": "Bob's New Car",
+				"title_link": "https://officialchaser8.itch.io/bobsnewcar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789406",
+				"by_list": [
+					"OfficialChaser8",
+					"gobbe",
+					"Crazed Pianist"
+				],
+				"by_link_list": [
+					"https://officialchaser8.itch.io/",
+					"https://dgobbe.itch.io/",
+					"https://dj5412.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 3.833,
+				"ilscore": 58,
+				"submission_time_diff": -630000
+			}
+		]
+	},
+	{
+		"jammer": "Crazed Pianist",
+		"jammer_link": "https://dj5412.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 54,
+				"title": "Bob's New Car",
+				"title_link": "https://officialchaser8.itch.io/bobsnewcar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789406",
+				"by_list": [
+					"OfficialChaser8",
+					"gobbe",
+					"Crazed Pianist"
+				],
+				"by_link_list": [
+					"https://officialchaser8.itch.io/",
+					"https://dgobbe.itch.io/",
+					"https://dj5412.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 3.833,
+				"ilscore": 58,
+				"submission_time_diff": -630000
 			}
 		]
 	},
@@ -434,7 +494,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 60,
+				"jam_vs": 59,
 				"title": "WASD+E",
 				"title_link": "https://na-es.itch.io/wasde",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331828",
@@ -447,7 +507,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 3.728,
-				"ilscore": 59,
+				"ilscore": 58,
 				"submission_time_diff": -66120000
 			}
 		]
@@ -847,7 +907,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "Ishihara",
 				"title_link": "https://plantaro.itch.io/ishihara",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752265",
@@ -878,7 +938,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "Ishihara",
 				"title_link": "https://plantaro.itch.io/ishihara",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752265",
@@ -909,7 +969,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "Ishihara",
 				"title_link": "https://plantaro.itch.io/ishihara",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752265",
@@ -1135,7 +1195,7 @@
 				"jam_id": 16,
 				"jam_name": "Western",
 				"jam_link": "https://itch.io/jam/mini-jam-16-western",
-				"jam_vs": 13,
+				"jam_vs": 12,
 				"title": "Faster Than Law",
 				"title_link": "https://ekvadior.itch.io/faster-than-law",
 				"submission_page_link": "https://itch.io/jam/mini-jam-16-western/rate/339043",
@@ -1148,7 +1208,7 @@
 				"rank": 3,
 				"ratings": 6,
 				"score": 4.282,
-				"ilscore": 28,
+				"ilscore": 26,
 				"submission_time_diff": -1085000
 			}
 		]
@@ -1642,7 +1702,7 @@
 				"jam_id": 12,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-12-heroes-",
-				"jam_vs": 16,
+				"jam_vs": 15,
 				"title": "The Three Primitives",
 				"title_link": "https://ytkimirti.itch.io/threeprimitives",
 				"submission_page_link": "https://itch.io/jam/mini-jam-12-heroes-/rate/313984",
@@ -1655,7 +1715,7 @@
 				"rank": 3,
 				"ratings": 6,
 				"score": 4.222,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -34630000
 			}
 		]
@@ -1723,7 +1783,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 129,
+				"jam_vs": 128,
 				"title": "Ignis Fatuus",
 				"title_link": "https://hezztia.itch.io/ignis-fatuus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483201",
@@ -1777,7 +1837,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 206,
+				"jam_vs": 205,
 				"title": "Fish Hook",
 				"title_link": "https://vimlark.itch.io/fish-hook",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564161",
@@ -1790,7 +1850,7 @@
 				"rank": 3,
 				"ratings": 24,
 				"score": 4.177,
-				"ilscore": 112,
+				"ilscore": 111,
 				"submission_time_diff": -4125000
 			}
 		]
@@ -2020,7 +2080,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -2037,7 +2097,7 @@
 				"rank": 3,
 				"ratings": 25,
 				"score": 4.15,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -40000
 			}
 		]
@@ -2051,7 +2111,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -2068,7 +2128,7 @@
 				"rank": 3,
 				"ratings": 25,
 				"score": 4.15,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -40000
 			}
 		]
@@ -2912,64 +2972,6 @@
 				"score": 4.114,
 				"ilscore": 74,
 				"submission_time_diff": -44422000
-			}
-		]
-	},
-	{
-		"jammer": "Xanderwood",
-		"jammer_link": "https://xanderwood.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 84,
-				"jam_name": "Bubbles",
-				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
-				"title": "Ascending Air",
-				"title_link": "https://xanderwood.itch.io/ascending-air",
-				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119456",
-				"by_list": [
-					"Xanderwood"
-				],
-				"by_link_list": [
-					"https://xanderwood.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 22,
-				"score": 4.114,
-				"ilscore": 97,
-				"submission_time_diff": -121797000
-			}
-		]
-	},
-	{
-		"jammer": "Char",
-		"jammer_link": "https://char64.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 127,
-				"title": "EscapeBoard",
-				"title_link": "https://char64.itch.io/escapeboard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2759730",
-				"by_list": [
-					"Char",
-					"theJAMARK1",
-					"sallycrow"
-				],
-				"by_link_list": [
-					"https://char64.itch.io/",
-					"https://thejamark1.itch.io/",
-					"https://salad1021.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 22,
-				"score": 4.114,
-				"ilscore": 91,
-				"submission_time_diff": -52000
 			}
 		]
 	}

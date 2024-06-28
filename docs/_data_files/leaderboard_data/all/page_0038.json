@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "SBREN_SBEVE",
-		"jammer_link": "https://sbren-sbeve.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "PLAT - F",
-				"title_link": "https://sbren-sbeve.itch.io/plat-f",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025089",
-				"by_list": [
-					"SBREN_SBEVE"
-				],
-				"by_link_list": [
-					"https://sbren-sbeve.itch.io/"
-				],
-				"rank": 168,
-				"ratings": 6,
-				"score": 1.904,
-				"ilscore": 48,
-				"submission_time_diff": -39016000
-			}
-		]
-	},
-	{
-		"jammer": "Kammil",
-		"jammer_link": "https://kammil.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Frog",
-				"title_link": "https://kammil.itch.io/frog",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025935",
-				"by_list": [
-					"Kammil"
-				],
-				"by_link_list": [
-					"https://kammil.itch.io/"
-				],
-				"rank": 171,
-				"ratings": 4,
-				"score": 1.858,
-				"ilscore": 47,
-				"submission_time_diff": -6425000
-			}
-		]
-	},
-	{
-		"jammer": "LuckyPantherGames",
-		"jammer_link": "https://luckypanthergames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Frog CCG",
-				"title_link": "https://luckypanthergames.itch.io/frog-ccg",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026055",
-				"by_list": [
-					"LuckyPantherGames"
-				],
-				"by_link_list": [
-					"https://luckypanthergames.itch.io/"
-				],
-				"rank": 173,
-				"ratings": 4,
-				"score": 1.818,
-				"ilscore": 46,
-				"submission_time_diff": -2103000
-			}
-		]
-	},
-	{
 		"jammer": "SillyDumbass",
 		"jammer_link": "https://sillydumbass.itch.io/",
 		"game_list_sorted": [
@@ -506,7 +425,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 129,
+				"jam_vs": 128,
 				"title": "Herding Cats",
 				"title_link": "https://jenislav.itch.io/herding-cats",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
@@ -1668,6 +1587,27 @@
 		"jammer": "KingRegicon",
 		"jammer_link": "https://kingregicon.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 54,
+				"title": "Goblin Grabber",
+				"title_link": "https://kingregicon.itch.io/goblin-grabber",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792232",
+				"by_list": [
+					"KingRegicon"
+				],
+				"by_link_list": [
+					"https://kingregicon.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 8,
+				"score": 3.031,
+				"ilscore": 45,
+				"submission_time_diff": 43417000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 80,
@@ -2922,7 +2862,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 55,
+				"jam_vs": 54,
 				"title": "Hack();",
 				"title_link": "https://psemo.itch.io/hack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
@@ -3703,6 +3643,91 @@
 				"score": 2.332,
 				"ilscore": 53,
 				"submission_time_diff": -4651000
+			}
+		]
+	},
+	{
+		"jammer": "righy",
+		"jammer_link": "https://righy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Catocalypse",
+				"title_link": "https://righy.itch.io/catocalypse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1041626",
+				"by_list": [
+					"righy"
+				],
+				"by_link_list": [
+					"https://righy.itch.io/"
+				],
+				"rank": 113,
+				"ratings": 8,
+				"score": 2.32,
+				"ilscore": 53,
+				"submission_time_diff": -138213000
+			}
+		]
+	},
+	{
+		"jammer": "SrDenso",
+		"jammer_link": "https://srdenso.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Thief Mouse",
+				"title_link": "https://srdenso.itch.io/thief-mouse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044871",
+				"by_list": [
+					"SrDenso"
+				],
+				"by_link_list": [
+					"https://srdenso.itch.io/"
+				],
+				"rank": 114,
+				"ratings": 7,
+				"score": 2.301,
+				"ilscore": 52,
+				"submission_time_diff": -9731000
+			}
+		]
+	},
+	{
+		"jammer": "Hefan",
+		"jammer_link": "https://wwhhff.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Cat Maker",
+				"title_link": "https://wwhhff.itch.io/cat-maker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044899",
+				"by_list": [
+					"Hefan",
+					"Racer404",
+					"mashen"
+				],
+				"by_link_list": [
+					"https://wwhhff.itch.io/",
+					"https://racer404.itch.io/",
+					"https://mashen.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 5,
+				"score": 2.263,
+				"ilscore": 52,
+				"submission_time_diff": -5199000
 			}
 		]
 	}

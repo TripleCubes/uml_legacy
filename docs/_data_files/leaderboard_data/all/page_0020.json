@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "garbagebag",
-		"jammer_link": "https://garbagebag.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"jam_vs": 112,
-				"title": "Donut Drop Delivery",
-				"title_link": "https://riks.itch.io/donut-drop-delivery",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672058",
-				"by_list": [
-					"riks",
-					"Harold Air Conditioner",
-					"Blast",
-					"garbagebag"
-				],
-				"by_link_list": [
-					"https://riks.itch.io/",
-					"https://harold-ac.itch.io/",
-					"https://cameron-connolly.itch.io/",
-					"https://garbagebag.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 10,
-				"score": 3.375,
-				"ilscore": 71,
-				"submission_time_diff": -7619000
-			}
-		]
-	},
-	{
-		"jammer": "inacho_",
-		"jammer_link": "https://iinacho.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"jam_vs": 112,
-				"title": "Quack!",
-				"title_link": "https://iinacho.itch.io/quack",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672200",
-				"by_list": [
-					"inacho_",
-					"Ornelas"
-				],
-				"by_link_list": [
-					"https://iinacho.itch.io/",
-					"https://ornelas.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 36,
-				"score": 3.34,
-				"ilscore": 70,
-				"submission_time_diff": -1245000
-			}
-		]
-	},
-	{
 		"jammer": "Ornelas",
 		"jammer_link": "https://ornelas.itch.io/",
 		"game_list_sorted": [
@@ -2783,7 +2721,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 148,
+				"jam_vs": 147,
 				"title": "No Color",
 				"title_link": "https://box-interactive.itch.io/no-color",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751524",
@@ -2796,7 +2734,7 @@
 				"rank": 82,
 				"ratings": 7,
 				"score": 2.929,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -40646000
 			},
 			{
@@ -3634,6 +3572,96 @@
 	{
 		"jammer": "Oriorii",
 		"jammer_link": "https://oriolcs2.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"jam_vs": 48,
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by_list": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link_list": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375,
+				"ilscore": 48,
+				"submission_time_diff": -2498000
+			}
+		]
+	},
+	{
+		"jammer": "Víctor Segura",
+		"jammer_link": "https://victorgg-11.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"jam_vs": 48,
+				"title": "Soul Keeper",
+				"title_link": "https://optus23.itch.io/soul-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
+				"by_list": [
+					"Marc Gálvez",
+					"Oriorii",
+					"Víctor Segura",
+					"didaclis",
+					"RoperoIvan",
+					"youis11",
+					"PeterMcP",
+					"Pol Recasens",
+					"Akius",
+					"christt105"
+				],
+				"by_link_list": [
+					"https://optus23.itch.io/",
+					"https://oriolcs2.itch.io/",
+					"https://victorgg-11.itch.io/",
+					"https://didaclis.itch.io/",
+					"https://roperoivan.itch.io/",
+					"https://youis11.itch.io/",
+					"https://petermcp.itch.io/",
+					"https://polhostrex.itch.io/",
+					"https://akius.itch.io/",
+					"https://christt105.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 6,
+				"score": 3.375,
+				"ilscore": 48,
+				"submission_time_diff": -2498000
+			}
+		]
+	},
+	{
+		"jammer": "didaclis",
+		"jammer_link": "https://didaclis.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
