@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "Venneth",
-		"jammer_link": "https://venneth.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Slimeinator",
-				"title_link": "https://venneth.itch.io/slimeinator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913052",
-				"by_list": [
-					"Venneth",
-					"JollyBoi"
-				],
-				"by_link_list": [
-					"https://venneth.itch.io/",
-					"https://jollyboi.itch.io/"
-				],
-				"rank": 134,
-				"ratings": 5,
-				"score": 2.227,
-				"ilscore": 55,
-				"submission_time_diff": -300000
-			}
-		]
-	},
-	{
-		"jammer": "JollyBoi",
-		"jammer_link": "https://jollyboi.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Slimeinator",
-				"title_link": "https://venneth.itch.io/slimeinator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913052",
-				"by_list": [
-					"Venneth",
-					"JollyBoi"
-				],
-				"by_link_list": [
-					"https://venneth.itch.io/",
-					"https://jollyboi.itch.io/"
-				],
-				"rank": 134,
-				"ratings": 5,
-				"score": 2.227,
-				"ilscore": 55,
-				"submission_time_diff": -300000
-			}
-		]
-	},
-	{
 		"jammer": "Dark Bidoof",
 		"jammer_link": "https://screams-from-the-cellar.itch.io/",
 		"game_list_sorted": [
@@ -845,7 +787,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Save the President",
 				"title_link": "https://fakeflop.itch.io/save-the-president",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983923",
@@ -2186,7 +2128,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Space Escape",
 				"title_link": "https://konnner.itch.io/space-escape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982815",
@@ -3151,7 +3093,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Space Jam",
 				"title_link": "https://lil-nochi.itch.io/space-jam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983586",
@@ -3390,6 +3332,62 @@
 				"score": 1.437,
 				"ilscore": 26,
 				"submission_time_diff": -22353000
+			}
+		]
+	},
+	{
+		"jammer": "Travsul",
+		"jammer_link": "https://travsul.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Sounds of Chaos",
+				"title_link": "https://howyoudoing.itch.io/sounds-of-chaos",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930571",
+				"by_list": [
+					"HowYouDoing",
+					"Travsul"
+				],
+				"by_link_list": [
+					"https://howyoudoing.itch.io/",
+					"https://travsul.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 7,
+				"score": 1.437,
+				"ilscore": 26,
+				"submission_time_diff": -22353000
+			}
+		]
+	},
+	{
+		"jammer": "Adan's Workshop",
+		"jammer_link": "https://adans-workshop.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Double Trouble",
+				"title_link": "https://adans-workshop.itch.io/double-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/928400",
+				"by_list": [
+					"Adan's Workshop"
+				],
+				"by_link_list": [
+					"https://adans-workshop.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 3,
+				"score": 1.378,
+				"ilscore": 25,
+				"submission_time_diff": -98119000
 			}
 		]
 	}

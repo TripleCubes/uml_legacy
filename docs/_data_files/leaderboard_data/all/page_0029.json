@@ -1,82 +1,5 @@
 [
 	{
-		"jammer": "F5 Game Studio",
-		"jammer_link": "https://f5gamestudio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Driven Block",
-				"title_link": "https://f5gamestudio.itch.io/driven-block",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868090",
-				"by_list": [
-					"F5 Game Studio"
-				],
-				"by_link_list": [
-					"https://f5gamestudio.itch.io/"
-				],
-				"rank": 22,
-				"ratings": 12,
-				"score": 3.229,
-				"ilscore": 52,
-				"submission_time_diff": -1770000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 76,
-				"jam_name": "Radiation",
-				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 124,
-				"title": "Hazard Life",
-				"title_link": "https://f5gamestudio.itch.io/hazard-life",
-				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966738",
-				"by_list": [
-					"F5 Game Studio"
-				],
-				"by_link_list": [
-					"https://f5gamestudio.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 11,
-				"score": 3.477,
-				"ilscore": 76,
-				"submission_time_diff": -6369000
-			}
-		]
-	},
-	{
-		"jammer": "AlpineShowTime",
-		"jammer_link": "https://alpineshowtime.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Accurate Angels",
-				"title_link": "https://alpineshowtime.itch.io/accurate-angels",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868129",
-				"by_list": [
-					"AlpineShowTime",
-					"Clem (Real)"
-				],
-				"by_link_list": [
-					"https://alpineshowtime.itch.io/",
-					"https://clemboy.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 18,
-				"score": 3.139,
-				"ilscore": 51,
-				"submission_time_diff": 1972000
-			}
-		]
-	},
-	{
 		"jammer": "Clem (Real)",
 		"jammer_link": "https://clemboy.itch.io/",
 		"game_list_sorted": [
@@ -135,7 +58,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Led Journey",
 				"title_link": "https://beonlytom.itch.io/led",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984409",
@@ -1123,7 +1046,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Satellites",
 				"title_link": "https://crayzato.itch.io/satellites",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017959",
@@ -1495,7 +1418,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Nobody is perfect",
 				"title_link": "https://niklme.itch.io/nobody-is-perfect",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983655",
@@ -2087,7 +2010,7 @@
 		]
 	},
 	{
-		"jammer": "Storm Howard",
+		"jammer": "Storm!",
 		"jammer_link": "https://storm-howard.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2100,7 +2023,7 @@
 				"title_link": "https://storm-howard.itch.io/puzzle-defence",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880517",
 				"by_list": [
-					"Storm Howard"
+					"Storm!"
 				],
 				"by_link_list": [
 					"https://storm-howard.itch.io/"
@@ -3786,7 +3709,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "The Dark Planet",
 				"title_link": "https://tudypie.itch.io/the-dark-planet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982927",
@@ -3870,6 +3793,60 @@
 				"score": 1.563,
 				"ilscore": 30,
 				"submission_time_diff": -7016000
+			}
+		]
+	},
+	{
+		"jammer": "PikaStars",
+		"jammer_link": "https://pikastars.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "AMazeGame",
+				"title_link": "https://pikastars.itch.io/amazingmazegame",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880401",
+				"by_list": [
+					"PikaStars"
+				],
+				"by_link_list": [
+					"https://pikastars.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 5,
+				"score": 2.095,
+				"ilscore": 40,
+				"submission_time_diff": -14664000
+			}
+		]
+	},
+	{
+		"jammer": "PubPrico",
+		"jammer_link": "https://pprico.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "PLANET GREEN",
+				"title_link": "https://pprico.itch.io/planet-green",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879531",
+				"by_list": [
+					"PubPrico"
+				],
+				"by_link_list": [
+					"https://pprico.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 4,
+				"score": 1.989,
+				"ilscore": 38,
+				"submission_time_diff": -66035000
 			}
 		]
 	}

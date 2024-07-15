@@ -1,74 +1,5 @@
 [
 	{
-		"jammer": "StarBee",
-		"jammer_link": "https://starbee.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "E L E M E N T L E S S",
-				"title_link": "https://starbee.itch.io/elementless-jam-ver",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431561",
-				"by_list": [
-					"StarBee"
-				],
-				"by_link_list": [
-					"https://starbee.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 31,
-				"score": 4.04,
-				"ilscore": 93,
-				"submission_time_diff": -792000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
-				"title": "RGB Farm",
-				"title_link": "https://starbee.itch.io/rgb-farm",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752240",
-				"by_list": [
-					"StarBee"
-				],
-				"by_link_list": [
-					"https://starbee.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 16,
-				"score": 3.641,
-				"ilscore": 85,
-				"submission_time_diff": 32107000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 158,
-				"jam_name": "Shopping",
-				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 53,
-				"title": "Crops &amp; Tarot",
-				"title_link": "https://starbee.itch.io/crops-and-tarot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705531",
-				"by_list": [
-					"StarBee"
-				],
-				"by_link_list": [
-					"https://starbee.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 9,
-				"score": 2.889,
-				"ilscore": 43,
-				"submission_time_diff": 39409000
-			}
-		]
-	},
-	{
 		"jammer": "Xanderwood",
 		"jammer_link": "https://xanderwood.itch.io/",
 		"game_list_sorted": [
@@ -2141,7 +2072,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Ludophobia",
 				"title_link": "https://gdgameplayer.itch.io/ludophobia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837710",
@@ -2154,7 +2085,7 @@
 				"rank": 6,
 				"ratings": 8,
 				"score": 3.875,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -6714000
 			},
 			{
@@ -3237,7 +3168,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Boss Fight",
 				"title_link": "https://monkii-man.itch.io/boss-fight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984349",
@@ -4176,6 +4107,33 @@
 				"score": 1.909,
 				"ilscore": 44,
 				"submission_time_diff": -1179000
+			}
+		]
+	},
+	{
+		"jammer": "RedZunder",
+		"jammer_link": "https://redzunder.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 62,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-62",
+				"jam_vs": 147,
+				"title": "Color Time",
+				"title_link": "https://redzunder.itch.io/color-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751753",
+				"by_list": [
+					"RedZunder"
+				],
+				"by_link_list": [
+					"https://redzunder.itch.io/"
+				],
+				"rank": 128,
+				"ratings": 3,
+				"score": 1.855,
+				"ilscore": 43,
+				"submission_time_diff": -28868000
 			}
 		]
 	}

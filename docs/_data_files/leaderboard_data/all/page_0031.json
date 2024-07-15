@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Ketzeron",
-		"jammer_link": "https://ketzeron.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Red Green and Blue",
-				"title_link": "https://ketzeron.itch.io/red-green-and-blue",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/911537",
-				"by_list": [
-					"Ketzeron"
-				],
-				"by_link_list": [
-					"https://ketzeron.itch.io/"
-				],
-				"rank": 25,
-				"ratings": 11,
-				"score": 3.773,
-				"ilscore": 94,
-				"submission_time_diff": -4717000
-			}
-		]
-	},
-	{
-		"jammer": "alolan-meowth",
-		"jammer_link": "https://alolan-meowth.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Unobservable",
-				"title_link": "https://alolan-meowth.itch.io/unobservable",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913025",
-				"by_list": [
-					"alolan-meowth"
-				],
-				"by_link_list": [
-					"https://alolan-meowth.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 14,
-				"score": 3.732,
-				"ilscore": 93,
-				"submission_time_diff": -3632000
-			}
-		]
-	},
-	{
 		"jammer": "ProllyEdible",
 		"jammer_link": "https://prollyedible.itch.io/",
 		"game_list_sorted": [
@@ -648,7 +594,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Shoot for the Stars",
 				"title_link": "https://canaguia.itch.io/shoot-for-the-stars",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983974",
@@ -661,7 +607,7 @@
 				"rank": 8,
 				"ratings": 17,
 				"score": 3.691,
-				"ilscore": 85,
+				"ilscore": 84,
 				"submission_time_diff": -16551000
 			},
 			{
@@ -1655,7 +1601,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "into the VOID",
 				"title_link": "https://mikes.itch.io/into-the-void",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983905",
@@ -3480,7 +3426,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Rehersal",
 				"title_link": "https://dirtybong.itch.io/rehearsal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984301",
@@ -3493,7 +3439,7 @@
 				"rank": 70,
 				"ratings": 15,
 				"score": 2.7,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": 220000
 			},
 			{
@@ -3810,6 +3756,64 @@
 				"score": 2.275,
 				"ilscore": 56,
 				"submission_time_diff": -11138000
+			}
+		]
+	},
+	{
+		"jammer": "Venneth",
+		"jammer_link": "https://venneth.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"jam_vs": 171,
+				"title": "Slimeinator",
+				"title_link": "https://venneth.itch.io/slimeinator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913052",
+				"by_list": [
+					"Venneth",
+					"JollyBoi"
+				],
+				"by_link_list": [
+					"https://venneth.itch.io/",
+					"https://jollyboi.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 5,
+				"score": 2.227,
+				"ilscore": 55,
+				"submission_time_diff": -300000
+			}
+		]
+	},
+	{
+		"jammer": "JollyBoi",
+		"jammer_link": "https://jollyboi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"jam_vs": 171,
+				"title": "Slimeinator",
+				"title_link": "https://venneth.itch.io/slimeinator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913052",
+				"by_list": [
+					"Venneth",
+					"JollyBoi"
+				],
+				"by_link_list": [
+					"https://venneth.itch.io/",
+					"https://jollyboi.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 5,
+				"score": 2.227,
+				"ilscore": 55,
+				"submission_time_diff": -300000
 			}
 		]
 	}

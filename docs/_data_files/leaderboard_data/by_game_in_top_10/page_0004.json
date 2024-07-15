@@ -1,5 +1,59 @@
 [
 	{
+		"jammer": "Julien Lussiez",
+		"jammer_link": "https://julienlussiez.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 171,
+				"title": "Midas Touch",
+				"title_link": "https://julienlussiez.itch.io/midastouch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1135910",
+				"by_list": [
+					"Julien Lussiez"
+				],
+				"by_link_list": [
+					"https://julienlussiez.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 31,
+				"score": 4.081,
+				"ilscore": 101,
+				"submission_time_diff": -31512000
+			}
+		]
+	},
+	{
+		"jammer": "Jax",
+		"jammer_link": "https://jnwjchannel.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"jam_vs": 43,
+				"title": "Cheat Codes",
+				"title_link": "https://jnwjchannel.itch.io/cheat-codes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2266878",
+				"by_list": [
+					"Jax"
+				],
+				"by_link_list": [
+					"https://jnwjchannel.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 29,
+				"score": 4.069,
+				"ilscore": 54,
+				"submission_time_diff": -44970000
+			}
+		]
+	},
+	{
 		"jammer": "tykenn",
 		"jammer_link": "https://tykenn.itch.io/",
 		"game_list_sorted": [
@@ -827,6 +881,33 @@
 		]
 	},
 	{
+		"jammer": "Chimham",
+		"jammer_link": "https://chimham.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 139,
+				"title": "Ball N' Chain",
+				"title_link": "https://chimham.itch.io/ball-n-chain",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819199",
+				"by_list": [
+					"Chimham"
+				],
+				"by_link_list": [
+					"https://chimham.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 28,
+				"score": 4.393,
+				"ilscore": 101,
+				"submission_time_diff": -1245000
+			}
+		]
+	},
+	{
 		"jammer": "ElNikkino",
 		"jammer_link": "https://elnikkino.itch.io/",
 		"game_list_sorted": [
@@ -1141,7 +1222,7 @@
 				"jam_id": 33,
 				"jam_name": "Underwater",
 				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"jam_vs": 46,
+				"jam_vs": 45,
 				"title": "Bibbledy Pip",
 				"title_link": "https://walker-p.itch.io/bibbledy-pip",
 				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/456779",
@@ -1154,7 +1235,7 @@
 				"rank": 2,
 				"ratings": 21,
 				"score": 4.333,
-				"ilscore": 60,
+				"ilscore": 59,
 				"submission_time_diff": -6676000
 			}
 		]
@@ -2221,7 +2302,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Lunar 10",
 				"title_link": "https://r1gby-games.itch.io/lunar-10",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
@@ -2388,10 +2469,41 @@
 				"title_link": "https://madebychill.itch.io/gardeneer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2244345",
 				"by_list": [
-					"Chill"
+					"Chill",
+					"felixrl"
 				],
 				"by_link_list": [
-					"https://madebychill.itch.io/"
+					"https://madebychill.itch.io/",
+					"https://felixrl.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.063,
+				"ilscore": 52,
+				"submission_time_diff": -8079000
+			}
+		]
+	},
+	{
+		"jammer": "felixrl",
+		"jammer_link": "https://felixrl.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 39,
+				"title": "GARDENEER",
+				"title_link": "https://madebychill.itch.io/gardeneer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2244345",
+				"by_list": [
+					"Chill",
+					"felixrl"
+				],
+				"by_link_list": [
+					"https://madebychill.itch.io/",
+					"https://felixrl.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 12,
@@ -2746,122 +2858,6 @@
 				"score": 4,
 				"ilscore": 78,
 				"submission_time_diff": -24316000
-			}
-		]
-	},
-	{
-		"jammer": "Comidon",
-		"jammer_link": "https://comidon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 63,
-				"title": "Birthday",
-				"title_link": "https://comidon.itch.io/birthday",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/836590",
-				"by_list": [
-					"Comidon",
-					"ranisme"
-				],
-				"by_link_list": [
-					"https://comidon.itch.io/",
-					"https://ranisme.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 18,
-				"score": 3.986,
-				"ilscore": 65,
-				"submission_time_diff": -91109000
-			}
-		]
-	},
-	{
-		"jammer": "ranisme",
-		"jammer_link": "https://ranisme.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 63,
-				"title": "Birthday",
-				"title_link": "https://comidon.itch.io/birthday",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/836590",
-				"by_list": [
-					"Comidon",
-					"ranisme"
-				],
-				"by_link_list": [
-					"https://comidon.itch.io/",
-					"https://ranisme.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 18,
-				"score": 3.986,
-				"ilscore": 65,
-				"submission_time_diff": -91109000
-			}
-		]
-	},
-	{
-		"jammer": "Koba",
-		"jammer_link": "https://gabrielkoba.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"jam_vs": 112,
-				"title": "Arcus - Battle in the Skies",
-				"title_link": "https://gabrielkoba.itch.io/arcus-battle-in-the-skies",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671980",
-				"by_list": [
-					"Koba",
-					"novalain"
-				],
-				"by_link_list": [
-					"https://gabrielkoba.itch.io/",
-					"https://novalain.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 25,
-				"score": 3.95,
-				"ilscore": 83,
-				"submission_time_diff": -2277000
-			}
-		]
-	},
-	{
-		"jammer": "novalain",
-		"jammer_link": "https://novalain.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"jam_vs": 112,
-				"title": "Arcus - Battle in the Skies",
-				"title_link": "https://gabrielkoba.itch.io/arcus-battle-in-the-skies",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671980",
-				"by_list": [
-					"Koba",
-					"novalain"
-				],
-				"by_link_list": [
-					"https://gabrielkoba.itch.io/",
-					"https://novalain.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 25,
-				"score": 3.95,
-				"ilscore": 83,
-				"submission_time_diff": -2277000
 			}
 		]
 	}

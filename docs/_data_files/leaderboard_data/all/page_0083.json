@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "TT-AD",
-		"jammer_link": "https://tt-ad.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Help the spider!",
-				"title_link": "https://tt-ad.itch.io/save-the-spider",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869247",
-				"by_list": [
-					"TT-AD"
-				],
-				"by_link_list": [
-					"https://tt-ad.itch.io/"
-				],
-				"rank": 172,
-				"ratings": 5,
-				"score": 1.768,
-				"ilscore": 47,
-				"submission_time_diff": -7589000
-			}
-		]
-	},
-	{
-		"jammer": "Grimeo",
-		"jammer_link": "https://grimeo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Ground yourself",
-				"title_link": "https://grimeo.itch.io/ground-yourself",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869506",
-				"by_list": [
-					"Grimeo"
-				],
-				"by_link_list": [
-					"https://grimeo.itch.io/"
-				],
-				"rank": 173,
-				"ratings": 8,
-				"score": 1.761,
-				"ilscore": 47,
-				"submission_time_diff": -895000
-			}
-		]
-	},
-	{
 		"jammer": "Dinysaw",
 		"jammer_link": "https://dinysaw.itch.io/",
 		"game_list_sorted": [
@@ -187,7 +133,7 @@
 		]
 	},
 	{
-		"jammer": "hazardx",
+		"jammer": "HazardX",
 		"jammer_link": "https://hazardx.itch.io/",
 		"game_list_sorted": [
 			{
@@ -200,7 +146,7 @@
 				"title_link": "https://hazardx.itch.io/spider-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869312",
 				"by_list": [
-					"hazardx"
+					"HazardX"
 				],
 				"by_link_list": [
 					"https://hazardx.itch.io/"
@@ -486,7 +432,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Vertical SliceR",
 				"title_link": "https://jose-tello.itch.io/vertical-slicer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045149",
@@ -499,7 +445,7 @@
 				"rank": 47,
 				"ratings": 7,
 				"score": 1.984,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -13888000
 			},
 			{
@@ -3423,6 +3369,81 @@
 				"score": 2.535,
 				"ilscore": 53,
 				"submission_time_diff": -1762000
+			}
+		]
+	},
+	{
+		"jammer": "feelixxx",
+		"jammer_link": "https://feelixxx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "a warm fire",
+				"title_link": "https://feelixxx.itch.io/a-warm-fire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1887645",
+				"by_list": [
+					"feelixxx"
+				],
+				"by_link_list": [
+					"https://feelixxx.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 7,
+				"score": 2.5,
+				"ilscore": 53,
+				"submission_time_diff": -11660000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 117,
+				"title": "Purrfect Oppression",
+				"title_link": "https://feelixxx.itch.io/purrfect-oppression",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955800",
+				"by_list": [
+					"feelixxx"
+				],
+				"by_link_list": [
+					"https://feelixxx.itch.io/"
+				],
+				"rank": 90,
+				"ratings": 10,
+				"score": 2.4,
+				"ilscore": 51,
+				"submission_time_diff": -13788000
+			}
+		]
+	},
+	{
+		"jammer": "slambingo",
+		"jammer_link": "https://slambingo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "POY",
+				"title_link": "https://slambingo.itch.io/poy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888902",
+				"by_list": [
+					"slambingo"
+				],
+				"by_link_list": [
+					"https://slambingo.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 6,
+				"score": 2.43,
+				"ilscore": 51,
+				"submission_time_diff": -35172000
 			}
 		]
 	}

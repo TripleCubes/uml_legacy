@@ -1,113 +1,5 @@
 [
 	{
-		"jammer": "matchafumi",
-		"jammer_link": "https://matchafumi1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
-				"title": "Fishin with pops",
-				"title_link": "https://matchafumi1.itch.io/fishin-with-pops",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562880",
-				"by_list": [
-					"matchafumi"
-				],
-				"by_link_list": [
-					"https://matchafumi1.itch.io/"
-				],
-				"rank": 151,
-				"ratings": 6,
-				"score": 2.109,
-				"ilscore": 56,
-				"submission_time_diff": -34036000
-			}
-		]
-	},
-	{
-		"jammer": "Unstable",
-		"jammer_link": "https://unstable7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
-				"title": "Depth story",
-				"title_link": "https://unstable7.itch.io/fish-story",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562293",
-				"by_list": [
-					"Unstable"
-				],
-				"by_link_list": [
-					"https://unstable7.itch.io/"
-				],
-				"rank": 153,
-				"ratings": 14,
-				"score": 2.089,
-				"ilscore": 55,
-				"submission_time_diff": -63437000
-			}
-		]
-	},
-	{
-		"jammer": "S@$#NGAMER",
-		"jammer_link": "https://sngamer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
-				"title": "was fishing",
-				"title_link": "https://sngamer.itch.io/was-fishing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2558562",
-				"by_list": [
-					"S@$#NGAMER"
-				],
-				"by_link_list": [
-					"https://sngamer.itch.io/"
-				],
-				"rank": 155,
-				"ratings": 7,
-				"score": 2.047,
-				"ilscore": 54,
-				"submission_time_diff": -156064000
-			}
-		]
-	},
-	{
-		"jammer": "Leonard Meagher",
-		"jammer_link": "https://leonardmeagher2.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
-				"title": "Fish",
-				"title_link": "https://leonardmeagher2.itch.io/fish",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560008",
-				"by_list": [
-					"Leonard Meagher"
-				],
-				"by_link_list": [
-					"https://leonardmeagher2.itch.io/"
-				],
-				"rank": 156,
-				"ratings": 3,
-				"score": 2.021,
-				"ilscore": 54,
-				"submission_time_diff": -163119000
-			}
-		]
-	},
-	{
 		"jammer": "banna-games",
 		"jammer_link": "https://banna-games.itch.io/",
 		"game_list_sorted": [
@@ -1013,7 +905,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Light as a Feather",
 				"title_link": "https://phantomdenstudios.itch.io/light-as-a-feather",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2762408",
@@ -2460,7 +2352,7 @@
 		]
 	},
 	{
-		"jammer": "Loafting Love",
+		"jammer": "Loafting Game Studio",
 		"jammer_link": "https://loaftingdarrell.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2473,7 +2365,7 @@
 				"title_link": "https://loaftingdarrell.itch.io/baggage-please",
 				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591629",
 				"by_list": [
-					"Loafting Love"
+					"Loafting Game Studio"
 				],
 				"by_link_list": [
 					"https://loaftingdarrell.itch.io/"
@@ -3180,6 +3072,118 @@
 				"score": 1.286,
 				"ilscore": 23,
 				"submission_time_diff": -7543000
+			}
+		]
+	},
+	{
+		"jammer": "GameDev&amp;Design",
+		"jammer_link": "https://seanlaughlin88.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Terminal Travel",
+				"title_link": "https://seanlaughlin88.itch.io/terminal-travel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591512",
+				"by_list": [
+					"GameDev&amp;Design",
+					"RangShada"
+				],
+				"by_link_list": [
+					"https://seanlaughlin88.itch.io/",
+					"https://rangshada.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 4,
+				"score": 1.107,
+				"ilscore": 20,
+				"submission_time_diff": -6848000
+			}
+		]
+	},
+	{
+		"jammer": "RangShada",
+		"jammer_link": "https://rangshada.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Terminal Travel",
+				"title_link": "https://seanlaughlin88.itch.io/terminal-travel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591512",
+				"by_list": [
+					"GameDev&amp;Design",
+					"RangShada"
+				],
+				"by_link_list": [
+					"https://seanlaughlin88.itch.io/",
+					"https://rangshada.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 4,
+				"score": 1.107,
+				"ilscore": 20,
+				"submission_time_diff": -6848000
+			}
+		]
+	},
+	{
+		"jammer": "Semoy",
+		"jammer_link": "https://semoy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Plane in a Box",
+				"title_link": "https://semoy.itch.io/plane-in-a-box",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591458",
+				"by_list": [
+					"Semoy"
+				],
+				"by_link_list": [
+					"https://semoy.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 2,
+				"score": 1.062,
+				"ilscore": 19,
+				"submission_time_diff": -8050000
+			}
+		]
+	},
+	{
+		"jammer": "Sharry0976",
+		"jammer_link": "https://sharry0976.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Go Boat",
+				"title_link": "https://sharry0976.itch.io/go-boat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2587360",
+				"by_list": [
+					"Sharry0976"
+				],
+				"by_link_list": [
+					"https://sharry0976.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 3,
+				"score": 0.959,
+				"ilscore": 17,
+				"submission_time_diff": -27709000
 			}
 		]
 	}

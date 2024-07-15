@@ -1,113 +1,5 @@
 [
 	{
-		"jammer": "Crystal Productions",
-		"jammer_link": "https://jaydonstudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "Color Defender (New Version)",
-				"title_link": "https://jaydonstudios.itch.io/color-defender",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634352",
-				"by_list": [
-					"Crystal Productions"
-				],
-				"by_link_list": [
-					"https://jaydonstudios.itch.io/"
-				],
-				"rank": 365,
-				"ratings": 2,
-				"score": 1.375,
-				"ilscore": 46,
-				"submission_time_diff": -28914000
-			}
-		]
-	},
-	{
-		"jammer": "Coding Beast",
-		"jammer_link": "https://coding-beast.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "Color Pilot",
-				"title_link": "https://coding-beast.itch.io/color-pilot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632378",
-				"by_list": [
-					"Coding Beast"
-				],
-				"by_link_list": [
-					"https://coding-beast.itch.io/"
-				],
-				"rank": 368,
-				"ratings": 5,
-				"score": 1.344,
-				"ilscore": 44,
-				"submission_time_diff": -164685000
-			}
-		]
-	},
-	{
-		"jammer": "ScottKnapp",
-		"jammer_link": "https://scottknapp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "Ran out of time",
-				"title_link": "https://paul-erwich.itch.io/ran-out-of-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653352",
-				"by_list": [
-					"Paul Erwich",
-					"ScottKnapp",
-					"ExLepper"
-				],
-				"by_link_list": [
-					"https://paul-erwich.itch.io/",
-					"https://scottknapp.itch.io/",
-					"https://exlepper.itch.io/"
-				],
-				"rank": 90,
-				"ratings": 3,
-				"score": 1.598,
-				"ilscore": 31,
-				"submission_time_diff": -20470000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
-				"title": "ColourClone",
-				"title_link": "https://scottknapp.itch.io/colourclone",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634083",
-				"by_list": [
-					"ScottKnapp",
-					"Paul Erwich"
-				],
-				"by_link_list": [
-					"https://scottknapp.itch.io/",
-					"https://paul-erwich.itch.io/"
-				],
-				"rank": 369,
-				"ratings": 3,
-				"score": 1.327,
-				"ilscore": 44,
-				"submission_time_diff": -35136000
-			}
-		]
-	},
-	{
 		"jammer": "Paul Erwich",
 		"jammer_link": "https://paul-erwich.itch.io/",
 		"game_list_sorted": [
@@ -626,8 +518,8 @@
 		]
 	},
 	{
-		"jammer": "Green &amp; Fire inc.",
-		"jammer_link": "https://green-e-fire-inc.itch.io/",
+		"jammer": "Green &amp; Fire",
+		"jammer_link": "https://green-e-fire.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -636,13 +528,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
 				"jam_vs": 386,
 				"title": "The Fox of Colors",
-				"title_link": "https://green-e-fire-inc.itch.io/the-fox-of-colors",
+				"title_link": "https://green-e-fire.itch.io/the-fox-of-colors",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632803",
 				"by_list": [
-					"Green &amp; Fire inc."
+					"Green &amp; Fire"
 				],
 				"by_link_list": [
-					"https://green-e-fire-inc.itch.io/"
+					"https://green-e-fire.itch.io/"
 				],
 				"rank": 387,
 				"ratings": 2,
@@ -3662,6 +3554,87 @@
 				"score": 2.293,
 				"ilscore": 44,
 				"submission_time_diff": -86880000
+			}
+		]
+	},
+	{
+		"jammer": "mciverar",
+		"jammer_link": "https://mciverar.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "Fully Dilated",
+				"title_link": "https://mciverar.itch.io/fully-dilated",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653423",
+				"by_list": [
+					"mciverar"
+				],
+				"by_link_list": [
+					"https://mciverar.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 4,
+				"score": 2.253,
+				"ilscore": 43,
+				"submission_time_diff": -9274000
+			}
+		]
+	},
+	{
+		"jammer": "Cornbread",
+		"jammer_link": "https://cornbread-dev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "Training Time",
+				"title_link": "https://cornbread-dev.itch.io/training-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653528",
+				"by_list": [
+					"Cornbread"
+				],
+				"by_link_list": [
+					"https://cornbread-dev.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 5,
+				"score": 2.192,
+				"ilscore": 42,
+				"submission_time_diff": -9210000
+			}
+		]
+	},
+	{
+		"jammer": "JustSomeCat",
+		"jammer_link": "https://justsomecat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "Backwards Only In Time",
+				"title_link": "https://justsomecat.itch.io/backwards-only-in-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1652383",
+				"by_list": [
+					"JustSomeCat"
+				],
+				"by_link_list": [
+					"https://justsomecat.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 3,
+				"score": 2.008,
+				"ilscore": 39,
+				"submission_time_diff": -64305000
 			}
 		]
 	}

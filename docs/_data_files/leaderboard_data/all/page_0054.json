@@ -1,107 +1,5 @@
 [
 	{
-		"jammer": "DryCarrot",
-		"jammer_link": "https://drycarrot.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Extreme Birdie",
-				"title_link": "https://drycarrot.itch.io/extreme-birdie",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1386775",
-				"by_list": [
-					"DryCarrot"
-				],
-				"by_link_list": [
-					"https://drycarrot.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 10,
-				"score": 3.65,
-				"ilscore": 105,
-				"submission_time_diff": -68026000
-			}
-		]
-	},
-	{
-		"jammer": "HallowIncorp",
-		"jammer_link": "https://hallowincorp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Scarecrow",
-				"title_link": "https://hallowincorp.itch.io/scarecrow",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389208",
-				"by_list": [
-					"HallowIncorp"
-				],
-				"by_link_list": [
-					"https://hallowincorp.itch.io/"
-				],
-				"rank": 35,
-				"ratings": 34,
-				"score": 3.64,
-				"ilscore": 105,
-				"submission_time_diff": 808000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 68,
-				"title": "One-Eyed Horror",
-				"title_link": "https://hallowincorp.itch.io/one-eyed-horror",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341097",
-				"by_list": [
-					"HallowIncorp"
-				],
-				"by_link_list": [
-					"https://hallowincorp.itch.io/"
-				],
-				"rank": 50,
-				"ratings": 5,
-				"score": 2.253,
-				"ilscore": 38,
-				"submission_time_diff": -3534000
-			}
-		]
-	},
-	{
-		"jammer": "Quantam Studios",
-		"jammer_link": "https://quantamstudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Can't Stop Flying!",
-				"title_link": "https://quantamstudios.itch.io/cant-stop-flying",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1387484",
-				"by_list": [
-					"Quantam Studios"
-				],
-				"by_link_list": [
-					"https://quantamstudios.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 36,
-				"score": 3.632,
-				"ilscore": 105,
-				"submission_time_diff": -71957000
-			}
-		]
-	},
-	{
 		"jammer": "Amealky",
 		"jammer_link": "https://amealky.itch.io/",
 		"game_list_sorted": [
@@ -925,7 +823,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Mila Goes to Mars",
 				"title_link": "https://jml-games.itch.io/mila-goes-to-mars",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021577",
@@ -1137,7 +1035,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Fruit Hunting",
 				"title_link": "https://gamedocs.itch.io/fruit-hunting",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020734",
@@ -3704,6 +3602,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 139,
+				"title": "the Purple Star",
+				"title_link": "https://whoppsd.itch.io/the-purple-star",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2822018",
+				"by_list": [
+					"whopps whopperino"
+				],
+				"by_link_list": [
+					"https://whoppsd.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 11,
+				"score": 3.75,
+				"ilscore": 86,
+				"submission_time_diff": 117656000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
@@ -4233,6 +4152,118 @@
 				"score": 2.667,
 				"ilscore": 77,
 				"submission_time_diff": -8560000
+			}
+		]
+	},
+	{
+		"jammer": "VKChiuselli",
+		"jammer_link": "https://vkchiuselli.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 149,
+				"title": "The Darkrooms",
+				"title_link": "https://brooks-miller.itch.io/the-darkrooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469925",
+				"by_list": [
+					"Brooks Miller",
+					"JMCDmusic",
+					"Jackfhardie",
+					"VKChiuselli",
+					"eljacko1"
+				],
+				"by_link_list": [
+					"https://brooks-miller.itch.io/",
+					"https://jmcdmusic.itch.io/",
+					"https://jackfhardie.itch.io/",
+					"https://vkchiuselli.itch.io/",
+					"https://eljacko1.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 12,
+				"score": 3.021,
+				"ilscore": 71,
+				"submission_time_diff": 53413000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Break Block B(p)uzzle",
+				"title_link": "https://vkchiuselli.itch.io/break-block-bpuzzle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388929",
+				"by_list": [
+					"VKChiuselli"
+				],
+				"by_link_list": [
+					"https://vkchiuselli.itch.io/"
+				],
+				"rank": 154,
+				"ratings": 11,
+				"score": 2.659,
+				"ilscore": 76,
+				"submission_time_diff": 46288000
+			}
+		]
+	},
+	{
+		"jammer": "BunnzoSteel",
+		"jammer_link": "https://bunnzosteel.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Doctor Jay's Brutal Extreme 1976",
+				"title_link": "https://bunnzosteel.itch.io/doctor-jay",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389200",
+				"by_list": [
+					"BunnzoSteel"
+				],
+				"by_link_list": [
+					"https://bunnzosteel.itch.io/"
+				],
+				"rank": 157,
+				"ratings": 9,
+				"score": 2.639,
+				"ilscore": 76,
+				"submission_time_diff": 163933000
+			}
+		]
+	},
+	{
+		"jammer": "Pih Realms",
+		"jammer_link": "https://pihrealms.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Go Go Chicken !!",
+				"title_link": "https://pihrealms.itch.io/go-go-chicken",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389316",
+				"by_list": [
+					"Pih Realms",
+					"Poorly Rendered Games"
+				],
+				"by_link_list": [
+					"https://pihrealms.itch.io/",
+					"https://poorly-rendered-games.itch.io/"
+				],
+				"rank": 158,
+				"ratings": 11,
+				"score": 2.636,
+				"ilscore": 76,
+				"submission_time_diff": -81000
 			}
 		]
 	}

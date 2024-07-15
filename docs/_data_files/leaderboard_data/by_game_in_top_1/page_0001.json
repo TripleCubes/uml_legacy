@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "tomputergames",
+		"jammer_link": "https://tomputergames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 75,
+				"jam_name": "Wisdom",
+				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
+				"jam_vs": 100,
+				"title": "Weighty Wisdom",
+				"title_link": "https://tomputergames.itch.io/weighty-wisdom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/933075",
+				"by_list": [
+					"tomputergames"
+				],
+				"by_link_list": [
+					"https://tomputergames.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 22,
+				"score": 4.307,
+				"ilscore": 86,
+				"submission_time_diff": -25823000
+			}
+		]
+	},
+	{
 		"jammer": "ralh",
 		"jammer_link": "https://ralh.itch.io/",
 		"game_list_sorted": [
@@ -484,7 +511,7 @@
 				"jam_id": 68,
 				"jam_name": "Sleep",
 				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "CyberCrunch",
 				"title_link": "https://elioth-games.itch.io/cybercrunch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837296",
@@ -1454,10 +1481,41 @@
 				"title_link": "https://daz.itch.io/apollo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
 				"by_list": [
-					"Daniel Moreno"
+					"Daniel Moreno",
+					"Paltian"
 				],
 				"by_link_list": [
-					"https://daz.itch.io/"
+					"https://daz.itch.io/",
+					"https://paltian.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 40,
+				"score": 4.181,
+				"ilscore": 88,
+				"submission_time_diff": -23971000
+			}
+		]
+	},
+	{
+		"jammer": "Paltian",
+		"jammer_link": "https://paltian.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 112,
+				"title": "APOLLO",
+				"title_link": "https://daz.itch.io/apollo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
+				"by_list": [
+					"Daniel Moreno",
+					"Paltian"
+				],
+				"by_link_list": [
+					"https://daz.itch.io/",
+					"https://paltian.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 40,
@@ -1847,7 +1905,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "人間　◉",
 				"title_link": "https://yumehiko.itch.io/ningen-maru",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983029",
@@ -2842,62 +2900,6 @@
 				"score": 3.833,
 				"ilscore": 60,
 				"submission_time_diff": -1259000
-			}
-		]
-	},
-	{
-		"jammer": "AMIDev",
-		"jammer_link": "https://amidev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 59,
-				"jam_name": "Fortress",
-				"jam_link": "https://itch.io/jam/mini-jam-59",
-				"jam_vs": 24,
-				"title": "Gravitile",
-				"title_link": "https://amidev.itch.io/gravitile",
-				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/712185",
-				"by_list": [
-					"AMIDev"
-				],
-				"by_link_list": [
-					"https://amidev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 9,
-				"score": 3.778,
-				"ilscore": 36,
-				"submission_time_diff": -40557000
-			}
-		]
-	},
-	{
-		"jammer": "JamesGMarks",
-		"jammer_link": "https://revelationgt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 21,
-				"jam_name": "Stories",
-				"jam_link": "https://itch.io/jam/mini-jam-21-stories",
-				"jam_vs": 13,
-				"title": "Princess Story",
-				"title_link": "https://readymajor.itch.io/princess-story",
-				"submission_page_link": "https://itch.io/jam/mini-jam-21-stories/rate/369100",
-				"by_list": [
-					"ReadyMajor",
-					"JamesGMarks"
-				],
-				"by_link_list": [
-					"https://readymajor.itch.io/",
-					"https://revelationgt.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 3.712,
-				"ilscore": 24,
-				"submission_time_diff": -42000
 			}
 		]
 	}

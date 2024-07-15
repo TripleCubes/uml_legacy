@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "Travsul",
-		"jammer_link": "https://travsul.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "Sounds of Chaos",
-				"title_link": "https://howyoudoing.itch.io/sounds-of-chaos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930571",
-				"by_list": [
-					"HowYouDoing",
-					"Travsul"
-				],
-				"by_link_list": [
-					"https://howyoudoing.itch.io/",
-					"https://travsul.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 7,
-				"score": 1.437,
-				"ilscore": 26,
-				"submission_time_diff": -22353000
-			}
-		]
-	},
-	{
-		"jammer": "Adan's Workshop",
-		"jammer_link": "https://adans-workshop.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "Double Trouble",
-				"title_link": "https://adans-workshop.itch.io/double-trouble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/928400",
-				"by_list": [
-					"Adan's Workshop"
-				],
-				"by_link_list": [
-					"https://adans-workshop.itch.io/"
-				],
-				"rank": 82,
-				"ratings": 3,
-				"score": 1.378,
-				"ilscore": 25,
-				"submission_time_diff": -98119000
-			}
-		]
-	},
-	{
 		"jammer": "AdamjdYoung",
 		"jammer_link": "https://adamjdyoung.itch.io/",
 		"game_list_sorted": [
@@ -3093,7 +3037,7 @@
 				"jam_id": 77,
 				"jam_name": "Courage",
 				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Unknown Planet",
 				"title_link": "https://mat26.itch.io/unknown-planet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/982818",
@@ -3932,6 +3876,60 @@
 				"score": 4.231,
 				"ilscore": 93,
 				"submission_time_diff": -11217000
+			}
+		]
+	},
+	{
+		"jammer": "ptrick",
+		"jammer_link": "https://ptrick.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "Comin' in Hot",
+				"title_link": "https://ptrick.itch.io/comin-in-hot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966042",
+				"by_list": [
+					"ptrick"
+				],
+				"by_link_list": [
+					"https://ptrick.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 6,
+				"score": 4.125,
+				"ilscore": 90,
+				"submission_time_diff": -15147000
+			}
+		]
+	},
+	{
+		"jammer": "CrispGalileo",
+		"jammer_link": "https://crispgalileo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "Dangerously Radioactive Aquarium Simulator",
+				"title_link": "https://crispgalileo.itch.io/dangerously-radioactive-aquarium-simulator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966697",
+				"by_list": [
+					"CrispGalileo"
+				],
+				"by_link_list": [
+					"https://crispgalileo.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 7,
+				"score": 4,
+				"ilscore": 87,
+				"submission_time_diff": -2792000
 			}
 		]
 	}

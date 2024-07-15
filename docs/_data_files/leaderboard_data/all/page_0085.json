@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "Game Gnomes",
-		"jammer_link": "https://gamegnomes.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Ted The Time Teddy",
-				"title_link": "https://gamegnomes.itch.io/ted-the-time-teddy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935167",
-				"by_list": [
-					"Game Gnomes"
-				],
-				"by_link_list": [
-					"https://gamegnomes.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 6,
-				"score": 3.139,
-				"ilscore": 56,
-				"submission_time_diff": 31429000
-			}
-		]
-	},
-	{
-		"jammer": "perplexgg",
-		"jammer_link": "https://perplexgg.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Bubbly Tim's Time Bubble Trouble",
-				"title_link": "https://perplexgg.itch.io/bubbly-tims-time-bubble-trouble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935108",
-				"by_list": [
-					"perplexgg",
-					"fdkubba"
-				],
-				"by_link_list": [
-					"https://perplexgg.itch.io/",
-					"https://fdkubba.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 15,
-				"score": 3.117,
-				"ilscore": 56,
-				"submission_time_diff": -945000
-			}
-		]
-	},
-	{
 		"jammer": "fdkubba",
 		"jammer_link": "https://fdkubba.itch.io/",
 		"game_list_sorted": [
@@ -2750,7 +2694,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Moon's Road Trip",
 				"title_link": "https://tuluk.itch.io/lunar",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017785",
@@ -2873,7 +2817,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 217,
+				"jam_vs": 216,
 				"title": "Lunar Rabbit Chase",
 				"title_link": "https://romeosdaydream.itch.io/lunar-rabbit-chase",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021412",
@@ -3729,6 +3673,81 @@
 				"score": 2.614,
 				"ilscore": 56,
 				"submission_time_diff": 64639000
+			}
+		]
+	},
+	{
+		"jammer": "ExpCake",
+		"jammer_link": "https://expcake.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 76,
+				"title": "Mush Ants",
+				"title_link": "https://expcake.itch.io/mush-ants",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999949",
+				"by_list": [
+					"ExpCake"
+				],
+				"by_link_list": [
+					"https://expcake.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 4,
+				"score": 2.033,
+				"ilscore": 36,
+				"submission_time_diff": -8032000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 117,
+				"title": "Meld",
+				"title_link": "https://expcake.itch.io/meld",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956629",
+				"by_list": [
+					"ExpCake"
+				],
+				"by_link_list": [
+					"https://expcake.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 8,
+				"score": 2.599,
+				"ilscore": 55,
+				"submission_time_diff": -1443000
+			}
+		]
+	},
+	{
+		"jammer": "SSerum",
+		"jammer_link": "https://sserum.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 117,
+				"title": "The Cat Race",
+				"title_link": "https://sserum.itch.io/the-cat-race",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956168",
+				"by_list": [
+					"SSerum"
+				],
+				"by_link_list": [
+					"https://sserum.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 5,
+				"score": 2.546,
+				"ilscore": 54,
+				"submission_time_diff": -24507000
 			}
 		]
 	}
