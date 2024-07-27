@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Endurion",
-		"jammer_link": "https://endurion.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 68,
-				"title": "Colossus (C64)",
-				"title_link": "https://endurion.itch.io/colossus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339747",
-				"by_list": [
-					"Endurion"
-				],
-				"by_link_list": [
-					"https://endurion.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.706,
-				"ilscore": 62,
-				"submission_time_diff": -42943000
-			}
-		]
-	},
-	{
-		"jammer": "Redoxeide",
-		"jammer_link": "https://redoxeide.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 68,
-				"title": "Nightmare Climb",
-				"title_link": "https://redoxeide.itch.io/nightmare-climb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340745",
-				"by_list": [
-					"Redoxeide"
-				],
-				"by_link_list": [
-					"https://redoxeide.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 11,
-				"score": 3.682,
-				"ilscore": 62,
-				"submission_time_diff": -8000
-			}
-		]
-	},
-	{
 		"jammer": "Ouabain",
 		"jammer_link": "https://ouabain.itch.io/",
 		"game_list_sorted": [
@@ -612,7 +558,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 119,
+				"jam_vs": 118,
 				"title": "RoboRun - Mini Jam 157 Entry",
 				"title_link": "https://izzet-dev.itch.io/robo-run-mini-jam-157-entry",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675895",
@@ -625,7 +571,7 @@
 				"rank": 86,
 				"ratings": 5,
 				"score": 2.411,
-				"ilscore": 52,
+				"ilscore": 51,
 				"submission_time_diff": -10943000
 			}
 		]
@@ -1032,7 +978,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 95,
+				"jam_vs": 94,
 				"title": "Greedy Dragon",
 				"title_link": "https://deathwalker57.itch.io/greedy-dragon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513087",
@@ -1045,7 +991,7 @@
 				"rank": 77,
 				"ratings": 8,
 				"score": 2.092,
-				"ilscore": 41,
+				"ilscore": 40,
 				"submission_time_diff": -3976000
 			},
 			{
@@ -3325,6 +3271,60 @@
 				"score": 2.821,
 				"ilscore": 53,
 				"submission_time_diff": -29761000
+			}
+		]
+	},
+	{
+		"jammer": "Derpelo",
+		"jammer_link": "https://derpelo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"jam_vs": 89,
+				"title": "Frozen Cat",
+				"title_link": "https://derpelo.itch.io/frozen-cat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364531",
+				"by_list": [
+					"Derpelo"
+				],
+				"by_link_list": [
+					"https://derpelo.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 7,
+				"score": 2.821,
+				"ilscore": 53,
+				"submission_time_diff": -21329000
+			}
+		]
+	},
+	{
+		"jammer": "sharpnose",
+		"jammer_link": "https://sharpnose.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"jam_vs": 89,
+				"title": "Cat Rescue on Ice",
+				"title_link": "https://sharpnose.itch.io/cat-rescue-on-ice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363659",
+				"by_list": [
+					"sharpnose"
+				],
+				"by_link_list": [
+					"https://sharpnose.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 6,
+				"score": 2.816,
+				"ilscore": 53,
+				"submission_time_diff": -50180000
 			}
 		]
 	}

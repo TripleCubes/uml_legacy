@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "Mckenon",
+		"jammer_link": "https://mckenon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Signal",
+				"title_link": "https://neroshisan.itch.io/signal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1190891",
+				"by_list": [
+					"Neroshi",
+					"Mckenon"
+				],
+				"by_link_list": [
+					"https://neroshisan.itch.io/",
+					"https://mckenon.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 4,
+				"score": 3.26,
+				"ilscore": 69,
+				"submission_time_diff": 306282000
+			}
+		]
+	},
+	{
 		"jammer": "Vertex Games",
 		"jammer_link": "https://vertex-games.itch.io/",
 		"game_list_sorted": [
@@ -628,7 +657,7 @@
 				"jam_id": 127,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "Pesto Quest",
 				"title_link": "https://bipeo.itch.io/pesto-quest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956473",
@@ -2392,7 +2421,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 46,
+				"jam_vs": 45,
 				"title": "Endless Night",
 				"title_link": "https://ege00.itch.io/endless-night",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536678",
@@ -2405,7 +2434,7 @@
 				"rank": 19,
 				"ratings": 9,
 				"score": 3.306,
-				"ilscore": 46,
+				"ilscore": 45,
 				"submission_time_diff": -35185000
 			}
 		]
@@ -3008,7 +3037,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Pocket Atlantis",
 				"title_link": "https://pello.itch.io/pocket-atlantis",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572156",
@@ -3239,7 +3268,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 119,
+				"jam_vs": 118,
 				"title": "Digger",
 				"title_link": "https://pello.itch.io/digger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672398",
@@ -3252,7 +3281,7 @@
 				"rank": 54,
 				"ratings": 8,
 				"score": 3.063,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -35362000
 			},
 			{
@@ -3260,7 +3289,7 @@
 				"jam_id": 94,
 				"jam_name": "Baking",
 				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"jam_vs": 88,
+				"jam_vs": 89,
 				"title": "StarShipped",
 				"title_link": "https://pello.itch.io/starshipped",
 				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296628",
@@ -3867,7 +3896,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Seas Of Rage",
 				"title_link": "https://seanmburns.itch.io/sea-of-rage",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572528",
@@ -4429,35 +4458,6 @@
 				"score": 2.722,
 				"ilscore": 50,
 				"submission_time_diff": -32191000
-			}
-		]
-	},
-	{
-		"jammer": "Silvaan",
-		"jammer_link": "https://manuel-silvaan.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
-				"title": "Cachiche",
-				"title_link": "https://manuel-silvaan.itch.io/cachiche",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203394",
-				"by_list": [
-					"Silvaan",
-					"Gabriela Mullisaca"
-				],
-				"by_link_list": [
-					"https://manuel-silvaan.itch.io/",
-					"https://gab-um0n.itch.io/"
-				],
-				"rank": 51,
-				"ratings": 4,
-				"score": 2.625,
-				"ilscore": 48,
-				"submission_time_diff": -24349000
 			}
 		]
 	}

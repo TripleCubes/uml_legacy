@@ -2105,8 +2105,8 @@
 		]
 	},
 	{
-		"jammer": "bololobo",
-		"jammer_link": "https://bololobo.itch.io/",
+		"jammer": "Bertha Digital",
+		"jammer_link": "https://bertha-digital.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2115,13 +2115,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam",
 				"jam_vs": 19,
 				"title": "Libertad!",
-				"title_link": "https://bololobo.itch.io/libertad",
+				"title_link": "https://bertha-digital.itch.io/libertad",
 				"submission_page_link": "https://itch.io/jam/mini-jam/rate/255346",
 				"by_list": [
-					"bololobo"
+					"Bertha Digital"
 				],
 				"by_link_list": [
-					"https://bololobo.itch.io/"
+					"https://bertha-digital.itch.io/"
 				],
 				"rank": 9,
 				"ratings": 11,
@@ -2406,7 +2406,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 148,
 				"title": "Swap Dungeon",
 				"title_link": "https://manugamesdev.itch.io/swap-dungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751473",
@@ -2419,7 +2419,7 @@
 				"rank": 20,
 				"ratings": 11,
 				"score": 3.727,
-				"ilscore": 87,
+				"ilscore": 88,
 				"submission_time_diff": -35076000
 			},
 			{
@@ -2607,6 +2607,27 @@
 				"score": 2.538,
 				"ilscore": 21,
 				"submission_time_diff": -45019000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 163,
+				"jam_name": "Dessert",
+				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
+				"jam_vs": 53,
+				"title": "Hungry Hungry Humans",
+				"title_link": "https://joshcaladia.itch.io/ice-cream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2845421",
+				"by_list": [
+					"Josh Caladia"
+				],
+				"by_link_list": [
+					"https://joshcaladia.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 3,
+				"score": 1.8,
+				"ilscore": 27,
+				"submission_time_diff": -42963000
 			}
 		]
 	},

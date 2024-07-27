@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Gumega",
+		"jammer_link": "https://gumega.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 89,
+				"title": "Quicooking",
+				"title_link": "https://gumega.itch.io/quicooking",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1299967",
+				"by_list": [
+					"Gumega"
+				],
+				"by_link_list": [
+					"https://gumega.itch.io/"
+				],
+				"rank": 90,
+				"ratings": 4,
+				"score": 1.976,
+				"ilscore": 37,
+				"submission_time_diff": 164891000
+			}
+		]
+	},
+	{
 		"jammer": "KTGxyz",
 		"jammer_link": "https://ktgxyz.itch.io/",
 		"game_list_sorted": [
@@ -8,7 +35,7 @@
 				"jam_id": 94,
 				"jam_name": "Baking",
 				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"jam_vs": 88,
+				"jam_vs": 89,
 				"title": "TurnKitchen",
 				"title_link": "https://ktgxyz.itch.io/turnkitchen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296799",
@@ -35,7 +62,7 @@
 				"jam_id": 94,
 				"jam_name": "Baking",
 				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"jam_vs": 88,
+				"jam_vs": 89,
 				"title": "Baking 2 Heads plus Cooking Fun",
 				"title_link": "https://h2ootter.itch.io/baking-2-heads",
 				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1295088",
@@ -1129,7 +1156,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Stack Island",
 				"title_link": "https://cemkaanu.itch.io/stack-island",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113836",
@@ -2413,7 +2440,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "The Seaside Is Infinite",
 				"title_link": "https://newvid.itch.io/seaside-is-infinite",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572522",
@@ -3202,7 +3229,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Grid Activation: Island Chronicles",
 				"title_link": "https://oppodelldog.itch.io/grid-activation-island-chronicles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112970",
@@ -3564,79 +3591,6 @@
 				"score": 3.989,
 				"ilscore": 82,
 				"submission_time_diff": -7716000
-			}
-		]
-	},
-	{
-		"jammer": "seltzerfish",
-		"jammer_link": "https://seltzerfish.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
-				"title": "SmartHouse Simulator",
-				"title_link": "https://seltzerfish.itch.io/smarthouse-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347888",
-				"by_list": [
-					"seltzerfish"
-				],
-				"by_link_list": [
-					"https://seltzerfish.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 3.981,
-				"ilscore": 82,
-				"submission_time_diff": -4166000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "WYR",
-				"title_link": "https://seltzerfish.itch.io/wyr",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366276",
-				"by_list": [
-					"seltzerfish",
-					"ChimeFever"
-				],
-				"by_link_list": [
-					"https://seltzerfish.itch.io/",
-					"https://chimefever.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 16,
-				"score": 4.016,
-				"ilscore": 86,
-				"submission_time_diff": -398000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "shotgolf",
-				"title_link": "https://seltzerfish.itch.io/shotgolf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748193",
-				"by_list": [
-					"seltzerfish",
-					"ChimeFever"
-				],
-				"by_link_list": [
-					"https://seltzerfish.itch.io/",
-					"https://chimefever.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 37,
-				"score": 3.804,
-				"ilscore": 98,
-				"submission_time_diff": -173000
 			}
 		]
 	}

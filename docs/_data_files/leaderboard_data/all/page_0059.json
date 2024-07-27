@@ -1,5 +1,40 @@
 [
 	{
+		"jammer": "JMCDmusic",
+		"jammer_link": "https://jmcdmusic.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 149,
+				"title": "The Darkrooms",
+				"title_link": "https://brooks-miller.itch.io/the-darkrooms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469925",
+				"by_list": [
+					"Brooks Miller",
+					"JMCDmusic",
+					"Jackfhardie",
+					"VKChiuselli",
+					"eljacko1"
+				],
+				"by_link_list": [
+					"https://brooks-miller.itch.io/",
+					"https://jmcdmusic.itch.io/",
+					"https://jackfhardie.itch.io/",
+					"https://vkchiuselli.itch.io/",
+					"https://eljacko1.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 12,
+				"score": 3.021,
+				"ilscore": 71,
+				"submission_time_diff": 53413000
+			}
+		]
+	},
+	{
 		"jammer": "Jackfhardie",
 		"jammer_link": "https://jackfhardie.itch.io/",
 		"game_list_sorted": [
@@ -72,7 +107,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 95,
+				"jam_vs": 94,
 				"title": "Dragon Hoard Rush",
 				"title_link": "https://eljacko1.itch.io/dragon-hoard-rush",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512011",
@@ -122,7 +157,7 @@
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
 				"jam_vs": 57,
 				"title": "Greeen Goo Glide",
-				"title_link": "https://fezu.itch.io/greeen-goo-glide",
+				"title_link": "https://fezu.itch.io/ggg",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045318",
 				"by_list": [
 					"Fezumlix"
@@ -141,7 +176,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 95,
+				"jam_vs": 94,
 				"title": "Draconic Tribute",
 				"title_link": "https://fezu.itch.io/draconic-tribute",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512170",
@@ -568,7 +603,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Fear of Dreams",
 				"title_link": "https://phi-dragon.itch.io/fear-of-dreams",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572624",
@@ -3050,7 +3085,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Drown the sorrow",
 				"title_link": "https://cupofgames.itch.io/drown-the-sorrow",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1570851",
@@ -3783,33 +3818,6 @@
 				"score": 3.5,
 				"ilscore": 71,
 				"submission_time_diff": 262000
-			}
-		]
-	},
-	{
-		"jammer": "Saiyam Lohia",
-		"jammer_link": "https://saiyamlohia.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
-				"title": "Cloud Gardening",
-				"title_link": "https://saiyamlohia.itch.io/cloud-gardening",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490326",
-				"by_list": [
-					"Saiyam Lohia"
-				],
-				"by_link_list": [
-					"https://saiyamlohia.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 11,
-				"score": 3.455,
-				"ilscore": 70,
-				"submission_time_diff": -49582000
 			}
 		]
 	}

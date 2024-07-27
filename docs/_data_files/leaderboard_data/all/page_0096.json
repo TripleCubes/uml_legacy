@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Derpelo",
-		"jammer_link": "https://derpelo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
-				"title": "Frozen Cat",
-				"title_link": "https://derpelo.itch.io/frozen-cat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364531",
-				"by_list": [
-					"Derpelo"
-				],
-				"by_link_list": [
-					"https://derpelo.itch.io/"
-				],
-				"rank": 45,
-				"ratings": 7,
-				"score": 2.821,
-				"ilscore": 53,
-				"submission_time_diff": -21329000
-			}
-		]
-	},
-	{
-		"jammer": "sharpnose",
-		"jammer_link": "https://sharpnose.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
-				"title": "Cat Rescue on Ice",
-				"title_link": "https://sharpnose.itch.io/cat-rescue-on-ice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363659",
-				"by_list": [
-					"sharpnose"
-				],
-				"by_link_list": [
-					"https://sharpnose.itch.io/"
-				],
-				"rank": 47,
-				"ratings": 6,
-				"score": 2.816,
-				"ilscore": 53,
-				"submission_time_diff": -50180000
-			}
-		]
-	},
-	{
 		"jammer": "zeromon99",
 		"jammer_link": "https://zeromon99.itch.io/",
 		"game_list_sorted": [
@@ -579,7 +525,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 125,
+				"jam_vs": 123,
 				"title": "Bulby – We Need A Hero",
 				"title_link": "https://hakuinu.itch.io/bulby-we-need-a-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763340",
@@ -728,6 +674,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 163,
+				"jam_name": "Dessert",
+				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
+				"jam_vs": 53,
+				"title": "Generous Gateau Guard",
+				"title_link": "https://crazedmonkey231.itch.io/generous-gateau-guard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848246",
+				"by_list": [
+					"crazedmonkey231"
+				],
+				"by_link_list": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 5,
+				"score": 2.155,
+				"ilscore": 32,
+				"submission_time_diff": -10294000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
@@ -752,7 +719,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 46,
+				"jam_vs": 45,
 				"title": "Doctor Slime",
 				"title_link": "https://crazedmonkey231.itch.io/doctor-slime",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537862",
@@ -836,7 +803,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 95,
+				"jam_vs": 94,
 				"title": "Card Flight: Dragon's Duel",
 				"title_link": "https://crazedmonkey231.itch.io/card-flight-dragons-duel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512902",
@@ -878,7 +845,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 119,
+				"jam_vs": 118,
 				"title": "Electric Sprint",
 				"title_link": "https://crazedmonkey231.itch.io/electric-sprint",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675861",
@@ -1604,7 +1571,7 @@
 				"jam_id": 152,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 46,
+				"jam_vs": 45,
 				"title": "ChooChoo Champ",
 				"title_link": "https://ktalagery.itch.io/choochoo-champ",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537812",
@@ -2017,7 +1984,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 125,
+				"jam_vs": 123,
 				"title": "The Light At The End",
 				"title_link": "https://dispixel.itch.io/light-at-the-end",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764280",
@@ -2904,7 +2871,7 @@
 					"JC",
 					"kei",
 					"theoriginalsushii",
-					"Joe E. Measles"
+					"Jaden Eubanks"
 				],
 				"by_link_list": [
 					"https://night0.itch.io/",
@@ -2912,7 +2879,7 @@
 					"https://californiaroll.itch.io/",
 					"https://abyss-presence.itch.io/",
 					"https://theoriginalsushii.itch.io/",
-					"https://joe-e-measles.itch.io/"
+					"https://jaden-eubanks.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 8,
@@ -2941,7 +2908,7 @@
 					"JC",
 					"kei",
 					"theoriginalsushii",
-					"Joe E. Measles"
+					"Jaden Eubanks"
 				],
 				"by_link_list": [
 					"https://night0.itch.io/",
@@ -2949,7 +2916,7 @@
 					"https://californiaroll.itch.io/",
 					"https://abyss-presence.itch.io/",
 					"https://theoriginalsushii.itch.io/",
-					"https://joe-e-measles.itch.io/"
+					"https://jaden-eubanks.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 8,
@@ -2978,7 +2945,7 @@
 					"JC",
 					"kei",
 					"theoriginalsushii",
-					"Joe E. Measles"
+					"Jaden Eubanks"
 				],
 				"by_link_list": [
 					"https://night0.itch.io/",
@@ -2986,7 +2953,7 @@
 					"https://californiaroll.itch.io/",
 					"https://abyss-presence.itch.io/",
 					"https://theoriginalsushii.itch.io/",
-					"https://joe-e-measles.itch.io/"
+					"https://jaden-eubanks.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 8,
@@ -3015,7 +2982,7 @@
 					"JC",
 					"kei",
 					"theoriginalsushii",
-					"Joe E. Measles"
+					"Jaden Eubanks"
 				],
 				"by_link_list": [
 					"https://night0.itch.io/",
@@ -3023,7 +2990,7 @@
 					"https://californiaroll.itch.io/",
 					"https://abyss-presence.itch.io/",
 					"https://theoriginalsushii.itch.io/",
-					"https://joe-e-measles.itch.io/"
+					"https://jaden-eubanks.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 8,
@@ -3063,7 +3030,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 119,
+				"jam_vs": 118,
 				"title": "Penguins at Pengu Station",
 				"title_link": "https://nicholaswswift.itch.io/pengu-station",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676060",
@@ -3188,7 +3155,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 125,
+				"jam_vs": 123,
 				"title": "Sparky",
 				"title_link": "https://r4y-games.itch.io/sparky",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2761648",
@@ -3620,6 +3587,64 @@
 				"score": 2.382,
 				"ilscore": 30,
 				"submission_time_diff": -2335000
+			}
+		]
+	},
+	{
+		"jammer": "Asssgoblin",
+		"jammer_link": "https://asssgoblin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"jam_vs": 40,
+				"title": "Blockbuster Bonanza",
+				"title_link": "https://mvgaming.itch.io/blockbuster-bonanza",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415962",
+				"by_list": [
+					"MVGaming",
+					"Oskaras-coder",
+					"Asssgoblin"
+				],
+				"by_link_list": [
+					"https://mvgaming.itch.io/",
+					"https://oskaras-coder.itch.io/",
+					"https://asssgoblin.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 2,
+				"score": 2.382,
+				"ilscore": 30,
+				"submission_time_diff": -2335000
+			}
+		]
+	},
+	{
+		"jammer": "nougatpng",
+		"jammer_link": "https://nougatpng.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"jam_vs": 40,
+				"title": "Movie Theater Snack Dash",
+				"title_link": "https://nougatpng.itch.io/movie-theater-snack-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2416022",
+				"by_list": [
+					"nougatpng"
+				],
+				"by_link_list": [
+					"https://nougatpng.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 2,
+				"score": 2.309,
+				"ilscore": 30,
+				"submission_time_diff": 2609000
 			}
 		]
 	}
