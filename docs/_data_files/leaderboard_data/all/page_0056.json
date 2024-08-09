@@ -1,157 +1,5 @@
 [
 	{
-		"jammer": "Padlynn",
-		"jammer_link": "https://padlynn.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 138,
-				"title": "Meadows of Dreamland",
-				"title_link": "https://amealky.itch.io/meadows-of-dreamland",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511286",
-				"by_list": [
-					"Amealky",
-					"Padlynn"
-				],
-				"by_link_list": [
-					"https://amealky.itch.io/",
-					"https://padlynn.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 15,
-				"score": 3.85,
-				"ilscore": 88,
-				"submission_time_diff": -13984000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Burnout Simulator",
-				"title_link": "https://amealky.itch.io/burnout-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408919",
-				"by_list": [
-					"Amealky",
-					"Padlynn"
-				],
-				"by_link_list": [
-					"https://amealky.itch.io/",
-					"https://padlynn.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 28,
-				"score": 4.071,
-				"ilscore": 100,
-				"submission_time_diff": -17681000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
-				"title": "Morkhërr",
-				"title_link": "https://amealky.itch.io/morkherr",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673048",
-				"by_list": [
-					"Amealky",
-					"Padlynn"
-				],
-				"by_link_list": [
-					"https://amealky.itch.io/",
-					"https://padlynn.itch.io/"
-				],
-				"rank": 22,
-				"ratings": 10,
-				"score": 3.55,
-				"ilscore": 73,
-				"submission_time_diff": -709000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 149,
-				"title": "Tenebris",
-				"title_link": "https://amealky.itch.io/tenebris",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1472186",
-				"by_list": [
-					"Amealky",
-					"Padlynn"
-				],
-				"by_link_list": [
-					"https://amealky.itch.io/",
-					"https://padlynn.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 12,
-				"score": 3.417,
-				"ilscore": 80,
-				"submission_time_diff": 74490000
-			}
-		]
-	},
-	{
-		"jammer": "Spratley",
-		"jammer_link": "https://spratley.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Casino Nights",
-				"title_link": "https://spratley.itch.io/casino-nights",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409851",
-				"by_list": [
-					"Spratley"
-				],
-				"by_link_list": [
-					"https://spratley.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 9,
-				"score": 4.056,
-				"ilscore": 99,
-				"submission_time_diff": -6697000
-			}
-		]
-	},
-	{
-		"jammer": "brandenmb",
-		"jammer_link": "https://brandenmb.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Social Interaction Simulator",
-				"title_link": "https://brandenmb.itch.io/social-interaction-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409939",
-				"by_list": [
-					"brandenmb"
-				],
-				"by_link_list": [
-					"https://brandenmb.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 43,
-				"score": 4.029,
-				"ilscore": 99,
-				"submission_time_diff": -799000
-			}
-		]
-	},
-	{
 		"jammer": "Spacespy",
 		"jammer_link": "https://spacespy.itch.io/",
 		"game_list_sorted": [
@@ -1161,7 +1009,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "Resurgence Radio",
 				"title_link": "https://silvyger.itch.io/resurgence-radio",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913508",
@@ -1540,7 +1388,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "Vitals",
 				"title_link": "https://feraswheel.itch.io/vitals",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906378",
@@ -4502,6 +4350,87 @@
 				"score": 1.429,
 				"ilscore": 35,
 				"submission_time_diff": -6522000
+			}
+		]
+	},
+	{
+		"jammer": "Rattymoldwarp",
+		"jammer_link": "https://rattymoldwarp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Gravity Dash",
+				"title_link": "https://rattymoldwarp.itch.io/gravity-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407178",
+				"by_list": [
+					"Rattymoldwarp"
+				],
+				"by_link_list": [
+					"https://rattymoldwarp.itch.io/"
+				],
+				"rank": 169,
+				"ratings": 1,
+				"score": 1.414,
+				"ilscore": 34,
+				"submission_time_diff": -120832000
+			}
+		]
+	},
+	{
+		"jammer": "Nabonio",
+		"jammer_link": "https://nabonio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Bones of Ola",
+				"title_link": "https://nabonio.itch.io/bones-of-ola",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409896",
+				"by_list": [
+					"Nabonio"
+				],
+				"by_link_list": [
+					"https://nabonio.itch.io/"
+				],
+				"rank": 171,
+				"ratings": 3,
+				"score": 1.276,
+				"ilscore": 31,
+				"submission_time_diff": -540000
+			}
+		]
+	},
+	{
+		"jammer": "wuraa",
+		"jammer_link": "https://wuraa.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "let's run",
+				"title_link": "https://wuraa.itch.io/let-move",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409853",
+				"by_list": [
+					"wuraa"
+				],
+				"by_link_list": [
+					"https://wuraa.itch.io/"
+				],
+				"rank": 172,
+				"ratings": 3,
+				"score": 1.174,
+				"ilscore": 28,
+				"submission_time_diff": -5859000
 			}
 		]
 	}

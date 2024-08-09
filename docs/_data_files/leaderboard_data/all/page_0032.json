@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "JollyBoi",
+		"jammer_link": "https://jollyboi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"jam_vs": 171,
+				"title": "Slimeinator",
+				"title_link": "https://venneth.itch.io/slimeinator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913052",
+				"by_list": [
+					"Venneth",
+					"JollyBoi"
+				],
+				"by_link_list": [
+					"https://venneth.itch.io/",
+					"https://jollyboi.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 5,
+				"score": 2.227,
+				"ilscore": 55,
+				"submission_time_diff": -300000
+			}
+		]
+	},
+	{
 		"jammer": "Dark Bidoof",
 		"jammer_link": "https://screams-from-the-cellar.itch.io/",
 		"game_list_sorted": [
@@ -227,7 +256,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "Unknown Story",
 				"title_link": "https://alexnompe.itch.io/nameless-story",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220794",
@@ -3361,33 +3390,6 @@
 				"score": 1.437,
 				"ilscore": 26,
 				"submission_time_diff": -22353000
-			}
-		]
-	},
-	{
-		"jammer": "Adan's Workshop",
-		"jammer_link": "https://adans-workshop.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "Double Trouble",
-				"title_link": "https://adans-workshop.itch.io/double-trouble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/928400",
-				"by_list": [
-					"Adan's Workshop"
-				],
-				"by_link_list": [
-					"https://adans-workshop.itch.io/"
-				],
-				"rank": 82,
-				"ratings": 3,
-				"score": 1.378,
-				"ilscore": 25,
-				"submission_time_diff": -98119000
 			}
 		]
 	}

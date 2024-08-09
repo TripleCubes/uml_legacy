@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "SpeltIncorrectly",
+		"jammer_link": "https://speltincorrectly.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Ribbit",
+				"title_link": "https://speltincorrectly.itch.io/ribbbit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025585",
+				"by_list": [
+					"SpeltIncorrectly"
+				],
+				"by_link_list": [
+					"https://speltincorrectly.itch.io/"
+				],
+				"rank": 176,
+				"ratings": 3,
+				"score": 1.734,
+				"ilscore": 44,
+				"submission_time_diff": -21243000
+			}
+		]
+	},
+	{
 		"jammer": "qdfxrg4he1cfrc99",
 		"jammer_link": "https://qdfxrg4he1cfrc99.itch.io/",
 		"game_list_sorted": [
@@ -1049,6 +1076,29 @@
 		"jammer": "Mudziok",
 		"jammer_link": "https://mudziok.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "DemoDemo",
+				"title_link": "https://mudziok.itch.io/demodemo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878091",
+				"by_list": [
+					"Mudziok",
+					"JUNEJUNEJUNEJUNE"
+				],
+				"by_link_list": [
+					"https://mudziok.itch.io/",
+					"https://junejunejunejune.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 9,
+				"score": 4.306,
+				"ilscore": 76,
+				"submission_time_diff": -22426000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 95,
@@ -3070,7 +3120,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
+				"jam_vs": 170,
 				"title": "King Krusher",
 				"title_link": "https://austin-io.itch.io/king-krusher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137662",
@@ -3265,8 +3315,8 @@
 		]
 	},
 	{
-		"jammer": "Weebit Games",
-		"jammer_link": "https://weebit-games.itch.io/",
+		"jammer": "Gamepad Gunk",
+		"jammer_link": "https://gamepad-gunk.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3275,13 +3325,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
 				"jam_vs": 139,
 				"title": "Cats Love Boxes",
-				"title_link": "https://weebit-games.itch.io/cats-love-boxes",
+				"title_link": "https://gamepad-gunk.itch.io/cats-love-boxes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043441",
 				"by_list": [
-					"Weebit Games"
+					"Gamepad Gunk"
 				],
 				"by_link_list": [
-					"https://weebit-games.itch.io/"
+					"https://gamepad-gunk.itch.io/"
 				],
 				"rank": 92,
 				"ratings": 11,
@@ -3751,54 +3801,6 @@
 				"score": 2.263,
 				"ilscore": 52,
 				"submission_time_diff": -5199000
-			}
-		]
-	},
-	{
-		"jammer": "GreenBird Games",
-		"jammer_link": "https://greenbirdgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 80,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
-				"title": "Cat Box Co.",
-				"title_link": "https://greenbirdgames.itch.io/cat-box-c0",
-				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044870",
-				"by_list": [
-					"GreenBird Games"
-				],
-				"by_link_list": [
-					"https://greenbirdgames.itch.io/"
-				],
-				"rank": 117,
-				"ratings": 3,
-				"score": 2.191,
-				"ilscore": 50,
-				"submission_time_diff": -7283000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Snake",
-				"title_link": "https://greenbirdgames.itch.io/super-snake",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388782",
-				"by_list": [
-					"GreenBird Games"
-				],
-				"by_link_list": [
-					"https://greenbirdgames.itch.io/"
-				],
-				"rank": 171,
-				"ratings": 4,
-				"score": 2.542,
-				"ilscore": 73,
-				"submission_time_diff": -13252000
 			}
 		]
 	}

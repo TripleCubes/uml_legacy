@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "Yoorp",
+		"jammer_link": "https://yoorp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Golem",
+				"title_link": "https://maxall41.itch.io/golem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763706",
+				"by_list": [
+					"MAX CAMPBELL",
+					"Yoorp"
+				],
+				"by_link_list": [
+					"https://maxall41.itch.io/",
+					"https://yoorp.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 15,
+				"score": 2.9,
+				"ilscore": 61,
+				"submission_time_diff": 655000
+			}
+		]
+	},
+	{
 		"jammer": "syne3",
 		"jammer_link": "https://syne3.itch.io/",
 		"game_list_sorted": [
@@ -3018,7 +3047,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
+				"jam_vs": 170,
 				"title": "Tim Entrepreneur",
 				"title_link": "https://sawcce.itch.io/tim-entrepreneur",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137602",
@@ -3966,37 +3995,6 @@
 				"score": 3.987,
 				"ilscore": 80,
 				"submission_time_diff": -20455000
-			}
-		]
-	},
-	{
-		"jammer": "SlimyOctopussy",
-		"jammer_link": "https://slimyoctopussy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 100,
-				"title": "CakeCrane",
-				"title_link": "https://slimyoctopussy.itch.io/cakecrane",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808086",
-				"by_list": [
-					"SlimyOctopussy",
-					"Maslostvarohem",
-					"the body"
-				],
-				"by_link_list": [
-					"https://slimyoctopussy.itch.io/",
-					"https://maslostvarohem.itch.io/",
-					"https://the-body.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 3.955,
-				"ilscore": 79,
-				"submission_time_diff": -16515000
 			}
 		]
 	}

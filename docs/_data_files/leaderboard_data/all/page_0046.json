@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "Mckenon",
-		"jammer_link": "https://mckenon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 88,
-				"jam_name": "Rush",
-				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
-				"title": "Signal",
-				"title_link": "https://neroshisan.itch.io/signal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1190891",
-				"by_list": [
-					"Neroshi",
-					"Mckenon"
-				],
-				"by_link_list": [
-					"https://neroshisan.itch.io/",
-					"https://mckenon.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 4,
-				"score": 3.26,
-				"ilscore": 69,
-				"submission_time_diff": 306282000
-			}
-		]
-	},
-	{
 		"jammer": "Vertex Games",
 		"jammer_link": "https://vertex-games.itch.io/",
 		"game_list_sorted": [
@@ -573,7 +544,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "Hall of Demons",
 				"title_link": "https://bipeo.itch.io/hall-of-demons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220312",
@@ -586,7 +557,7 @@
 				"rank": 33,
 				"ratings": 13,
 				"score": 3.038,
-				"ilscore": 52,
+				"ilscore": 51,
 				"submission_time_diff": -34782000
 			},
 			{
@@ -2716,7 +2687,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Bathroom Ballroom",
 				"title_link": "https://reecewilliams.itch.io/bathroom-ballroom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332668",
@@ -2974,7 +2945,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "Weezard",
 				"title_link": "https://pello.itch.io/weezard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221605",
@@ -3121,7 +3092,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "FATE",
 				"title_link": "https://pello.itch.io/fate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332567",
@@ -3601,7 +3572,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "Splitscreen",
 				"title_link": "https://techcrafter-jw.itch.io/splitscreen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220149",
@@ -3614,7 +3585,7 @@
 				"rank": 24,
 				"ratings": 16,
 				"score": 3.281,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -52971000
 			},
 			{
@@ -4458,6 +4429,35 @@
 				"score": 2.722,
 				"ilscore": 50,
 				"submission_time_diff": -32191000
+			}
+		]
+	},
+	{
+		"jammer": "Silvaan",
+		"jammer_link": "https://manuel-silvaan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 89,
+				"jam_name": "Pumpkin",
+				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
+				"jam_vs": 84,
+				"title": "Cachiche",
+				"title_link": "https://manuel-silvaan.itch.io/cachiche",
+				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203394",
+				"by_list": [
+					"Silvaan",
+					"Gabriela Mullisaca"
+				],
+				"by_link_list": [
+					"https://manuel-silvaan.itch.io/",
+					"https://gab-um0n.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 4,
+				"score": 2.625,
+				"ilscore": 48,
+				"submission_time_diff": -24349000
 			}
 		]
 	}

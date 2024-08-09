@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "PubPrico",
+		"jammer_link": "https://pprico.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "PLANET GREEN",
+				"title_link": "https://pprico.itch.io/planet-green",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879531",
+				"by_list": [
+					"PubPrico"
+				],
+				"by_link_list": [
+					"https://pprico.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 4,
+				"score": 1.989,
+				"ilscore": 38,
+				"submission_time_diff": -66035000
+			}
+		]
+	},
+	{
 		"jammer": "AntiVance",
 		"jammer_link": "https://antivance.itch.io/",
 		"game_list_sorted": [
@@ -605,7 +632,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "PUPUMP",
 				"title_link": "https://jiji200.itch.io/pupump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913586",
@@ -4024,7 +4051,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Spider Slayer",
 				"title_link": "https://kaitomajima.itch.io/spider-slayer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331669",
@@ -4260,6 +4287,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "The Horde",
+				"title_link": "https://the-hat-guy.itch.io/the-horde",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878106",
+				"by_list": [
+					"The_Hat_Guy"
+				],
+				"by_link_list": [
+					"https://the-hat-guy.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.865,
+				"ilscore": 68,
+				"submission_time_diff": -3589000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 73,
 				"jam_name": "Power",
 				"jam_link": "https://itch.io/jam/mini-jam-73-power",
@@ -4453,33 +4501,6 @@
 				"score": 3.773,
 				"ilscore": 94,
 				"submission_time_diff": -4717000
-			}
-		]
-	},
-	{
-		"jammer": "alolan-meowth",
-		"jammer_link": "https://alolan-meowth.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Unobservable",
-				"title_link": "https://alolan-meowth.itch.io/unobservable",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/913025",
-				"by_list": [
-					"alolan-meowth"
-				],
-				"by_link_list": [
-					"https://alolan-meowth.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 14,
-				"score": 3.732,
-				"ilscore": 93,
-				"submission_time_diff": -3632000
 			}
 		]
 	}

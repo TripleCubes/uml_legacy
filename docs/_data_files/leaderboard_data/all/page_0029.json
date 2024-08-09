@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "AlpineShowTime",
+		"jammer_link": "https://alpineshowtime.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"jam_vs": 63,
+				"title": "Accurate Angels",
+				"title_link": "https://alpineshowtime.itch.io/accurate-angels",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868129",
+				"by_list": [
+					"AlpineShowTime",
+					"Clem (Real)"
+				],
+				"by_link_list": [
+					"https://alpineshowtime.itch.io/",
+					"https://clemboy.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 18,
+				"score": 3.139,
+				"ilscore": 51,
+				"submission_time_diff": 1972000
+			}
+		]
+	},
+	{
 		"jammer": "Clem (Real)",
 		"jammer_link": "https://clemboy.itch.io/",
 		"game_list_sorted": [
@@ -1516,7 +1545,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "Metronome",
 				"title_link": "https://xenvex.itch.io/metronome",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913496",
@@ -2996,7 +3025,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "InSEA/no",
 				"title_link": "https://unlucky-alpaca.itch.io/inseano",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1219018",
@@ -3021,7 +3050,7 @@
 				"rank": 23,
 				"ratings": 21,
 				"score": 3.286,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -10235000
 			},
 			{
@@ -3285,7 +3314,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
+				"jam_vs": 170,
 				"title": "The golden eggs",
 				"title_link": "https://jjpato.itch.io/the-gol",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137656",
@@ -3820,33 +3849,6 @@
 				"score": 2.095,
 				"ilscore": 40,
 				"submission_time_diff": -14664000
-			}
-		]
-	},
-	{
-		"jammer": "PubPrico",
-		"jammer_link": "https://pprico.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
-				"title": "PLANET GREEN",
-				"title_link": "https://pprico.itch.io/planet-green",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879531",
-				"by_list": [
-					"PubPrico"
-				],
-				"by_link_list": [
-					"https://pprico.itch.io/"
-				],
-				"rank": 78,
-				"ratings": 4,
-				"score": 1.989,
-				"ilscore": 38,
-				"submission_time_diff": -66035000
 			}
 		]
 	}

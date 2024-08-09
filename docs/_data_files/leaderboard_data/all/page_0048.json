@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "Quaquoum",
-		"jammer_link": "https://quaquoum.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 127,
-				"title": "An extra-fishy love",
-				"title_link": "https://flhu.itch.io/an-extra-fishy-love",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239361",
-				"by_list": [
-					"HFlorian",
-					"Herrenya",
-					"Quaquoum"
-				],
-				"by_link_list": [
-					"https://flhu.itch.io/",
-					"https://herrenya.itch.io/",
-					"https://quaquoum.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 12,
-				"score": 3.813,
-				"ilscore": 84,
-				"submission_time_diff": -22012000
-			}
-		]
-	},
-	{
-		"jammer": "VanBark",
-		"jammer_link": "https://vanbark.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 127,
-				"title": "UFO Ocean Frenzy",
-				"title_link": "https://vanbark.itch.io/ufo-ocean-frenzy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238785",
-				"by_list": [
-					"VanBark"
-				],
-				"by_link_list": [
-					"https://vanbark.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 17,
-				"score": 3.706,
-				"ilscore": 82,
-				"submission_time_diff": -32545000
-			}
-		]
-	},
-	{
 		"jammer": "victordelannoy",
 		"jammer_link": "https://victordelannoy.itch.io/",
 		"game_list_sorted": [
@@ -379,7 +321,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 139,
+				"jam_vs": 137,
 				"title": "Squirt! Squirt! Mania",
 				"title_link": "https://tr33-gam3-studios.itch.io/squirt-squirt-mania",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818738",
@@ -392,7 +334,7 @@
 				"rank": 10,
 				"ratings": 14,
 				"score": 4.054,
-				"ilscore": 93,
+				"ilscore": 92,
 				"submission_time_diff": -33537000
 			},
 			{
@@ -415,6 +357,27 @@
 				"score": 3.54,
 				"ilscore": 78,
 				"submission_time_diff": -119282000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "BallBoy Destruction Co.",
+				"title_link": "https://tr33-gam3-studios.itch.io/ballboy-destruction-co",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878281",
+				"by_list": [
+					"Tr33 Gam3 Studios"
+				],
+				"by_link_list": [
+					"https://tr33-gam3-studios.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 13,
+				"score": 3.308,
+				"ilscore": 58,
+				"submission_time_diff": -18819000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -682,7 +645,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Failugreen",
 				"title_link": "https://herof123.itch.io/failugreen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332325",
@@ -3642,7 +3605,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Fate",
 				"title_link": "https://nevthebear.itch.io/fate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332443",
@@ -4373,6 +4336,60 @@
 				"score": 0.894,
 				"ilscore": 19,
 				"submission_time_diff": 726000
+			}
+		]
+	},
+	{
+		"jammer": "mrElnekave",
+		"jammer_link": "https://mrelnekave.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "If yo mama was an alien... she would be followed by fish",
+				"title_link": "https://mrelnekave.itch.io/if-yo-mama-was-an-alien-she-would-be-followed-by-fish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239625",
+				"by_list": [
+					"mrElnekave"
+				],
+				"by_link_list": [
+					"https://mrelnekave.itch.io/"
+				],
+				"rank": 142,
+				"ratings": 3,
+				"score": 0.822,
+				"ilscore": 18,
+				"submission_time_diff": -17633000
+			}
+		]
+	},
+	{
+		"jammer": "Rundest",
+		"jammer_link": "https://rundest.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "FishMechanicInSpace",
+				"title_link": "https://rundest.itch.io/fishmechanicinspace",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238934",
+				"by_list": [
+					"Rundest"
+				],
+				"by_link_list": [
+					"https://rundest.itch.io/"
+				],
+				"rank": 144,
+				"ratings": 2,
+				"score": 0.727,
+				"ilscore": 16,
+				"submission_time_diff": -48609000
 			}
 		]
 	}

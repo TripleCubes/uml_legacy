@@ -1,113 +1,5 @@
 [
 	{
-		"jammer": "XeroKimo",
-		"jammer_link": "https://xerokimo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 155,
-				"jam_name": "Wind",
-				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 112,
-				"title": "Golf Breeze",
-				"title_link": "https://xerokimo.itch.io/golf-breeze",
-				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618362",
-				"by_list": [
-					"XeroKimo"
-				],
-				"by_link_list": [
-					"https://xerokimo.itch.io/"
-				],
-				"rank": 112,
-				"ratings": 2,
-				"score": 0.803,
-				"ilscore": 16,
-				"submission_time_diff": -13017000
-			}
-		]
-	},
-	{
-		"jammer": "Candle",
-		"jammer_link": "https://candledevelopment.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 155,
-				"jam_name": "Wind",
-				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 112,
-				"title": "Don't Splat",
-				"title_link": "https://candledevelopment.itch.io/dont-splat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2616665",
-				"by_list": [
-					"Candle"
-				],
-				"by_link_list": [
-					"https://candledevelopment.itch.io/"
-				],
-				"rank": 114,
-				"ratings": 4,
-				"score": 0.649,
-				"ilscore": 13,
-				"submission_time_diff": -87965000
-			}
-		]
-	},
-	{
-		"jammer": "Kemipo",
-		"jammer_link": "https://kemipo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
-				"title": "On-Shroom!",
-				"title_link": "https://kemipo.itch.io/on-shroom",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2644264",
-				"by_list": [
-					"Kemipo"
-				],
-				"by_link_list": [
-					"https://kemipo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 4.089,
-				"ilscore": 78,
-				"submission_time_diff": -10216000
-			}
-		]
-	},
-	{
-		"jammer": "GreekDev137",
-		"jammer_link": "https://greekdev137.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
-				"title": "Trapped spore",
-				"title_link": "https://greekdev137.itch.io/trapped-spore",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646798",
-				"by_list": [
-					"GreekDev137"
-				],
-				"by_link_list": [
-					"https://greekdev137.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 4.068,
-				"ilscore": 77,
-				"submission_time_diff": 32206000
-			}
-		]
-	},
-	{
 		"jammer": "Duck Crossing Studio",
 		"jammer_link": "https://duckcrossingstudio.itch.io/",
 		"game_list_sorted": [
@@ -479,6 +371,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "Boom Or Bust",
+				"title_link": "https://waynemadeagame.itch.io/boom-or-bust",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877144",
+				"by_list": [
+					"WayneMadeAGame"
+				],
+				"by_link_list": [
+					"https://waynemadeagame.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 16,
+				"score": 3.953,
+				"ilscore": 69,
+				"submission_time_diff": -37855000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
@@ -574,7 +487,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 139,
+				"jam_vs": 137,
 				"title": "Can't Stand The Heat?",
 				"title_link": "https://waynemadeagame.itch.io/can-stand-the-heat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2816403",
@@ -589,7 +502,7 @@
 				"rank": 26,
 				"ratings": 8,
 				"score": 3.625,
-				"ilscore": 83,
+				"ilscore": 82,
 				"submission_time_diff": -45052000
 			}
 		]
@@ -674,7 +587,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 139,
+				"jam_vs": 137,
 				"title": "Can't Stand The Heat?",
 				"title_link": "https://waynemadeagame.itch.io/can-stand-the-heat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2816403",
@@ -689,7 +602,7 @@
 				"rank": 26,
 				"ratings": 8,
 				"score": 3.625,
-				"ilscore": 83,
+				"ilscore": 82,
 				"submission_time_diff": -45052000
 			}
 		]
@@ -1258,7 +1171,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 139,
+				"jam_vs": 137,
 				"title": "Shadows Belong to the Sun",
 				"title_link": "https://beholdthis.itch.io/shadows-belong-to-the-sun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819098",
@@ -1581,6 +1494,27 @@
 				"score": 2.711,
 				"ilscore": 51,
 				"submission_time_diff": -65126000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "Cosmic Elevator",
+				"title_link": "https://explosivecrayons.itch.io/cosmic-elevator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874792",
+				"by_list": [
+					"Explosive Crayons"
+				],
+				"by_link_list": [
+					"https://explosivecrayons.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 4,
+				"score": 2.077,
+				"ilscore": 36,
+				"submission_time_diff": -62742000
 			}
 		]
 	},
@@ -2560,7 +2494,7 @@
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
 				"jam_vs": 89,
-				"title": "Mush You Tempt Me?",
+				"title": "Mush You Tempt Me? [Development Currently Paused]",
 				"title_link": "https://anio.itch.io/mush-you-tempt-me",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2639862",
 				"by_list": [
@@ -3383,6 +3317,156 @@
 				"score": 3.444,
 				"ilscore": 74,
 				"submission_time_diff": -1058000
+			}
+		]
+	},
+	{
+		"jammer": "cowmoomoooooo",
+		"jammer_link": "https://cowmoomoooooo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 118,
+				"title": "Tesla Trooper with a Tesla Coil",
+				"title_link": "https://cowmoomoooooo.itch.io/tesla-trooper-with-tesla-coil",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674774",
+				"by_list": [
+					"cowmoomoooooo"
+				],
+				"by_link_list": [
+					"https://cowmoomoooooo.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 7,
+				"score": 3.441,
+				"ilscore": 74,
+				"submission_time_diff": -41788000
+			}
+		]
+	},
+	{
+		"jammer": "NaiName",
+		"jammer_link": "https://nainame.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "Cave Breaker",
+				"title_link": "https://nainame.itch.io/cave-breaker",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875721",
+				"by_list": [
+					"NaiName"
+				],
+				"by_link_list": [
+					"https://nainame.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 11,
+				"score": 3.159,
+				"ilscore": 55,
+				"submission_time_diff": -47585000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 118,
+				"title": "Faster than lightning",
+				"title_link": "https://nainame.itch.io/faster-than-lightning",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674558",
+				"by_list": [
+					"NaiName"
+				],
+				"by_link_list": [
+					"https://nainame.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 14,
+				"score": 3.411,
+				"ilscore": 73,
+				"submission_time_diff": -47331000
+			}
+		]
+	},
+	{
+		"jammer": "Luckythespacecat",
+		"jammer_link": "https://luckythespacecat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 118,
+				"title": "Ekrixi Cavia",
+				"title_link": "https://luckythespacecat.itch.io/ekrixi-cavia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674874",
+				"by_list": [
+					"Luckythespacecat"
+				],
+				"by_link_list": [
+					"https://luckythespacecat.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 21,
+				"score": 3.393,
+				"ilscore": 73,
+				"submission_time_diff": -39374000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 137,
+				"title": "Bready or Not",
+				"title_link": "https://luckythespacecat.itch.io/bready-or-not",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819073",
+				"by_list": [
+					"Luckythespacecat"
+				],
+				"by_link_list": [
+					"https://luckythespacecat.itch.io/"
+				],
+				"rank": 107,
+				"ratings": 6,
+				"score": 2.273,
+				"ilscore": 52,
+				"submission_time_diff": -21201000
+			}
+		]
+	},
+	{
+		"jammer": "Wully",
+		"jammer_link": "https://wully.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 118,
+				"title": "Cross Country",
+				"title_link": "https://wully.itch.io/cross-country",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675450",
+				"by_list": [
+					"Wully"
+				],
+				"by_link_list": [
+					"https://wully.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 72,
+				"submission_time_diff": -24252000
 			}
 		]
 	}

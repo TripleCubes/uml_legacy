@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "Rattymoldwarp",
-		"jammer_link": "https://rattymoldwarp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Gravity Dash",
-				"title_link": "https://rattymoldwarp.itch.io/gravity-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407178",
-				"by_list": [
-					"Rattymoldwarp"
-				],
-				"by_link_list": [
-					"https://rattymoldwarp.itch.io/"
-				],
-				"rank": 169,
-				"ratings": 1,
-				"score": 1.414,
-				"ilscore": 34,
-				"submission_time_diff": -120832000
-			}
-		]
-	},
-	{
-		"jammer": "Nabonio",
-		"jammer_link": "https://nabonio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Bones of Ola",
-				"title_link": "https://nabonio.itch.io/bones-of-ola",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409896",
-				"by_list": [
-					"Nabonio"
-				],
-				"by_link_list": [
-					"https://nabonio.itch.io/"
-				],
-				"rank": 171,
-				"ratings": 3,
-				"score": 1.276,
-				"ilscore": 31,
-				"submission_time_diff": -540000
-			}
-		]
-	},
-	{
-		"jammer": "wuraa",
-		"jammer_link": "https://wuraa.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "let's run",
-				"title_link": "https://wuraa.itch.io/let-move",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409853",
-				"by_list": [
-					"wuraa"
-				],
-				"by_link_list": [
-					"https://wuraa.itch.io/"
-				],
-				"rank": 172,
-				"ratings": 3,
-				"score": 1.174,
-				"ilscore": 28,
-				"submission_time_diff": -5859000
-			}
-		]
-	},
-	{
 		"jammer": "3rdCulture",
 		"jammer_link": "https://3rdculture.itch.io/",
 		"game_list_sorted": [
@@ -916,7 +835,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "Cathy Ray's Tubular Training",
 				"title_link": "https://oatmealine.itch.io/cathy-rays-tubular-training",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1908386",
@@ -968,7 +887,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 78,
+				"jam_vs": 77,
 				"title": "Cathy Ray's Tubular Training",
 				"title_link": "https://oatmealine.itch.io/cathy-rays-tubular-training",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1908386",
@@ -1274,6 +1193,31 @@
 				"score": 4,
 				"ilscore": 78,
 				"submission_time_diff": -24316000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 75,
+				"title": "Solar Bound",
+				"title_link": "https://ethandalecreative.itch.io/solar-bound",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
+				"by_list": [
+					"EthanDev",
+					"CDplaya",
+					"Denis The Menace"
+				],
+				"by_link_list": [
+					"https://ethandalecreative.itch.io/",
+					"https://cdplaya.itch.io/",
+					"https://denis002.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 16,
+				"score": 3.719,
+				"ilscore": 65,
+				"submission_time_diff": -248000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3746,6 +3690,156 @@
 				"score": 1.732,
 				"ilscore": 40,
 				"submission_time_diff": 131073000
+			}
+		]
+	},
+	{
+		"jammer": "HeadphoneUserGames",
+		"jammer_link": "https://headphoneusergames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Escape Modification",
+				"title_link": "https://headphoneusergames.itch.io/escape-modification",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431794",
+				"by_list": [
+					"HeadphoneUserGames"
+				],
+				"by_link_list": [
+					"https://headphoneusergames.itch.io/"
+				],
+				"rank": 126,
+				"ratings": 5,
+				"score": 1.64,
+				"ilscore": 38,
+				"submission_time_diff": 32472000
+			}
+		]
+	},
+	{
+		"jammer": "FronkDev",
+		"jammer_link": "https://sashadeblock.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "The Train",
+				"title_link": "https://sashadeblock.itch.io/the-train",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431148",
+				"by_list": [
+					"FronkDev",
+					"Ian JCV"
+				],
+				"by_link_list": [
+					"https://sashadeblock.itch.io/",
+					"https://jnvcia.itch.io/"
+				],
+				"rank": 127,
+				"ratings": 5,
+				"score": 1.565,
+				"ilscore": 36,
+				"submission_time_diff": -3680000
+			}
+		]
+	},
+	{
+		"jammer": "Ian JCV",
+		"jammer_link": "https://jnvcia.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "Love, Death, Fortune",
+				"title_link": "https://jnvcia.itch.io/love-death-fortune",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292898",
+				"by_list": [
+					"Ian JCV",
+					"stef_bracke"
+				],
+				"by_link_list": [
+					"https://jnvcia.itch.io/",
+					"https://stef-bracke.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 5,
+				"score": 1.045,
+				"ilscore": 13,
+				"submission_time_diff": -1318000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"jam_vs": 50,
+				"title": "Intermission",
+				"title_link": "https://jnvcia.itch.io/intermission",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851814",
+				"by_list": [
+					"Ian JCV"
+				],
+				"by_link_list": [
+					"https://jnvcia.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 5,
+				"score": 1.183,
+				"ilscore": 17,
+				"submission_time_diff": -14945000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 137,
+				"title": "Almost Endless",
+				"title_link": "https://jnvcia.itch.io/almost-endless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591485",
+				"by_list": [
+					"Ian JCV"
+				],
+				"by_link_list": [
+					"https://jnvcia.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 3,
+				"score": 1.837,
+				"ilscore": 42,
+				"submission_time_diff": -9578000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "The Train",
+				"title_link": "https://sashadeblock.itch.io/the-train",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431148",
+				"by_list": [
+					"FronkDev",
+					"Ian JCV"
+				],
+				"by_link_list": [
+					"https://sashadeblock.itch.io/",
+					"https://jnvcia.itch.io/"
+				],
+				"rank": 127,
+				"ratings": 5,
+				"score": 1.565,
+				"ilscore": 36,
+				"submission_time_diff": -3680000
 			}
 		]
 	}

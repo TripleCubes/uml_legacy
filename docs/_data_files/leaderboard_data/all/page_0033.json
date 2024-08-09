@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Adan's Workshop",
+		"jammer_link": "https://adans-workshop.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Double Trouble",
+				"title_link": "https://adans-workshop.itch.io/double-trouble",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/928400",
+				"by_list": [
+					"Adan's Workshop"
+				],
+				"by_link_list": [
+					"https://adans-workshop.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 3,
+				"score": 1.378,
+				"ilscore": 25,
+				"submission_time_diff": -98119000
+			}
+		]
+	},
+	{
 		"jammer": "AdamjdYoung",
 		"jammer_link": "https://adamjdyoung.itch.io/",
 		"game_list_sorted": [
@@ -212,7 +239,7 @@
 				"jam_id": 90,
 				"jam_name": "Illusion",
 				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 70,
+				"jam_vs": 69,
 				"title": "Box Jumper",
 				"title_link": "https://happygames-studio.itch.io/box-jumper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220370",
@@ -225,7 +252,7 @@
 				"rank": 25,
 				"ratings": 17,
 				"score": 3.279,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -32007000
 			}
 		]
@@ -1560,7 +1587,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
+				"jam_vs": 170,
 				"title": "Beat the Bomb",
 				"title_link": "https://angus-101.itch.io/beat-the-bomb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137075",
@@ -1820,7 +1847,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Fate Of The Tree Folk",
 				"title_link": "https://zachsarette.itch.io/fate-of-the-treefolk",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332599",
@@ -1837,7 +1864,7 @@
 				"rank": 34,
 				"ratings": 13,
 				"score": 2.673,
-				"ilscore": 42,
+				"ilscore": 41,
 				"submission_time_diff": -7560000
 			},
 			{
@@ -2283,7 +2310,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 171,
+				"jam_vs": 170,
 				"title": "King midas",
 				"title_link": "https://curiosity-games.itch.io/king-midas",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1135244",
@@ -3903,33 +3930,6 @@
 				"score": 4.125,
 				"ilscore": 90,
 				"submission_time_diff": -15147000
-			}
-		]
-	},
-	{
-		"jammer": "CrispGalileo",
-		"jammer_link": "https://crispgalileo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 76,
-				"jam_name": "Radiation",
-				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 124,
-				"title": "Dangerously Radioactive Aquarium Simulator",
-				"title_link": "https://crispgalileo.itch.io/dangerously-radioactive-aquarium-simulator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966697",
-				"by_list": [
-					"CrispGalileo"
-				],
-				"by_link_list": [
-					"https://crispgalileo.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 7,
-				"score": 4,
-				"ilscore": 87,
-				"submission_time_diff": -2792000
 			}
 		]
 	}
