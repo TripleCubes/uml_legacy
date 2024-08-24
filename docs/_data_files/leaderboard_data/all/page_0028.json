@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "FunkyRuben",
-		"jammer_link": "https://funkyruben.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"jam_vs": 98,
-				"title": "Running late",
-				"title_link": "https://breaddysticks.itch.io/running-late",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/853696",
-				"by_list": [
-					"Breaddysticks",
-					"Pokopish",
-					"FunkyRuben"
-				],
-				"by_link_list": [
-					"https://breaddysticks.itch.io/",
-					"https://pokopish.itch.io/",
-					"https://funkyruben.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 3.977,
-				"ilscore": 79,
-				"submission_time_diff": -30886000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 81,
-				"jam_name": "Kaiju",
-				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
-				"title": "Kyodai Man: Kaiju Fighter",
-				"title_link": "https://pokopish.itch.io/kyodai-man",
-				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063964",
-				"by_list": [
-					"Pokopish",
-					"Breaddysticks",
-					"FunkyRuben"
-				],
-				"by_link_list": [
-					"https://pokopish.itch.io/",
-					"https://breaddysticks.itch.io/",
-					"https://funkyruben.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.368,
-				"ilscore": 59,
-				"submission_time_diff": 52288000
-			}
-		]
-	},
-	{
 		"jammer": "Monnettie",
 		"jammer_link": "https://monnettie.itch.io/",
 		"game_list_sorted": [
@@ -89,7 +33,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Bait &amp; Phish",
 				"title_link": "https://monnettie.itch.io/baitandphish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564104",
@@ -2327,7 +2271,7 @@
 				"jam_id": 144,
 				"jam_name": "Nightmare",
 				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 67,
+				"jam_vs": 66,
 				"title": "Wiggle Wiggle Bush",
 				"title_link": "https://cedesdc.itch.io/wiggle-wiggle-bush",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341313",
@@ -2432,7 +2376,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "black white lightning",
 				"title_link": "https://cedesdc.itch.io/black-white-lightning",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676180",
@@ -3654,7 +3598,7 @@
 				"jam_id": 144,
 				"jam_name": "Nightmare",
 				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 67,
+				"jam_vs": 66,
 				"title": "Daddy Is Not Here",
 				"title_link": "https://asdonaur.itch.io/daddy-is-not-here",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340816",
@@ -3667,7 +3611,7 @@
 				"rank": 22,
 				"ratings": 12,
 				"score": 3.042,
-				"ilscore": 51,
+				"ilscore": 50,
 				"submission_time_diff": -1912000
 			},
 			{
@@ -3919,7 +3863,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
+				"jam_vs": 106,
 				"title": "Brittlo (Mini Jam #97)",
 				"title_link": "https://pixel-sprouts.itch.io/brittlo-mini-jam-97",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346760",
@@ -4128,6 +4072,35 @@
 				"score": 3.477,
 				"ilscore": 76,
 				"submission_time_diff": -6369000
+			}
+		]
+	},
+	{
+		"jammer": "AlpineShowTime",
+		"jammer_link": "https://alpineshowtime.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"jam_vs": 63,
+				"title": "Accurate Angels",
+				"title_link": "https://alpineshowtime.itch.io/accurate-angels",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868129",
+				"by_list": [
+					"AlpineShowTime",
+					"Clem (Real)"
+				],
+				"by_link_list": [
+					"https://alpineshowtime.itch.io/",
+					"https://clemboy.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 18,
+				"score": 3.139,
+				"ilscore": 51,
+				"submission_time_diff": 1972000
 			}
 		]
 	}

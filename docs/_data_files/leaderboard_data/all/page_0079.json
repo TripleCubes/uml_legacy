@@ -1,181 +1,5 @@
 [
 	{
-		"jammer": "Ryry-Games",
-		"jammer_link": "https://ryry-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"jam_vs": 139,
-				"title": "Night Hunt",
-				"title_link": "https://ryry-games.itch.io/night-hunt",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770722",
-				"by_list": [
-					"Ryry-Games"
-				],
-				"by_link_list": [
-					"https://ryry-games.itch.io/"
-				],
-				"rank": 147,
-				"ratings": 2,
-				"score": 0.794,
-				"ilscore": 18,
-				"submission_time_diff": 71403000
-			}
-		]
-	},
-	{
-		"jammer": "Arzza",
-		"jammer_link": "https://arzza.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
-				"title": "The Pilgrims",
-				"title_link": "https://arzza.itch.io/thepilgrims",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
-				"by_list": [
-					"Arzza",
-					"R3D",
-					"DuffusWaffleButt",
-					"CloMousse",
-					"Roxling"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://r3david.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://clomousse.itch.io/",
-					"https://roxling.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 3.95,
-				"ilscore": 78,
-				"submission_time_diff": -12987000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 75,
-				"title": "U-235",
-				"title_link": "https://arzza.itch.io/u-235",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
-				"by_list": [
-					"Arzza",
-					"DuffusWaffleButt",
-					"Headkiller23",
-					"R3D"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://headkiller23.itch.io/",
-					"https://r3david.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 3.981,
-				"ilscore": 70,
-				"submission_time_diff": -13898000
-			}
-		]
-	},
-	{
-		"jammer": "R3D",
-		"jammer_link": "https://r3david.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
-				"title": "The Pilgrims",
-				"title_link": "https://arzza.itch.io/thepilgrims",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
-				"by_list": [
-					"Arzza",
-					"R3D",
-					"DuffusWaffleButt",
-					"CloMousse",
-					"Roxling"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://r3david.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://clomousse.itch.io/",
-					"https://roxling.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 30,
-				"score": 3.95,
-				"ilscore": 78,
-				"submission_time_diff": -12987000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 75,
-				"title": "U-235",
-				"title_link": "https://arzza.itch.io/u-235",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
-				"by_list": [
-					"Arzza",
-					"DuffusWaffleButt",
-					"Headkiller23",
-					"R3D"
-				],
-				"by_link_list": [
-					"https://arzza.itch.io/",
-					"https://duffuswafflebutt.itch.io/",
-					"https://headkiller23.itch.io/",
-					"https://r3david.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 3.981,
-				"ilscore": 70,
-				"submission_time_diff": -13898000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 79,
-				"title": "The Adventure Box",
-				"title_link": "https://duffuswafflebutt.itch.io/the-adventure-box",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2586362",
-				"by_list": [
-					"DuffusWaffleButt",
-					"Headkiller23",
-					"R3D"
-				],
-				"by_link_list": [
-					"https://duffuswafflebutt.itch.io/",
-					"https://headkiller23.itch.io/",
-					"https://r3david.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 17,
-				"score": 3.544,
-				"ilscore": 64,
-				"submission_time_diff": -199810000
-			}
-		]
-	},
-	{
 		"jammer": "DuffusWaffleButt",
 		"jammer_link": "https://duffuswafflebutt.itch.io/",
 		"game_list_sorted": [
@@ -661,7 +485,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "The Lonely Catfish",
 				"title_link": "https://weefairyfabi.itch.io/the-lonely-catfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564027",
@@ -1229,7 +1053,7 @@
 				"jam_id": 144,
 				"jam_name": "Nightmare",
 				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 67,
+				"jam_vs": 66,
 				"title": "Me, the Boys and Mechs (Jam Version)",
 				"title_link": "https://sirmaax.itch.io/nightmare-jam-291023",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339052",
@@ -1242,7 +1066,7 @@
 				"rank": 48,
 				"ratings": 13,
 				"score": 2.327,
-				"ilscore": 39,
+				"ilscore": 38,
 				"submission_time_diff": -3332000
 			},
 			{
@@ -1250,7 +1074,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "Island Walkers",
 				"title_link": "https://sirmaax.itch.io/island-walkers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2114038",
@@ -1263,7 +1087,7 @@
 				"rank": 94,
 				"ratings": 7,
 				"score": 2.002,
-				"ilscore": 42,
+				"ilscore": 41,
 				"submission_time_diff": 34922000
 			}
 		]
@@ -3439,7 +3263,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Lava Fisher",
 				"title_link": "https://maybenachotaco.itch.io/lava-fisher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564246",
@@ -3452,7 +3276,7 @@
 				"rank": 152,
 				"ratings": 8,
 				"score": 2.092,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -3738000
 			}
 		]
@@ -3667,6 +3491,187 @@
 				"score": 3.406,
 				"ilscore": 61,
 				"submission_time_diff": -209000
+			}
+		]
+	},
+	{
+		"jammer": "Grigorii Pika",
+		"jammer_link": "https://lockd.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Dino's Nightmare",
+				"title_link": "https://lockd.itch.io/dinos-nightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810196",
+				"by_list": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link_list": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 3.886,
+				"ilscore": 59,
+				"submission_time_diff": -36165000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Windows Defense",
+				"title_link": "https://lockd.itch.io/windows-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832094",
+				"by_list": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link_list": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 21,
+				"score": 3.595,
+				"ilscore": 77,
+				"submission_time_diff": -14967000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Stay Choppy",
+				"title_link": "https://valdevelopment.itch.io/stay-choppy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889796",
+				"by_list": [
+					"Vladislav Fedorov",
+					"Grigorii Pika"
+				],
+				"by_link_list": [
+					"https://valdevelopment.itch.io/",
+					"https://lockd.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 6,
+				"score": 3.125,
+				"ilscore": 66,
+				"submission_time_diff": -13341000
+			}
+		]
+	},
+	{
+		"jammer": "Vladislav Fedorov",
+		"jammer_link": "https://valdevelopment.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Dino's Nightmare",
+				"title_link": "https://lockd.itch.io/dinos-nightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810196",
+				"by_list": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link_list": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 11,
+				"score": 3.886,
+				"ilscore": 59,
+				"submission_time_diff": -36165000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Windows Defense",
+				"title_link": "https://lockd.itch.io/windows-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832094",
+				"by_list": [
+					"Grigorii Pika",
+					"Vladislav Fedorov"
+				],
+				"by_link_list": [
+					"https://lockd.itch.io/",
+					"https://valdevelopment.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 21,
+				"score": 3.595,
+				"ilscore": 77,
+				"submission_time_diff": -14967000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Stay Choppy",
+				"title_link": "https://valdevelopment.itch.io/stay-choppy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889796",
+				"by_list": [
+					"Vladislav Fedorov",
+					"Grigorii Pika"
+				],
+				"by_link_list": [
+					"https://valdevelopment.itch.io/",
+					"https://lockd.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 6,
+				"score": 3.125,
+				"ilscore": 66,
+				"submission_time_diff": -13341000
+			}
+		]
+	},
+	{
+		"jammer": "Constantin Liétard",
+		"jammer_link": "https://screenshakes.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "GEHENNA",
+				"title_link": "https://unnamedcollective.itch.io/gehenna",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810484",
+				"by_list": [
+					"Temporarily Unnamed Collective",
+					"Constantin Liétard",
+					"OFFLINE"
+				],
+				"by_link_list": [
+					"https://unnamedcollective.itch.io/",
+					"https://screenshakes.itch.io/",
+					"https://offln.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 11,
+				"score": 3.523,
+				"ilscore": 53,
+				"submission_time_diff": -3756000
 			}
 		]
 	}

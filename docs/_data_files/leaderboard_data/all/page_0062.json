@@ -1,151 +1,5 @@
 [
 	{
-		"jammer": "CodeGarden",
-		"jammer_link": "https://codegarden.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
-				"title": "Frogs",
-				"title_link": "https://codegarden.itch.io/frogs",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532666",
-				"by_list": [
-					"CodeGarden"
-				],
-				"by_link_list": [
-					"https://codegarden.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 21,
-				"score": 3.655,
-				"ilscore": 110,
-				"submission_time_diff": -765000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 118,
-				"title": "Circuit Scramble",
-				"title_link": "https://codegarden.itch.io/circuit-scramble",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673553",
-				"by_list": [
-					"CodeGarden"
-				],
-				"by_link_list": [
-					"https://codegarden.itch.io/"
-				],
-				"rank": 53,
-				"ratings": 8,
-				"score": 3.094,
-				"ilscore": 66,
-				"submission_time_diff": -19185000
-			}
-		]
-	},
-	{
-		"jammer": "Dender46",
-		"jammer_link": "https://dender46.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
-				"title": "Last Void Signals",
-				"title_link": "https://dender46.itch.io/last-void-signals",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1912437",
-				"by_list": [
-					"Dender46"
-				],
-				"by_link_list": [
-					"https://dender46.itch.io/"
-				],
-				"rank": 32,
-				"ratings": 5,
-				"score": 2.921,
-				"ilscore": 52,
-				"submission_time_diff": -24579000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
-				"title": "Long and Sticky Tongue",
-				"title_link": "https://dender46.itch.io/hot-frog-cake",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532579",
-				"by_list": [
-					"Dender46"
-				],
-				"by_link_list": [
-					"https://dender46.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 19,
-				"score": 3.632,
-				"ilscore": 109,
-				"submission_time_diff": -3593000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
-				"title": "Seaside Sandcastles",
-				"title_link": "https://dender46.itch.io/seaside-sandcastles",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572235",
-				"by_list": [
-					"Dender46"
-				],
-				"by_link_list": [
-					"https://dender46.itch.io/"
-				],
-				"rank": 44,
-				"ratings": 22,
-				"score": 3.443,
-				"ilscore": 93,
-				"submission_time_diff": -12837000
-			}
-		]
-	},
-	{
-		"jammer": "Sortros Phoresia",
-		"jammer_link": "https://sortrosphoresia.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
-				"title": "UNHOPPY",
-				"title_link": "https://sortrosphoresia.itch.io/unhoppy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532470",
-				"by_list": [
-					"Sortros Phoresia",
-					"MustacheSkulls"
-				],
-				"by_link_list": [
-					"https://sortrosphoresia.itch.io/",
-					"https://mustacheskulls.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 10,
-				"score": 3.625,
-				"ilscore": 109,
-				"submission_time_diff": -5756000
-			}
-		]
-	},
-	{
 		"jammer": "MustacheSkulls",
 		"jammer_link": "https://mustacheskulls.itch.io/",
 		"game_list_sorted": [
@@ -183,7 +37,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Clothes Minded",
 				"title_link": "https://idlecore.itch.io/clothes-minded",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792103",
@@ -200,7 +54,7 @@
 				"rank": 7,
 				"ratings": 11,
 				"score": 3.568,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -263000
 			},
 			{
@@ -285,7 +139,7 @@
 				"jam_id": 144,
 				"jam_name": "Nightmare",
 				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 67,
+				"jam_vs": 66,
 				"title": "Nightmare Orb",
 				"title_link": "https://offln.itch.io/orb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339180",
@@ -375,7 +229,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Achoo",
 				"title_link": "https://filipnilsson.itch.io/achoo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634487",
@@ -1004,7 +858,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Fishland",
 				"title_link": "https://murgn.itch.io/fishland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2566054",
@@ -1138,7 +992,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Clapping in April",
 				"title_link": "https://murgn.itch.io/clapping-in-april",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2620360",
@@ -1182,7 +1036,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Pillboy",
 				"title_link": "https://murgn.itch.io/pillboy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633381",
@@ -1280,7 +1134,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Don't Leave Me Hanging",
 				"title_link": "https://pepperboi.itch.io/dont-leave-me-hanging",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789094",
@@ -1353,7 +1207,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "Life's a Beach",
 				"title_link": "https://pepperboi.itch.io/life-a-beach",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2114006",
@@ -1985,7 +1839,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Minion",
 				"title_link": "https://jammydoodles.itch.io/minion",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672968",
@@ -2460,7 +2314,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "FPS TOWER DEFENSE BUILDER - MiniJam 134",
 				"title_link": "https://arthemy.itch.io/fps-tower-defense-builder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113990",
@@ -2562,7 +2416,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Double Tap",
 				"title_link": "https://quavers0.itch.io/double-tap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634225",
@@ -2946,7 +2800,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "GOfish.",
 				"title_link": "https://coruscare.itch.io/gofish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564877",
@@ -4350,7 +4204,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "RADIALOOP",
 				"title_link": "https://digitaldude555.itch.io/radialoop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672853",
@@ -4371,7 +4225,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Shuriken Dodger",
 				"title_link": "https://digitaldude555.itch.io/shuriken-dodger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634676",
@@ -4642,6 +4496,110 @@
 				"score": 2.717,
 				"ilscore": 81,
 				"submission_time_diff": -202537000
+			}
+		]
+	},
+	{
+		"jammer": "Sandoskan",
+		"jammer_link": "https://sandoskan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "FroggiCraft",
+				"title_link": "https://moosdruide13.itch.io/froggicraft",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1534777",
+				"by_list": [
+					"Moos",
+					"Sandoskan"
+				],
+				"by_link_list": [
+					"https://moosdruide13.itch.io/",
+					"https://sandoskan.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 7,
+				"score": 2.714,
+				"ilscore": 81,
+				"submission_time_diff": 123013000
+			}
+		]
+	},
+	{
+		"jammer": "AL43868",
+		"jammer_link": "https://al43868.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 137,
+				"title": "300 meters underwater",
+				"title_link": "https://al43868.itch.io/300-meters-underwater",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590000",
+				"by_list": [
+					"AL43868"
+				],
+				"by_link_list": [
+					"https://al43868.itch.io/"
+				],
+				"rank": 96,
+				"ratings": 6,
+				"score": 2.562,
+				"ilscore": 58,
+				"submission_time_diff": -85187000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Frog Bartender",
+				"title_link": "https://al43868.itch.io/frog-bartender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531405",
+				"by_list": [
+					"AL43868"
+				],
+				"by_link_list": [
+					"https://al43868.itch.io/"
+				],
+				"rank": 154,
+				"ratings": 12,
+				"score": 2.667,
+				"ilscore": 80,
+				"submission_time_diff": 941000
+			}
+		]
+	},
+	{
+		"jammer": "PerianDevelopment",
+		"jammer_link": "https://periandevelopment.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Jumping Jelly",
+				"title_link": "https://periandevelopment.itch.io/jumping-jelly",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531914",
+				"by_list": [
+					"PerianDevelopment"
+				],
+				"by_link_list": [
+					"https://periandevelopment.itch.io/"
+				],
+				"rank": 156,
+				"ratings": 5,
+				"score": 2.662,
+				"ilscore": 80,
+				"submission_time_diff": -27914000
 			}
 		]
 	}

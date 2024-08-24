@@ -1,71 +1,5 @@
 [
 	{
-		"jammer": "exxaggerating",
-		"jammer_link": "https://exxaggerating.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Just Golf",
-				"title_link": "https://jambo-no-5.itch.io/just-golf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152640",
-				"by_list": [
-					"Jambo No. 5",
-					"exxaggerating",
-					"delta-lemon",
-					"PMT97"
-				],
-				"by_link_list": [
-					"https://jambo-no-5.itch.io/",
-					"https://exxaggerating.itch.io/",
-					"https://delta-lemon.itch.io/",
-					"https://pmt97.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 8,
-				"score": 3.781,
-				"ilscore": 77,
-				"submission_time_diff": -30521000
-			}
-		]
-	},
-	{
-		"jammer": "delta-lemon",
-		"jammer_link": "https://delta-lemon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Just Golf",
-				"title_link": "https://jambo-no-5.itch.io/just-golf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152640",
-				"by_list": [
-					"Jambo No. 5",
-					"exxaggerating",
-					"delta-lemon",
-					"PMT97"
-				],
-				"by_link_list": [
-					"https://jambo-no-5.itch.io/",
-					"https://exxaggerating.itch.io/",
-					"https://delta-lemon.itch.io/",
-					"https://pmt97.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 8,
-				"score": 3.781,
-				"ilscore": 77,
-				"submission_time_diff": -30521000
-			}
-		]
-	},
-	{
 		"jammer": "PMT97",
 		"jammer_link": "https://pmt97.itch.io/",
 		"game_list_sorted": [
@@ -460,8 +394,8 @@
 		]
 	},
 	{
-		"jammer": "Steve_D_Programmer",
-		"jammer_link": "https://steve-d-programmer.itch.io/",
+		"jammer": "CodingSteve",
+		"jammer_link": "https://codingsteve.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -470,13 +404,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
 				"jam_vs": 105,
 				"title": "(T)Racer",
-				"title_link": "https://steve-d-programmer.itch.io/tracer",
+				"title_link": "https://codingsteve.itch.io/tracer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152254",
 				"by_list": [
-					"Steve_D_Programmer"
+					"CodingSteve"
 				],
 				"by_link_list": [
-					"https://steve-d-programmer.itch.io/"
+					"https://codingsteve.itch.io/"
 				],
 				"rank": 30,
 				"ratings": 9,
@@ -737,7 +671,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "A Balloon Journey",
 				"title_link": "https://ximer.itch.io/aballoonjourney",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/1957879",
@@ -953,7 +887,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Caviar Way",
 				"title_link": "https://rpstudio.itch.io/caviar-way",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563585",
@@ -1049,7 +983,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Exploding Colors",
 				"title_link": "https://takago.itch.io/exploding-colors",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634981",
@@ -2255,7 +2189,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "5 Hour Space Game",
 				"title_link": "https://ragnar-dragonson.itch.io/5-hour-space-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564070",
@@ -2420,7 +2354,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Color racer",
 				"title_link": "https://salsama59.itch.io/color-racer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634689",
@@ -3514,6 +3448,85 @@
 				"score": 3.175,
 				"ilscore": 64,
 				"submission_time_diff": -21000
+			}
+		]
+	},
+	{
+		"jammer": "siyichenmusic",
+		"jammer_link": "https://siyichenmusic.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "Laundry Break",
+				"title_link": "https://rachelqxl.itch.io/laundry-break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169514",
+				"by_list": [
+					"rachelqxl",
+					"shirleyhuang",
+					"siyichenmusic"
+				],
+				"by_link_list": [
+					"https://rachelqxl.itch.io/",
+					"https://shirleyhuang.itch.io/",
+					"https://siyichenmusic.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 10,
+				"score": 3.175,
+				"ilscore": 64,
+				"submission_time_diff": -21000
+			}
+		]
+	},
+	{
+		"jammer": "Rares",
+		"jammer_link": "https://rares-the-noob.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "30s",
+				"title_link": "https://rares-the-noob.itch.io/30s",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187360",
+				"by_list": [
+					"Rares"
+				],
+				"by_link_list": [
+					"https://rares-the-noob.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 9,
+				"score": 3.528,
+				"ilscore": 74,
+				"submission_time_diff": -39743000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "Monster Café",
+				"title_link": "https://rares-the-noob.itch.io/monster-caf",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1166379",
+				"by_list": [
+					"Rares"
+				],
+				"by_link_list": [
+					"https://rares-the-noob.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 10,
+				"score": 3.15,
+				"ilscore": 64,
+				"submission_time_diff": -35915000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "SpeltIncorrectly",
-		"jammer_link": "https://speltincorrectly.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Ribbit",
-				"title_link": "https://speltincorrectly.itch.io/ribbbit",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025585",
-				"by_list": [
-					"SpeltIncorrectly"
-				],
-				"by_link_list": [
-					"https://speltincorrectly.itch.io/"
-				],
-				"rank": 176,
-				"ratings": 3,
-				"score": 1.734,
-				"ilscore": 44,
-				"submission_time_diff": -21243000
-			}
-		]
-	},
-	{
 		"jammer": "qdfxrg4he1cfrc99",
 		"jammer_link": "https://qdfxrg4he1cfrc99.itch.io/",
 		"game_list_sorted": [
@@ -191,7 +164,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Monzilla",
 				"title_link": "https://tank-king.itch.io/monzilla",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063131",
@@ -212,7 +185,7 @@
 				"jam_id": 103,
 				"jam_name": "Darkness",
 				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "BreakPong",
 				"title_link": "https://tank-king.itch.io/breakpong",
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1470300",
@@ -667,7 +640,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Tiptoeing Kaiju - Mech Controller test (TechDemo)",
 				"title_link": "https://reddashgames.itch.io/mech-controller-gameplay-test",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062900",
@@ -1603,7 +1576,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Goblin Grabber",
 				"title_link": "https://kingregicon.itch.io/goblin-grabber",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792232",
@@ -1618,6 +1591,27 @@
 				"score": 3.031,
 				"ilscore": 45,
 				"submission_time_diff": 43417000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 165,
+				"jam_name": "Paint",
+				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
+				"jam_vs": 46,
+				"title": "The Joys of Paintball",
+				"title_link": "https://kingregicon.itch.io/the-joys-of-paintball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2905351",
+				"by_list": [
+					"KingRegicon"
+				],
+				"by_link_list": [
+					"https://kingregicon.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 15,
+				"score": 2.7,
+				"ilscore": 37,
+				"submission_time_diff": -49800000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1672,7 +1666,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Mage Battle!",
 				"title_link": "https://augustapril.itch.io/mage-battle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063123",
@@ -2268,7 +2262,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Potato Kaiju Never Die!",
 				"title_link": "https://potatolifeyt.itch.io/potato-kaiju-never-die",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063012",
@@ -2571,7 +2565,7 @@
 				"jam_id": 103,
 				"jam_name": "Darkness",
 				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "Go Dodge Yourself (Mini Jam version)",
 				"title_link": "https://smolblockboi.itch.io/go-dodge-yourself",
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1466489",
@@ -3801,6 +3795,54 @@
 				"score": 2.263,
 				"ilscore": 52,
 				"submission_time_diff": -5199000
+			}
+		]
+	},
+	{
+		"jammer": "GreenBird Games",
+		"jammer_link": "https://greenbirdgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 139,
+				"title": "Cat Box Co.",
+				"title_link": "https://greenbirdgames.itch.io/cat-box-c0",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044870",
+				"by_list": [
+					"GreenBird Games"
+				],
+				"by_link_list": [
+					"https://greenbirdgames.itch.io/"
+				],
+				"rank": 117,
+				"ratings": 3,
+				"score": 2.191,
+				"ilscore": 50,
+				"submission_time_diff": -7283000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Snake",
+				"title_link": "https://greenbirdgames.itch.io/super-snake",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388782",
+				"by_list": [
+					"GreenBird Games"
+				],
+				"by_link_list": [
+					"https://greenbirdgames.itch.io/"
+				],
+				"rank": 171,
+				"ratings": 4,
+				"score": 2.542,
+				"ilscore": 73,
+				"submission_time_diff": -13252000
 			}
 		]
 	}

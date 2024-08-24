@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "AlpineShowTime",
-		"jammer_link": "https://alpineshowtime.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Accurate Angels",
-				"title_link": "https://alpineshowtime.itch.io/accurate-angels",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868129",
-				"by_list": [
-					"AlpineShowTime",
-					"Clem (Real)"
-				],
-				"by_link_list": [
-					"https://alpineshowtime.itch.io/",
-					"https://clemboy.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 18,
-				"score": 3.139,
-				"ilscore": 51,
-				"submission_time_diff": 1972000
-			}
-		]
-	},
-	{
 		"jammer": "Clem (Real)",
 		"jammer_link": "https://clemboy.itch.io/",
 		"game_list_sorted": [
@@ -661,7 +632,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Baby Kaiju's First Katastrophe",
 				"title_link": "https://yoshdragon.itch.io/baby-kaijus-first-katastrophe",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063175",
@@ -1262,7 +1233,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
+				"jam_vs": 106,
 				"title": "Pub Simulator",
 				"title_link": "https://zactarzero.itch.io/pub-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347789",
@@ -1566,7 +1537,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 107,
+				"jam_vs": 106,
 				"title": "Dodgeball Simulator",
 				"title_link": "https://xenvex.itch.io/dodgeball-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346978",
@@ -1579,7 +1550,7 @@
 				"rank": 30,
 				"ratings": 23,
 				"score": 3.25,
-				"ilscore": 67,
+				"ilscore": 66,
 				"submission_time_diff": -9970000
 			},
 			{
@@ -1587,7 +1558,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 386,
+				"jam_vs": 385,
 				"title": "Painter Platformer",
 				"title_link": "https://xenvex.itch.io/painter-platformer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634778",
@@ -2163,7 +2134,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Little Starfish",
 				"title_link": "https://skinner-space.itch.io/little-starfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
@@ -3849,6 +3820,33 @@
 				"score": 2.095,
 				"ilscore": 40,
 				"submission_time_diff": -14664000
+			}
+		]
+	},
+	{
+		"jammer": "PubPrico",
+		"jammer_link": "https://pprico.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "PLANET GREEN",
+				"title_link": "https://pprico.itch.io/planet-green",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879531",
+				"by_list": [
+					"PubPrico"
+				],
+				"by_link_list": [
+					"https://pprico.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 4,
+				"score": 1.989,
+				"ilscore": 38,
+				"submission_time_diff": -66035000
 			}
 		]
 	}
