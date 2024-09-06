@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Acropolise",
-		"jammer_link": "https://acropolis.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Roasis",
-				"title_link": "https://acropolis.itch.io/roasis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632944",
-				"by_list": [
-					"Acropolise"
-				],
-				"by_link_list": [
-					"https://acropolis.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 21,
-				"score": 3.324,
-				"ilscore": 51,
-				"submission_time_diff": -26620000
-			}
-		]
-	},
-	{
 		"jammer": "Ariel Lissak Geller",
 		"jammer_link": "https://ariellissakgeller.itch.io/",
 		"game_list_sorted": [
@@ -436,6 +409,27 @@
 				"score": 2.805,
 				"ilscore": 43,
 				"submission_time_diff": -38128000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 205,
+				"title": "Green Gotta Go",
+				"title_link": "https://codehacher123.itch.io/green-gotta-go",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942696",
+				"by_list": [
+					"CodeHacher123"
+				],
+				"by_link_list": [
+					"https://codehacher123.itch.io/"
+				],
+				"rank": 144,
+				"ratings": 5,
+				"score": 2.324,
+				"ilscore": 62,
+				"submission_time_diff": -43740000
 			}
 		]
 	},
@@ -1560,7 +1554,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Cat-trina",
 				"title_link": "https://mbox47.itch.io/cat-trina",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044902",
@@ -1641,11 +1635,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/646821",
 				"by_list": [
 					"Trisol",
-					"Misol"
+					"Unjike"
 				],
 				"by_link_list": [
 					"https://trisol.itch.io/",
-					"https://mkversaw.itch.io/"
+					"https://unjike.itch.io/"
 				],
 				"rank": 9,
 				"ratings": 15,
@@ -1656,8 +1650,8 @@
 		]
 	},
 	{
-		"jammer": "Misol",
-		"jammer_link": "https://mkversaw.itch.io/",
+		"jammer": "Unjike",
+		"jammer_link": "https://unjike.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1670,11 +1664,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/646821",
 				"by_list": [
 					"Trisol",
-					"Misol"
+					"Unjike"
 				],
 				"by_link_list": [
 					"https://trisol.itch.io/",
-					"https://mkversaw.itch.io/"
+					"https://unjike.itch.io/"
 				],
 				"rank": 9,
 				"ratings": 15,
@@ -2345,7 +2339,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Purradin",
 				"title_link": "https://burnadet.itch.io/purradin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483138",
@@ -3337,7 +3331,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
+				"jam_vs": 83,
 				"title": "The Myth of Pumpkins and Wolves",
 				"title_link": "https://netmind.itch.io/pumpkins-and-wolves",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203579",
@@ -3350,7 +3344,7 @@
 				"rank": 44,
 				"ratings": 12,
 				"score": 2.854,
-				"ilscore": 53,
+				"ilscore": 52,
 				"submission_time_diff": -16178000
 			},
 			{
@@ -3844,6 +3838,33 @@
 				"score": 1.72,
 				"ilscore": 33,
 				"submission_time_diff": -24880000
+			}
+		]
+	},
+	{
+		"jammer": "PanBan",
+		"jammer_link": "https://panban.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "Find The Real Memory",
+				"title_link": "https://panban.itch.io/find-the-real-memory",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647328",
+				"by_list": [
+					"PanBan"
+				],
+				"by_link_list": [
+					"https://panban.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 2,
+				"score": 1.72,
+				"ilscore": 33,
+				"submission_time_diff": -12220000
 			}
 		]
 	}

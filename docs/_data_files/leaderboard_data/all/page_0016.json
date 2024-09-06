@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "Onyx Templar Games",
-		"jammer_link": "https://onyx-templar-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"jam_vs": 18,
-				"title": "Galactic Defender",
-				"title_link": "https://onyx-templar-games.itch.io/galactic-defender",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/584000",
-				"by_list": [
-					"Onyx Templar Games"
-				],
-				"by_link_list": [
-					"https://onyx-templar-games.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 4,
-				"score": 2.192,
-				"ilscore": 17,
-				"submission_time_diff": -27886000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "ParadICE",
-				"title_link": "https://onyx-templar-games.itch.io/paradice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592701",
-				"by_list": [
-					"Onyx Templar Games"
-				],
-				"by_link_list": [
-					"https://onyx-templar-games.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 6,
-				"score": 2.467,
-				"ilscore": 54,
-				"submission_time_diff": -12464000
-			}
-		]
-	},
-	{
 		"jammer": "Titwin",
 		"jammer_link": "https://titwin.itch.io/",
 		"game_list_sorted": [
@@ -670,7 +622,7 @@
 				"jam_id": 92,
 				"jam_name": "Death",
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "King and Death",
 				"title_link": "https://ilprinni.itch.io/king-and-death",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258525",
@@ -733,7 +685,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Penultimate",
 				"title_link": "https://ilprinni.itch.io/penultimate",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2876646",
@@ -746,7 +698,7 @@
 				"rank": 14,
 				"ratings": 15,
 				"score": 3.683,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -80476000
 			},
 			{
@@ -775,7 +727,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Dancing at Cattail Pub",
 				"title_link": "https://ilprinni.itch.io/dancing-at-cattail-pub",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045048",
@@ -859,7 +811,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Tower Tech. Incident no 33",
 				"title_link": "https://ilprinni.itch.io/tower-tech-incident-no-33",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062967",
@@ -3824,6 +3776,33 @@
 				"score": 1.226,
 				"ilscore": 27,
 				"submission_time_diff": -17594000
+			}
+		]
+	},
+	{
+		"jammer": "Eric Tran",
+		"jammer_link": "https://eric-tran.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "GTHOI (Get the hell out of my island)",
+				"title_link": "https://eric-tran.itch.io/gthoi-get-the-hell-out-of-my-island",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592388",
+				"by_list": [
+					"Eric Tran"
+				],
+				"by_link_list": [
+					"https://eric-tran.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 2,
+				"score": 1.133,
+				"ilscore": 25,
+				"submission_time_diff": -34630000
 			}
 		]
 	}

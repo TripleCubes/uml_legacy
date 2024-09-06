@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Melancholy Marionette",
-		"jammer_link": "https://melancholy-marionette.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"jam_vs": 138,
-				"title": "The Hostage",
-				"title_link": "https://melancholy-marionette.itch.io/the-hostage",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2188712",
-				"by_list": [
-					"Melancholy Marionette"
-				],
-				"by_link_list": [
-					"https://melancholy-marionette.itch.io/"
-				],
-				"rank": 95,
-				"ratings": 4,
-				"score": 2.386,
-				"ilscore": 54,
-				"submission_time_diff": -38341000
-			}
-		]
-	},
-	{
 		"jammer": "the nameless dev",
 		"jammer_link": "https://thenamelessdev.itch.io/",
 		"game_list_sorted": [
@@ -1693,6 +1666,27 @@
 				"score": 1.188,
 				"ilscore": 27,
 				"submission_time_diff": -652000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 205,
+				"title": "No Green Allowed!",
+				"title_link": "https://someonecalleddanny.itch.io/no-green-allowed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944530",
+				"by_list": [
+					"someonecalleddanny"
+				],
+				"by_link_list": [
+					"https://someonecalleddanny.itch.io/"
+				],
+				"rank": 190,
+				"ratings": 2,
+				"score": 1.403,
+				"ilscore": 37,
+				"submission_time_diff": -3453000
 			}
 		]
 	},
@@ -2215,7 +2209,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Cavely",
 				"title_link": "https://manugamesdev.itch.io/cavely",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1911538",
@@ -2613,7 +2607,7 @@
 				"jam_id": 163,
 				"jam_name": "Dessert",
 				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Hungry Hungry Humans",
 				"title_link": "https://joshcaladia.itch.io/ice-cream",
 				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2845421",
@@ -2626,7 +2620,7 @@
 				"rank": 50,
 				"ratings": 3,
 				"score": 1.8,
-				"ilscore": 27,
+				"ilscore": 26,
 				"submission_time_diff": -42963000
 			}
 		]
@@ -3822,6 +3816,54 @@
 				"score": 3.19,
 				"ilscore": 3,
 				"submission_time_diff": -408000
+			}
+		]
+	},
+	{
+		"jammer": "LesserGatsby",
+		"jammer_link": "https://lessergatsby.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 6,
+				"jam_name": "Boss Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-6th-edition",
+				"jam_vs": 20,
+				"title": "MJ6 Rush",
+				"title_link": "https://lessergatsby.itch.io/mj6-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-6th-edition/rate/279456",
+				"by_list": [
+					"LesserGatsby"
+				],
+				"by_link_list": [
+					"https://lessergatsby.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 9,
+				"score": 3.81,
+				"ilscore": 33,
+				"submission_time_diff": -87521000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Drone Survival Test",
+				"title_link": "https://lessergatsby.itch.io/drone-survival-test",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632024",
+				"by_list": [
+					"LesserGatsby"
+				],
+				"by_link_list": [
+					"https://lessergatsby.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 6,
+				"score": 2.286,
+				"ilscore": 35,
+				"submission_time_diff": -81411000
 			}
 		]
 	}

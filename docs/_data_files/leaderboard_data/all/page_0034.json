@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "Fuzzyzilla",
-		"jammer_link": "https://fuzzyzilla.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 76,
-				"jam_name": "Radiation",
-				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 124,
-				"title": "Slime Stampede",
-				"title_link": "https://fuzzyzilla.itch.io/slime-stampede",
-				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/970155",
-				"by_list": [
-					"Fuzzyzilla"
-				],
-				"by_link_list": [
-					"https://fuzzyzilla.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 6,
-				"score": 4,
-				"ilscore": 87,
-				"submission_time_diff": 242309000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "10 Seconds on Titan",
-				"title_link": "https://fuzzyzilla.itch.io/10sot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020436",
-				"by_list": [
-					"Fuzzyzilla"
-				],
-				"by_link_list": [
-					"https://fuzzyzilla.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 12,
-				"score": 3.438,
-				"ilscore": 93,
-				"submission_time_diff": -2224000
-			}
-		]
-	},
-	{
 		"jammer": "al3cs71",
 		"jammer_link": "https://al3cs71.itch.io/",
 		"game_list_sorted": [
@@ -345,7 +297,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 128,
+				"jam_vs": 127,
 				"title": "Wayfind",
 				"title_link": "https://kreisgame.itch.io/wayfind",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482000",
@@ -466,7 +418,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Cool Cat Cafe",
 				"title_link": "https://minimechmedia.itch.io/cool-cat-cafe",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043142",
@@ -479,7 +431,7 @@
 				"rank": 9,
 				"ratings": 10,
 				"score": 4,
-				"ilscore": 92,
+				"ilscore": 91,
 				"submission_time_diff": -112416000
 			},
 			{
@@ -550,7 +502,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Kaiju Companions",
 				"title_link": "https://minimechmedia.itch.io/kaiju-companions",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1061519",
@@ -571,7 +523,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 138,
+				"jam_vs": 137,
 				"title": "Dream Sense",
 				"title_link": "https://minimechmedia.itch.io/dream-sense",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511526",
@@ -584,7 +536,7 @@
 				"rank": 50,
 				"ratings": 8,
 				"score": 3.27,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": -11515000
 			},
 			{
@@ -3541,6 +3493,33 @@
 				"score": 3.504,
 				"ilscore": 75,
 				"submission_time_diff": -109000
+			}
+		]
+	},
+	{
+		"jammer": "HakuGames",
+		"jammer_link": "https://hakugames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"jam_vs": 138,
+				"title": "Afraid of Jumping",
+				"title_link": "https://hakugames.itch.io/afraid-of-jumping",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983784",
+				"by_list": [
+					"HakuGames"
+				],
+				"by_link_list": [
+					"https://hakugames.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 19,
+				"score": 3.461,
+				"ilscore": 79,
+				"submission_time_diff": -17600000
 			}
 		]
 	}

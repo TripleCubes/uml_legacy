@@ -1,94 +1,5 @@
 [
 	{
-		"jammer": "PMT97",
-		"jammer_link": "https://pmt97.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Just Golf",
-				"title_link": "https://jambo-no-5.itch.io/just-golf",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152640",
-				"by_list": [
-					"Jambo No. 5",
-					"exxaggerating",
-					"delta-lemon",
-					"PMT97"
-				],
-				"by_link_list": [
-					"https://jambo-no-5.itch.io/",
-					"https://exxaggerating.itch.io/",
-					"https://delta-lemon.itch.io/",
-					"https://pmt97.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 8,
-				"score": 3.781,
-				"ilscore": 77,
-				"submission_time_diff": -30521000
-			}
-		]
-	},
-	{
-		"jammer": "HystericalFox",
-		"jammer_link": "https://hystericalfox.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Endless Arrow",
-				"title_link": "https://aquamang.itch.io/endless-arrow",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153195",
-				"by_list": [
-					"AquaMang",
-					"HystericalFox"
-				],
-				"by_link_list": [
-					"https://aquamang.itch.io/",
-					"https://hystericalfox.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.714,
-				"ilscore": 76,
-				"submission_time_diff": -7013000
-			}
-		]
-	},
-	{
-		"jammer": "El Deivid",
-		"jammer_link": "https://el-deivid.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Stoic Runner",
-				"title_link": "https://el-deivid.itch.io/stoic-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153310",
-				"by_list": [
-					"El Deivid"
-				],
-				"by_link_list": [
-					"https://el-deivid.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 7,
-				"score": 3.675,
-				"ilscore": 75,
-				"submission_time_diff": -1012000
-			}
-		]
-	},
-	{
 		"jammer": "kekbazuca",
 		"jammer_link": "https://kekbazuca.itch.io/",
 		"game_list_sorted": [
@@ -671,7 +582,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "A Balloon Journey",
 				"title_link": "https://ximer.itch.io/aballoonjourney",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/1957879",
@@ -684,7 +595,7 @@
 				"rank": 51,
 				"ratings": 9,
 				"score": 2.812,
-				"ilscore": 59,
+				"ilscore": 58,
 				"submission_time_diff": -15521000
 			}
 		]
@@ -962,7 +873,7 @@
 				"jam_id": 92,
 				"jam_name": "Death",
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Meleager's Stick",
 				"title_link": "https://takago.itch.io/meleagers-stick",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1257636",
@@ -975,7 +886,7 @@
 				"rank": 70,
 				"ratings": 10,
 				"score": 2.8,
-				"ilscore": 59,
+				"ilscore": 58,
 				"submission_time_diff": -67831000
 			},
 			{
@@ -2312,7 +2223,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Chain fire",
 				"title_link": "https://salsama59.itch.io/chain-fire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878452",
@@ -2939,7 +2850,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Signal",
 				"title_link": "https://michaelpan.itch.io/signal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1911838",
@@ -3527,6 +3438,95 @@
 				"score": 3.15,
 				"ilscore": 64,
 				"submission_time_diff": -35915000
+			}
+		]
+	},
+	{
+		"jammer": "Luuk Noverraz",
+		"jammer_link": "https://luuknoverraz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "Night Stroll Ambush",
+				"title_link": "https://luuknoverraz.itch.io/night-stroll-ambush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1167747",
+				"by_list": [
+					"Luuk Noverraz"
+				],
+				"by_link_list": [
+					"https://luuknoverraz.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 10,
+				"score": 3.125,
+				"ilscore": 63,
+				"submission_time_diff": -95821000
+			}
+		]
+	},
+	{
+		"jammer": "Enroqu3 Games",
+		"jammer_link": "https://enroqu3.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "PingüinOrbe",
+				"title_link": "https://enroqu3.itch.io/pinguinorbe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169522",
+				"by_list": [
+					"Enroqu3 Games",
+					"ESCAQUEST GAMES",
+					"BlitzAudio"
+				],
+				"by_link_list": [
+					"https://enroqu3.itch.io/",
+					"https://escaquest.itch.io/",
+					"https://blitzaudio.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 20,
+				"score": 3.087,
+				"ilscore": 63,
+				"submission_time_diff": -5805000
+			}
+		]
+	},
+	{
+		"jammer": "ESCAQUEST GAMES",
+		"jammer_link": "https://escaquest.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "PingüinOrbe",
+				"title_link": "https://enroqu3.itch.io/pinguinorbe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169522",
+				"by_list": [
+					"Enroqu3 Games",
+					"ESCAQUEST GAMES",
+					"BlitzAudio"
+				],
+				"by_link_list": [
+					"https://enroqu3.itch.io/",
+					"https://escaquest.itch.io/",
+					"https://blitzaudio.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 20,
+				"score": 3.087,
+				"ilscore": 63,
+				"submission_time_diff": -5805000
 			}
 		]
 	}

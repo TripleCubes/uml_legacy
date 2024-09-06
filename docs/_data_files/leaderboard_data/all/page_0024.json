@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "XarlJohnson",
-		"jammer_link": "https://xarljohnson.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
-				"title": "Balls tell",
-				"title_link": "https://xarljohnson.itch.io/balls-tell",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/726323",
-				"by_list": [
-					"XarlJohnson"
-				],
-				"by_link_list": [
-					"https://xarljohnson.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 6,
-				"score": 1.852,
-				"ilscore": 43,
-				"submission_time_diff": -25565000
-			}
-		]
-	},
-	{
 		"jammer": "ScriptLine Studios",
 		"jammer_link": "https://scriptline-studios.itch.io/",
 		"game_list_sorted": [
@@ -1028,7 +1001,7 @@
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"jam_vs": 110,
-				"title": "Relax Resort (Gamejam Version)",
+				"title": "Relax Resort",
 				"title_link": "https://moodygames.itch.io/relax-resort-gamejam-version",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113312",
 				"by_list": [
@@ -1084,6 +1057,27 @@
 				"score": 2.681,
 				"ilscore": 37,
 				"submission_time_diff": -25575000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 205,
+				"title": "Sculpt",
+				"title_link": "https://moodygames.itch.io/sculpt",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943527",
+				"by_list": [
+					"Federico Poli"
+				],
+				"by_link_list": [
+					"https://moodygames.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 16,
+				"score": 3.609,
+				"ilscore": 96,
+				"submission_time_diff": -27227000
 			}
 		]
 	},
@@ -1156,7 +1150,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Bee Swarm Mania",
 				"title_link": "https://doubleday.itch.io/bee-swarm-mania",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044415",
@@ -3022,7 +3016,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "Changing Colours",
 				"title_link": "https://neofocena.itch.io/changing-colours",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618408",
@@ -3039,7 +3033,7 @@
 				"rank": 12,
 				"ratings": 25,
 				"score": 3.53,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -15038000
 			},
 			{
@@ -3176,6 +3170,27 @@
 				"score": 3.094,
 				"ilscore": 65,
 				"submission_time_diff": -14110000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 205,
+				"title": "Robot Hates Green",
+				"title_link": "https://furygames.itch.io/robot-hates-green",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942424",
+				"by_list": [
+					"FuryGames"
+				],
+				"by_link_list": [
+					"https://furygames.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 14,
+				"score": 3.018,
+				"ilscore": 80,
+				"submission_time_diff": -49127000
 			}
 		]
 	},
@@ -3717,6 +3732,33 @@
 				"score": 2.9,
 				"ilscore": 61,
 				"submission_time_diff": 655000
+			}
+		]
+	},
+	{
+		"jammer": "syne3",
+		"jammer_link": "https://syne3.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Beat The Yokai",
+				"title_link": "https://syne3.itch.io/beat-the-yokai",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763411",
+				"by_list": [
+					"syne3"
+				],
+				"by_link_list": [
+					"https://syne3.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 5,
+				"score": 2.846,
+				"ilscore": 60,
+				"submission_time_diff": -20675000
 			}
 		]
 	}

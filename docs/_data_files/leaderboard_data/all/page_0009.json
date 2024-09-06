@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Indian Man",
-		"jammer_link": "https://paru05.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 19,
-				"jam_name": "Mysteries",
-				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
-				"jam_vs": 25,
-				"title": "INDIANA's adventure",
-				"title_link": "https://paru05.itch.io/indianas-adventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/356018",
-				"by_list": [
-					"Indian Man"
-				],
-				"by_link_list": [
-					"https://paru05.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 4,
-				"score": 1.953,
-				"ilscore": 19,
-				"submission_time_diff": -14371000
-			}
-		]
-	},
-	{
 		"jammer": "Intellegion",
 		"jammer_link": "https://intellegion.itch.io/",
 		"game_list_sorted": [
@@ -2491,7 +2464,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "the right place",
 				"title_link": "https://natrix.itch.io/rightplace",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1042072",
@@ -5287,7 +5260,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "SKY-HIGH Climbing Gym",
 				"title_link": "https://lacreaturavioleta.itch.io/sky-high-climbing-gym",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618596",
@@ -5300,7 +5273,7 @@
 				"rank": 81,
 				"ratings": 7,
 				"score": 2.146,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": -6082000
 			},
 			{
@@ -5483,8 +5456,8 @@
 		]
 	},
 	{
-		"jammer": "@Cain.GodTier",
-		"jammer_link": "https://caingodtier.itch.io/",
+		"jammer": "@GreggoryAddison",
+		"jammer_link": "https://greggory-addison.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -5493,19 +5466,46 @@
 				"jam_link": "https://itch.io/jam/mini-jam-24-space",
 				"jam_vs": 56,
 				"title": "SPACE PIRATES",
-				"title_link": "https://caingodtier.itch.io/space-pirates",
+				"title_link": "https://greggory-addison.itch.io/space-pirates",
 				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395851",
 				"by_list": [
-					"@Cain.GodTier"
+					"@GreggoryAddison"
 				],
 				"by_link_list": [
-					"https://caingodtier.itch.io/"
+					"https://greggory-addison.itch.io/"
 				],
 				"rank": 3,
 				"ratings": 10,
 				"score": 4.4,
 				"ilscore": 67,
 				"submission_time_diff": -1618000
+			}
+		]
+	},
+	{
+		"jammer": "Critwhale",
+		"jammer_link": "https://critwhale.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 24,
+				"jam_name": "Space",
+				"jam_link": "https://itch.io/jam/mini-jam-24-space",
+				"jam_vs": 56,
+				"title": "Moon Flipper",
+				"title_link": "https://critwhale.itch.io/moon-flipper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395848",
+				"by_list": [
+					"Critwhale"
+				],
+				"by_link_list": [
+					"https://critwhale.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 11,
+				"score": 4.091,
+				"ilscore": 63,
+				"submission_time_diff": -1366000
 			}
 		]
 	}

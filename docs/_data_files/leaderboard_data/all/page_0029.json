@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "Clem (Real)",
-		"jammer_link": "https://clemboy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Accurate Angels",
-				"title_link": "https://alpineshowtime.itch.io/accurate-angels",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868129",
-				"by_list": [
-					"AlpineShowTime",
-					"Clem (Real)"
-				],
-				"by_link_list": [
-					"https://alpineshowtime.itch.io/",
-					"https://clemboy.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 18,
-				"score": 3.139,
-				"ilscore": 51,
-				"submission_time_diff": 1972000
-			}
-		]
-	},
-	{
 		"jammer": "Beonlytom",
 		"jammer_link": "https://beonlytom.itch.io/",
 		"game_list_sorted": [
@@ -632,7 +603,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Baby Kaiju's First Katastrophe",
 				"title_link": "https://yoshdragon.itch.io/baby-kaijus-first-katastrophe",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063175",
@@ -1516,7 +1487,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Metronome",
 				"title_link": "https://xenvex.itch.io/metronome",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913496",
@@ -1529,7 +1500,7 @@
 				"rank": 19,
 				"ratings": 13,
 				"score": 3.538,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -192000
 			},
 			{
@@ -1904,7 +1875,7 @@
 				"jam_id": 92,
 				"jam_name": "Death",
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Pray to your lord.",
 				"title_link": "https://thibazu.itch.io/pray-to-your-lord",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1257931",
@@ -2134,7 +2105,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Little Starfish",
 				"title_link": "https://skinner-space.itch.io/little-starfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062854",
@@ -2149,7 +2120,7 @@
 				"rank": 16,
 				"ratings": 17,
 				"score": 3.294,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": -5673000
 			},
 			{
@@ -2798,7 +2769,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Hell of Kitty",
 				"title_link": "https://lvcasgonzalez.itch.io/catjam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043416",
@@ -3847,6 +3818,33 @@
 				"score": 1.989,
 				"ilscore": 38,
 				"submission_time_diff": -66035000
+			}
+		]
+	},
+	{
+		"jammer": "AntiVance",
+		"jammer_link": "https://antivance.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "Build the Path",
+				"title_link": "https://antivance.itch.io/build-the-path",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880466",
+				"by_list": [
+					"AntiVance"
+				],
+				"by_link_list": [
+					"https://antivance.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 2,
+				"score": 1.938,
+				"ilscore": 37,
+				"submission_time_diff": -9797000
 			}
 		]
 	}

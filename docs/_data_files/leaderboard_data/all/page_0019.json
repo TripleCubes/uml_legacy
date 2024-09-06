@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "PanBan",
-		"jammer_link": "https://panban.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Find The Real Memory",
-				"title_link": "https://panban.itch.io/find-the-real-memory",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647328",
-				"by_list": [
-					"PanBan"
-				],
-				"by_link_list": [
-					"https://panban.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 2,
-				"score": 1.72,
-				"ilscore": 33,
-				"submission_time_diff": -12220000
-			}
-		]
-	},
-	{
 		"jammer": "JimOJuliet",
 		"jammer_link": "https://jimojuliet.itch.io/",
 		"game_list_sorted": [
@@ -1600,6 +1573,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 205,
+				"title": "Ruptured Core",
+				"title_link": "https://smurpy02.itch.io/rupturedcore",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2940939",
+				"by_list": [
+					"Scott"
+				],
+				"by_link_list": [
+					"https://smurpy02.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 9,
+				"score": 3.139,
+				"ilscore": 84,
+				"submission_time_diff": -94737000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
@@ -1821,7 +1815,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "TamaCat",
 				"title_link": "https://megastrons.itch.io/cat-simulator-a-pet-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044888",
@@ -1917,7 +1911,7 @@
 				"jam_id": 92,
 				"jam_name": "Death",
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Bloody Night",
 				"title_link": "https://napycu.itch.io/bloody-night",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259360",
@@ -3491,6 +3485,35 @@
 	{
 		"jammer": "inacho_",
 		"jammer_link": "https://iinacho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Quack!",
+				"title_link": "https://iinacho.itch.io/quack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672200",
+				"by_list": [
+					"inacho_",
+					"Ornelas"
+				],
+				"by_link_list": [
+					"https://iinacho.itch.io/",
+					"https://ornelas.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 36,
+				"score": 3.34,
+				"ilscore": 70,
+				"submission_time_diff": -1245000
+			}
+		]
+	},
+	{
+		"jammer": "Ornelas",
+		"jammer_link": "https://ornelas.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

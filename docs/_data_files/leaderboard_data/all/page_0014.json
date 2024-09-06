@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Teamon",
-		"jammer_link": "https://teamon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"jam_vs": 28,
-				"title": "Mage arena",
-				"title_link": "https://teamon.itch.io/mage-arena",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/518014",
-				"by_list": [
-					"Teamon"
-				],
-				"by_link_list": [
-					"https://teamon.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 2,
-				"score": 0.53,
-				"ilscore": 5,
-				"submission_time_diff": -32629000
-			}
-		]
-	},
-	{
 		"jammer": "Didolino",
 		"jammer_link": "https://didolino.itch.io/",
 		"game_list_sorted": [
@@ -1003,7 +976,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Fog and Sea (jam version)",
 				"title_link": "https://unseconds.itch.io/fog-and-sea-jam-version",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063154",
@@ -2372,7 +2345,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "APOLLO",
 				"title_link": "https://daz.itch.io/apollo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
@@ -2445,7 +2418,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "APOLLO",
 				"title_link": "https://daz.itch.io/apollo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618115",
@@ -2819,7 +2792,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 138,
+				"jam_vs": 137,
 				"title": "Lucid Hunt",
 				"title_link": "https://chaosren.itch.io/lucid-hunt",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511441",
@@ -3704,7 +3677,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
+				"jam_vs": 83,
 				"title": "Power Pumpkin Defense",
 				"title_link": "https://s1aps.itch.io/power-pumpkin-defense",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203877",
@@ -3719,7 +3692,7 @@
 				"rank": 43,
 				"ratings": 9,
 				"score": 2.861,
-				"ilscore": 53,
+				"ilscore": 52,
 				"submission_time_diff": -199000
 			},
 			{
@@ -4030,6 +4003,33 @@
 				"score": 3.636,
 				"ilscore": 70,
 				"submission_time_diff": -20070000
+			}
+		]
+	},
+	{
+		"jammer": "Crixus",
+		"jammer_link": "https://crixusjam.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"jam_vs": 42,
+				"title": "Line Up",
+				"title_link": "https://crixusjam.itch.io/line-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556258",
+				"by_list": [
+					"Crixus"
+				],
+				"by_link_list": [
+					"https://crixusjam.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 6,
+				"score": 3.6,
+				"ilscore": 48,
+				"submission_time_diff": -51208000
 			}
 		]
 	}

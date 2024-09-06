@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "Maslostvarohem",
-		"jammer_link": "https://maslostvarohem.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 100,
-				"title": "CakeCrane",
-				"title_link": "https://slimyoctopussy.itch.io/cakecrane",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808086",
-				"by_list": [
-					"SlimyOctopussy",
-					"Maslostvarohem",
-					"the body"
-				],
-				"by_link_list": [
-					"https://slimyoctopussy.itch.io/",
-					"https://maslostvarohem.itch.io/",
-					"https://the-body.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 11,
-				"score": 3.955,
-				"ilscore": 79,
-				"submission_time_diff": -16515000
-			}
-		]
-	},
-	{
 		"jammer": "the body",
 		"jammer_link": "https://the-body.itch.io/",
 		"game_list_sorted": [
@@ -386,7 +355,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Cata-Catapult",
 				"title_link": "https://noah-the-robinson.itch.io/cata-catapult",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043694",
@@ -399,7 +368,7 @@
 				"rank": 7,
 				"ratings": 40,
 				"score": 4.131,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -50388000
 			},
 			{
@@ -1133,7 +1102,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "SigNul",
 				"title_link": "https://tomputergames.itch.io/signul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1912667",
@@ -1850,7 +1819,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Nekodatchi",
 				"title_link": "https://lindryn.itch.io/nekodatchi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044314",
@@ -4101,7 +4070,7 @@
 				"jam_id": 92,
 				"jam_name": "Death",
 				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 112,
+				"jam_vs": 111,
 				"title": "Love to death",
 				"title_link": "https://ernani.itch.io/lovetodeath",
 				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258773",
@@ -4231,6 +4200,54 @@
 				"score": 3.875,
 				"ilscore": 61,
 				"submission_time_diff": -26014000
+			}
+		]
+	},
+	{
+		"jammer": "Maui",
+		"jammer_link": "https://maui-101.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"jam_vs": 50,
+				"title": "Droid Battle",
+				"title_link": "https://maui-101.itch.io/droid-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851947",
+				"by_list": [
+					"Maui"
+				],
+				"by_link_list": [
+					"https://maui-101.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 3.528,
+				"ilscore": 51,
+				"submission_time_diff": -520000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 67,
+				"jam_name": "Void",
+				"jam_link": "https://itch.io/jam/mini-jam-67-void",
+				"jam_vs": 59,
+				"title": "Safe Course 2020",
+				"title_link": "https://maui-101.itch.io/safe-course-old",
+				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823120",
+				"by_list": [
+					"Maui"
+				],
+				"by_link_list": [
+					"https://maui-101.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.827,
+				"ilscore": 60,
+				"submission_time_diff": -2644000
 			}
 		]
 	}

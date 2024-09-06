@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Eric Tran",
-		"jammer_link": "https://eric-tran.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "GTHOI (Get the hell out of my island)",
-				"title_link": "https://eric-tran.itch.io/gthoi-get-the-hell-out-of-my-island",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592388",
-				"by_list": [
-					"Eric Tran"
-				],
-				"by_link_list": [
-					"https://eric-tran.itch.io/"
-				],
-				"rank": 130,
-				"ratings": 2,
-				"score": 1.133,
-				"ilscore": 25,
-				"submission_time_diff": -34630000
-			}
-		]
-	},
-	{
 		"jammer": "Animita",
 		"jammer_link": "https://animita.itch.io/",
 		"game_list_sorted": [
@@ -904,7 +877,7 @@
 				"jam_id": 80,
 				"jam_name": "Cats",
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "2gether Tetris",
 				"title_link": "https://rumis.itch.io/2gether-tetris",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1045059",
@@ -1579,7 +1552,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Rising Calamity 6",
 				"title_link": "https://yayousword.itch.io/rising-calamity-6",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062852",
@@ -3739,7 +3712,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Demon Attack",
 				"title_link": "https://rodrigo151515151515151.itch.io/demon-attack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063216",
@@ -4538,6 +4511,33 @@
 				"score": 3.378,
 				"ilscore": 52,
 				"submission_time_diff": -23100000
+			}
+		]
+	},
+	{
+		"jammer": "Acropolise",
+		"jammer_link": "https://acropolis.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Roasis",
+				"title_link": "https://acropolis.itch.io/roasis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632944",
+				"by_list": [
+					"Acropolise"
+				],
+				"by_link_list": [
+					"https://acropolis.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 21,
+				"score": 3.324,
+				"ilscore": 51,
+				"submission_time_diff": -26620000
 			}
 		]
 	}

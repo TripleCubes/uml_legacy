@@ -1,5 +1,153 @@
 [
 	{
+		"jammer": "Robin Deriaud",
+		"jammer_link": "https://robinderiaud.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 105,
+				"title": "Boss of the Month",
+				"title_link": "https://phoque.itch.io/boss-of-the-month",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672762",
+				"by_list": [
+					"Phoque",
+					"Robin Deriaud",
+					"Mudd"
+				],
+				"by_link_list": [
+					"https://phoque.itch.io/",
+					"https://robinderiaud.itch.io/",
+					"https://muddddd.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 17,
+				"score": 3.853,
+				"ilscore": 79,
+				"submission_time_diff": -398000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"jam_vs": 37,
+				"title": "Temp City",
+				"title_link": "https://robinderiaud.itch.io/tempcity",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1707141",
+				"by_list": [
+					"Robin Deriaud"
+				],
+				"by_link_list": [
+					"https://robinderiaud.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.182,
+				"ilscore": 39,
+				"submission_time_diff": -277000
+			}
+		]
+	},
+	{
+		"jammer": "KringlePrinkles",
+		"jammer_link": "https://kringleprinkles.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 18,
+				"jam_name": "Dreams",
+				"jam_link": "https://itch.io/jam/mini-jam-18-dreams",
+				"jam_vs": 29,
+				"title": "Dream Game... Thing...",
+				"title_link": "https://kringleprinkles.itch.io/dream-game-thing-huh",
+				"submission_page_link": "https://itch.io/jam/mini-jam-18-dreams/rate/351669",
+				"by_list": [
+					"KringlePrinkles"
+				],
+				"by_link_list": [
+					"https://kringleprinkles.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 8,
+				"score": 3.499,
+				"ilscore": 38,
+				"submission_time_diff": 153645000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 20,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-20-music",
+				"jam_vs": 23,
+				"title": "Flute of the OohWu (small freeroam)",
+				"title_link": "https://kringleprinkles.itch.io/flute-of-the-oohwu",
+				"submission_page_link": "https://itch.io/jam/mini-jam-20-music/rate/362542",
+				"by_list": [
+					"KringlePrinkles"
+				],
+				"by_link_list": [
+					"https://kringleprinkles.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 6,
+				"score": 2.358,
+				"ilscore": 22,
+				"submission_time_diff": 2427000
+			}
+		]
+	},
+	{
+		"jammer": "kpaftpablo",
+		"jammer_link": "https://kpaftpablo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"jam_vs": 24,
+				"title": "Hanabi-tou",
+				"title_link": "https://kpaftpablo.itch.io/hanabi-tou",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418332",
+				"by_list": [
+					"kpaftpablo"
+				],
+				"by_link_list": [
+					"https://kpaftpablo.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 3,
+				"score": 2.313,
+				"ilscore": 22,
+				"submission_time_diff": -18943000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 34,
+				"jam_name": "Balance",
+				"jam_link": "https://itch.io/jam/mini-jam-34-balance",
+				"jam_vs": 26,
+				"title": "BalanSphere",
+				"title_link": "https://kpaftpablo.itch.io/balansphere",
+				"submission_page_link": "https://itch.io/jam/mini-jam-34-balance/rate/467509",
+				"by_list": [
+					"kpaftpablo"
+				],
+				"by_link_list": [
+					"https://kpaftpablo.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 9,
+				"score": 2.789,
+				"ilscore": 28,
+				"submission_time_diff": -10934000
+			}
+		]
+	},
+	{
 		"jammer": "JazDaRedbone",
 		"jammer_link": "https://jazdaredbone.itch.io/",
 		"game_list_sorted": [
@@ -460,7 +608,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Lost Signal",
 				"title_link": "https://therealwlad.itch.io/lost-signal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1908529",
@@ -631,7 +779,7 @@
 				"jam_id": 165,
 				"jam_name": "Paint",
 				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
-				"jam_vs": 46,
+				"jam_vs": 45,
 				"title": "unnamed",
 				"title_link": "https://fe26.itch.io/unnamed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2907294",
@@ -1023,7 +1171,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Metronome",
 				"title_link": "https://xenvex.itch.io/metronome",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913496",
@@ -1036,7 +1184,7 @@
 				"rank": 19,
 				"ratings": 13,
 				"score": 3.538,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -192000
 			}
 		]
@@ -1219,7 +1367,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "Solar Survival",
 				"title_link": "https://pixlated.itch.io/solar-survivors",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2615206",
@@ -1232,7 +1380,7 @@
 				"rank": 18,
 				"ratings": 15,
 				"score": 3.433,
-				"ilscore": 72,
+				"ilscore": 71,
 				"submission_time_diff": -117905000
 			}
 		]
@@ -1638,7 +1786,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 111,
+				"jam_vs": 110,
 				"title": "Ride The Waves",
 				"title_link": "https://xaoka.itch.io/ride-the-waves",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2613572",
@@ -1686,7 +1834,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Mushroom Melody",
 				"title_link": "https://team-sunforge.itch.io/mushroom-melody",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913200",
@@ -1803,7 +1951,7 @@
 				"jam_id": 81,
 				"jam_name": "Kaiju",
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "Hexing Steps. Featuring Atragon.",
 				"title_link": "https://naturestudioz.itch.io/hexing-steps",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063204",
@@ -2489,7 +2637,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 138,
+				"jam_vs": 137,
 				"title": "New Game Plus",
 				"title_link": "https://1byteuniverse.itch.io/new-game-plus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1512031",
@@ -2516,7 +2664,7 @@
 				"jam_id": 1,
 				"jam_name": "Major Jam: Isolation",
 				"jam_link": "https://itch.io/jam/major-jam-isolation",
-				"jam_vs": 103,
+				"jam_vs": 102,
 				"title": "ANIMA",
 				"title_link": "https://chiyeon.itch.io/anima",
 				"submission_page_link": "https://itch.io/jam/major-jam-isolation/rate/601525",
@@ -3258,7 +3406,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Muscle &amp; Tweet",
 				"title_link": "https://dodoot.itch.io/muscleandtweet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906456",
@@ -3289,7 +3437,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 77,
+				"jam_vs": 76,
 				"title": "Muscle &amp; Tweet",
 				"title_link": "https://dodoot.itch.io/muscleandtweet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906456",
@@ -3320,7 +3468,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 84,
+				"jam_vs": 83,
 				"title": "Fruithillity",
 				"title_link": "https://atoastedcrumpet.itch.io/fruithillity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203562",
@@ -3436,7 +3584,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 75,
+				"jam_vs": 74,
 				"title": "DemoDemo",
 				"title_link": "https://mudziok.itch.io/demodemo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878091",
@@ -3451,7 +3599,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.306,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -22426000
 			}
 		]
@@ -3693,105 +3841,6 @@
 	{
 		"jammer": "MarblesFr",
 		"jammer_link": "https://marblesfr.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Chugga' Chugga' Chop Chop",
-				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
-				"by_list": [
-					"MarblesFr",
-					"raph",
-					"Fylipp",
-					"danielgangl"
-				],
-				"by_link_list": [
-					"https://marblesfr.itch.io/",
-					"https://raph7.itch.io/",
-					"https://fylipp.itch.io/",
-					"https://danielgangl.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 4.275,
-				"ilscore": 77,
-				"submission_time_diff": 43894000
-			}
-		]
-	},
-	{
-		"jammer": "raph",
-		"jammer_link": "https://raph7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Chugga' Chugga' Chop Chop",
-				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
-				"by_list": [
-					"MarblesFr",
-					"raph",
-					"Fylipp",
-					"danielgangl"
-				],
-				"by_link_list": [
-					"https://marblesfr.itch.io/",
-					"https://raph7.itch.io/",
-					"https://fylipp.itch.io/",
-					"https://danielgangl.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 4.275,
-				"ilscore": 77,
-				"submission_time_diff": 43894000
-			}
-		]
-	},
-	{
-		"jammer": "Fylipp",
-		"jammer_link": "https://fylipp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
-				"title": "Chugga' Chugga' Chop Chop",
-				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
-				"by_list": [
-					"MarblesFr",
-					"raph",
-					"Fylipp",
-					"danielgangl"
-				],
-				"by_link_list": [
-					"https://marblesfr.itch.io/",
-					"https://raph7.itch.io/",
-					"https://fylipp.itch.io/",
-					"https://danielgangl.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 4.275,
-				"ilscore": 77,
-				"submission_time_diff": 43894000
-			}
-		]
-	},
-	{
-		"jammer": "danielgangl",
-		"jammer_link": "https://danielgangl.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
