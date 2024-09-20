@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Gnowin",
-		"jammer_link": "https://gnowin.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"jam_vs": 59,
-				"title": "Space Navigation",
-				"title_link": "https://gnowin.itch.io/space-navigation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/820838",
-				"by_list": [
-					"Gnowin"
-				],
-				"by_link_list": [
-					"https://gnowin.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 16,
-				"score": 3.813,
-				"ilscore": 60,
-				"submission_time_diff": -122209000
-			}
-		]
-	},
-	{
 		"jammer": "Radium Polonium",
 		"jammer_link": "https://radium-polonium.itch.io/",
 		"game_list_sorted": [
@@ -2207,7 +2180,7 @@
 		]
 	},
 	{
-		"jammer": "Jonty Guite",
+		"jammer": "awd3n",
 		"jammer_link": "https://jonty-guite.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2220,7 +2193,7 @@
 				"title_link": "https://jonty-guite.itch.io/not-for-lack-of-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984277",
 				"by_list": [
-					"Jonty Guite"
+					"awd3n"
 				],
 				"by_link_list": [
 					"https://jonty-guite.itch.io/"
@@ -2241,7 +2214,7 @@
 				"title_link": "https://jonty-guite.itch.io/insomnia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823159",
 				"by_list": [
-					"Jonty Guite"
+					"awd3n"
 				],
 				"by_link_list": [
 					"https://jonty-guite.itch.io/"
@@ -5010,6 +4983,56 @@
 				"score": 3.118,
 				"ilscore": 83,
 				"submission_time_diff": 172286000
+			}
+		]
+	},
+	{
+		"jammer": "D4ngus1",
+		"jammer_link": "https://d4ngus1.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 69,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
+				"jam_vs": 98,
+				"title": "The Devils Treasure",
+				"title_link": "https://d4ngus1.itch.io/the-devils-treasure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854866",
+				"by_list": [
+					"D4ngus1"
+				],
+				"by_link_list": [
+					"https://d4ngus1.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 9,
+				"score": 3.944,
+				"ilscore": 78,
+				"submission_time_diff": -50000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 72,
+				"jam_name": "Adventure",
+				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
+				"jam_vs": 73,
+				"title": "L14M4 Red Alert",
+				"title_link": "https://d4ngus1.itch.io/l14m4-red-alert",
+				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894105",
+				"by_list": [
+					"D4ngus1",
+					"Kristina Cutajar"
+				],
+				"by_link_list": [
+					"https://d4ngus1.itch.io/",
+					"https://krizzy-arts.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 10,
+				"score": 3.5,
+				"ilscore": 61,
+				"submission_time_diff": -957000
 			}
 		]
 	}

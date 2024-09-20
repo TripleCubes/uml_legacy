@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "BlitzAudio",
-		"jammer_link": "https://blitzaudio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "PingüinOrbe",
-				"title_link": "https://enroqu3.itch.io/pinguinorbe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169522",
-				"by_list": [
-					"Enroqu3 Games",
-					"ESCAQUEST GAMES",
-					"BlitzAudio"
-				],
-				"by_link_list": [
-					"https://enroqu3.itch.io/",
-					"https://escaquest.itch.io/",
-					"https://blitzaudio.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 20,
-				"score": 3.087,
-				"ilscore": 63,
-				"submission_time_diff": -5805000
-			}
-		]
-	},
-	{
-		"jammer": "Shmiddty",
-		"jammer_link": "https://shmiddty.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "Break",
-				"title_link": "https://shmiddty.itch.io/break",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169259",
-				"by_list": [
-					"Shmiddty"
-				],
-				"by_link_list": [
-					"https://shmiddty.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 21,
-				"score": 3.071,
-				"ilscore": 62,
-				"submission_time_diff": -21284000
-			}
-		]
-	},
-	{
 		"jammer": "aweczet",
 		"jammer_link": "https://aweczet.itch.io/",
 		"game_list_sorted": [
@@ -382,7 +324,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "A Letter from Canto",
 				"title_link": "https://smallbuggames.itch.io/a-letter-from-canto",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449957",
@@ -399,7 +341,7 @@
 				"rank": 30,
 				"ratings": 4,
 				"score": 2.101,
-				"ilscore": 29,
+				"ilscore": 30,
 				"submission_time_diff": 857000
 			},
 			{
@@ -3324,6 +3266,108 @@
 				"score": 3.2,
 				"ilscore": 67,
 				"submission_time_diff": -471000
+			}
+		]
+	},
+	{
+		"jammer": "Fahimul Bari's Studio",
+		"jammer_link": "https://fahimulbarisstudio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Taps",
+				"title_link": "https://fahimulbarisstudio.itch.io/taps",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188227",
+				"by_list": [
+					"Fahimul Bari's Studio"
+				],
+				"by_link_list": [
+					"https://fahimulbarisstudio.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 6,
+				"score": 3.125,
+				"ilscore": 66,
+				"submission_time_diff": -777000
+			}
+		]
+	},
+	{
+		"jammer": "Candypaint",
+		"jammer_link": "https://candypaint.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "MeltDown",
+				"title_link": "https://airfutureguy1.itch.io/meltdown",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259111",
+				"by_list": [
+					"airfutureguy1",
+					"Candypaint"
+				],
+				"by_link_list": [
+					"https://airfutureguy1.itch.io/",
+					"https://candypaint.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 13,
+				"score": 3.519,
+				"ilscore": 73,
+				"submission_time_diff": -14691000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Underwater Floating Object",
+				"title_link": "https://airfutureguy1.itch.io/underwater-floating-object",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239223",
+				"by_list": [
+					"airfutureguy1",
+					"Candypaint"
+				],
+				"by_link_list": [
+					"https://airfutureguy1.itch.io/",
+					"https://candypaint.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 23,
+				"score": 3.533,
+				"ilscore": 78,
+				"submission_time_diff": -31358000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 114,
+				"title": "Blind Travels",
+				"title_link": "https://candypaint.itch.io/blind-travels",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188282",
+				"by_list": [
+					"Candypaint",
+					"airfutureguy1"
+				],
+				"by_link_list": [
+					"https://candypaint.itch.io/",
+					"https://airfutureguy1.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 14,
+				"score": 3.107,
+				"ilscore": 65,
+				"submission_time_diff": -212000
 			}
 		]
 	}

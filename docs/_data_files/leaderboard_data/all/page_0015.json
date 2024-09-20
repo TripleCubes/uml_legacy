@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Grupo7",
-		"jammer_link": "https://grupo7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 46,
-				"jam_name": "Justice",
-				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
-				"jam_vs": 42,
-				"title": "Hell's Trial",
-				"title_link": "https://grupo7.itch.io/hells-trial",
-				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556696",
-				"by_list": [
-					"Grupo7"
-				],
-				"by_link_list": [
-					"https://grupo7.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 9,
-				"score": 3.578,
-				"ilscore": 47,
-				"submission_time_diff": -148000
-			}
-		]
-	},
-	{
 		"jammer": "Larsspawn",
 		"jammer_link": "https://larsspawn.itch.io/",
 		"game_list_sorted": [
@@ -1887,7 +1860,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Performance Review",
 				"title_link": "https://boffingames.itch.io/performance-review",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511670",
@@ -2943,7 +2916,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 123,
+				"jam_vs": 122,
 				"title": "Mushroom Boy Destroys the Void: Speedrun Any%",
 				"title_link": "https://joe-shanahan.itch.io/mushroom-boy-destroys-the-void",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763713",
@@ -2997,7 +2970,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Sharko",
 				"title_link": "https://abhishek-deshmukh.itch.io/sharko",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491333",
@@ -3045,7 +3018,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubble Shooter",
 				"title_link": "https://steven-the-gamer.itch.io/bubble-shooter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120570",
@@ -4093,6 +4066,41 @@
 				"score": 2.467,
 				"ilscore": 54,
 				"submission_time_diff": -12464000
+			}
+		]
+	},
+	{
+		"jammer": "Titwin",
+		"jammer_link": "https://titwin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Captain Wilson",
+				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
+				"by_list": [
+					"Joan Sol ROO",
+					"Titwin",
+					"Saltadrow",
+					"clerg0",
+					"NormandErwan"
+				],
+				"by_link_list": [
+					"https://solroo.itch.io/",
+					"https://titwin.itch.io/",
+					"https://saltadrow.itch.io/",
+					"https://clerg0.itch.io/",
+					"https://normanderwan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.229,
+				"ilscore": 94,
+				"submission_time_diff": -30822000
 			}
 		]
 	}

@@ -1,103 +1,5 @@
 [
 	{
-		"jammer": "defuncted",
-		"jammer_link": "https://defuncted.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 95,
-				"jam_name": "Chance",
-				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 65,
-				"title": "PIJUMP",
-				"title_link": "https://defuncted.itch.io/pijump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316149",
-				"by_list": [
-					"defuncted"
-				],
-				"by_link_list": [
-					"https://defuncted.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 11,
-				"score": 3.568,
-				"ilscore": 59,
-				"submission_time_diff": 4952000
-			}
-		]
-	},
-	{
-		"jammer": "Mr.Nr.15",
-		"jammer_link": "https://mrnr15.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Balance Wars",
-				"title_link": "https://mrnr15.itch.io/balance-wars",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408983",
-				"by_list": [
-					"Mr.Nr.15"
-				],
-				"by_link_list": [
-					"https://mrnr15.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 17,
-				"score": 4.044,
-				"ilscore": 99,
-				"submission_time_diff": -28313000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 95,
-				"jam_name": "Chance",
-				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 65,
-				"title": "Last Wish",
-				"title_link": "https://mrnr15.itch.io/last-wish",
-				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1315446",
-				"by_list": [
-					"Mr.Nr.15"
-				],
-				"by_link_list": [
-					"https://mrnr15.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 12,
-				"score": 3.458,
-				"ilscore": 57,
-				"submission_time_diff": -31557000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
-				"title": "Crab Stuffer",
-				"title_link": "https://mrnr15.itch.io/crab",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733393",
-				"by_list": [
-					"Mr.Nr.15",
-					"yuriko0yoruk"
-				],
-				"by_link_list": [
-					"https://mrnr15.itch.io/",
-					"https://yuriko0yoruk.itch.io/"
-				],
-				"rank": 37,
-				"ratings": 7,
-				"score": 3.464,
-				"ilscore": 76,
-				"submission_time_diff": -12803000
-			}
-		]
-	},
-	{
 		"jammer": "Buff Pixel Studio",
 		"jammer_link": "https://buff-pixel-studio.itch.io/",
 		"game_list_sorted": [
@@ -861,7 +763,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Mind 11",
 				"title_link": "https://cemkaanu.itch.io/mind-11",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511566",
@@ -1595,7 +1497,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "Kettlegirl's Escape",
 				"title_link": "https://gingaabread.itch.io/kettlegirls-escape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448975",
@@ -2865,7 +2767,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Shopping-Flash",
 				"title_link": "https://oppodelldog.itch.io/shopping-flash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2704726",
@@ -2878,7 +2780,7 @@
 				"rank": 29,
 				"ratings": 7,
 				"score": 2.607,
-				"ilscore": 39,
+				"ilscore": 38,
 				"submission_time_diff": -18175000
 			},
 			{
@@ -3396,7 +3298,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 157,
 				"title": "Runeshot",
 				"title_link": "https://ilynn.itch.io/runeshot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459617",
@@ -3673,6 +3575,272 @@
 				"score": 3.489,
 				"ilscore": 71,
 				"submission_time_diff": -3087000
+			}
+		]
+	},
+	{
+		"jammer": "Saran Krishnaraja",
+		"jammer_link": "https://saran-krishnaraja.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 106,
+				"title": "Watch Yo Health",
+				"title_link": "https://saran-krishnaraja.itch.io/watch-yo-health",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347317",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 9,
+				"score": 3.446,
+				"ilscore": 70,
+				"submission_time_diff": -35998000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Mirror Dimension",
+				"title_link": "https://saran-krishnaraja.itch.io/mirror-dimension",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832255",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 16,
+				"score": 3.359,
+				"ilscore": 72,
+				"submission_time_diff": -8517000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"jam_vs": 48,
+				"title": "The Binding of Steam",
+				"title_link": "https://saran-krishnaraja.itch.io/the-binding-of-steam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1454197",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 4,
+				"score": 1.672,
+				"ilscore": 23,
+				"submission_time_diff": 294173000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "9 to 5",
+				"title_link": "https://saran-krishnaraja.itch.io/9-to-5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1365281",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 17,
+				"score": 3.191,
+				"ilscore": 68,
+				"submission_time_diff": -39571000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Imp Catcher",
+				"title_link": "https://saran-krishnaraja.itch.io/imp-catcher",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810989",
+				"by_list": [
+					"Saran Krishnaraja",
+					"JustinCollier3D"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/",
+					"https://justincollier.itch.io/"
+				],
+				"rank": 44,
+				"ratings": 7,
+				"score": 2.272,
+				"ilscore": 34,
+				"submission_time_diff": -1063000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Cascade Falls",
+				"title_link": "https://saran-krishnaraja.itch.io/cascade-falls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1492682",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 8,
+				"score": 2.593,
+				"ilscore": 52,
+				"submission_time_diff": 172164000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Will to Live",
+				"title_link": "https://saran-krishnaraja.itch.io/will-to-live",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1470319",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 111,
+				"ratings": 10,
+				"score": 2.4,
+				"ilscore": 56,
+				"submission_time_diff": 610000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "You will die",
+				"title_link": "https://saran-krishnaraja.itch.io/you-will-die",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1413246",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 7,
+				"score": 2.739,
+				"ilscore": 67,
+				"submission_time_diff": 157051000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 136,
+				"title": "Dreamy Runner",
+				"title_link": "https://saran-krishnaraja.itch.io/dreamy-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1516976",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 124,
+				"ratings": 6,
+				"score": 2.211,
+				"ilscore": 50,
+				"submission_time_diff": 302684000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Limited Avatar",
+				"title_link": "https://saran-krishnaraja.itch.io/limited-avatar",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1434420",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 125,
+				"ratings": 5,
+				"score": 1.677,
+				"ilscore": 38,
+				"submission_time_diff": 204240000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Bird Poop",
+				"title_link": "https://saran-krishnaraja.itch.io/bird-poop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389077",
+				"by_list": [
+					"Saran Krishnaraja"
+				],
+				"by_link_list": [
+					"https://saran-krishnaraja.itch.io/"
+				],
+				"rank": 161,
+				"ratings": 7,
+				"score": 2.614,
+				"ilscore": 75,
+				"submission_time_diff": -7339000
+			}
+		]
+	},
+	{
+		"jammer": "Attahh",
+		"jammer_link": "https://attahh.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 106,
+				"title": "That time of the Month",
+				"title_link": "https://attahh.itch.io/that-time-of-the-month-mj97",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347575",
+				"by_list": [
+					"Attahh"
+				],
+				"by_link_list": [
+					"https://attahh.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 17,
+				"score": 3.441,
+				"ilscore": 70,
+				"submission_time_diff": -1084000
 			}
 		]
 	}

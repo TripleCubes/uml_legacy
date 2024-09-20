@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Stu",
-		"jammer_link": "https://hustyota.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 27,
-				"jam_name": "Celebration",
-				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
-				"jam_vs": 24,
-				"title": "Mafiaoso",
-				"title_link": "https://hustyota.itch.io/mafiaoso",
-				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418140",
-				"by_list": [
-					"Stu"
-				],
-				"by_link_list": [
-					"https://hustyota.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 2,
-				"score": 1.667,
-				"ilscore": 16,
-				"submission_time_diff": -41757000
-			}
-		]
-	},
-	{
 		"jammer": "Final Render Animation Studio",
 		"jammer_link": "https://cleowillo.itch.io/",
 		"game_list_sorted": [
@@ -3174,7 +3147,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bobble Construccioni",
 				"title_link": "https://ecstatic-games.itch.io/bobble-construccioni",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121651",
@@ -3274,7 +3247,7 @@
 		]
 	},
 	{
-		"jammer": "edw19",
+		"jammer": "Partially",
 		"jammer_link": "https://edw19.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3287,7 +3260,7 @@
 				"title_link": "https://edw19.itch.io/fight-scrub",
 				"submission_page_link": "https://itch.io/jam/mini-jam-31-movies/rate/444891",
 				"by_list": [
-					"edw19"
+					"Partially"
 				],
 				"by_link_list": [
 					"https://edw19.itch.io/"
@@ -3370,12 +3343,12 @@
 				"by_list": [
 					"amasuri",
 					"YoukaiDrawing",
-					"sat9"
+					"rev.sat9"
 				],
 				"by_link_list": [
 					"https://amasuri.itch.io/",
 					"https://youkaidrawing.itch.io/",
-					"https://sat9.itch.io/"
+					"https://revsat9.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 9,
@@ -3426,12 +3399,12 @@
 				"by_list": [
 					"amasuri",
 					"YoukaiDrawing",
-					"sat9"
+					"rev.sat9"
 				],
 				"by_link_list": [
 					"https://amasuri.itch.io/",
 					"https://youkaidrawing.itch.io/",
-					"https://sat9.itch.io/"
+					"https://revsat9.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 9,
@@ -3467,8 +3440,8 @@
 		]
 	},
 	{
-		"jammer": "sat9",
-		"jammer_link": "https://sat9.itch.io/",
+		"jammer": "rev.sat9",
+		"jammer_link": "https://revsat9.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3482,12 +3455,12 @@
 				"by_list": [
 					"amasuri",
 					"YoukaiDrawing",
-					"sat9"
+					"rev.sat9"
 				],
 				"by_link_list": [
 					"https://amasuri.itch.io/",
 					"https://youkaidrawing.itch.io/",
-					"https://sat9.itch.io/"
+					"https://revsat9.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 9,
@@ -3804,7 +3777,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Heart Hunter x Ice",
 				"title_link": "https://x17boy.itch.io/heart-hunter-x-ice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2361840",
@@ -4005,6 +3978,33 @@
 				"score": 2.041,
 				"ilscore": 36,
 				"submission_time_diff": -6406000
+			}
+		]
+	},
+	{
+		"jammer": "Jorres",
+		"jammer_link": "https://jorres.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"jam_vs": 36,
+				"title": "Explode With Me",
+				"title_link": "https://jorres.itch.io/explode-with-me",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450454",
+				"by_list": [
+					"Jorres"
+				],
+				"by_link_list": [
+					"https://jorres.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 12,
+				"score": 2.333,
+				"ilscore": 28,
+				"submission_time_diff": -34818000
 			}
 		]
 	}

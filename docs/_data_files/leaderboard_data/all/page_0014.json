@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Didolino",
-		"jammer_link": "https://didolino.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 42,
-				"jam_name": "Snow",
-				"jam_link": "https://itch.io/jam/mini-jam-42-snow",
-				"jam_vs": 28,
-				"title": "Snowmancer",
-				"title_link": "https://didolino.itch.io/snowmancer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-42-snow/rate/525679",
-				"by_list": [
-					"Didolino"
-				],
-				"by_link_list": [
-					"https://didolino.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 8,
-				"score": 4.25,
-				"ilscore": 45,
-				"submission_time_diff": -41860000
-			}
-		]
-	},
-	{
 		"jammer": "MountainsideGames",
 		"jammer_link": "https://mountainsidegames.itch.io/",
 		"game_list_sorted": [
@@ -2792,7 +2765,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Lucid Hunt",
 				"title_link": "https://chaosren.itch.io/lucid-hunt",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511441",
@@ -3000,7 +2973,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Wave Breaker",
 				"title_link": "https://aloehart.itch.io/wave-breaker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490342",
@@ -4030,6 +4003,33 @@
 				"score": 3.6,
 				"ilscore": 48,
 				"submission_time_diff": -51208000
+			}
+		]
+	},
+	{
+		"jammer": "Grupo7",
+		"jammer_link": "https://grupo7.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"jam_vs": 42,
+				"title": "Hell's Trial",
+				"title_link": "https://grupo7.itch.io/hells-trial",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556696",
+				"by_list": [
+					"Grupo7"
+				],
+				"by_link_list": [
+					"https://grupo7.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 9,
+				"score": 3.578,
+				"ilscore": 47,
+				"submission_time_diff": -148000
 			}
 		]
 	}

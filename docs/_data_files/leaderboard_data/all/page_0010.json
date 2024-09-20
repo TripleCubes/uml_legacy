@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "NightEmber",
-		"jammer_link": "https://nightember.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 24,
-				"jam_name": "Space",
-				"jam_link": "https://itch.io/jam/mini-jam-24-space",
-				"jam_vs": 56,
-				"title": "SpaceTripp",
-				"title_link": "https://nightember.itch.io/spacetripp",
-				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395838",
-				"by_list": [
-					"NightEmber"
-				],
-				"by_link_list": [
-					"https://nightember.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 9,
-				"score": 3.944,
-				"ilscore": 60,
-				"submission_time_diff": -4911000
-			}
-		]
-	},
-	{
 		"jammer": "cnatalo",
 		"jammer_link": "https://cnatalo.itch.io/",
 		"game_list_sorted": [
@@ -1225,7 +1198,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Obbo",
 				"title_link": "https://cy-s.itch.io/obbo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511606",
@@ -1864,7 +1837,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Always on TIME",
 				"title_link": "https://fmlad.itch.io/always-on-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1909021",
@@ -1877,7 +1850,7 @@
 				"rank": 2,
 				"ratings": 24,
 				"score": 4.313,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -11134000
 			},
 			{
@@ -2141,7 +2114,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "DreamLoop",
 				"title_link": "https://fmlad.itch.io/dream-loop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510194",
@@ -2201,6 +2174,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "Cyber Deck",
+				"title_link": "https://fmlad.itch.io/cyberdeck",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2974393",
+				"by_list": [
+					"FmladGames"
+				],
+				"by_link_list": [
+					"https://fmlad.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.847,
+				"ilscore": 63,
+				"submission_time_diff": -12235000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 32,
 				"jam_name": "Explosions",
 				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
@@ -2246,7 +2240,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Pop Hero",
 				"title_link": "https://fmlad.itch.io/pophero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1117885",
@@ -4611,6 +4605,33 @@
 				"score": 2.199,
 				"ilscore": 50,
 				"submission_time_diff": -3303000
+			}
+		]
+	},
+	{
+		"jammer": "Stu",
+		"jammer_link": "https://hustyota.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"jam_vs": 24,
+				"title": "Mafiaoso",
+				"title_link": "https://hustyota.itch.io/mafiaoso",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418140",
+				"by_list": [
+					"Stu"
+				],
+				"by_link_list": [
+					"https://hustyota.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 2,
+				"score": 1.667,
+				"ilscore": 16,
+				"submission_time_diff": -41757000
 			}
 		]
 	}

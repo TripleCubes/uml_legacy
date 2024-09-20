@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "kekbazuca",
-		"jammer_link": "https://kekbazuca.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "Goblimpics",
-				"title_link": "https://kekbazuca.itch.io/goblimpics",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153000",
-				"by_list": [
-					"kekbazuca"
-				],
-				"by_link_list": [
-					"https://kekbazuca.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 9,
-				"score": 3.583,
-				"ilscore": 73,
-				"submission_time_diff": -9258000
-			}
-		]
-	},
-	{
-		"jammer": "apaphy",
-		"jammer_link": "https://apaphy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 86,
-				"jam_name": "Sports",
-				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
-				"title": "a very normal bike race",
-				"title_link": "https://apaphy.itch.io/bike-race",
-				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153247",
-				"by_list": [
-					"apaphy"
-				],
-				"by_link_list": [
-					"https://apaphy.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 12,
-				"score": 3.563,
-				"ilscore": 73,
-				"submission_time_diff": -5926000
-			}
-		]
-	},
-	{
 		"jammer": "Maksym Vostruhin",
 		"jammer_link": "https://vostrugin.itch.io/",
 		"game_list_sorted": [
@@ -484,7 +430,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Find-MeBall",
 				"title_link": "https://3amgames.itch.io/find-meball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935172",
@@ -497,7 +443,7 @@
 				"rank": 51,
 				"ratings": 6,
 				"score": 2.49,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 42550000
 			}
 		]
@@ -1203,7 +1149,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "SteamMarine",
 				"title_link": "https://dodgergramsly.itch.io/steammarine",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491388",
@@ -2652,7 +2598,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Null Breach",
 				"title_link": "https://byxtogo.itch.io/nullbreach",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932366",
@@ -2665,7 +2611,7 @@
 				"rank": 8,
 				"ratings": 16,
 				"score": 3.703,
-				"ilscore": 67,
+				"ilscore": 66,
 				"submission_time_diff": -21965000
 			},
 			{
@@ -2850,7 +2796,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Signal",
 				"title_link": "https://michaelpan.itch.io/signal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1911838",
@@ -2869,7 +2815,7 @@
 				"rank": 39,
 				"ratings": 17,
 				"score": 2.765,
-				"ilscore": 49,
+				"ilscore": 48,
 				"submission_time_diff": -7564000
 			}
 		]
@@ -3527,6 +3473,64 @@
 				"score": 3.087,
 				"ilscore": 63,
 				"submission_time_diff": -5805000
+			}
+		]
+	},
+	{
+		"jammer": "BlitzAudio",
+		"jammer_link": "https://blitzaudio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "PingüinOrbe",
+				"title_link": "https://enroqu3.itch.io/pinguinorbe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169522",
+				"by_list": [
+					"Enroqu3 Games",
+					"ESCAQUEST GAMES",
+					"BlitzAudio"
+				],
+				"by_link_list": [
+					"https://enroqu3.itch.io/",
+					"https://escaquest.itch.io/",
+					"https://blitzaudio.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 20,
+				"score": 3.087,
+				"ilscore": 63,
+				"submission_time_diff": -5805000
+			}
+		]
+	},
+	{
+		"jammer": "Shmiddty",
+		"jammer_link": "https://shmiddty.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 104,
+				"title": "Break",
+				"title_link": "https://shmiddty.itch.io/break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169259",
+				"by_list": [
+					"Shmiddty"
+				],
+				"by_link_list": [
+					"https://shmiddty.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 21,
+				"score": 3.071,
+				"ilscore": 62,
+				"submission_time_diff": -21284000
 			}
 		]
 	}

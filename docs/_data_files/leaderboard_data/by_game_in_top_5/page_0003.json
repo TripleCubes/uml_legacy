@@ -8,7 +8,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -528,6 +528,33 @@
 		]
 	},
 	{
+		"jammer": "ellps",
+		"jammer_link": "https://ellps.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "CYBER TRAIN",
+				"title_link": "https://ellps.itch.io/cyber-train",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975835",
+				"by_list": [
+					"ellps"
+				],
+				"by_link_list": [
+					"https://ellps.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 24,
+				"score": 4.313,
+				"ilscore": 71,
+				"submission_time_diff": -19558000
+			}
+		]
+	},
+	{
 		"jammer": "Honey Basil",
 		"jammer_link": "https://honey-basil.itch.io/",
 		"game_list_sorted": [
@@ -917,7 +944,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Midas Well Face It",
 				"title_link": "https://breakfish.itch.io/midas-well-face-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364937",
@@ -930,7 +957,7 @@
 				"rank": 2,
 				"ratings": 12,
 				"score": 4.25,
-				"ilscore": 81,
+				"ilscore": 80,
 				"submission_time_diff": -7788000
 			}
 		]
@@ -944,7 +971,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 157,
 				"title": "Ancient Misunderstanding",
 				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
@@ -2302,7 +2329,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "NICK OF TIME (jam version)",
 				"title_link": "https://viigames.itch.io/nick-of-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932215",
@@ -2319,7 +2346,7 @@
 				"rank": 2,
 				"ratings": 22,
 				"score": 4.034,
-				"ilscore": 73,
+				"ilscore": 72,
 				"submission_time_diff": -1673000
 			}
 		]
@@ -2360,7 +2387,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Platformia Dreamin'",
 				"title_link": "https://lunicosm.itch.io/platformia-dreamin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511861",
@@ -2847,33 +2874,6 @@
 				"score": 3.917,
 				"ilscore": 35,
 				"submission_time_diff": -443000
-			}
-		]
-	},
-	{
-		"jammer": "mufidhadi",
-		"jammer_link": "https://mufidhadi.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "No way to oasis",
-				"title_link": "https://mufidhadi.itch.io/no-way-to-oasis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633423",
-				"by_list": [
-					"mufidhadi"
-				],
-				"by_link_list": [
-					"https://mufidhadi.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 11,
-				"score": 3.909,
-				"ilscore": 60,
-				"submission_time_diff": -1357000
 			}
 		]
 	}

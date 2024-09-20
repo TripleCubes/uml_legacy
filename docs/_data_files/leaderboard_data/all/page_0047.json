@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Mantequilla",
-		"jammer_link": "https://mantequilla525.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
-				"title": "Pumpkin Plinko (Mini Jam 89)",
-				"title_link": "https://mantequilla525.itch.io/pumpkin-plinko-mini-jam-89",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202700",
-				"by_list": [
-					"Mantequilla"
-				],
-				"by_link_list": [
-					"https://mantequilla525.itch.io/"
-				],
-				"rank": 58,
-				"ratings": 7,
-				"score": 2.268,
-				"ilscore": 41,
-				"submission_time_diff": -61323000
-			}
-		]
-	},
-	{
-		"jammer": "matthewdadoun",
-		"jammer_link": "https://matthewdadoun.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
-				"title": "Jack-O-Bowling",
-				"title_link": "https://matthewdadoun.itch.io/jack-o-bowling",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203847",
-				"by_list": [
-					"matthewdadoun"
-				],
-				"by_link_list": [
-					"https://matthewdadoun.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 3,
-				"score": 2.261,
-				"ilscore": 41,
-				"submission_time_diff": -721000
-			}
-		]
-	},
-	{
 		"jammer": "DaGoblinMan",
 		"jammer_link": "https://admmohamed.itch.io/",
 		"game_list_sorted": [
@@ -110,7 +56,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Frosty Fields",
 				"title_link": "https://onditech.itch.io/frosty-fields",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363366",
@@ -809,7 +755,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "a bad fnaf fangame with random path or something",
 				"title_link": "https://lasermtv.itch.io/abfnfwrpos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510877",
@@ -836,7 +782,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "For a few snowballs more",
 				"title_link": "https://squashyheemo.itch.io/for-a-few-snowballs-more",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2365087",
@@ -863,7 +809,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 123,
+				"jam_vs": 122,
 				"title": "Crops and Chaos",
 				"title_link": "https://squashyheemo.itch.io/crops-and-chaos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763289",
@@ -2151,7 +2097,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Domino Domination",
 				"title_link": "https://manbostudio.itch.io/domino-domination",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490820",
@@ -3583,6 +3529,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "DIVE URGENT",
+				"title_link": "https://smidge7.itch.io/dive-urgent",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2972959",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.766,
+				"ilscore": 78,
+				"submission_time_diff": -2955000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
@@ -4046,6 +4013,70 @@
 				"score": 3.589,
 				"ilscore": 79,
 				"submission_time_diff": -2284000
+			}
+		]
+	},
+	{
+		"jammer": "Jamooz",
+		"jammer_link": "https://jamooz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Hook Line &amp; Saucer 🎣",
+				"title_link": "https://pyrbin.itch.io/hook-line-and-saucer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239459",
+				"by_list": [
+					"pyrbin🎣",
+					"Jamooz",
+					"Doukie",
+					"smultron busken"
+				],
+				"by_link_list": [
+					"https://pyrbin.itch.io/",
+					"https://jamooz.itch.io/",
+					"https://doukie.itch.io/",
+					"https://smultron-busken.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 17,
+				"score": 3.559,
+				"ilscore": 79,
+				"submission_time_diff": -13996000
+			}
+		]
+	},
+	{
+		"jammer": "Penple",
+		"jammer_link": "https://penple.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Extra Terrestrial Fishing",
+				"title_link": "https://penple.itch.io/extra-terrestrial-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1236964",
+				"by_list": [
+					"Penple",
+					"Wea$el",
+					"Klemay"
+				],
+				"by_link_list": [
+					"https://penple.itch.io/",
+					"https://weael.itch.io/",
+					"https://klemay.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 14,
+				"score": 3.554,
+				"ilscore": 78,
+				"submission_time_diff": -3168000
 			}
 		]
 	}

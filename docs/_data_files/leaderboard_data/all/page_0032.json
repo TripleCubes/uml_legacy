@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Frignate",
-		"jammer_link": "https://frignate.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Battery-ouT",
-				"title_link": "https://frignate.itch.io/battery-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912827",
-				"by_list": [
-					"Frignate"
-				],
-				"by_link_list": [
-					"https://frignate.itch.io/"
-				],
-				"rank": 137,
-				"ratings": 5,
-				"score": 2.192,
-				"ilscore": 54,
-				"submission_time_diff": -15216000
-			}
-		]
-	},
-	{
 		"jammer": "somestufz",
 		"jammer_link": "https://somestufz.itch.io/",
 		"game_list_sorted": [
@@ -56,7 +29,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Hope City",
 				"title_link": "https://somestufz.itch.io/hope-city",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510965",
@@ -69,7 +42,7 @@
 				"rank": 53,
 				"ratings": 17,
 				"score": 3.235,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -36187000
 			},
 			{
@@ -2760,7 +2733,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "The Stolen Time Sack",
 				"title_link": "https://nikolaj-gamedev.itch.io/the-stolen-time-sack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934778",
@@ -3388,6 +3361,33 @@
 				"score": 1,
 				"ilscore": 18,
 				"submission_time_diff": -9168000
+			}
+		]
+	},
+	{
+		"jammer": "MintMellowCat",
+		"jammer_link": "https://mintmellowcat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Chaos Shooter",
+				"title_link": "https://mintmellowcat.itch.io/chaos-shooter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930941",
+				"by_list": [
+					"MintMellowCat"
+				],
+				"by_link_list": [
+					"https://mintmellowcat.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 3,
+				"score": 0.97,
+				"ilscore": 17,
+				"submission_time_diff": -4954000
 			}
 		]
 	}

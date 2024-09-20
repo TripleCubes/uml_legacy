@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "Titwin",
-		"jammer_link": "https://titwin.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Captain Wilson",
-				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
-				"by_list": [
-					"Joan Sol ROO",
-					"Titwin",
-					"Saltadrow",
-					"clerg0",
-					"NormandErwan"
-				],
-				"by_link_list": [
-					"https://solroo.itch.io/",
-					"https://titwin.itch.io/",
-					"https://saltadrow.itch.io/",
-					"https://clerg0.itch.io/",
-					"https://normanderwan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.229,
-				"ilscore": 94,
-				"submission_time_diff": -30822000
-			}
-		]
-	},
-	{
 		"jammer": "NormandErwan",
 		"jammer_link": "https://normanderwan.itch.io/",
 		"game_list_sorted": [
@@ -643,7 +608,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "Hydra Fruit Hunting",
 				"title_link": "https://ilprinni.itch.io/hydra-fruit",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449696",
@@ -3150,7 +3115,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubbles Game",
 				"title_link": "https://matsgalaxy.itch.io/bubbles-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121364",
@@ -3803,6 +3768,33 @@
 				"score": 1.133,
 				"ilscore": 25,
 				"submission_time_diff": -34630000
+			}
+		]
+	},
+	{
+		"jammer": "Animita",
+		"jammer_link": "https://animita.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Placeholder Paradise",
+				"title_link": "https://animita.itch.io/placeholder-paradise",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592776",
+				"by_list": [
+					"Animita"
+				],
+				"by_link_list": [
+					"https://animita.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 2,
+				"score": 1.133,
+				"ilscore": 25,
+				"submission_time_diff": -5713000
 			}
 		]
 	}

@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "Beonlytom",
-		"jammer_link": "https://beonlytom.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "The Gates of Hell Are Now Open",
-				"title_link": "https://beonlytom.itch.io/tgohano",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867742",
-				"by_list": [
-					"Beonlytom"
-				],
-				"by_link_list": [
-					"https://beonlytom.itch.io/"
-				],
-				"rank": 24,
-				"ratings": 19,
-				"score": 3.132,
-				"ilscore": 51,
-				"submission_time_diff": -37600000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 138,
-				"title": "Led Journey",
-				"title_link": "https://beonlytom.itch.io/led",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984409",
-				"by_list": [
-					"Beonlytom"
-				],
-				"by_link_list": [
-					"https://beonlytom.itch.io/"
-				],
-				"rank": 110,
-				"ratings": 6,
-				"score": 1.803,
-				"ilscore": 41,
-				"submission_time_diff": 38460000
-			}
-		]
-	},
-	{
 		"jammer": "Arvis1",
 		"jammer_link": "https://arvis1.itch.io/",
 		"game_list_sorted": [
@@ -1487,7 +1439,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Metronome",
 				"title_link": "https://xenvex.itch.io/metronome",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913496",
@@ -3845,6 +3797,33 @@
 				"score": 1.938,
 				"ilscore": 37,
 				"submission_time_diff": -9797000
+			}
+		]
+	},
+	{
+		"jammer": "Sorry88",
+		"jammer_link": "https://sorry88.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 92,
+				"title": "Just a Puzzle Game",
+				"title_link": "https://sorry88.itch.io/just-a-puzzle-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878682",
+				"by_list": [
+					"Sorry88"
+				],
+				"by_link_list": [
+					"https://sorry88.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 5,
+				"score": 1.937,
+				"ilscore": 37,
+				"submission_time_diff": -141912000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Jorres",
-		"jammer_link": "https://jorres.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 32,
-				"jam_name": "Explosions",
-				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
-				"jam_vs": 36,
-				"title": "Explode With Me",
-				"title_link": "https://jorres.itch.io/explode-with-me",
-				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450454",
-				"by_list": [
-					"Jorres"
-				],
-				"by_link_list": [
-					"https://jorres.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 12,
-				"score": 2.333,
-				"ilscore": 28,
-				"submission_time_diff": -34818000
-			}
-		]
-	},
-	{
 		"jammer": "jellycake222",
 		"jammer_link": "https://jellycake222.itch.io/",
 		"game_list_sorted": [
@@ -4010,6 +3983,33 @@
 				"score": 2.5,
 				"ilscore": 31,
 				"submission_time_diff": 3801000
+			}
+		]
+	},
+	{
+		"jammer": "HelVini",
+		"jammer_link": "https://helvini.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"jam_vs": 37,
+				"title": "SlimeVsPolution",
+				"title_link": "https://helvini.itch.io/slimevspolution",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/481052",
+				"by_list": [
+					"HelVini"
+				],
+				"by_link_list": [
+					"https://helvini.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 3,
+				"score": 2.382,
+				"ilscore": 29,
+				"submission_time_diff": 1701000
 			}
 		]
 	}

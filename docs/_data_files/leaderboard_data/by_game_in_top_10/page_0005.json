@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "kraybit",
+		"jammer_link": "https://kraybit.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 67,
+				"jam_name": "Void",
+				"jam_link": "https://itch.io/jam/mini-jam-67-void",
+				"jam_vs": 59,
+				"title": "Fly Into The Void",
+				"title_link": "https://kraybit.itch.io/fly-into-the-void",
+				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823008",
+				"by_list": [
+					"kraybit"
+				],
+				"by_link_list": [
+					"https://kraybit.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 16,
+				"score": 4.109,
+				"ilscore": 64,
+				"submission_time_diff": -11079000
+			}
+		]
+	},
+	{
 		"jammer": "StackPointer",
 		"jammer_link": "https://stackpointer.itch.io/",
 		"game_list_sorted": [
@@ -367,7 +394,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "NICK OF TIME (jam version)",
 				"title_link": "https://viigames.itch.io/nick-of-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932215",
@@ -384,7 +411,7 @@
 				"rank": 2,
 				"ratings": 22,
 				"score": 4.034,
-				"ilscore": 73,
+				"ilscore": 72,
 				"submission_time_diff": -1673000
 			}
 		]
@@ -1982,6 +2009,33 @@
 		]
 	},
 	{
+		"jammer": "Empty",
+		"jammer_link": "https://emptyprofile.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"jam_vs": 48,
+				"title": "Soul &amp; Corpse",
+				"title_link": "https://emptyprofile.itch.io/soulandcorpse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1447740",
+				"by_list": [
+					"Empty"
+				],
+				"by_link_list": [
+					"https://emptyprofile.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 29,
+				"score": 3.664,
+				"ilscore": 52,
+				"submission_time_diff": -19631000
+			}
+		]
+	},
+	{
 		"jammer": "Bleeding Tapes",
 		"jammer_link": "https://bleeding-tapes.itch.io/",
 		"game_list_sorted": [
@@ -2361,7 +2415,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "NO GREEN",
 				"title_link": "https://ducklingknight.itch.io/no-green",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943338",
@@ -2430,6 +2484,33 @@
 				"score": 4.302,
 				"ilscore": 143,
 				"submission_time_diff": -208000
+			}
+		]
+	},
+	{
+		"jammer": "arshia80",
+		"jammer_link": "https://arshia80.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "The Vault",
+				"title_link": "https://arshia80.itch.io/the-vault",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976405",
+				"by_list": [
+					"arshia80"
+				],
+				"by_link_list": [
+					"https://arshia80.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 15,
+				"score": 4.3,
+				"ilscore": 71,
+				"submission_time_diff": -1702000
 			}
 		]
 	},
@@ -2529,7 +2610,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Rhythm Racer",
 				"title_link": "https://donpasquale.itch.io/rhythm-racer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913110",
@@ -2542,7 +2623,7 @@
 				"rank": 3,
 				"ratings": 14,
 				"score": 4.286,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -5445000
 			}
 		]
@@ -2807,93 +2888,6 @@
 				"score": 4.25,
 				"ilscore": 57,
 				"submission_time_diff": -21682000
-			}
-		]
-	},
-	{
-		"jammer": "Aspect - Psi",
-		"jammer_link": "https://probablyadev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "Conjuring &amp; Curating (Game Jam Edition)",
-				"title_link": "https://probablyadev.itch.io/conjuring-curating",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/948608",
-				"by_list": [
-					"Aspect - Psi"
-				],
-				"by_link_list": [
-					"https://probablyadev.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.241,
-				"ilscore": 85,
-				"submission_time_diff": -4955000
-			}
-		]
-	},
-	{
-		"jammer": "Matt Kimball",
-		"jammer_link": "https://mkimball.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"jam_vs": 48,
-				"title": "Undercrypt",
-				"title_link": "https://mkimball.itch.io/undercrypt",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683641",
-				"by_list": [
-					"Matt Kimball"
-				],
-				"by_link_list": [
-					"https://mkimball.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 20,
-				"score": 4.225,
-				"ilscore": 60,
-				"submission_time_diff": -16838000
-			}
-		]
-	},
-	{
-		"jammer": "karasikrus",
-		"jammer_link": "https://karasikrus.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "RoboQ",
-				"title_link": "https://karasikrus.itch.io/roboq",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653732",
-				"by_list": [
-					"karasikrus",
-					"HiGi98",
-					"dodekayder",
-					"Hios"
-				],
-				"by_link_list": [
-					"https://karasikrus.itch.io/",
-					"https://higi98.itch.io/",
-					"https://dodekayder.itch.io/",
-					"https://hios.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 10,
-				"score": 4.225,
-				"ilscore": 82,
-				"submission_time_diff": -314000
 			}
 		]
 	}

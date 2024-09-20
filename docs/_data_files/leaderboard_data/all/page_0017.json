@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Animita",
-		"jammer_link": "https://animita.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Placeholder Paradise",
-				"title_link": "https://animita.itch.io/placeholder-paradise",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592776",
-				"by_list": [
-					"Animita"
-				],
-				"by_link_list": [
-					"https://animita.itch.io/"
-				],
-				"rank": 130,
-				"ratings": 2,
-				"score": 1.133,
-				"ilscore": 25,
-				"submission_time_diff": -5713000
-			}
-		]
-	},
-	{
 		"jammer": "Eliot LE GALL",
 		"jammer_link": "https://eliot-le-gall.itch.io/",
 		"game_list_sorted": [
@@ -3116,7 +3089,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Oxygen",
 				"title_link": "https://hyo331.itch.io/oxygen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121943",
@@ -3131,7 +3104,7 @@
 				"rank": 35,
 				"ratings": 18,
 				"score": 3.667,
-				"ilscore": 87,
+				"ilscore": 86,
 				"submission_time_diff": 1473000
 			},
 			{
@@ -3859,7 +3832,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "¡Clean It!",
 				"title_link": "https://rodrigo151515151515151.itch.io/clean-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121933",
@@ -4226,7 +4199,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Cascave",
 				"title_link": "https://mewore.itch.io/cascave",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1489745",
@@ -4239,7 +4212,7 @@
 				"rank": 7,
 				"ratings": 16,
 				"score": 4.016,
-				"ilscore": 82,
+				"ilscore": 81,
 				"submission_time_diff": -258000
 			},
 			{
@@ -4538,6 +4511,33 @@
 				"score": 3.324,
 				"ilscore": 51,
 				"submission_time_diff": -26620000
+			}
+		]
+	},
+	{
+		"jammer": "Ariel Lissak Geller",
+		"jammer_link": "https://ariellissakgeller.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "2020 - Rise (Game)",
+				"title_link": "https://ariellissakgeller.itch.io/rise",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632588",
+				"by_list": [
+					"Ariel Lissak Geller"
+				],
+				"by_link_list": [
+					"https://ariellissakgeller.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 8,
+				"score": 3.276,
+				"ilscore": 50,
+				"submission_time_diff": -29329000
 			}
 		]
 	}

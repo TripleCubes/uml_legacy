@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Mitacla",
-		"jammer_link": "https://mitacla.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "PhrogPads",
-				"title_link": "https://mitacla.itch.io/phrogpads",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025920",
-				"by_list": [
-					"Mitacla"
-				],
-				"by_link_list": [
-					"https://mitacla.itch.io/"
-				],
-				"rank": 48,
-				"ratings": 10,
-				"score": 3.6,
-				"ilscore": 92,
-				"submission_time_diff": -2349000
-			}
-		]
-	},
-	{
 		"jammer": "Transparent Games",
 		"jammer_link": "https://transparent-games.itch.io/",
 		"game_list_sorted": [
@@ -444,7 +417,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "CascadeNetwork",
 				"title_link": "https://trace-l.itch.io/cascadenetwork",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490315",
@@ -457,7 +430,7 @@
 				"rank": 45,
 				"ratings": 9,
 				"score": 2.889,
-				"ilscore": 59,
+				"ilscore": 58,
 				"submission_time_diff": -15422000
 			},
 			{
@@ -621,7 +594,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Burst",
 				"title_link": "https://mcstuber.itch.io/burst",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121893",
@@ -2016,7 +1989,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Goopy's Kitchen",
 				"title_link": "https://sezotove.itch.io/goopies-kitchen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120896",
@@ -2579,7 +2552,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubble Party Rage",
 				"title_link": "https://hawtori.itch.io/bubble-party-rage",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121836",
@@ -2669,7 +2642,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Far Out Expedition",
 				"title_link": "https://hawtori.itch.io/space-expedition",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944632",
@@ -2729,7 +2702,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Bubble Party Rage",
 				"title_link": "https://hawtori.itch.io/bubble-party-rage",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121836",
@@ -2777,7 +2750,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Far Out Expedition",
 				"title_link": "https://hawtori.itch.io/space-expedition",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944632",
@@ -2806,7 +2779,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "The Fog",
 				"title_link": "https://teemolert.itch.io/tf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1931714",
@@ -3678,6 +3651,33 @@
 				"score": 1.711,
 				"ilscore": 43,
 				"submission_time_diff": 6681000
+			}
+		]
+	},
+	{
+		"jammer": "LootHunter",
+		"jammer_link": "https://loothunter.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Agent Frog",
+				"title_link": "https://loothunter.itch.io/agent-frog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026091",
+				"by_list": [
+					"LootHunter"
+				],
+				"by_link_list": [
+					"https://loothunter.itch.io/"
+				],
+				"rank": 177,
+				"ratings": 6,
+				"score": 1.711,
+				"ilscore": 43,
+				"submission_time_diff": -366000
 			}
 		]
 	}

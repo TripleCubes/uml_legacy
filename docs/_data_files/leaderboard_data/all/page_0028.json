@@ -1,55 +1,5 @@
 [
 	{
-		"jammer": "D4ngus1",
-		"jammer_link": "https://d4ngus1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"jam_vs": 98,
-				"title": "The Devils Treasure",
-				"title_link": "https://d4ngus1.itch.io/the-devils-treasure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854866",
-				"by_list": [
-					"D4ngus1"
-				],
-				"by_link_list": [
-					"https://d4ngus1.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 9,
-				"score": 3.944,
-				"ilscore": 78,
-				"submission_time_diff": -50000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 72,
-				"jam_name": "Adventure",
-				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
-				"jam_vs": 73,
-				"title": "L14M4 Red Alert",
-				"title_link": "https://d4ngus1.itch.io/l14m4-red-alert",
-				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894105",
-				"by_list": [
-					"D4ngus1",
-					"Kristina Cutajar"
-				],
-				"by_link_list": [
-					"https://d4ngus1.itch.io/",
-					"https://krizzy-arts.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 10,
-				"score": 3.5,
-				"ilscore": 61,
-				"submission_time_diff": -957000
-			}
-		]
-	},
-	{
 		"jammer": "Jadebrew",
 		"jammer_link": "https://jadebrew.itch.io/",
 		"game_list_sorted": [
@@ -1585,7 +1535,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "PopOut!",
 				"title_link": "https://freezex.itch.io/popout",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119732",
@@ -3039,7 +2989,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Magnolia Writing Contest",
 				"title_link": "https://alexishampton.itch.io/magnolia-writing-contest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1489712",
@@ -3433,7 +3383,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Asteroid Deluge",
 				"title_link": "https://playimu.itch.io/asteroid-deluge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491300",
@@ -4076,6 +4026,54 @@
 				"score": 3.139,
 				"ilscore": 51,
 				"submission_time_diff": 1972000
+			}
+		]
+	},
+	{
+		"jammer": "Beonlytom",
+		"jammer_link": "https://beonlytom.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"jam_vs": 63,
+				"title": "The Gates of Hell Are Now Open",
+				"title_link": "https://beonlytom.itch.io/tgohano",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867742",
+				"by_list": [
+					"Beonlytom"
+				],
+				"by_link_list": [
+					"https://beonlytom.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 19,
+				"score": 3.132,
+				"ilscore": 51,
+				"submission_time_diff": -37600000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"jam_vs": 138,
+				"title": "Led Journey",
+				"title_link": "https://beonlytom.itch.io/led",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984409",
+				"by_list": [
+					"Beonlytom"
+				],
+				"by_link_list": [
+					"https://beonlytom.itch.io/"
+				],
+				"rank": 110,
+				"ratings": 6,
+				"score": 1.803,
+				"ilscore": 41,
+				"submission_time_diff": 38460000
 			}
 		]
 	}

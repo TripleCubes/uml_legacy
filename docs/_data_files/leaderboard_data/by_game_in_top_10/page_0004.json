@@ -267,7 +267,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Kill the Dungeon Shopkeeper",
 				"title_link": "https://celtican.itch.io/kill-the-dungeon-shopkeeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705184",
@@ -280,7 +280,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.167,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": 41900000
 			}
 		]
@@ -1417,7 +1417,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -1819,6 +1819,33 @@
 		]
 	},
 	{
+		"jammer": "ellps",
+		"jammer_link": "https://ellps.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "CYBER TRAIN",
+				"title_link": "https://ellps.itch.io/cyber-train",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975835",
+				"by_list": [
+					"ellps"
+				],
+				"by_link_list": [
+					"https://ellps.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 24,
+				"score": 4.313,
+				"ilscore": 71,
+				"submission_time_diff": -19558000
+			}
+		]
+	},
+	{
 		"jammer": "Honey Basil",
 		"jammer_link": "https://honey-basil.itch.io/",
 		"game_list_sorted": [
@@ -2181,7 +2208,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Midas Well Face It",
 				"title_link": "https://breakfish.itch.io/midas-well-face-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364937",
@@ -2194,7 +2221,7 @@
 				"rank": 2,
 				"ratings": 12,
 				"score": 4.25,
-				"ilscore": 81,
+				"ilscore": 80,
 				"submission_time_diff": -7788000
 			}
 		]
@@ -2208,7 +2235,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 157,
 				"title": "Ancient Misunderstanding",
 				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
@@ -2843,33 +2870,6 @@
 				"score": 4.112,
 				"ilscore": 86,
 				"submission_time_diff": -37563000
-			}
-		]
-	},
-	{
-		"jammer": "kraybit",
-		"jammer_link": "https://kraybit.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"jam_vs": 59,
-				"title": "Fly Into The Void",
-				"title_link": "https://kraybit.itch.io/fly-into-the-void",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823008",
-				"by_list": [
-					"kraybit"
-				],
-				"by_link_list": [
-					"https://kraybit.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 16,
-				"score": 4.109,
-				"ilscore": 64,
-				"submission_time_diff": -11079000
 			}
 		]
 	}

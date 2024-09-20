@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Intellegion",
-		"jammer_link": "https://intellegion.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 19,
-				"jam_name": "Mysteries",
-				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
-				"jam_vs": 25,
-				"title": "2Desolate",
-				"title_link": "https://intellegion.itch.io/2desolate",
-				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/355672",
-				"by_list": [
-					"Intellegion"
-				],
-				"by_link_list": [
-					"https://intellegion.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 8,
-				"score": 1.875,
-				"ilscore": 18,
-				"submission_time_diff": -52804000
-			}
-		]
-	},
-	{
 		"jammer": "juunishi master",
 		"jammer_link": "https://juunishi-master.itch.io/",
 		"game_list_sorted": [
@@ -1316,7 +1289,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 123,
+				"jam_vs": 122,
 				"title": "Oni Express",
 				"title_link": "https://ninjaxim.itch.io/oni-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2761925",
@@ -3196,7 +3169,7 @@
 		]
 	},
 	{
-		"jammer": "Will Saymon",
+		"jammer": "Wyru",
 		"jammer_link": "https://wyru.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3209,7 +3182,7 @@
 				"title_link": "https://wyru.itch.io/time-got-crazy-its-raining-sheeps",
 				"submission_page_link": "https://itch.io/jam/mini-jam-23-time/rate/383592",
 				"by_list": [
-					"Will Saymon"
+					"Wyru"
 				],
 				"by_link_list": [
 					"https://wyru.itch.io/"
@@ -3230,7 +3203,7 @@
 				"title_link": "https://wyru.itch.io/together",
 				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438542",
 				"by_list": [
-					"Will Saymon"
+					"Wyru"
 				],
 				"by_link_list": [
 					"https://wyru.itch.io/"
@@ -4951,7 +4924,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "BUBBLES",
 				"title_link": "https://finian1.itch.io/bubbles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120489",
@@ -4964,7 +4937,7 @@
 				"rank": 67,
 				"ratings": 12,
 				"score": 3.083,
-				"ilscore": 73,
+				"ilscore": 72,
 				"submission_time_diff": -54807000
 			},
 			{
@@ -5506,6 +5479,33 @@
 				"score": 4.091,
 				"ilscore": 63,
 				"submission_time_diff": -1366000
+			}
+		]
+	},
+	{
+		"jammer": "NightEmber",
+		"jammer_link": "https://nightember.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 24,
+				"jam_name": "Space",
+				"jam_link": "https://itch.io/jam/mini-jam-24-space",
+				"jam_vs": 56,
+				"title": "SpaceTripp",
+				"title_link": "https://nightember.itch.io/spacetripp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395838",
+				"by_list": [
+					"NightEmber"
+				],
+				"by_link_list": [
+					"https://nightember.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 3.944,
+				"ilscore": 60,
+				"submission_time_diff": -4911000
 			}
 		]
 	}

@@ -1,14 +1,43 @@
 [
 	{
-		"jammer": "raph",
-		"jammer_link": "https://raph7.itch.io/",
+		"jammer": "Diego Crispim",
+		"jammer_link": "https://solidfox.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"jam_vs": 110,
+				"title": "Containment Breach",
+				"title_link": "https://satsuyafrango.itch.io/containment-breach",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104635",
+				"by_list": [
+					"Felipe Gomes",
+					"Diego Crispim"
+				],
+				"by_link_list": [
+					"https://satsuyafrango.itch.io/",
+					"https://solidfox.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.275,
+				"ilscore": 89,
+				"submission_time_diff": -1247000
+			}
+		]
+	},
+	{
+		"jammer": "MarblesFr",
+		"jammer_link": "https://marblesfr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Chugga' Chugga' Chop Chop",
 				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
@@ -27,7 +56,40 @@
 				"rank": 1,
 				"ratings": 10,
 				"score": 4.275,
-				"ilscore": 77,
+				"ilscore": 76,
+				"submission_time_diff": 43894000
+			}
+		]
+	},
+	{
+		"jammer": "raph",
+		"jammer_link": "https://raph7.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"jam_vs": 78,
+				"title": "Chugga' Chugga' Chop Chop",
+				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
+				"by_list": [
+					"MarblesFr",
+					"raph",
+					"Fylipp",
+					"danielgangl"
+				],
+				"by_link_list": [
+					"https://marblesfr.itch.io/",
+					"https://raph7.itch.io/",
+					"https://fylipp.itch.io/",
+					"https://danielgangl.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 4.275,
+				"ilscore": 76,
 				"submission_time_diff": 43894000
 			}
 		]
@@ -41,7 +103,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Chugga' Chugga' Chop Chop",
 				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
@@ -60,7 +122,7 @@
 				"rank": 1,
 				"ratings": 10,
 				"score": 4.275,
-				"ilscore": 77,
+				"ilscore": 76,
 				"submission_time_diff": 43894000
 			}
 		]
@@ -74,7 +136,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Chugga' Chugga' Chop Chop",
 				"title_link": "https://marblesfr.itch.io/chugga-chugga-chop-chop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935152",
@@ -93,7 +155,7 @@
 				"rank": 1,
 				"ratings": 10,
 				"score": 4.275,
-				"ilscore": 77,
+				"ilscore": 76,
 				"submission_time_diff": 43894000
 			}
 		]
@@ -705,7 +767,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Kill the Dungeon Shopkeeper",
 				"title_link": "https://celtican.itch.io/kill-the-dungeon-shopkeeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2705184",
@@ -718,7 +780,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.167,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": 41900000
 			}
 		]
@@ -1613,7 +1675,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -1986,6 +2048,33 @@
 		]
 	},
 	{
+		"jammer": "ellps",
+		"jammer_link": "https://ellps.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 65,
+				"title": "CYBER TRAIN",
+				"title_link": "https://ellps.itch.io/cyber-train",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975835",
+				"by_list": [
+					"ellps"
+				],
+				"by_link_list": [
+					"https://ellps.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 24,
+				"score": 4.313,
+				"ilscore": 71,
+				"submission_time_diff": -19558000
+			}
+		]
+	},
+	{
 		"jammer": "Honey Basil",
 		"jammer_link": "https://honey-basil.itch.io/",
 		"game_list_sorted": [
@@ -2315,7 +2404,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 157,
 				"title": "Ancient Misunderstanding",
 				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
@@ -2815,87 +2904,6 @@
 				"score": 4.146,
 				"ilscore": 88,
 				"submission_time_diff": -159000
-			}
-		]
-	},
-	{
-		"jammer": "EngineerKappa",
-		"jammer_link": "https://engineerkappa.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 52,
-				"jam_name": "Summit",
-				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
-				"jam_vs": 79,
-				"title": "Frostbite Crawl",
-				"title_link": "https://engineerkappa.itch.io/frostbitecrawl",
-				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/614716",
-				"by_list": [
-					"EngineerKappa"
-				],
-				"by_link_list": [
-					"https://engineerkappa.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 17,
-				"score": 4.141,
-				"ilscore": 74,
-				"submission_time_diff": -67759000
-			}
-		]
-	},
-	{
-		"jammer": "Piggybank",
-		"jammer_link": "https://piggybank.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
-				"title": "Seaside Fireflies (Game Jam Build)",
-				"title_link": "https://piggybank.itch.io/seaside-fireflies",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572030",
-				"by_list": [
-					"Piggybank"
-				],
-				"by_link_list": [
-					"https://piggybank.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 13,
-				"score": 4.135,
-				"ilscore": 112,
-				"submission_time_diff": -3514000
-			}
-		]
-	},
-	{
-		"jammer": "Zazzao",
-		"jammer_link": "https://zazzao.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "MiniJam 134_Islands",
-				"title_link": "https://zazzao.itch.io/minijam-134-islands",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113279",
-				"by_list": [
-					"Zazzao"
-				],
-				"by_link_list": [
-					"https://zazzao.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 38,
-				"score": 4.112,
-				"ilscore": 86,
-				"submission_time_diff": -37563000
 			}
 		]
 	}

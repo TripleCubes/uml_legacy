@@ -1,50 +1,5 @@
 [
 	{
-		"jammer": "PeterMcP",
-		"jammer_link": "https://petermcp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"jam_vs": 48,
-				"title": "Soul Keeper",
-				"title_link": "https://optus23.itch.io/soul-keeper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
-				"by_list": [
-					"Marc Gálvez",
-					"Oriorii",
-					"Víctor Segura",
-					"didaclis",
-					"RoperoIvan",
-					"youis11",
-					"PeterMcP",
-					"Pol Recasens",
-					"Akius",
-					"christt105"
-				],
-				"by_link_list": [
-					"https://optus23.itch.io/",
-					"https://oriolcs2.itch.io/",
-					"https://victorgg-11.itch.io/",
-					"https://didaclis.itch.io/",
-					"https://roperoivan.itch.io/",
-					"https://youis11.itch.io/",
-					"https://petermcp.itch.io/",
-					"https://polhostrex.itch.io/",
-					"https://akius.itch.io/",
-					"https://christt105.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 6,
-				"score": 3.375,
-				"ilscore": 48,
-				"submission_time_diff": -2498000
-			}
-		]
-	},
-	{
 		"jammer": "Pol Recasens",
 		"jammer_link": "https://polhostrex.itch.io/",
 		"game_list_sorted": [
@@ -1501,7 +1456,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Magic penguin",
 				"title_link": "https://verduritas04.itch.io/magic-penguin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363258",
@@ -1514,7 +1469,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.25,
-				"ilscore": 81,
+				"ilscore": 80,
 				"submission_time_diff": -26586000
 			},
 			{
@@ -1834,7 +1789,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Supersleep",
 				"title_link": "https://bardon.itch.io/super",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2362619",
@@ -1855,7 +1810,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Lost in the Dungeon",
 				"title_link": "https://bardon.itch.io/lost-in-the-dungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932880",
@@ -1960,7 +1915,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 205,
+				"jam_vs": 204,
 				"title": "Green Star",
 				"title_link": "https://bardon.itch.io/green-star",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2936017",
@@ -2967,7 +2922,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Clockwork Chaos",
 				"title_link": "https://ryder-james.itch.io/clockwork-chaos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935060",
@@ -3945,6 +3900,33 @@
 				"score": 2.5,
 				"ilscore": 41,
 				"submission_time_diff": -3131000
+			}
+		]
+	},
+	{
+		"jammer": "SirSpaghetti",
+		"jammer_link": "https://sirspaghetti.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "DoNut Steal",
+				"title_link": "https://sirspaghetti.itch.io/donut-steal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726008",
+				"by_list": [
+					"SirSpaghetti"
+				],
+				"by_link_list": [
+					"https://sirspaghetti.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 12,
+				"score": 2.458,
+				"ilscore": 40,
+				"submission_time_diff": -44004000
 			}
 		]
 	}

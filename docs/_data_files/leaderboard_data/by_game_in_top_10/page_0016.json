@@ -1,5 +1,158 @@
 [
 	{
+		"jammer": "SuiteSuit",
+		"jammer_link": "https://suitesuit.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "NVERSE",
+				"title_link": "https://suitesuit.itch.io/nverse",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831996",
+				"by_list": [
+					"SuiteSuit"
+				],
+				"by_link_list": [
+					"https://suitesuit.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 15,
+				"score": 3.95,
+				"ilscore": 85,
+				"submission_time_diff": -8014000
+			}
+		]
+	},
+	{
+		"jammer": "IsabellaAhrendt",
+		"jammer_link": "https://isabellaahrendt.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Does It Come In Purple?",
+				"title_link": "https://isabellaahrendt.itch.io/does-it-come-in-purple",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944404",
+				"by_list": [
+					"IsabellaAhrendt"
+				],
+				"by_link_list": [
+					"https://isabellaahrendt.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 19,
+				"score": 3.947,
+				"ilscore": 105,
+				"submission_time_diff": -6667000
+			}
+		]
+	},
+	{
+		"jammer": "Metamaus",
+		"jammer_link": "https://metamaus.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "Nyasteroid",
+				"title_link": "https://metamaus.itch.io/nyasteroid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119228",
+				"by_list": [
+					"Metamaus",
+					"Eddie Breeg",
+					"Aymeric4444",
+					"Thalia Meignan"
+				],
+				"by_link_list": [
+					"https://metamaus.itch.io/",
+					"https://eddiebreeg.itch.io/",
+					"https://aymeric4444.itch.io/",
+					"https://thalmug.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 14,
+				"score": 3.946,
+				"ilscore": 93,
+				"submission_time_diff": -60752000
+			}
+		]
+	},
+	{
+		"jammer": "Eddie Breeg",
+		"jammer_link": "https://eddiebreeg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "Nyasteroid",
+				"title_link": "https://metamaus.itch.io/nyasteroid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119228",
+				"by_list": [
+					"Metamaus",
+					"Eddie Breeg",
+					"Aymeric4444",
+					"Thalia Meignan"
+				],
+				"by_link_list": [
+					"https://metamaus.itch.io/",
+					"https://eddiebreeg.itch.io/",
+					"https://aymeric4444.itch.io/",
+					"https://thalmug.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 14,
+				"score": 3.946,
+				"ilscore": 93,
+				"submission_time_diff": -60752000
+			}
+		]
+	},
+	{
+		"jammer": "Aymeric4444",
+		"jammer_link": "https://aymeric4444.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "Nyasteroid",
+				"title_link": "https://metamaus.itch.io/nyasteroid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119228",
+				"by_list": [
+					"Metamaus",
+					"Eddie Breeg",
+					"Aymeric4444",
+					"Thalia Meignan"
+				],
+				"by_link_list": [
+					"https://metamaus.itch.io/",
+					"https://eddiebreeg.itch.io/",
+					"https://aymeric4444.itch.io/",
+					"https://thalmug.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 14,
+				"score": 3.946,
+				"ilscore": 93,
+				"submission_time_diff": -60752000
+			}
+		]
+	},
+	{
 		"jammer": "Thalia Meignan",
 		"jammer_link": "https://thalmug.itch.io/",
 		"game_list_sorted": [
@@ -8,7 +161,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 150,
+				"jam_vs": 149,
 				"title": "Nyasteroid",
 				"title_link": "https://metamaus.itch.io/nyasteroid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1119228",
@@ -68,7 +221,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Limited",
 				"title_link": "https://onesmallboy.itch.io/limited",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490451",
@@ -1302,7 +1455,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Follow the signal",
 				"title_link": "https://reddarkwh.itch.io/follow-the-signal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913393",
@@ -1315,7 +1468,7 @@
 				"rank": 10,
 				"ratings": 10,
 				"score": 3.75,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -8619000
 			}
 		]
@@ -1441,7 +1594,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Frozen Fire",
 				"title_link": "https://vakor03.itch.io/frozen-fire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364565",
@@ -1472,7 +1625,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Frozen Fire",
 				"title_link": "https://vakor03.itch.io/frozen-fire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364565",
@@ -1503,7 +1656,7 @@
 				"jam_id": 145,
 				"jam_name": "Frozen",
 				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 89,
+				"jam_vs": 88,
 				"title": "Frozen Fire",
 				"title_link": "https://vakor03.itch.io/frozen-fire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364565",
@@ -2323,7 +2476,7 @@
 				"jam_id": 12,
 				"jam_name": "Heroes",
 				"jam_link": "https://itch.io/jam/mini-jam-12-heroes-",
-				"jam_vs": 15,
+				"jam_vs": 14,
 				"title": "Cybur",
 				"title_link": "https://theaveragegoob.itch.io/cybur",
 				"submission_page_link": "https://itch.io/jam/mini-jam-12-heroes-/rate/313891",
@@ -2336,7 +2489,7 @@
 				"rank": 10,
 				"ratings": 6,
 				"score": 3.556,
-				"ilscore": 25,
+				"ilscore": 24,
 				"submission_time_diff": -47735000
 			}
 		]
@@ -2751,149 +2904,6 @@
 				"score": 3.432,
 				"ilscore": 38,
 				"submission_time_diff": -15216000
-			}
-		]
-	},
-	{
-		"jammer": "bootles",
-		"jammer_link": "https://a-bootles.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"jam_vs": 45,
-				"title": "Shrine Reaper",
-				"title_link": "https://a-bootles.itch.io/shrine-reaper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/401761",
-				"by_list": [
-					"bootles"
-				],
-				"by_link_list": [
-					"https://a-bootles.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 14,
-				"score": 3.429,
-				"ilscore": 47,
-				"submission_time_diff": -133586000
-			}
-		]
-	},
-	{
-		"jammer": "BenJelter",
-		"jammer_link": "https://benjelter.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 42,
-				"jam_name": "Snow",
-				"jam_link": "https://itch.io/jam/mini-jam-42-snow",
-				"jam_vs": 28,
-				"title": "The Last Employee DX",
-				"title_link": "https://benjelter.itch.io/the-last-employee",
-				"submission_page_link": "https://itch.io/jam/mini-jam-42-snow/rate/527426",
-				"by_list": [
-					"BenJelter"
-				],
-				"by_link_list": [
-					"https://benjelter.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 10,
-				"score": 3.425,
-				"ilscore": 36,
-				"submission_time_diff": -296000
-			}
-		]
-	},
-	{
-		"jammer": "PhilippTheProgrammer",
-		"jammer_link": "https://philipptheprogrammer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 45,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-45-dungeons",
-				"jam_vs": 45,
-				"title": "Inventory Dungeon",
-				"title_link": "https://philipptheprogrammer.itch.io/inventory-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-45-dungeons/rate/548121",
-				"by_list": [
-					"PhilippTheProgrammer"
-				],
-				"by_link_list": [
-					"https://philipptheprogrammer.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 16,
-				"score": 3.4,
-				"ilscore": 47,
-				"submission_time_diff": -27567000
-			}
-		]
-	},
-	{
-		"jammer": "BlueSheep7",
-		"jammer_link": "https://bluesheep7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 122,
-				"jam_name": "Intermission",
-				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
-				"jam_vs": 50,
-				"title": "Survivor Vampire",
-				"title_link": "https://bluesheep7.itch.io/survivor-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1848321",
-				"by_list": [
-					"BlueSheep7",
-					"yoyoyonono",
-					"HOKFMK"
-				],
-				"by_link_list": [
-					"https://bluesheep7.itch.io/",
-					"https://yoyoyonono.itch.io/",
-					"https://hasan-oguz-kankal.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 10,
-				"score": 3.4,
-				"ilscore": 49,
-				"submission_time_diff": -1271000
-			}
-		]
-	},
-	{
-		"jammer": "yoyoyonono",
-		"jammer_link": "https://yoyoyonono.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 122,
-				"jam_name": "Intermission",
-				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
-				"jam_vs": 50,
-				"title": "Survivor Vampire",
-				"title_link": "https://bluesheep7.itch.io/survivor-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1848321",
-				"by_list": [
-					"BlueSheep7",
-					"yoyoyonono",
-					"HOKFMK"
-				],
-				"by_link_list": [
-					"https://bluesheep7.itch.io/",
-					"https://yoyoyonono.itch.io/",
-					"https://hasan-oguz-kankal.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 10,
-				"score": 3.4,
-				"ilscore": 49,
-				"submission_time_diff": -1271000
 			}
 		]
 	}

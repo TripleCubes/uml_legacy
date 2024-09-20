@@ -1,82 +1,5 @@
 [
 	{
-		"jammer": "Taylor Made",
-		"jammer_link": "https://taylor-made.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Funky Gravity",
-				"title_link": "https://taylor-made.itch.io/funky-gravity",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1550077",
-				"by_list": [
-					"Taylor Made"
-				],
-				"by_link_list": [
-					"https://taylor-made.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 22,
-				"score": 3.852,
-				"ilscore": 75,
-				"submission_time_diff": -23505000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "System Overload",
-				"title_link": "https://taylor-made.itch.io/system-overload",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407230",
-				"by_list": [
-					"Taylor Made"
-				],
-				"by_link_list": [
-					"https://taylor-made.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 32,
-				"score": 3.758,
-				"ilscore": 92,
-				"submission_time_diff": -59742000
-			}
-		]
-	},
-	{
-		"jammer": "Rodrigo Gil",
-		"jammer_link": "https://rodrigogil.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Non-Stop Pop-Up",
-				"title_link": "https://thecookielord.itch.io/non-stop-pop-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1407512",
-				"by_list": [
-					"Jorge",
-					"Rodrigo Gil"
-				],
-				"by_link_list": [
-					"https://thecookielord.itch.io/",
-					"https://rodrigogil.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 6,
-				"score": 3.753,
-				"ilscore": 92,
-				"submission_time_diff": -28660000
-			}
-		]
-	},
-	{
 		"jammer": "Whiskey Bar",
 		"jammer_link": "https://whiskey-bar.itch.io/",
 		"game_list_sorted": [
@@ -578,7 +501,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 157,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -703,7 +626,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Resurgence Radio",
 				"title_link": "https://silvyger.itch.io/resurgence-radio",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913508",
@@ -973,7 +896,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "Pipe Runner",
 				"title_link": "https://feraswheel.itch.io/piperunner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448381",
@@ -986,7 +909,7 @@
 				"rank": 4,
 				"ratings": 14,
 				"score": 3.643,
-				"ilscore": 51,
+				"ilscore": 52,
 				"submission_time_diff": -57451000
 			},
 			{
@@ -1082,7 +1005,7 @@
 				"jam_id": 125,
 				"jam_name": "Signal",
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 76,
+				"jam_vs": 74,
 				"title": "Vitals",
 				"title_link": "https://feraswheel.itch.io/vitals",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906378",
@@ -1097,7 +1020,7 @@
 				"rank": 12,
 				"ratings": 23,
 				"score": 3.696,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -73412000
 			},
 			{
@@ -1170,7 +1093,7 @@
 				"jam_id": 160,
 				"jam_name": "Light",
 				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 123,
+				"jam_vs": 122,
 				"title": "Lightspeed",
 				"title_link": "https://feraswheel.itch.io/lightspeed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2759786",
@@ -1237,7 +1160,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Techno Drop",
 				"title_link": "https://feraswheel.itch.io/technodrop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1488665",
@@ -1250,7 +1173,7 @@
 				"rank": 25,
 				"ratings": 19,
 				"score": 3.526,
-				"ilscore": 72,
+				"ilscore": 71,
 				"submission_time_diff": -3356000
 			},
 			{
@@ -1688,7 +1611,7 @@
 				"jam_id": 158,
 				"jam_name": "Shopping",
 				"jam_link": "https://itch.io/jam/mini-jam-158-shopping",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Under Budget",
 				"title_link": "https://blockhead-maniac.itch.io/under-budget",
 				"submission_page_link": "https://itch.io/jam/mini-jam-158-shopping/rate/2704941",
@@ -1753,7 +1676,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "Mistwalkers",
 				"title_link": "https://cdplaya.itch.io/mistwalkers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449027",
@@ -1841,7 +1764,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "BarrelFall",
 				"title_link": "https://blockhead-maniac.itch.io/barrelfall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1489587",
@@ -1856,7 +1779,7 @@
 				"rank": 56,
 				"ratings": 10,
 				"score": 2.7,
-				"ilscore": 55,
+				"ilscore": 54,
 				"submission_time_diff": -13192000
 			},
 			{
@@ -1929,7 +1852,7 @@
 				"jam_id": 126,
 				"jam_name": "Lost",
 				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "Lost Dog",
 				"title_link": "https://blockhead-maniac.itch.io/lost-dog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1931192",
@@ -1977,7 +1900,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "OnlyUp",
 				"title_link": "https://blockhead-maniac.itch.io/onlyup",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511542",
@@ -3356,7 +3279,7 @@
 				"jam_id": 102,
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 47,
+				"jam_vs": 48,
 				"title": "Outrun",
 				"title_link": "https://zinc05.itch.io/outrun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449819",
@@ -3369,7 +3292,7 @@
 				"rank": 45,
 				"ratings": 7,
 				"score": 1.199,
-				"ilscore": 16,
+				"ilscore": 17,
 				"submission_time_diff": -9378000
 			},
 			{
@@ -4366,6 +4289,81 @@
 				"score": 3.926,
 				"ilscore": 91,
 				"submission_time_diff": -19089000
+			}
+		]
+	},
+	{
+		"jammer": "Feewo",
+		"jammer_link": "https://feewo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "The Ring of Rotation",
+				"title_link": "https://feewo.itch.io/the-ring-of-rotation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430356",
+				"by_list": [
+					"Feewo"
+				],
+				"by_link_list": [
+					"https://feewo.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 27,
+				"score": 3.889,
+				"ilscore": 90,
+				"submission_time_diff": -53213000
+			}
+		]
+	},
+	{
+		"jammer": "ArthurHale",
+		"jammer_link": "https://arthurhale.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"jam_vs": 97,
+				"title": "Duel in Dice",
+				"title_link": "https://arthurhale.itch.io/duel-in-dice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789851",
+				"by_list": [
+					"ArthurHale"
+				],
+				"by_link_list": [
+					"https://arthurhale.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 26,
+				"score": 3.404,
+				"ilscore": 67,
+				"submission_time_diff": -54893000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Puzzle Cube",
+				"title_link": "https://arthurhale.itch.io/puzzlecube",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430433",
+				"by_list": [
+					"ArthurHale"
+				],
+				"by_link_list": [
+					"https://arthurhale.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 12,
+				"score": 3.854,
+				"ilscore": 89,
+				"submission_time_diff": -48095000
 			}
 		]
 	}
