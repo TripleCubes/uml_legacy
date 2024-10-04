@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "Witchrity",
-		"jammer_link": "https://witchrity.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Hyacinth",
-				"title_link": "https://etoiledust.itch.io/hyacinth",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1463542",
-				"by_list": [
-					"etoiledust",
-					"Witchrity"
-				],
-				"by_link_list": [
-					"https://etoiledust.itch.io/",
-					"https://witchrity.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 8,
-				"score": 2.906,
-				"ilscore": 68,
-				"submission_time_diff": -902000
-			}
-		]
-	},
-	{
 		"jammer": "Phi_Dragon",
 		"jammer_link": "https://phi-dragon.itch.io/",
 		"game_list_sorted": [
@@ -3756,6 +3727,39 @@
 				"score": 2.731,
 				"ilscore": 55,
 				"submission_time_diff": -4869000
+			}
+		]
+	},
+	{
+		"jammer": "PotatomixS",
+		"jammer_link": "https://potatomixs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Fish Fall",
+				"title_link": "https://potatomixs.itch.io/fish-fall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491313",
+				"by_list": [
+					"PotatomixS",
+					"AdriK12",
+					"Kasekagami",
+					"Mariocapri01"
+				],
+				"by_link_list": [
+					"https://potatomixs.itch.io/",
+					"https://adrik12.itch.io/",
+					"https://kasekagami.itch.io/",
+					"https://mariocapri01.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 19,
+				"score": 2.711,
+				"ilscore": 55,
+				"submission_time_diff": -3155000
 			}
 		]
 	}

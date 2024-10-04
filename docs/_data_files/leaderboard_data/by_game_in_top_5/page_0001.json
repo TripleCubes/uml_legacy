@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Bad Piggy",
+		"jammer_link": "https://badpiggy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "R.I.T.U.A.L",
+				"title_link": "https://badpiggy.itch.io/ritual",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810472",
+				"by_list": [
+					"Bad Piggy"
+				],
+				"by_link_list": [
+					"https://badpiggy.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.011,
+				"ilscore": 61,
+				"submission_time_diff": -26448000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 116,
+				"title": "Geronimo the Cat Slayer",
+				"title_link": "https://badpiggy.itch.io/geronimo-the-cat-slayer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955996",
+				"by_list": [
+					"Bad Piggy"
+				],
+				"by_link_list": [
+					"https://badpiggy.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 30,
+				"score": 4.142,
+				"ilscore": 88,
+				"submission_time_diff": -31322000
+			}
+		]
+	},
+	{
 		"jammer": "erebrus",
 		"jammer_link": "https://erebrus.itch.io/",
 		"game_list_sorted": [
@@ -574,6 +622,110 @@
 				"score": 4.269,
 				"ilscore": 98,
 				"submission_time_diff": -9396000
+			}
+		]
+	},
+	{
+		"jammer": "yuuvi",
+		"jammer_link": "https://yuuvi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Get Bit",
+				"title_link": "https://yuuvi.itch.io/get-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007164",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.875,
+				"ilscore": 49,
+				"submission_time_diff": -3000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "We Care Inc.",
+				"title_link": "https://yuuvi.itch.io/we-care-inc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944598",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 4.225,
+				"ilscore": 112,
+				"submission_time_diff": -641000
+			}
+		]
+	},
+	{
+		"jammer": "breakableBird",
+		"jammer_link": "https://breakablebird.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Get Bit",
+				"title_link": "https://yuuvi.itch.io/get-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007164",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.875,
+				"ilscore": 49,
+				"submission_time_diff": -3000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "We Care Inc.",
+				"title_link": "https://yuuvi.itch.io/we-care-inc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944598",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 4.225,
+				"ilscore": 112,
+				"submission_time_diff": -641000
 			}
 		]
 	},
@@ -2567,7 +2719,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -2586,7 +2738,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -2600,7 +2752,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -2619,7 +2771,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -2633,7 +2785,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -2652,7 +2804,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -2666,7 +2818,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -2685,7 +2837,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -2958,7 +3110,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 146,
 				"title": "Smock's Block",
 				"title_link": "https://dianesparks.itch.io/smocks-block",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752154",
@@ -2989,7 +3141,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 146,
 				"title": "Smock's Block",
 				"title_link": "https://dianesparks.itch.io/smocks-block",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752154",
@@ -3411,7 +3563,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 137,
+				"jam_vs": 135,
 				"title": "Extinguish the Fiery Dungeon",
 				"title_link": "https://bruhderboi.itch.io/extinguish-the-fiery-dungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819371",
@@ -3523,7 +3675,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "A Package In Space",
 				"title_link": "https://part-time-maniac.itch.io/spicy-package",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672292",
@@ -3536,7 +3688,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.429,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -55526000
 			}
 		]
@@ -3882,93 +4034,6 @@
 				"score": 4.364,
 				"ilscore": 52,
 				"submission_time_diff": -114000
-			}
-		]
-	},
-	{
-		"jammer": "Riptide Realms",
-		"jammer_link": "https://riptiderealms.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Approaching Zero (game jam version)",
-				"title_link": "https://cryy22.itch.io/approaching-zero",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869470",
-				"by_list": [
-					"cryy22",
-					"Riptide Realms"
-				],
-				"by_link_list": [
-					"https://cryy22.itch.io/",
-					"https://riptiderealms.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 31,
-				"score": 4.363,
-				"ilscore": 117,
-				"submission_time_diff": 31640000
-			}
-		]
-	},
-	{
-		"jammer": "F J A R N S K A G G L",
-		"jammer_link": "https://f-j-a-r-n-s-k-a-g-g-l.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 74,
-				"jam_name": "Chaos",
-				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
-				"jam_vs": 82,
-				"title": "CHARGE SHOT",
-				"title_link": "https://f-j-a-r-n-s-k-a-g-g-l.itch.io/charge-shot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930820",
-				"by_list": [
-					"F J A R N S K A G G L"
-				],
-				"by_link_list": [
-					"https://f-j-a-r-n-s-k-a-g-g-l.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 4.357,
-				"ilscore": 80,
-				"submission_time_diff": -9769000
-			}
-		]
-	},
-	{
-		"jammer": "Dou_d",
-		"jammer_link": "https://dou-d.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "Muscle &amp; Tweet",
-				"title_link": "https://dodoot.itch.io/muscleandtweet",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906456",
-				"by_list": [
-					"Doot",
-					"Dou_d",
-					"jeanremi"
-				],
-				"by_link_list": [
-					"https://dodoot.itch.io/",
-					"https://dou-d.itch.io/",
-					"https://jeanremi.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 26,
-				"score": 4.356,
-				"ilscore": 76,
-				"submission_time_diff": -10528000
 			}
 		]
 	}

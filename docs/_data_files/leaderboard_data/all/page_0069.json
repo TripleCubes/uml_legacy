@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "ThePoisonDartFrog",
-		"jammer_link": "https://thepoisondartfrog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Nayra's Cave",
-				"title_link": "https://uhgoomba.itch.io/nyras-cave",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609708",
-				"by_list": [
-					"UhGoomba",
-					"ThePoisonDartFrog",
-					"ApolloPlease36"
-				],
-				"by_link_list": [
-					"https://uhgoomba.itch.io/",
-					"https://thepoisondartfrog.itch.io/",
-					"https://apolloplease36.itch.io/"
-				],
-				"rank": 180,
-				"ratings": 2,
-				"score": 1.67,
-				"ilscore": 45,
-				"submission_time_diff": 41137000
-			}
-		]
-	},
-	{
 		"jammer": "ApolloPlease36",
 		"jammer_link": "https://apolloplease36.itch.io/",
 		"game_list_sorted": [
@@ -1913,7 +1882,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Hat Escape",
 				"title_link": "https://beetrootpaul.itch.io/hat-escape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480365",
@@ -1926,7 +1895,7 @@
 				"rank": 25,
 				"ratings": 12,
 				"score": 3.563,
-				"ilscore": 79,
+				"ilscore": 78,
 				"submission_time_diff": -286000
 			}
 		]
@@ -3148,7 +3117,7 @@
 					"Kd1042",
 					"Pixel Lifetime",
 					"Lox.exe",
-					"TL Thomas Bennett"
+					"Teshia Bennett"
 				],
 				"by_link_list": [
 					"https://leoreth.itch.io/",
@@ -3185,7 +3154,7 @@
 					"Kd1042",
 					"Pixel Lifetime",
 					"Lox.exe",
-					"TL Thomas Bennett"
+					"Teshia Bennett"
 				],
 				"by_link_list": [
 					"https://leoreth.itch.io/",
@@ -3222,7 +3191,7 @@
 					"Kd1042",
 					"Pixel Lifetime",
 					"Lox.exe",
-					"TL Thomas Bennett"
+					"Teshia Bennett"
 				],
 				"by_link_list": [
 					"https://leoreth.itch.io/",
@@ -3370,7 +3339,7 @@
 		]
 	},
 	{
-		"jammer": "Spruce wiz",
+		"jammer": "SpruceWiz",
 		"jammer_link": "https://spruce-wiz.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3383,7 +3352,7 @@
 				"title_link": "https://spruce-wiz.itch.io/color-spectrum",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634196",
 				"by_list": [
-					"Spruce wiz"
+					"SpruceWiz"
 				],
 				"by_link_list": [
 					"https://spruce-wiz.itch.io/"
@@ -3393,6 +3362,33 @@
 				"score": 3.725,
 				"ilscore": 124,
 				"submission_time_diff": -32131000
+			}
+		]
+	},
+	{
+		"jammer": "meerian",
+		"jammer_link": "https://meerian.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Neon Snake",
+				"title_link": "https://meerian.itch.io/neon-snake",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632862",
+				"by_list": [
+					"meerian"
+				],
+				"by_link_list": [
+					"https://meerian.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 25,
+				"score": 3.71,
+				"ilscore": 124,
+				"submission_time_diff": -47960000
 			}
 		]
 	}

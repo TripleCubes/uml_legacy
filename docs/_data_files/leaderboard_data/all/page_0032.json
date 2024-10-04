@@ -1,95 +1,5 @@
 [
 	{
-		"jammer": "somestufz",
-		"jammer_link": "https://somestufz.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"jam_vs": 37,
-				"title": "Mushroom and Orb",
-				"title_link": "https://somestufz.itch.io/mushroom-and-orb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2227630",
-				"by_list": [
-					"somestufz"
-				],
-				"by_link_list": [
-					"https://somestufz.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 14,
-				"score": 2.75,
-				"ilscore": 34,
-				"submission_time_diff": -30057000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
-				"title": "Hope City",
-				"title_link": "https://somestufz.itch.io/hope-city",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510965",
-				"by_list": [
-					"somestufz"
-				],
-				"by_link_list": [
-					"https://somestufz.itch.io/"
-				],
-				"rank": 53,
-				"ratings": 17,
-				"score": 3.235,
-				"ilscore": 73,
-				"submission_time_diff": -36187000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 127,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 116,
-				"title": "Catfishing",
-				"title_link": "https://somestufz.itch.io/catfishing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956262",
-				"by_list": [
-					"somestufz"
-				],
-				"by_link_list": [
-					"https://somestufz.itch.io/"
-				],
-				"rank": 79,
-				"ratings": 8,
-				"score": 2.544,
-				"ilscore": 54,
-				"submission_time_diff": -22137000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Getting Food (Mini Jam 73)",
-				"title_link": "https://somestufz.itch.io/getting-food-mini-jam-73",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/912469",
-				"by_list": [
-					"somestufz"
-				],
-				"by_link_list": [
-					"https://somestufz.itch.io/"
-				],
-				"rank": 138,
-				"ratings": 8,
-				"score": 2.18,
-				"ilscore": 54,
-				"submission_time_diff": -34410000
-			}
-		]
-	},
-	{
 		"jammer": "Daniel Koitka",
 		"jammer_link": "https://dkoitka.itch.io/",
 		"game_list_sorted": [
@@ -2916,7 +2826,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
+				"jam_vs": 183,
 				"title": "Gunsling frog",
 				"title_link": "https://smileydroid.itch.io/gunsling-frog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025433",
@@ -3388,6 +3298,33 @@
 				"score": 0.97,
 				"ilscore": 17,
 				"submission_time_diff": -4954000
+			}
+		]
+	},
+	{
+		"jammer": "Badebay",
+		"jammer_link": "https://badebay.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "SimplePlatformer",
+				"title_link": "https://badebay.itch.io/simpleplatformer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/892578",
+				"by_list": [
+					"Badebay"
+				],
+				"by_link_list": [
+					"https://badebay.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 1,
+				"score": 0.884,
+				"ilscore": 16,
+				"submission_time_diff": -207033000
 			}
 		]
 	}

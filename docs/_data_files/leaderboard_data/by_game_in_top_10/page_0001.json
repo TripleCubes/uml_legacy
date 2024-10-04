@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Wombart",
+		"jammer_link": "https://wombart.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 53,
+				"title": "Classroom Origami War",
+				"title_link": "https://wombart.itch.io/classroom-origami-war",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792081",
+				"by_list": [
+					"Wombart"
+				],
+				"by_link_list": [
+					"https://wombart.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.021,
+				"ilscore": 60,
+				"submission_time_diff": 310000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 7,
+				"jam_name": "Greek Mythology",
+				"jam_link": "https://itch.io/jam/mini-jam-7-greek-mythology-",
+				"jam_vs": 10,
+				"title": "Tiny Coliseum (Gamejam version)",
+				"title_link": "https://wombart.itch.io/tiny-coliseum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-7-greek-mythology-/rate/285315",
+				"by_list": [
+					"Wombart"
+				],
+				"by_link_list": [
+					"https://wombart.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 15,
+				"score": 3.971,
+				"ilscore": 21,
+				"submission_time_diff": -483000
+			}
+		]
+	},
+	{
 		"jammer": "clerg0",
 		"jammer_link": "https://clerg0.itch.io/",
 		"game_list_sorted": [
@@ -176,7 +224,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
+				"jam_vs": 183,
 				"title": "Frogamari",
 				"title_link": "https://ricenoodles.itch.io/frogamari",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025702",
@@ -191,7 +239,7 @@
 				"rank": 1,
 				"ratings": 38,
 				"score": 4.408,
-				"ilscore": 112,
+				"ilscore": 113,
 				"submission_time_diff": -18249000
 			},
 			{
@@ -228,7 +276,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 146,
 				"title": "Smock's Block",
 				"title_link": "https://dianesparks.itch.io/smocks-block",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752154",
@@ -2782,6 +2830,110 @@
 		]
 	},
 	{
+		"jammer": "yuuvi",
+		"jammer_link": "https://yuuvi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Get Bit",
+				"title_link": "https://yuuvi.itch.io/get-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007164",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.875,
+				"ilscore": 49,
+				"submission_time_diff": -3000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "We Care Inc.",
+				"title_link": "https://yuuvi.itch.io/we-care-inc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944598",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 4.225,
+				"ilscore": 112,
+				"submission_time_diff": -641000
+			}
+		]
+	},
+	{
+		"jammer": "breakableBird",
+		"jammer_link": "https://breakablebird.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Get Bit",
+				"title_link": "https://yuuvi.itch.io/get-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007164",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.875,
+				"ilscore": 49,
+				"submission_time_diff": -3000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "We Care Inc.",
+				"title_link": "https://yuuvi.itch.io/we-care-inc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944598",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 4.225,
+				"ilscore": 112,
+				"submission_time_diff": -641000
+			}
+		]
+	},
+	{
 		"jammer": "Trashcan",
 		"jammer_link": "https://trash-can.itch.io/",
 		"game_list_sorted": [
@@ -3530,7 +3682,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 137,
+				"jam_vs": 135,
 				"title": "Extinguish the Fiery Dungeon",
 				"title_link": "https://bruhderboi.itch.io/extinguish-the-fiery-dungeon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819371",
@@ -5120,164 +5272,6 @@
 				"score": 3.466,
 				"ilscore": 47,
 				"submission_time_diff": -289000
-			}
-		]
-	},
-	{
-		"jammer": "Planta",
-		"jammer_link": "https://plantaro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
-				"title": "Ishihara",
-				"title_link": "https://plantaro.itch.io/ishihara",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752265",
-				"by_list": [
-					"Planta",
-					"Bad_B0y",
-					"treebee63"
-				],
-				"by_link_list": [
-					"https://plantaro.itch.io/",
-					"https://bad-b0y.itch.io/",
-					"https://treebee63.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 10,
-				"score": 4.4,
-				"ilscore": 103,
-				"submission_time_diff": 3672000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"jam_vs": 59,
-				"title": "FEED ME",
-				"title_link": "https://plantaro.itch.io/feed-me",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823079",
-				"by_list": [
-					"Planta"
-				],
-				"by_link_list": [
-					"https://plantaro.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 18,
-				"score": 3.986,
-				"ilscore": 63,
-				"submission_time_diff": 126836000
-			}
-		]
-	},
-	{
-		"jammer": "Macrow",
-		"jammer_link": "https://macrowdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 165,
-				"jam_name": "Paint",
-				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
-				"jam_vs": 45,
-				"title": "Tower . Paint . Refill",
-				"title_link": "https://macrowdev.itch.io/tower-paint-refill",
-				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2902864",
-				"by_list": [
-					"Macrow"
-				],
-				"by_link_list": [
-					"https://macrowdev.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 29,
-				"score": 3.948,
-				"ilscore": 54,
-				"submission_time_diff": -126726000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "feathermancer",
-				"title_link": "https://macrowdev.itch.io/feathermancer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2937723",
-				"by_list": [
-					"Macrow",
-					"Deshui Yu",
-					"dotfowl",
-					"zipdisq™"
-				],
-				"by_link_list": [
-					"https://macrowdev.itch.io/",
-					"https://deshuiyu.itch.io/",
-					"https://dotfowl.itch.io/",
-					"https://zipdisq.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 21,
-				"score": 4.155,
-				"ilscore": 111,
-				"submission_time_diff": -39185000
-			}
-		]
-	},
-	{
-		"jammer": "Small Bug Games",
-		"jammer_link": "https://smallbuggames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 84,
-				"jam_name": "Bubbles",
-				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
-				"title": "Fugu's Revenge",
-				"title_link": "https://smallbuggames.itch.io/fugus-revenge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1117687",
-				"by_list": [
-					"Small Bug Games",
-					"MetaphysicalMonsters"
-				],
-				"by_link_list": [
-					"https://smallbuggames.itch.io/",
-					"https://metaphysicalmonsters.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 8,
-				"score": 4.438,
-				"ilscore": 105,
-				"submission_time_diff": -16615000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 115,
-				"jam_name": "Noir",
-				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
-				"jam_vs": 37,
-				"title": "This Great Beast",
-				"title_link": "https://metaphysicalmonsters.itch.io/this-great-beast",
-				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709210",
-				"by_list": [
-					"MetaphysicalMonsters",
-					"Small Bug Games"
-				],
-				"by_link_list": [
-					"https://metaphysicalmonsters.itch.io/",
-					"https://smallbuggames.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 8,
-				"score": 3.624,
-				"ilscore": 45,
-				"submission_time_diff": -828000
 			}
 		]
 	}

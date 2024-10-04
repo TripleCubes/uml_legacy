@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "tsbrt",
-		"jammer_link": "https://tsbrt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
-				"title": "SwampyJump - jam version",
-				"title_link": "https://tsbrt.itch.io/swampyjump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532570",
-				"by_list": [
-					"tsbrt"
-				],
-				"by_link_list": [
-					"https://tsbrt.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 7,
-				"score": 3.536,
-				"ilscore": 106,
-				"submission_time_diff": -1020000
-			}
-		]
-	},
-	{
 		"jammer": "Laubeski",
 		"jammer_link": "https://laubeski.itch.io/",
 		"game_list_sorted": [
@@ -1168,7 +1141,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Cards of Light",
 				"title_link": "https://jammydoodles.itch.io/cards-of-light",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484686",
@@ -2840,7 +2813,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1550981",
 				"by_list": [
 					"Silvyger",
-					"TL Thomas Bennett",
+					"Teshia Bennett",
 					"ChriztiUit",
 					"Tony Cable"
 				],
@@ -3569,7 +3542,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 137,
+				"jam_vs": 135,
 				"title": "FRIED",
 				"title_link": "https://skelegram.itch.io/fried",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2816267",
@@ -4766,6 +4739,47 @@
 				"score": 0.625,
 				"ilscore": 20,
 				"submission_time_diff": -711000
+			}
+		]
+	},
+	{
+		"jammer": "KFD Studios",
+		"jammer_link": "https://kfdstudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Tedpole: Escape from the Black Lagoon",
+				"title_link": "https://chancencounter.itch.io/tedpole-escape-from-the-black-lagoon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532466",
+				"by_list": [
+					"ChanceNCounter",
+					"ProfessorCowboi",
+					"bartolomeuswk",
+					"Weretere",
+					"SkyRiverSound",
+					"KFD Studios",
+					"Tora McJ",
+					"OLTEANU"
+				],
+				"by_link_list": [
+					"https://chancencounter.itch.io/",
+					"https://professorcowboi.itch.io/",
+					"https://bartolomeuswk.itch.io/",
+					"https://weretere.itch.io/",
+					"https://skyriversound.itch.io/",
+					"https://kfdstudios.itch.io/",
+					"https://tora-mcj.itch.io/",
+					"https://ochiogrande.itch.io/"
+				],
+				"rank": 169,
+				"ratings": 16,
+				"score": 2.594,
+				"ilscore": 78,
+				"submission_time_diff": -740000
 			}
 		]
 	}

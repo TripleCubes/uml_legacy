@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "Kevin Eleven",
-		"jammer_link": "https://kevineleven.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
-				"title": "Fish or Die",
-				"title_link": "https://diamondwarrior.itch.io/fish-or-die",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572400",
-				"by_list": [
-					"DiamondWarrior",
-					"RKI3000",
-					"Kevin Eleven",
-					"PranshuTG",
-					"MARROW"
-				],
-				"by_link_list": [
-					"https://diamondwarrior.itch.io/",
-					"https://rki3000.itch.io/",
-					"https://kevineleven.itch.io/",
-					"https://pranshutg.itch.io/",
-					"https://marrowaudio.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 14,
-				"score": 3.446,
-				"ilscore": 93,
-				"submission_time_diff": -5610000
-			}
-		]
-	},
-	{
 		"jammer": "PranshuTG",
 		"jammer_link": "https://pranshutg.itch.io/",
 		"game_list_sorted": [
@@ -3680,6 +3645,33 @@
 				"score": 2.393,
 				"ilscore": 64,
 				"submission_time_diff": -11223000
+			}
+		]
+	},
+	{
+		"jammer": "StayMoon",
+		"jammer_link": "https://staymoon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 212,
+				"title": "OceanCleanUp",
+				"title_link": "https://staymoon.itch.io/oceancleanup",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572335",
+				"by_list": [
+					"StayMoon"
+				],
+				"by_link_list": [
+					"https://staymoon.itch.io/"
+				],
+				"rank": 159,
+				"ratings": 4,
+				"score": 2.374,
+				"ilscore": 64,
+				"submission_time_diff": -4037000
 			}
 		]
 	}

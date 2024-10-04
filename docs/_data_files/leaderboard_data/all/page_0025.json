@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "Krysta",
-		"jammer_link": "https://krysta-y.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 63,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-63-future",
-				"jam_vs": 113,
-				"title": "Professor Ann Droid's Wacky Factory",
-				"title_link": "https://witchs-hex.itch.io/professor-ann-droids-wacky-factory",
-				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763582",
-				"by_list": [
-					"Witch's Hex",
-					"Krysta"
-				],
-				"by_link_list": [
-					"https://witchs-hex.itch.io/",
-					"https://krysta-y.itch.io/"
-				],
-				"rank": 67,
-				"ratings": 6,
-				"score": 2.815,
-				"ilscore": 59,
-				"submission_time_diff": -7665000
-			}
-		]
-	},
-	{
 		"jammer": "narmundo dev",
 		"jammer_link": "https://narmundo-dev.itch.io/",
 		"game_list_sorted": [
@@ -1782,7 +1753,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
+				"jam_vs": 183,
 				"title": "FrogBall",
 				"title_link": "https://orbit-games.itch.io/frogball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025692",
@@ -2066,7 +2037,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
+				"jam_vs": 183,
 				"title": "Frog Knight",
 				"title_link": "https://avace.itch.io/frog-knight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1026110",
@@ -2085,7 +2056,7 @@
 				"rank": 50,
 				"ratings": 16,
 				"score": 3.594,
-				"ilscore": 91,
+				"ilscore": 92,
 				"submission_time_diff": 1015000
 			},
 			{
@@ -2824,7 +2795,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Billiam's Brewery",
 				"title_link": "https://socksnsandles.itch.io/billiams-brewery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483253",
@@ -4003,6 +3974,33 @@
 				"score": 3.955,
 				"ilscore": 79,
 				"submission_time_diff": -16515000
+			}
+		]
+	},
+	{
+		"jammer": "budjetti",
+		"jammer_link": "https://budjetti.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 66,
+				"jam_name": "Sweets",
+				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
+				"jam_vs": 100,
+				"title": "TURBO PIZZA STICK",
+				"title_link": "https://budjetti.itch.io/turbo-pizza-stick",
+				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/807506",
+				"by_list": [
+					"budjetti"
+				],
+				"by_link_list": [
+					"https://budjetti.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 12,
+				"score": 3.896,
+				"ilscore": 78,
+				"submission_time_diff": -37453000
 			}
 		]
 	}

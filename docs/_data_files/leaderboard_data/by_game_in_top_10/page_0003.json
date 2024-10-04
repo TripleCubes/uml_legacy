@@ -1,5 +1,163 @@
 [
 	{
+		"jammer": "Alfenhose",
+		"jammer_link": "https://alfenhose.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"jam_vs": 42,
+				"title": "Color5",
+				"title_link": "https://alfenhose.itch.io/color5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556670",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.586,
+				"ilscore": 47,
+				"submission_time_diff": -11362000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"jam_vs": 45,
+				"title": "Janky's Underwater Adventure",
+				"title_link": "https://alfenhose.itch.io/jankys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457483",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.452,
+				"ilscore": 47,
+				"submission_time_diff": -2014000
+			}
+		]
+	},
+	{
+		"jammer": "k0cc4",
+		"jammer_link": "https://k0cc4.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"jam_vs": 42,
+				"title": "Color5",
+				"title_link": "https://alfenhose.itch.io/color5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556670",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.586,
+				"ilscore": 47,
+				"submission_time_diff": -11362000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"jam_vs": 45,
+				"title": "Janky's Underwater Adventure",
+				"title_link": "https://alfenhose.itch.io/jankys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457483",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.452,
+				"ilscore": 47,
+				"submission_time_diff": -2014000
+			}
+		]
+	},
+	{
+		"jammer": "L3mmy",
+		"jammer_link": "https://l3mmy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"jam_vs": 74,
+				"title": "Afterlife Animate",
+				"title_link": "https://vvulpes0.itch.io/afterlife-animate",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062946",
+				"by_list": [
+					"Pineberry Fox",
+					"L3mmy"
+				],
+				"by_link_list": [
+					"https://vvulpes0.itch.io/",
+					"https://l3mmy.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 32,
+				"score": 3.578,
+				"ilscore": 62,
+				"submission_time_diff": -16509000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 64,
+				"jam_name": "Nintendo 64",
+				"jam_link": "https://itch.io/jam/mini-jam-64",
+				"jam_vs": 13,
+				"title": "Skate For Speed",
+				"title_link": "https://shadyleegamer.itch.io/skate-for-speed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-64/rate/778383",
+				"by_list": [
+					"ShadyLeeGamer",
+					"Belu123mm",
+					"L3mmy"
+				],
+				"by_link_list": [
+					"https://shadyleegamer.itch.io/",
+					"https://belu123mm.itch.io/",
+					"https://l3mmy.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.111,
+				"ilscore": 20,
+				"submission_time_diff": -1066000
+			}
+		]
+	},
+	{
 		"jammer": "byXToGo",
 		"jammer_link": "https://byxtogo.itch.io/",
 		"game_list_sorted": [
@@ -92,6 +250,110 @@
 				"score": 3.411,
 				"ilscore": 31,
 				"submission_time_diff": -23741000
+			}
+		]
+	},
+	{
+		"jammer": "Max Westerlund",
+		"jammer_link": "https://max-westerlund.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Pecking Pilgrimage",
+				"title_link": "https://max-westerlund.itch.io/pecking-pilgrimage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006903",
+				"by_list": [
+					"Max Westerlund",
+					"lomstfer"
+				],
+				"by_link_list": [
+					"https://max-westerlund.itch.io/",
+					"https://lomstfer.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 13,
+				"score": 3.212,
+				"ilscore": 41,
+				"submission_time_diff": -5746000
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"jam_vs": 138,
+				"title": "Critical Clinic Coordinator",
+				"title_link": "https://max-westerlund.itch.io/criticalcliniccoordinator",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196291",
+				"by_list": [
+					"Max Westerlund",
+					"lomstfer"
+				],
+				"by_link_list": [
+					"https://max-westerlund.itch.io/",
+					"https://lomstfer.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 7,
+				"score": 3.875,
+				"ilscore": 88,
+				"submission_time_diff": -12711000
+			}
+		]
+	},
+	{
+		"jammer": "lomstfer",
+		"jammer_link": "https://lomstfer.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Pecking Pilgrimage",
+				"title_link": "https://max-westerlund.itch.io/pecking-pilgrimage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006903",
+				"by_list": [
+					"Max Westerlund",
+					"lomstfer"
+				],
+				"by_link_list": [
+					"https://max-westerlund.itch.io/",
+					"https://lomstfer.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 13,
+				"score": 3.212,
+				"ilscore": 41,
+				"submission_time_diff": -5746000
+			},
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"jam_vs": 138,
+				"title": "Critical Clinic Coordinator",
+				"title_link": "https://max-westerlund.itch.io/criticalcliniccoordinator",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2196291",
+				"by_list": [
+					"Max Westerlund",
+					"lomstfer"
+				],
+				"by_link_list": [
+					"https://max-westerlund.itch.io/",
+					"https://lomstfer.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 7,
+				"score": 3.875,
+				"ilscore": 88,
+				"submission_time_diff": -12711000
 			}
 		]
 	},
@@ -538,6 +800,54 @@
 		]
 	},
 	{
+		"jammer": "DTRGames",
+		"jammer_link": "https://dtrgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "This Is Fine!",
+				"title_link": "https://dtrgames.itch.io/this-is-fine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763157",
+				"by_list": [
+					"DTRGames"
+				],
+				"by_link_list": [
+					"https://dtrgames.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 15,
+				"score": 3.9,
+				"ilscore": 85,
+				"submission_time_diff": -43635000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "The Monster In The Woods",
+				"title_link": "https://dtrgames.itch.io/the-monster-in-the-woods",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3005253",
+				"by_list": [
+					"DTRGames"
+				],
+				"by_link_list": [
+					"https://dtrgames.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 13,
+				"score": 3.019,
+				"ilscore": 38,
+				"submission_time_diff": -36163000
+			}
+		]
+	},
+	{
 		"jammer": "Paspartout",
 		"jammer_link": "https://paspartout.itch.io/",
 		"game_list_sorted": [
@@ -783,7 +1093,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -802,7 +1112,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -816,7 +1126,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -835,7 +1145,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -849,7 +1159,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -868,7 +1178,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -882,7 +1192,7 @@
 				"jam_id": 88,
 				"jam_name": "Rush",
 				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Drip Express",
 				"title_link": "https://bad-rng-studios.itch.io/the-drip-express",
 				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1185054",
@@ -901,7 +1211,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.673,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -293000
 			}
 		]
@@ -1174,7 +1484,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 146,
 				"title": "Smock's Block",
 				"title_link": "https://dianesparks.itch.io/smocks-block",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752154",
@@ -1205,7 +1515,7 @@
 				"jam_id": 62,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 147,
+				"jam_vs": 146,
 				"title": "Smock's Block",
 				"title_link": "https://dianesparks.itch.io/smocks-block",
 				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752154",
@@ -1623,7 +1933,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "A Package In Space",
 				"title_link": "https://part-time-maniac.itch.io/spicy-package",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672292",
@@ -1636,7 +1946,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.429,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -55526000
 			}
 		]
@@ -3033,180 +3343,6 @@
 				"score": 4.221,
 				"ilscore": 66,
 				"submission_time_diff": -17807000
-			}
-		]
-	},
-	{
-		"jammer": "OrangeScientist1",
-		"jammer_link": "https://orangescientist1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 65,
-				"jam_name": "Abandoned",
-				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
-				"jam_vs": 57,
-				"title": "Totally Finished Game (Game Jam Version)",
-				"title_link": "https://orangescientist1.itch.io/totally-finished-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792406",
-				"by_list": [
-					"OrangeScientist1"
-				],
-				"by_link_list": [
-					"https://orangescientist1.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.214,
-				"ilscore": 65,
-				"submission_time_diff": -431000
-			}
-		]
-	},
-	{
-		"jammer": "JfranMora",
-		"jammer_link": "https://jfranmora.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 39,
-				"jam_name": "Monsters",
-				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
-				"jam_vs": 24,
-				"title": "Endless Neon",
-				"title_link": "https://jfranmora.itch.io/endless-neon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/502975",
-				"by_list": [
-					"JfranMora"
-				],
-				"by_link_list": [
-					"https://jfranmora.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4.212,
-				"ilscore": 41,
-				"submission_time_diff": -13005000
-			}
-		]
-	},
-	{
-		"jammer": "Mochii🌺",
-		"jammer_link": "https://pixelmochii.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"jam_vs": 137,
-				"title": "Galaclick",
-				"title_link": "https://pixelmochii.itch.io/galaclick",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160560",
-				"by_list": [
-					"Mochii🌺"
-				],
-				"by_link_list": [
-					"https://pixelmochii.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.208,
-				"ilscore": 96,
-				"submission_time_diff": 20170000
-			}
-		]
-	},
-	{
-		"jammer": "First Slime Games",
-		"jammer_link": "https://first-slime-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 69,
-				"title": "Between Worlds",
-				"title_link": "https://first-slime-games.itch.io/between-worlds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221629",
-				"by_list": [
-					"First Slime Games",
-					"protosev",
-					"Myatezhny"
-				],
-				"by_link_list": [
-					"https://first-slime-games.itch.io/",
-					"https://protosev.itch.io/",
-					"https://myatezhny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 18,
-				"score": 4.208,
-				"ilscore": 71,
-				"submission_time_diff": -3136000
-			}
-		]
-	},
-	{
-		"jammer": "protosev",
-		"jammer_link": "https://protosev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 69,
-				"title": "Between Worlds",
-				"title_link": "https://first-slime-games.itch.io/between-worlds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221629",
-				"by_list": [
-					"First Slime Games",
-					"protosev",
-					"Myatezhny"
-				],
-				"by_link_list": [
-					"https://first-slime-games.itch.io/",
-					"https://protosev.itch.io/",
-					"https://myatezhny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 18,
-				"score": 4.208,
-				"ilscore": 71,
-				"submission_time_diff": -3136000
-			}
-		]
-	},
-	{
-		"jammer": "Myatezhny",
-		"jammer_link": "https://myatezhny.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 69,
-				"title": "Between Worlds",
-				"title_link": "https://first-slime-games.itch.io/between-worlds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221629",
-				"by_list": [
-					"First Slime Games",
-					"protosev",
-					"Myatezhny"
-				],
-				"by_link_list": [
-					"https://first-slime-games.itch.io/",
-					"https://protosev.itch.io/",
-					"https://myatezhny.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 18,
-				"score": 4.208,
-				"ilscore": 71,
-				"submission_time_diff": -3136000
 			}
 		]
 	}

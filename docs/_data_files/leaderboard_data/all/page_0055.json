@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "HexoMan",
-		"jammer_link": "https://hexoman.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 157,
-				"title": "Egyptian Fun",
-				"title_link": "https://hexoman.itch.io/egyptian-fun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460014",
-				"by_list": [
-					"HexoMan"
-				],
-				"by_link_list": [
-					"https://hexoman.itch.io/"
-				],
-				"rank": 136,
-				"ratings": 1,
-				"score": 1.323,
-				"ilscore": 31,
-				"submission_time_diff": -4733000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "NO ONE LIKES A CAR WASH!",
-				"title_link": "https://hexoman.itch.io/no-one-likes-a-car-wash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1387106",
-				"by_list": [
-					"HexoMan"
-				],
-				"by_link_list": [
-					"https://hexoman.itch.io/"
-				],
-				"rank": 181,
-				"ratings": 6,
-				"score": 2.415,
-				"ilscore": 69,
-				"submission_time_diff": -95959000
-			}
-		]
-	},
-	{
 		"jammer": "Tiegerator",
 		"jammer_link": "https://tiegerator.itch.io/",
 		"game_list_sorted": [
@@ -3224,8 +3176,8 @@
 		]
 	},
 	{
-		"jammer": "Honey Basil",
-		"jammer_link": "https://honey-basil.itch.io/",
+		"jammer": "Thomas LaBelle",
+		"jammer_link": "https://thomas-labelle.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3234,13 +3186,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
 				"jam_vs": 126,
 				"title": "Sea Monarch",
-				"title_link": "https://honey-basil.itch.io/sea-monarch",
+				"title_link": "https://thomas-labelle.itch.io/sea-monarch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733141",
 				"by_list": [
-					"Honey Basil"
+					"Thomas LaBelle"
 				],
 				"by_link_list": [
-					"https://honey-basil.itch.io/"
+					"https://thomas-labelle.itch.io/"
 				],
 				"rank": 2,
 				"ratings": 9,
@@ -3250,18 +3202,39 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Roadkill Warlock",
+				"title_link": "https://thomas-labelle.itch.io/warlock-roadkill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3004985",
+				"by_list": [
+					"Thomas LaBelle"
+				],
+				"by_link_list": [
+					"https://thomas-labelle.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.173,
+				"ilscore": 40,
+				"submission_time_diff": -6097000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 100,
 				"jam_name": "Overload",
 				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
 				"jam_vs": 164,
 				"title": "Radical Rumble Beatdown 2007",
-				"title_link": "https://honey-basil.itch.io/radical-rumble",
+				"title_link": "https://thomas-labelle.itch.io/radical-rumble",
 				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1406522",
 				"by_list": [
-					"Honey Basil"
+					"Thomas LaBelle"
 				],
 				"by_link_list": [
-					"https://honey-basil.itch.io/"
+					"https://thomas-labelle.itch.io/"
 				],
 				"rank": 24,
 				"ratings": 15,
@@ -3276,13 +3249,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
 				"jam_vs": 43,
 				"title": "Tortoise and the Hare II: Return of Rabbit-Rolla",
-				"title_link": "https://honey-basil.itch.io/return-of-rabbit-rolla",
+				"title_link": "https://thomas-labelle.itch.io/return-of-rabbit-rolla",
 				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267948",
 				"by_list": [
-					"Honey Basil"
+					"Thomas LaBelle"
 				],
 				"by_link_list": [
-					"https://honey-basil.itch.io/"
+					"https://thomas-labelle.itch.io/"
 				],
 				"rank": 24,
 				"ratings": 9,
@@ -3420,6 +3393,33 @@
 				"score": 3.753,
 				"ilscore": 92,
 				"submission_time_diff": -28660000
+			}
+		]
+	},
+	{
+		"jammer": "Whiskey Bar",
+		"jammer_link": "https://whiskey-bar.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Hanoi Driver : Lái xe điên",
+				"title_link": "https://whiskey-bar.itch.io/hanoi-driver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409869",
+				"by_list": [
+					"Whiskey Bar"
+				],
+				"by_link_list": [
+					"https://whiskey-bar.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 28,
+				"score": 3.75,
+				"ilscore": 92,
+				"submission_time_diff": 869000
 			}
 		]
 	}

@@ -1644,8 +1644,8 @@
 		]
 	},
 	{
-		"jammer": "vietnamese",
-		"jammer_link": "https://vietnamese.itch.io/",
+		"jammer": "pva0505",
+		"jammer_link": "https://pva0505.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1654,13 +1654,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
 				"jam_vs": 50,
 				"title": "Control the win d",
-				"title_link": "https://vietnamese.itch.io/control-the-win-d",
+				"title_link": "https://pva0505.itch.io/control-the-win-d",
 				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851101",
 				"by_list": [
-					"vietnamese"
+					"pva0505"
 				],
 				"by_link_list": [
-					"https://vietnamese.itch.io/"
+					"https://pva0505.itch.io/"
 				],
 				"rank": 41,
 				"ratings": 9,
@@ -1675,13 +1675,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"jam_vs": 110,
 				"title": "Untitle topdown platformer game",
-				"title_link": "https://vietnamese.itch.io/untitle-game",
+				"title_link": "https://pva0505.itch.io/untitle-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113974",
 				"by_list": [
-					"vietnamese"
+					"pva0505"
 				],
 				"by_link_list": [
-					"https://vietnamese.itch.io/"
+					"https://pva0505.itch.io/"
 				],
 				"rank": 112,
 				"ratings": 4,
@@ -2242,6 +2242,31 @@
 		"jammer": "The Homie",
 		"jammer_link": "https://luka-kanjo.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Dimensional Drift",
+				"title_link": "https://saschanian.itch.io/dimensional-drift",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006700",
+				"by_list": [
+					"Saschanian",
+					"The Homie",
+					"Melarkie"
+				],
+				"by_link_list": [
+					"https://saschanian.itch.io/",
+					"https://luka-kanjo.itch.io/",
+					"https://melarkie.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 17,
+				"score": 3.221,
+				"ilscore": 41,
+				"submission_time_diff": -7558000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 123,

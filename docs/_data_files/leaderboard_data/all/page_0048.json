@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "Wea$el",
-		"jammer_link": "https://weael.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 127,
-				"title": "Extra Terrestrial Fishing",
-				"title_link": "https://penple.itch.io/extra-terrestrial-fishing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1236964",
-				"by_list": [
-					"Penple",
-					"Wea$el",
-					"Klemay"
-				],
-				"by_link_list": [
-					"https://penple.itch.io/",
-					"https://weael.itch.io/",
-					"https://klemay.itch.io/"
-				],
-				"rank": 22,
-				"ratings": 14,
-				"score": 3.554,
-				"ilscore": 78,
-				"submission_time_diff": -3168000
-			}
-		]
-	},
-	{
 		"jammer": "Klemay",
 		"jammer_link": "https://klemay.itch.io/",
 		"game_list_sorted": [
@@ -70,7 +39,7 @@
 				"jam_id": 162,
 				"jam_name": "Heat",
 				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 137,
+				"jam_vs": 135,
 				"title": "Squirt! Squirt! Mania",
 				"title_link": "https://tr33-gam3-studios.itch.io/squirt-squirt-mania",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818738",
@@ -3421,7 +3390,7 @@
 		]
 	},
 	{
-		"jammer": "CogWorks Prod.",
+		"jammer": "CogWorks",
 		"jammer_link": "https://cogworksproductions.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3434,7 +3403,7 @@
 				"title_link": "https://cogworksproductions.itch.io/toxic-phish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239413",
 				"by_list": [
-					"CogWorks Prod."
+					"CogWorks"
 				],
 				"by_link_list": [
 					"https://cogworksproductions.itch.io/"
@@ -3673,7 +3642,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "Voltergeist",
 				"title_link": "https://7axel7.itch.io/voltergeist",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676175",
@@ -4453,6 +4422,58 @@
 				"score": 2.932,
 				"ilscore": 84,
 				"submission_time_diff": 61460000
+			}
+		]
+	},
+	{
+		"jammer": "danielemarotta",
+		"jammer_link": "https://danielemarotta.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "Dungeon Adventure",
+				"title_link": "https://danielemarotta.itch.io/dungeon-adventure",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259254",
+				"by_list": [
+					"danielemarotta"
+				],
+				"by_link_list": [
+					"https://danielemarotta.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.75,
+				"ilscore": 78,
+				"submission_time_diff": -6745000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "Love to death",
+				"title_link": "https://ernani.itch.io/lovetodeath",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258773",
+				"by_list": [
+					"ernani",
+					"IceIcePingu",
+					"danielemarotta"
+				],
+				"by_link_list": [
+					"https://ernani.itch.io/",
+					"https://iceicepingu.itch.io/",
+					"https://danielemarotta.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 27,
+				"score": 3.583,
+				"ilscore": 75,
+				"submission_time_diff": -13931000
 			}
 		]
 	}

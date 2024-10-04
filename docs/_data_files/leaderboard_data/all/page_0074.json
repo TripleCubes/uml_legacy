@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "Sergi Gómez Segura",
-		"jammer_link": "https://sergigs-artist.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
-				"title": "Serpent Blade",
-				"title_link": "https://andrew-raya.itch.io/serpent-blade",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1669360",
-				"by_list": [
-					"Andrew Raya",
-					"JordiAlbaDev",
-					"Sergi Gómez Segura",
-					"Belmontes",
-					"Guillem Llovera Castillo"
-				],
-				"by_link_list": [
-					"https://andrew-raya.itch.io/",
-					"https://jordialbadev.itch.io/",
-					"https://sergigs-artist.itch.io/",
-					"https://martamontesserra.itch.io/",
-					"https://guillem-llovera-castillo.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 4.1,
-				"ilscore": 84,
-				"submission_time_diff": -1174000
-			}
-		]
-	},
-	{
 		"jammer": "Belmontes",
 		"jammer_link": "https://martamontesserra.itch.io/",
 		"game_list_sorted": [
@@ -409,7 +374,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Phoebe Sunbeam VS Captain Twice",
 				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
@@ -3469,6 +3434,35 @@
 				"score": 3.922,
 				"ilscore": 60,
 				"submission_time_diff": -2460000
+			}
+		]
+	},
+	{
+		"jammer": "Crazy Monkey 68",
+		"jammer_link": "https://crazy-monkey-68.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"jam_vs": 57,
+				"title": "Stasis",
+				"title_link": "https://deojee.itch.io/stasis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1690450",
+				"by_list": [
+					"deojee",
+					"Crazy Monkey 68"
+				],
+				"by_link_list": [
+					"https://deojee.itch.io/",
+					"https://crazy-monkey-68.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 16,
+				"score": 3.906,
+				"ilscore": 60,
+				"submission_time_diff": -88856000
 			}
 		]
 	}

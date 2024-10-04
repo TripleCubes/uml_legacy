@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "meerian",
-		"jammer_link": "https://meerian.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Neon Snake",
-				"title_link": "https://meerian.itch.io/neon-snake",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632862",
-				"by_list": [
-					"meerian"
-				],
-				"by_link_list": [
-					"https://meerian.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 25,
-				"score": 3.71,
-				"ilscore": 124,
-				"submission_time_diff": -47960000
-			}
-		]
-	},
-	{
 		"jammer": "Racso3",
 		"jammer_link": "https://racso3.itch.io/",
 		"game_list_sorted": [
@@ -771,6 +744,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Trapped Knight",
+				"title_link": "https://redredred-studios.itch.io/trapped-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006299",
+				"by_list": [
+					"RedRedRed Studios"
+				],
+				"by_link_list": [
+					"https://redredred-studios.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 12,
+				"score": 2.854,
+				"ilscore": 36,
+				"submission_time_diff": -1184000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
@@ -1120,6 +1114,29 @@
 		"jammer": "breakableBird",
 		"jammer_link": "https://breakablebird.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Get Bit",
+				"title_link": "https://yuuvi.itch.io/get-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007164",
+				"by_list": [
+					"yuuvi",
+					"breakableBird"
+				],
+				"by_link_list": [
+					"https://yuuvi.itch.io/",
+					"https://breakablebird.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 3.875,
+				"ilscore": 49,
+				"submission_time_diff": -3000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 166,
@@ -1943,7 +1960,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "W = V * A",
 				"title_link": "https://saix93.itch.io/w-va",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675731",
@@ -3572,6 +3589,39 @@
 				"score": 3.063,
 				"ilscore": 102,
 				"submission_time_diff": -10439000
+			}
+		]
+	},
+	{
+		"jammer": "Goossyaa",
+		"jammer_link": "https://goossyaa.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Coloring of everything",
+				"title_link": "https://goossyaa.itch.io/coloring-of-everything",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634065",
+				"by_list": [
+					"Goossyaa",
+					"joywanderer",
+					"Kate_Black",
+					"Antos_Codes"
+				],
+				"by_link_list": [
+					"https://goossyaa.itch.io/",
+					"https://joywanderer.itch.io/",
+					"https://kate-black.itch.io/",
+					"https://antos-codes.itch.io/"
+				],
+				"rank": 170,
+				"ratings": 9,
+				"score": 3.056,
+				"ilscore": 102,
+				"submission_time_diff": 604000
 			}
 		]
 	}

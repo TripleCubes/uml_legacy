@@ -1,46 +1,5 @@
 [
 	{
-		"jammer": "KFD Studios",
-		"jammer_link": "https://kfdstudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
-				"title": "Tedpole: Escape from the Black Lagoon",
-				"title_link": "https://chancencounter.itch.io/tedpole-escape-from-the-black-lagoon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532466",
-				"by_list": [
-					"ChanceNCounter",
-					"ProfessorCowboi",
-					"bartolomeuswk",
-					"Weretere",
-					"SkyRiverSound",
-					"KFD Studios",
-					"Tora McJ",
-					"OLTEANU"
-				],
-				"by_link_list": [
-					"https://chancencounter.itch.io/",
-					"https://professorcowboi.itch.io/",
-					"https://bartolomeuswk.itch.io/",
-					"https://weretere.itch.io/",
-					"https://skyriversound.itch.io/",
-					"https://kfdstudios.itch.io/",
-					"https://tora-mcj.itch.io/",
-					"https://ochiogrande.itch.io/"
-				],
-				"rank": 169,
-				"ratings": 16,
-				"score": 2.594,
-				"ilscore": 78,
-				"submission_time_diff": -740000
-			}
-		]
-	},
-	{
 		"jammer": "Tora McJ",
 		"jammer_link": "https://tora-mcj.itch.io/",
 		"game_list_sorted": [
@@ -3389,6 +3348,33 @@
 				"score": 0.945,
 				"ilscore": 28,
 				"submission_time_diff": 3065000
+			}
+		]
+	},
+	{
+		"jammer": "franny22",
+		"jammer_link": "https://franny22.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Ribbit Jump",
+				"title_link": "https://franny22.itch.io/ribbit-jump",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532076",
+				"by_list": [
+					"franny22"
+				],
+				"by_link_list": [
+					"https://franny22.itch.io/"
+				],
+				"rank": 295,
+				"ratings": 2,
+				"score": 0.869,
+				"ilscore": 26,
+				"submission_time_diff": -27003000
 			}
 		]
 	}

@@ -1,57 +1,5 @@
 [
 	{
-		"jammer": "danielemarotta",
-		"jammer_link": "https://danielemarotta.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Dungeon Adventure",
-				"title_link": "https://danielemarotta.itch.io/dungeon-adventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259254",
-				"by_list": [
-					"danielemarotta"
-				],
-				"by_link_list": [
-					"https://danielemarotta.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.75,
-				"ilscore": 78,
-				"submission_time_diff": -6745000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Love to death",
-				"title_link": "https://ernani.itch.io/lovetodeath",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258773",
-				"by_list": [
-					"ernani",
-					"IceIcePingu",
-					"danielemarotta"
-				],
-				"by_link_list": [
-					"https://ernani.itch.io/",
-					"https://iceicepingu.itch.io/",
-					"https://danielemarotta.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 27,
-				"score": 3.583,
-				"ilscore": 75,
-				"submission_time_diff": -13931000
-			}
-		]
-	},
-	{
 		"jammer": "Overlord",
 		"jammer_link": "https://overlordnikita.itch.io/",
 		"game_list_sorted": [
@@ -952,7 +900,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408426",
 				"by_list": [
 					"mtrovy",
-					"mari"
+					"catamariii"
 				],
 				"by_link_list": [
 					"https://mtrovy.itch.io/",
@@ -3934,6 +3882,54 @@
 				"score": 3.341,
 				"ilscore": 46,
 				"submission_time_diff": 37956000
+			}
+		]
+	},
+	{
+		"jammer": "Demetri",
+		"jammer_link": "https://dnekos.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"jam_vs": 45,
+				"title": "Wilderness Supervision",
+				"title_link": "https://dnekos.itch.io/wilderness-supervision",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1277105",
+				"by_list": [
+					"Demetri"
+				],
+				"by_link_list": [
+					"https://dnekos.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 14,
+				"score": 3.304,
+				"ilscore": 45,
+				"submission_time_diff": -35478000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 89,
+				"title": "Cake Drop",
+				"title_link": "https://dnekos.itch.io/cake-drop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1296665",
+				"by_list": [
+					"Demetri"
+				],
+				"by_link_list": [
+					"https://dnekos.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 13,
+				"score": 3.288,
+				"ilscore": 62,
+				"submission_time_diff": -12600000
 			}
 		]
 	}

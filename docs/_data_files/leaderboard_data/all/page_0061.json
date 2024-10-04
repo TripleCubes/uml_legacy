@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "Suo",
-		"jammer_link": "https://suoyung.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
-				"title": "Give him an apple",
-				"title_link": "https://quenzel201aliza.itch.io/give-him-an-apple",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511719",
-				"by_list": [
-					"Quenzel201Aliza",
-					"Suo",
-					"Yubile/Chi"
-				],
-				"by_link_list": [
-					"https://quenzel201aliza.itch.io/",
-					"https://suoyung.itch.io/",
-					"https://yubile.itch.io/"
-				],
-				"rank": 78,
-				"ratings": 6,
-				"score": 2.926,
-				"ilscore": 66,
-				"submission_time_diff": -3673000
-			}
-		]
-	},
-	{
 		"jammer": "Yubile/Chi",
 		"jammer_link": "https://yubile.itch.io/",
 		"game_list_sorted": [
@@ -2963,7 +2932,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 117,
+				"jam_vs": 116,
 				"title": "Circuit Scramble",
 				"title_link": "https://codegarden.itch.io/circuit-scramble",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673553",
@@ -3661,6 +3630,33 @@
 				"score": 2.864,
 				"ilscore": 65,
 				"submission_time_diff": -23165000
+			}
+		]
+	},
+	{
+		"jammer": "tsbrt",
+		"jammer_link": "https://tsbrt.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "SwampyJump - jam version",
+				"title_link": "https://tsbrt.itch.io/swampyjump",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532570",
+				"by_list": [
+					"tsbrt"
+				],
+				"by_link_list": [
+					"https://tsbrt.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 7,
+				"score": 3.536,
+				"ilscore": 106,
+				"submission_time_diff": -1020000
 			}
 		]
 	}

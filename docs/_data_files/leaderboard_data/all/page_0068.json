@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "Niko",
-		"jammer_link": "https://0niko1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 116,
-				"jam_name": "Pocket Sized",
-				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
-				"jam_vs": 43,
-				"title": "Nobu",
-				"title_link": "https://0niko1.itch.io/nobu",
-				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1725892",
-				"by_list": [
-					"Niko"
-				],
-				"by_link_list": [
-					"https://0niko1.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.864,
-				"ilscore": 52,
-				"submission_time_diff": -42668000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Koro",
-				"title_link": "https://0niko1.itch.io/koro",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1607841",
-				"by_list": [
-					"Niko"
-				],
-				"by_link_list": [
-					"https://0niko1.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 30,
-				"score": 3.333,
-				"ilscore": 90,
-				"submission_time_diff": -32688000
-			}
-		]
-	},
-	{
 		"jammer": "Bernique",
 		"jammer_link": "https://bernique.itch.io/",
 		"game_list_sorted": [
@@ -2650,8 +2602,8 @@
 		]
 	},
 	{
-		"jammer": "KaiKaoMoa",
-		"jammer_link": "https://kaikaomoa.itch.io/",
+		"jammer": "MoaNuiLoa",
+		"jammer_link": "https://moanuiloa.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2660,13 +2612,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
 				"jam_vs": 214,
 				"title": "Ebb Tides",
-				"title_link": "https://kaikaomoa.itch.io/ebb-tides",
+				"title_link": "https://moanuiloa.itch.io/ebb-tides",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1606419",
 				"by_list": [
-					"KaiKaoMoa"
+					"MoaNuiLoa"
 				],
 				"by_link_list": [
-					"https://kaikaomoa.itch.io/"
+					"https://moanuiloa.itch.io/"
 				],
 				"rank": 156,
 				"ratings": 2,
@@ -3367,6 +3319,37 @@
 	{
 		"jammer": "UhGoomba",
 		"jammer_link": "https://uhgoomba.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 214,
+				"title": "Nayra's Cave",
+				"title_link": "https://uhgoomba.itch.io/nyras-cave",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609708",
+				"by_list": [
+					"UhGoomba",
+					"ThePoisonDartFrog",
+					"ApolloPlease36"
+				],
+				"by_link_list": [
+					"https://uhgoomba.itch.io/",
+					"https://thepoisondartfrog.itch.io/",
+					"https://apolloplease36.itch.io/"
+				],
+				"rank": 180,
+				"ratings": 2,
+				"score": 1.67,
+				"ilscore": 45,
+				"submission_time_diff": 41137000
+			}
+		]
+	},
+	{
+		"jammer": "ThePoisonDartFrog",
+		"jammer_link": "https://thepoisondartfrog.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

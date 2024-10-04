@@ -1,74 +1,5 @@
 [
 	{
-		"jammer": "Under Three",
-		"jammer_link": "https://underthree.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "Untitled Market: Your Pregnant Wife Makes You Go To The Store In The Evening After Work",
-				"title_link": "https://underthree.itch.io/untitle-market",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1364798",
-				"by_list": [
-					"Under Three"
-				],
-				"by_link_list": [
-					"https://underthree.itch.io/"
-				],
-				"rank": 51,
-				"ratings": 11,
-				"score": 3.023,
-				"ilscore": 64,
-				"submission_time_diff": -816000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
-				"title": "The Famous Jack Ronald And The Acid Lakes",
-				"title_link": "https://underthree.itch.io/the-famous-jack-ronald-and-acidic-lakes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564111",
-				"by_list": [
-					"Under Three"
-				],
-				"by_link_list": [
-					"https://underthree.itch.io/"
-				],
-				"rank": 61,
-				"ratings": 11,
-				"score": 3.227,
-				"ilscore": 86,
-				"submission_time_diff": -4482000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
-				"title": "Dolphichads",
-				"title_link": "https://underthree.itch.io/dolphichads",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572415",
-				"by_list": [
-					"Under Three"
-				],
-				"by_link_list": [
-					"https://underthree.itch.io/"
-				],
-				"rank": 129,
-				"ratings": 19,
-				"score": 2.711,
-				"ilscore": 73,
-				"submission_time_diff": -204000
-			}
-		]
-	},
-	{
 		"jammer": "Emmally",
 		"jammer_link": "https://emmally.itch.io/",
 		"game_list_sorted": [
@@ -404,7 +335,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Below Rooms",
 				"title_link": "https://aizeir.itch.io/below-rooms",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482360",
@@ -3866,6 +3797,75 @@
 				"score": 3.45,
 				"ilscore": 99,
 				"submission_time_diff": -31789000
+			}
+		]
+	},
+	{
+		"jammer": "Kmakaroni",
+		"jammer_link": "https://kmakaroni.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Box Overload",
+				"title_link": "https://kmakaroni.itch.io/box-overload",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409317",
+				"by_list": [
+					"Kmakaroni"
+				],
+				"by_link_list": [
+					"https://kmakaroni.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 37,
+				"score": 3.845,
+				"ilscore": 94,
+				"submission_time_diff": -22915000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Ghosts and Bullets",
+				"title_link": "https://kmakaroni.itch.io/ghosts-and-bullets",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1467688",
+				"by_list": [
+					"Kmakaroni"
+				],
+				"by_link_list": [
+					"https://kmakaroni.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 15,
+				"score": 3.4,
+				"ilscore": 80,
+				"submission_time_diff": -60957000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "A Normal Day For a Bird",
+				"title_link": "https://kmakaroni.itch.io/anormaldayforabird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1387817",
+				"by_list": [
+					"Kmakaroni"
+				],
+				"by_link_list": [
+					"https://kmakaroni.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 48,
+				"score": 3.411,
+				"ilscore": 98,
+				"submission_time_diff": -49087000
 			}
 		]
 	}
