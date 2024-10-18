@@ -1,5 +1,119 @@
 [
 	{
+		"jammer": "Splattie",
+		"jammer_link": "https://splattie.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"jam_vs": 37,
+				"title": "Mayfly PI",
+				"title_link": "https://nothing-d.itch.io/mayfly-pi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1705879",
+				"by_list": [
+					"Nothing",
+					"Splattie",
+					"unseconds"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/",
+					"https://unseconds.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 15,
+				"score": 4.217,
+				"ilscore": 52,
+				"submission_time_diff": 346000
+			}
+		]
+	},
+	{
+		"jammer": "Junebug",
+		"jammer_link": "https://nightshade.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 65,
+				"jam_name": "Abandoned",
+				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
+				"jam_vs": 56,
+				"title": "Skill Drop",
+				"title_link": "https://nightshade.itch.io/skill-drop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792998",
+				"by_list": [
+					"Junebug"
+				],
+				"by_link_list": [
+					"https://nightshade.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.207,
+				"ilscore": 64,
+				"submission_time_diff": -96000
+			}
+		]
+	},
+	{
+		"jammer": "wack",
+		"jammer_link": "https://wack13.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Haunted Shotgun",
+				"title_link": "https://wack13.itch.io/haunted-shotgun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748899",
+				"by_list": [
+					"wack"
+				],
+				"by_link_list": [
+					"https://wack13.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.207,
+				"ilscore": 108,
+				"submission_time_diff": -40827000
+			}
+		]
+	},
+	{
+		"jammer": "JustCasualCoder",
+		"jammer_link": "https://justcasualcoder.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Premonitions",
+				"title_link": "https://justcasualcoder.itch.io/premonitions",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/762925",
+				"by_list": [
+					"JustCasualCoder",
+					"mattrouss"
+				],
+				"by_link_list": [
+					"https://justcasualcoder.itch.io/",
+					"https://mattrouss.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 4.194,
+				"ilscore": 88,
+				"submission_time_diff": -9680000
+			}
+		]
+	},
+	{
 		"jammer": "mattrouss",
 		"jammer_link": "https://mattrouss.itch.io/",
 		"game_list_sorted": [
@@ -37,7 +151,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
+				"jam_vs": 134,
 				"title": "Heart and Soul",
 				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
@@ -52,7 +166,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.188,
-				"ilscore": 94,
+				"ilscore": 95,
 				"submission_time_diff": -18845000
 			}
 		]
@@ -321,7 +435,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Seaside Fireflies (Game Jam Build)",
 				"title_link": "https://piggybank.itch.io/seaside-fireflies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572030",
@@ -334,7 +448,7 @@
 				"rank": 2,
 				"ratings": 13,
 				"score": 4.135,
-				"ilscore": 112,
+				"ilscore": 111,
 				"submission_time_diff": -3514000
 			}
 		]
@@ -1202,7 +1316,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "UFO: Scorpion's Curse",
 				"title_link": "https://munro.itch.io/ufo-pyramid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
@@ -1233,7 +1347,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "UFO: Scorpion's Curse",
 				"title_link": "https://munro.itch.io/ufo-pyramid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
@@ -1264,7 +1378,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "UFO: Scorpion's Curse",
 				"title_link": "https://munro.itch.io/ufo-pyramid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736386",
@@ -2077,7 +2191,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "WASD+E",
 				"title_link": "https://na-es.itch.io/wasde",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1331828",
@@ -2090,7 +2204,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 3.728,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": -66120000
 			}
 		]
@@ -2409,7 +2523,7 @@
 		]
 	},
 	{
-		"jammer": "Andrei2323",
+		"jammer": "AndreiGames",
 		"jammer_link": "https://andrei2323.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2422,7 +2536,7 @@
 				"title_link": "https://andrei2323.itch.io/multicactus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819556",
 				"by_list": [
-					"Andrei2323",
+					"AndreiGames",
 					"TIN-slayer"
 				],
 				"by_link_list": [
@@ -2451,7 +2565,7 @@
 				"title_link": "https://andrei2323.itch.io/multicactus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819556",
 				"by_list": [
-					"Andrei2323",
+					"AndreiGames",
 					"TIN-slayer"
 				],
 				"by_link_list": [
@@ -2776,118 +2890,6 @@
 				"score": 4.273,
 				"ilscore": 94,
 				"submission_time_diff": -31056000
-			}
-		]
-	},
-	{
-		"jammer": "Loading Pine",
-		"jammer_link": "https://loadingpine.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 100,
-				"title": "Mitten",
-				"title_link": "https://loadingpine.itch.io/mitten",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808305",
-				"by_list": [
-					"Loading Pine"
-				],
-				"by_link_list": [
-					"https://loadingpine.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 20,
-				"score": 4.25,
-				"ilscore": 85,
-				"submission_time_diff": -80000
-			}
-		]
-	},
-	{
-		"jammer": "Team TreeFish",
-		"jammer_link": "https://team-treefish.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 76,
-				"jam_name": "Radiation",
-				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 124,
-				"title": "Baiter Master",
-				"title_link": "https://team-treefish.itch.io/baiter-master",
-				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966737",
-				"by_list": [
-					"Team TreeFish"
-				],
-				"by_link_list": [
-					"https://team-treefish.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 12,
-				"score": 4.25,
-				"ilscore": 93,
-				"submission_time_diff": -137000
-			}
-		]
-	},
-	{
-		"jammer": "yumaikas",
-		"jammer_link": "https://yumaikas.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 116,
-				"jam_name": "Pocket Sized",
-				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
-				"jam_vs": 43,
-				"title": "Gum Runner",
-				"title_link": "https://yumaikas.itch.io/gum-runner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1726663",
-				"by_list": [
-					"yumaikas",
-					"Ategon",
-					"Staintocton"
-				],
-				"by_link_list": [
-					"https://yumaikas.itch.io/",
-					"https://ategon.itch.io/",
-					"https://staintocton.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 13,
-				"score": 4.25,
-				"ilscore": 57,
-				"submission_time_diff": -21682000
-			}
-		]
-	},
-	{
-		"jammer": "Aspect - Psi",
-		"jammer_link": "https://probablyadev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "Conjuring &amp; Curating (Game Jam Edition)",
-				"title_link": "https://probablyadev.itch.io/conjuring-curating",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/948608",
-				"by_list": [
-					"Aspect - Psi"
-				],
-				"by_link_list": [
-					"https://probablyadev.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.241,
-				"ilscore": 85,
-				"submission_time_diff": -4955000
 			}
 		]
 	}

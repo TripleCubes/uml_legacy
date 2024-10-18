@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "billy",
-		"jammer_link": "https://dairydog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Dragon Oasis",
-				"title_link": "https://dairydog.itch.io/dragon-oasis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633449",
-				"by_list": [
-					"billy"
-				],
-				"by_link_list": [
-					"https://dairydog.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 10,
-				"score": 3.26,
-				"ilscore": 50,
-				"submission_time_diff": -806000
-			}
-		]
-	},
-	{
 		"jammer": "DayHam",
 		"jammer_link": "https://day-ham.itch.io/",
 		"game_list_sorted": [
@@ -135,7 +108,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "MATCH MASH",
 				"title_link": "https://luismint.itch.io/match-mash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880262",
@@ -158,7 +131,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "Gunpowder Farmer",
 				"title_link": "https://substandardshrimp.itch.io/gunpowder-farmer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736998",
@@ -171,7 +144,7 @@
 				"rank": 8,
 				"ratings": 16,
 				"score": 3.656,
-				"ilscore": 53,
+				"ilscore": 52,
 				"submission_time_diff": -29151000
 			},
 			{
@@ -538,7 +511,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "OVizier",
 				"title_link": "https://dyludiumdigital.itch.io/ovizier",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738239",
@@ -580,7 +553,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "The Akhenaken Temple Raid",
 				"title_link": "https://dyludiumdigital.itch.io/pharaoh-temple-raid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880350",
@@ -3721,7 +3694,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "DUAT",
 				"title_link": "https://posly.itch.io/duat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738865",
@@ -3734,7 +3707,7 @@
 				"rank": 40,
 				"ratings": 7,
 				"score": 2.204,
-				"ilscore": 32,
+				"ilscore": 31,
 				"submission_time_diff": -1645000
 			},
 			{
@@ -3865,6 +3838,33 @@
 				"score": 1.63,
 				"ilscore": 31,
 				"submission_time_diff": -96120000
+			}
+		]
+	},
+	{
+		"jammer": "KAWJstudios",
+		"jammer_link": "https://kawjstudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "Memory Lane",
+				"title_link": "https://kawjstudios.itch.io/memory-lane",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647455",
+				"by_list": [
+					"KAWJstudios"
+				],
+				"by_link_list": [
+					"https://kawjstudios.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 3,
+				"score": 1.63,
+				"ilscore": 31,
+				"submission_time_diff": -3365000
 			}
 		]
 	}

@@ -1,5 +1,84 @@
 [
 	{
+		"jammer": "soelna",
+		"jammer_link": "https://soelna.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Pengi on Ice",
+				"title_link": "https://soelna.itch.io/pengionice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888292",
+				"by_list": [
+					"soelna",
+					"Xanashea"
+				],
+				"by_link_list": [
+					"https://soelna.itch.io/",
+					"https://xanashea.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 21,
+				"score": 4.071,
+				"ilscore": 86,
+				"submission_time_diff": -6769000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 76,
+				"title": "Spectrecular",
+				"title_link": "https://soelna.itch.io/spectrecular",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999309",
+				"by_list": [
+					"soelna",
+					"Stegoratops",
+					"Xanashea"
+				],
+				"by_link_list": [
+					"https://soelna.itch.io/",
+					"https://stegoratops.itch.io/",
+					"https://xanashea.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.708,
+				"ilscore": 65,
+				"submission_time_diff": -7851000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Redemption Arc",
+				"title_link": "https://soelna.itch.io/redemptionarc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810427",
+				"by_list": [
+					"soelna",
+					"Stegoratops",
+					"Xanashea"
+				],
+				"by_link_list": [
+					"https://soelna.itch.io/",
+					"https://stegoratops.itch.io/",
+					"https://xanashea.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 8,
+				"score": 3.25,
+				"ilscore": 49,
+				"submission_time_diff": -11000
+			}
+		]
+	},
+	{
 		"jammer": "Xanashea",
 		"jammer_link": "https://xanashea.itch.io/",
 		"game_list_sorted": [
@@ -814,7 +893,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Mini Jam 71 - Turtle, Rabbit, Hedgehog",
 				"title_link": "https://k3nzngtn.itch.io/turtle-rabbit-hedgehog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880002",
@@ -1197,6 +1276,79 @@
 				"score": 3.739,
 				"ilscore": 96,
 				"submission_time_diff": -13743000
+			}
+		]
+	},
+	{
+		"jammer": "TheMKDev",
+		"jammer_link": "https://themkdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 39,
+				"title": "Sosigian Surf",
+				"title_link": "https://themkdev2.itch.io/sosigian-surf",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006857",
+				"by_list": [
+					"TheMKDev2",
+					"TheMKDev"
+				],
+				"by_link_list": [
+					"https://themkdev2.itch.io/",
+					"https://themkdev.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 9,
+				"score": 3,
+				"ilscore": 38,
+				"submission_time_diff": -10404000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 46,
+				"title": "An Eye For The Sky",
+				"title_link": "https://themkdev.itch.io/an-eye-for-the-sky",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3037501",
+				"by_list": [
+					"TheMKDev",
+					"Detective Nuts"
+				],
+				"by_link_list": [
+					"https://themkdev.itch.io/",
+					"https://detective-nuts.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 13,
+				"score": 2.962,
+				"ilscore": 41,
+				"submission_time_diff": -10843000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 120,
+				"jam_name": "Hell",
+				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
+				"jam_vs": 55,
+				"title": "Frog's Climb",
+				"title_link": "https://themkdev.itch.io/fc",
+				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810609",
+				"by_list": [
+					"TheMKDev"
+				],
+				"by_link_list": [
+					"https://themkdev.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 16,
+				"score": 3.172,
+				"ilscore": 48,
+				"submission_time_diff": -20863000
 			}
 		]
 	},
@@ -1617,7 +1769,7 @@
 				"jam_id": 3,
 				"jam_name": "Salvage, Darkness",
 				"jam_link": "https://itch.io/jam/mini-jam3rdedition",
-				"jam_vs": 15,
+				"jam_vs": 14,
 				"title": "Shards of Reality",
 				"title_link": "https://pandaik.itch.io/shards-of-reality",
 				"submission_page_link": "https://itch.io/jam/mini-jam3rdedition/rate/264757",
@@ -1630,7 +1782,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 0.556,
-				"ilscore": 4,
+				"ilscore": 3,
 				"submission_time_diff": 60495000
 			}
 		]
@@ -2155,7 +2307,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -2179,7 +2331,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -2213,7 +2365,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -2237,7 +2389,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -2256,7 +2408,7 @@
 		]
 	},
 	{
-		"jammer": "Loona",
+		"jammer": "Lena",
 		"jammer_link": "https://loonadev.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2271,7 +2423,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -2295,7 +2447,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -2844,58 +2996,6 @@
 	{
 		"jammer": "Snycent",
 		"jammer_link": "https://snycent.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Grow Dungeon",
-				"title_link": "https://wuffmakesgames.itch.io/grow-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431495",
-				"by_list": [
-					"WuffMakesGames",
-					"Snycent"
-				],
-				"by_link_list": [
-					"https://wuffmakesgames.itch.io/",
-					"https://snycent.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.13,
-				"ilscore": 95,
-				"submission_time_diff": -4753000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Death Dungeon",
-				"title_link": "https://snycent.itch.io/death-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259149",
-				"by_list": [
-					"Snycent",
-					"WuffMakesGames"
-				],
-				"by_link_list": [
-					"https://snycent.itch.io/",
-					"https://wuffmakesgames.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 29,
-				"score": 4.103,
-				"ilscore": 86,
-				"submission_time_diff": -7577000
-			}
-		]
-	},
-	{
-		"jammer": "WuffMakesGames",
-		"jammer_link": "https://wuffmakesgames.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3546,7 +3646,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "One-Hit Shovel",
 				"title_link": "https://trash-can.itch.io/one-hit-shovel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572576",
@@ -3559,7 +3659,7 @@
 				"rank": 2,
 				"ratings": 13,
 				"score": 4.135,
-				"ilscore": 112,
+				"ilscore": 111,
 				"submission_time_diff": 2096000
 			},
 			{
@@ -4571,7 +4671,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "MATCH MASH",
 				"title_link": "https://luismint.itch.io/match-mash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880262",
@@ -5442,7 +5542,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 157,
+				"jam_vs": 156,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -5532,54 +5632,6 @@
 				"score": 4.008,
 				"ilscore": 84,
 				"submission_time_diff": -17720000
-			}
-		]
-	},
-	{
-		"jammer": "Joe Daywalt",
-		"jammer_link": "https://joedaywalt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 68,
-				"jam_name": "Sleep",
-				"jam_link": "https://itch.io/jam/mini-jam-68-sleep",
-				"jam_vs": 62,
-				"title": "Mini Jam 68: Sleep (No Text)",
-				"title_link": "https://joedaywalt.itch.io/mini-jam-68-sleep-no-text",
-				"submission_page_link": "https://itch.io/jam/mini-jam-68-sleep/rate/837446",
-				"by_list": [
-					"Joe Daywalt"
-				],
-				"by_link_list": [
-					"https://joedaywalt.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 16,
-				"score": 3.906,
-				"ilscore": 63,
-				"submission_time_diff": -737000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 15,
-				"jam_name": "Technology",
-				"jam_link": "https://itch.io/jam/mini-jam-15-technology",
-				"jam_vs": 22,
-				"title": "Out of Clay (Mini Jam)",
-				"title_link": "https://joedaywalt.itch.io/out-of-clay-mini-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-15-technology/rate/332424",
-				"by_list": [
-					"Joe Daywalt"
-				],
-				"by_link_list": [
-					"https://joedaywalt.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 15,
-				"score": 3.583,
-				"ilscore": 33,
-				"submission_time_diff": -5624000
 			}
 		]
 	}

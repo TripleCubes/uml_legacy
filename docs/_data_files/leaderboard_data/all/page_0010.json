@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "cnatalo",
-		"jammer_link": "https://cnatalo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 24,
-				"jam_name": "Space",
-				"jam_link": "https://itch.io/jam/mini-jam-24-space",
-				"jam_vs": 56,
-				"title": "Earth Attack",
-				"title_link": "https://cnatalo.itch.io/earth-attack",
-				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395822",
-				"by_list": [
-					"cnatalo",
-					"ObvTago",
-					"Thayson Coutinho"
-				],
-				"by_link_list": [
-					"https://cnatalo.itch.io/",
-					"https://obvtago.itch.io/",
-					"https://thay2son.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 6,
-				"score": 3.69,
-				"ilscore": 56,
-				"submission_time_diff": -6398000
-			}
-		]
-	},
-	{
 		"jammer": "ObvTago",
 		"jammer_link": "https://obvtago.itch.io/",
 		"game_list_sorted": [
@@ -434,7 +403,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
 				"title_link": "https://solroo.itch.io/puzzle-reign",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
@@ -499,7 +468,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "ANCIENT",
 				"title_link": "https://solroo.itch.io/codename-ancient-aliens",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736941",
@@ -512,7 +481,7 @@
 				"rank": 10,
 				"ratings": 22,
 				"score": 3.523,
-				"ilscore": 51,
+				"ilscore": 50,
 				"submission_time_diff": -26632000
 			},
 			{
@@ -2654,7 +2623,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Ricochet",
 				"title_link": "https://astavie.itch.io/ricochet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880127",
@@ -3483,7 +3452,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "Sphinx: Half-Cat/Half-Man",
 				"title_link": "https://mustachelincoln.itch.io/sphinx-half-cat-half-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736482",
@@ -3498,7 +3467,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 4.217,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -2025000
 			},
 			{
@@ -4653,6 +4622,33 @@
 				"score": 1.667,
 				"ilscore": 16,
 				"submission_time_diff": -41757000
+			}
+		]
+	},
+	{
+		"jammer": "Final Render Animation Studio",
+		"jammer_link": "https://cleowillo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"jam_vs": 24,
+				"title": "The Celebration",
+				"title_link": "https://cleowillo.itch.io/the-celebration",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418455",
+				"by_list": [
+					"Final Render Animation Studio"
+				],
+				"by_link_list": [
+					"https://cleowillo.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 2,
+				"score": 1.667,
+				"ilscore": 16,
+				"submission_time_diff": -289000
 			}
 		]
 	}

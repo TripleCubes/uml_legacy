@@ -845,7 +845,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "ReCursed",
 				"title_link": "https://reedsx20.itch.io/recursed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738672",
@@ -858,7 +858,7 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 3.729,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -693000
 			},
 			{
@@ -998,7 +998,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Tile Knight",
 				"title_link": "https://ilprinni.itch.io/tile-knight-minijam71",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879568",
@@ -1011,7 +1011,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 4.354,
-				"ilscore": 84,
+				"ilscore": 83,
 				"submission_time_diff": -14653000
 			},
 			{
@@ -1652,7 +1652,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
 				"title_link": "https://solroo.itch.io/puzzle-reign",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
@@ -1798,7 +1798,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Auroth",
 				"title_link": "https://sodoj.itch.io/auroth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572469",
@@ -1815,8 +1815,129 @@
 				"rank": 4,
 				"ratings": 40,
 				"score": 4.063,
-				"ilscore": 110,
+				"ilscore": 109,
 				"submission_time_diff": -1057000
+			}
+		]
+	},
+	{
+		"jammer": "Elyon",
+		"jammer_link": "https://elyon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 28,
+				"jam_name": "Pirates",
+				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
+				"jam_vs": 38,
+				"title": "PiRATS",
+				"title_link": "https://elyon.itch.io/pirats",
+				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425784",
+				"by_list": [
+					"Elyon",
+					"FmladGames"
+				],
+				"by_link_list": [
+					"https://elyon.itch.io/",
+					"https://fmlad.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 18,
+				"score": 3.625,
+				"ilscore": 45,
+				"submission_time_diff": -3526000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 25,
+				"jam_name": "Spirits",
+				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
+				"jam_vs": 45,
+				"title": "Songs of Change",
+				"title_link": "https://joydeluxe.itch.io/songs-of-change",
+				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402439",
+				"by_list": [
+					"Joy Deluxe",
+					"Elyon"
+				],
+				"by_link_list": [
+					"https://joydeluxe.itch.io/",
+					"https://elyon.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 12,
+				"score": 4.125,
+				"ilscore": 57,
+				"submission_time_diff": -21285000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"jam_vs": 138,
+				"title": "Astrocat",
+				"title_link": "https://elyon.itch.io/astrocat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984182",
+				"by_list": [
+					"Elyon",
+					"FmladGames"
+				],
+				"by_link_list": [
+					"https://elyon.itch.io/",
+					"https://fmlad.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 22,
+				"score": 3.773,
+				"ilscore": 86,
+				"submission_time_diff": -2566000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 46,
+				"title": "For Whom Time Tolls",
+				"title_link": "https://wuffmakesgames.itch.io/for-whom-time-tolls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3037564",
+				"by_list": [
+					"WuffMakesGames",
+					"Elyon"
+				],
+				"by_link_list": [
+					"https://wuffmakesgames.itch.io/",
+					"https://elyon.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 9,
+				"score": 3.583,
+				"ilscore": 50,
+				"submission_time_diff": -236000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 49,
+				"jam_name": "Seasons",
+				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
+				"jam_vs": 18,
+				"title": "Doodle Planets",
+				"title_link": "https://elyon.itch.io/doodle-planets",
+				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583825",
+				"by_list": [
+					"Elyon",
+					"Joy Deluxe"
+				],
+				"by_link_list": [
+					"https://elyon.itch.io/",
+					"https://joydeluxe.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 14,
+				"score": 3.229,
+				"ilscore": 26,
+				"submission_time_diff": -39805000
 			}
 		]
 	},
@@ -2221,7 +2342,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "Sphinx: Half-Cat/Half-Man",
 				"title_link": "https://mustachelincoln.itch.io/sphinx-half-cat-half-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736482",
@@ -2236,7 +2357,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 4.217,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -2025000
 			},
 			{
@@ -2386,7 +2507,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Auroth",
 				"title_link": "https://sodoj.itch.io/auroth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572469",
@@ -2403,7 +2524,7 @@
 				"rank": 4,
 				"ratings": 40,
 				"score": 4.063,
-				"ilscore": 110,
+				"ilscore": 109,
 				"submission_time_diff": -1057000
 			}
 		]
@@ -2495,104 +2616,6 @@
 				"score": 4.081,
 				"ilscore": 83,
 				"submission_time_diff": -38891000
-			}
-		]
-	},
-	{
-		"jammer": "Elyon",
-		"jammer_link": "https://elyon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 28,
-				"jam_name": "Pirates",
-				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
-				"jam_vs": 38,
-				"title": "PiRATS",
-				"title_link": "https://elyon.itch.io/pirats",
-				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425784",
-				"by_list": [
-					"Elyon",
-					"FmladGames"
-				],
-				"by_link_list": [
-					"https://elyon.itch.io/",
-					"https://fmlad.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 18,
-				"score": 3.625,
-				"ilscore": 45,
-				"submission_time_diff": -3526000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 25,
-				"jam_name": "Spirits",
-				"jam_link": "https://itch.io/jam/mini-jam-25-spirits",
-				"jam_vs": 45,
-				"title": "Songs of Change",
-				"title_link": "https://joydeluxe.itch.io/songs-of-change",
-				"submission_page_link": "https://itch.io/jam/mini-jam-25-spirits/rate/402439",
-				"by_list": [
-					"Joy Deluxe",
-					"Elyon"
-				],
-				"by_link_list": [
-					"https://joydeluxe.itch.io/",
-					"https://elyon.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 12,
-				"score": 4.125,
-				"ilscore": 57,
-				"submission_time_diff": -21285000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 138,
-				"title": "Astrocat",
-				"title_link": "https://elyon.itch.io/astrocat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984182",
-				"by_list": [
-					"Elyon",
-					"FmladGames"
-				],
-				"by_link_list": [
-					"https://elyon.itch.io/",
-					"https://fmlad.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 22,
-				"score": 3.773,
-				"ilscore": 86,
-				"submission_time_diff": -2566000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"jam_vs": 18,
-				"title": "Doodle Planets",
-				"title_link": "https://elyon.itch.io/doodle-planets",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/583825",
-				"by_list": [
-					"Elyon",
-					"Joy Deluxe"
-				],
-				"by_link_list": [
-					"https://elyon.itch.io/",
-					"https://joydeluxe.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 14,
-				"score": 3.229,
-				"ilscore": 26,
-				"submission_time_diff": -39805000
 			}
 		]
 	},
@@ -3214,7 +3237,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 157,
+				"jam_vs": 156,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -3270,7 +3293,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
+				"jam_vs": 134,
 				"title": "Heart and Soul",
 				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
@@ -3285,7 +3308,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.188,
-				"ilscore": 94,
+				"ilscore": 95,
 				"submission_time_diff": -18845000
 			},
 			{
@@ -3769,6 +3792,81 @@
 		]
 	},
 	{
+		"jammer": "WuffMakesGames",
+		"jammer_link": "https://wuffmakesgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Grow Dungeon",
+				"title_link": "https://wuffmakesgames.itch.io/grow-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431495",
+				"by_list": [
+					"WuffMakesGames",
+					"Snycent"
+				],
+				"by_link_list": [
+					"https://wuffmakesgames.itch.io/",
+					"https://snycent.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 27,
+				"score": 4.13,
+				"ilscore": 95,
+				"submission_time_diff": -4753000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "Death Dungeon",
+				"title_link": "https://snycent.itch.io/death-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259149",
+				"by_list": [
+					"Snycent",
+					"WuffMakesGames"
+				],
+				"by_link_list": [
+					"https://snycent.itch.io/",
+					"https://wuffmakesgames.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 29,
+				"score": 4.103,
+				"ilscore": 86,
+				"submission_time_diff": -7577000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 46,
+				"title": "For Whom Time Tolls",
+				"title_link": "https://wuffmakesgames.itch.io/for-whom-time-tolls",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3037564",
+				"by_list": [
+					"WuffMakesGames",
+					"Elyon"
+				],
+				"by_link_list": [
+					"https://wuffmakesgames.itch.io/",
+					"https://elyon.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 9,
+				"score": 3.583,
+				"ilscore": 50,
+				"submission_time_diff": -236000
+			}
+		]
+	},
+	{
 		"jammer": "juunishi master",
 		"jammer_link": "https://juunishi-master.itch.io/",
 		"game_list_sorted": [
@@ -3990,7 +4088,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Auroth",
 				"title_link": "https://sodoj.itch.io/auroth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572469",
@@ -4007,7 +4105,7 @@
 				"rank": 4,
 				"ratings": 40,
 				"score": 4.063,
-				"ilscore": 110,
+				"ilscore": 109,
 				"submission_time_diff": -1057000
 			},
 			{
@@ -4510,7 +4608,7 @@
 				"jam_id": 3,
 				"jam_name": "Salvage, Darkness",
 				"jam_link": "https://itch.io/jam/mini-jam3rdedition",
-				"jam_vs": 15,
+				"jam_vs": 14,
 				"title": "Shards of Reality",
 				"title_link": "https://pandaik.itch.io/shards-of-reality",
 				"submission_page_link": "https://itch.io/jam/mini-jam3rdedition/rate/264757",
@@ -4523,7 +4621,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 0.556,
-				"ilscore": 4,
+				"ilscore": 3,
 				"submission_time_diff": 60495000
 			}
 		]
@@ -4887,7 +4985,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "Sphinx: Half-Cat/Half-Man",
 				"title_link": "https://mustachelincoln.itch.io/sphinx-half-cat-half-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/736482",
@@ -4902,7 +5000,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 4.217,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -2025000
 			},
 			{
@@ -4929,6 +5027,54 @@
 				"score": 4.231,
 				"ilscore": 69,
 				"submission_time_diff": -20722000
+			}
+		]
+	},
+	{
+		"jammer": "LaggyFox",
+		"jammer_link": "https://laggyfox.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 165,
+				"jam_name": "Paint",
+				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
+				"jam_vs": 45,
+				"title": "Slime Splash",
+				"title_link": "https://laggyfox.itch.io/color-splash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2904630",
+				"by_list": [
+					"LaggyFox"
+				],
+				"by_link_list": [
+					"https://laggyfox.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.321,
+				"ilscore": 59,
+				"submission_time_diff": -33208000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 46,
+				"title": "Raccooship",
+				"title_link": "https://laggyfox.itch.io/raccooship",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3036827",
+				"by_list": [
+					"LaggyFox"
+				],
+				"by_link_list": [
+					"https://laggyfox.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 10,
+				"score": 3.775,
+				"ilscore": 52,
+				"submission_time_diff": -33697000
 			}
 		]
 	},
@@ -5510,7 +5656,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
+				"jam_vs": 134,
 				"title": "HopSwap",
 				"title_link": "https://misspeltpengin.itch.io/hopswap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092523",
@@ -5652,7 +5798,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -5676,7 +5822,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -5710,7 +5856,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -5734,7 +5880,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -5753,7 +5899,7 @@
 		]
 	},
 	{
-		"jammer": "Loona",
+		"jammer": "Lena",
 		"jammer_link": "https://loonadev.itch.io/",
 		"game_list_sorted": [
 			{
@@ -5768,7 +5914,7 @@
 				"by_list": [
 					"Berecik",
 					"TheZiutaPL",
-					"Loona"
+					"Lena"
 				],
 				"by_link_list": [
 					"https://berecik.itch.io/",
@@ -5792,7 +5938,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226508",
 				"by_list": [
 					"Berecik",
-					"Loona",
+					"Lena",
 					"Alex0_qq",
 					"TheZiutaPL"
 				],
@@ -6734,7 +6880,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 157,
+				"jam_vs": 156,
 				"title": "THE TRIAL",
 				"title_link": "https://olanti.itch.io/the-trial",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459743",
@@ -6747,7 +6893,7 @@
 				"rank": 4,
 				"ratings": 7,
 				"score": 4.143,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -12242000
 			}
 		]
@@ -7099,58 +7245,6 @@
 		]
 	},
 	{
-		"jammer": "WuffMakesGames",
-		"jammer_link": "https://wuffmakesgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Grow Dungeon",
-				"title_link": "https://wuffmakesgames.itch.io/grow-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431495",
-				"by_list": [
-					"WuffMakesGames",
-					"Snycent"
-				],
-				"by_link_list": [
-					"https://wuffmakesgames.itch.io/",
-					"https://snycent.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.13,
-				"ilscore": 95,
-				"submission_time_diff": -4753000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Death Dungeon",
-				"title_link": "https://snycent.itch.io/death-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259149",
-				"by_list": [
-					"Snycent",
-					"WuffMakesGames"
-				],
-				"by_link_list": [
-					"https://snycent.itch.io/",
-					"https://wuffmakesgames.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 29,
-				"score": 4.103,
-				"ilscore": 86,
-				"submission_time_diff": -7577000
-			}
-		]
-	},
-	{
 		"jammer": "blanketc",
 		"jammer_link": "https://blanketc.itch.io/",
 		"game_list_sorted": [
@@ -7251,54 +7345,6 @@
 				"score": 3.99,
 				"ilscore": 88,
 				"submission_time_diff": -16773000
-			}
-		]
-	},
-	{
-		"jammer": "Rufflesworth",
-		"jammer_link": "https://rufflesworth.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 152,
-				"jam_name": "Heroes",
-				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
-				"title": "MrTwoItems",
-				"title_link": "https://rufflesworth.itch.io/mrtwoitems",
-				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537755",
-				"by_list": [
-					"Rufflesworth"
-				],
-				"by_link_list": [
-					"https://rufflesworth.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 9,
-				"score": 4.139,
-				"ilscore": 57,
-				"submission_time_diff": -457000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "Time For Speed (Jam Version)",
-				"title_link": "https://rufflesworth.itch.io/timeforspeedjamversion",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932204",
-				"by_list": [
-					"Rufflesworth"
-				],
-				"by_link_list": [
-					"https://rufflesworth.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 17,
-				"score": 4.015,
-				"ilscore": 72,
-				"submission_time_diff": -7707000
 			}
 		]
 	}

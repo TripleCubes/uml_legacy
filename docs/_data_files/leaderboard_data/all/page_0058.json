@@ -1,161 +1,5 @@
 [
 	{
-		"jammer": "Cactus",
-		"jammer_link": "https://r1ze.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Darks Mirrors",
-				"title_link": "https://r1ze.itch.io/darks-mirrors",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1468358",
-				"by_list": [
-					"Cactus"
-				],
-				"by_link_list": [
-					"https://r1ze.itch.io/"
-				],
-				"rank": 124,
-				"ratings": 4,
-				"score": 2.166,
-				"ilscore": 51,
-				"submission_time_diff": -51161000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Vamera Dream Cristal",
-				"title_link": "https://r1ze.itch.io/vamera-dream-cristal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430639",
-				"by_list": [
-					"Cactus"
-				],
-				"by_link_list": [
-					"https://r1ze.itch.io/"
-				],
-				"rank": 146,
-				"ratings": 2,
-				"score": 1.002,
-				"ilscore": 23,
-				"submission_time_diff": 1078000
-			}
-		]
-	},
-	{
-		"jammer": "Hades_Slayer",
-		"jammer_link": "https://hades-slayer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Time To Go Yeast Mode",
-				"title_link": "https://hades-slayer.itch.io/time-to-go-yeast-mode",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1430000",
-				"by_list": [
-					"Hades_Slayer"
-				],
-				"by_link_list": [
-					"https://hades-slayer.itch.io/"
-				],
-				"rank": 148,
-				"ratings": 4,
-				"score": 0.875,
-				"ilscore": 20,
-				"submission_time_diff": 81868000
-			}
-		]
-	},
-	{
-		"jammer": "hxpmods",
-		"jammer_link": "https://hxpmods.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Bit World",
-				"title_link": "https://hxpmods.itch.io/bit-world2",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431500",
-				"by_list": [
-					"hxpmods"
-				],
-				"by_link_list": [
-					"https://hxpmods.itch.io/"
-				],
-				"rank": 149,
-				"ratings": 2,
-				"score": 0.707,
-				"ilscore": 16,
-				"submission_time_diff": -5533000
-			}
-		]
-	},
-	{
-		"jammer": "damkamurka",
-		"jammer_link": "https://damkamurka.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "MikesMine",
-				"title_link": "https://damkamurka.itch.io/mikes",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431146",
-				"by_list": [
-					"damkamurka"
-				],
-				"by_link_list": [
-					"https://damkamurka.itch.io/"
-				],
-				"rank": 150,
-				"ratings": 2,
-				"score": 0.648,
-				"ilscore": 15,
-				"submission_time_diff": -22243000
-			}
-		]
-	},
-	{
-		"jammer": "nolan dev",
-		"jammer_link": "https://nolan-dev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "1 gun",
-				"title_link": "https://nolan-dev.itch.io/1-gun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1429310",
-				"by_list": [
-					"nolan dev"
-				],
-				"by_link_list": [
-					"https://nolan-dev.itch.io/"
-				],
-				"rank": 152,
-				"ratings": 2,
-				"score": 0.471,
-				"ilscore": 10,
-				"submission_time_diff": -132599000
-			}
-		]
-	},
-	{
 		"jammer": "Dinos4ur",
 		"jammer_link": "https://dinos4ur.itch.io/",
 		"game_list_sorted": [
@@ -1682,7 +1526,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "The Light Keeper",
 				"title_link": "https://gwelkind.itch.io/thelightkeeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571119",
@@ -3893,6 +3737,309 @@
 				"score": 2.906,
 				"ilscore": 68,
 				"submission_time_diff": -902000
+			}
+		]
+	},
+	{
+		"jammer": "Phi_Dragon",
+		"jammer_link": "https://phi-dragon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "The Star's Arena",
+				"title_link": "https://phi-dragon.itch.io/the-arena-of-stars",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1468576",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 9,
+				"score": 2.833,
+				"ilscore": 66,
+				"submission_time_diff": -42896000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 107,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-107-music",
+				"jam_vs": 94,
+				"title": "Graget",
+				"title_link": "https://phi-dragon.itch.io/graget",
+				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1551911",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 9,
+				"score": 1.997,
+				"ilscore": 39,
+				"submission_time_diff": -38882000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "A Fishy Tale",
+				"title_link": "https://phi-dragon.itch.io/a-fishy-tale",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491346",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 10,
+				"score": 2.125,
+				"ilscore": 43,
+				"submission_time_diff": -2841000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 136,
+				"title": "A Dog's Path",
+				"title_link": "https://phi-dragon.itch.io/a-dogs-path",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1510836",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 106,
+				"ratings": 7,
+				"score": 2.425,
+				"ilscore": 55,
+				"submission_time_diff": -40492000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Fear of Dreams",
+				"title_link": "https://phi-dragon.itch.io/fear-of-dreams",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572624",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 191,
+				"ratings": 4,
+				"score": 1.884,
+				"ilscore": 50,
+				"submission_time_diff": 33543000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 284,
+				"title": "Tad Pond",
+				"title_link": "https://phi-dragon.itch.io/tad-pond",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531154",
+				"by_list": [
+					"Phi_Dragon"
+				],
+				"by_link_list": [
+					"https://phi-dragon.itch.io/"
+				],
+				"rank": 202,
+				"ratings": 5,
+				"score": 2.324,
+				"ilscore": 70,
+				"submission_time_diff": 24636000
+			}
+		]
+	},
+	{
+		"jammer": "Muulk",
+		"jammer_link": "https://muulk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Night Drive",
+				"title_link": "https://muulk.itch.io/night-drive",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469748",
+				"by_list": [
+					"Muulk"
+				],
+				"by_link_list": [
+					"https://muulk.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 19,
+				"score": 2.829,
+				"ilscore": 66,
+				"submission_time_diff": -10488000
+			}
+		]
+	},
+	{
+		"jammer": ":()Vocatan",
+		"jammer_link": "https://vocatan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "Save Bob",
+				"title_link": "https://vocatan.itch.io/save-bob",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653762",
+				"by_list": [
+					":()Vocatan"
+				],
+				"by_link_list": [
+					"https://vocatan.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 10,
+				"score": 2.45,
+				"ilscore": 47,
+				"submission_time_diff": -2000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Meteorites",
+				"title_link": "https://vocatan.itch.io/meteorites",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469714",
+				"by_list": [
+					":()Vocatan"
+				],
+				"by_link_list": [
+					"https://vocatan.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 4,
+				"score": 2.784,
+				"ilscore": 65,
+				"submission_time_diff": -8069000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Get the key",
+				"title_link": "https://vocatan.itch.io/get-the-key",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1492161",
+				"by_list": [
+					":()Vocatan"
+				],
+				"by_link_list": [
+					"https://vocatan.itch.io/"
+				],
+				"rank": 88,
+				"ratings": 7,
+				"score": 2.079,
+				"ilscore": 42,
+				"submission_time_diff": 54067000
+			}
+		]
+	},
+	{
+		"jammer": "Isomorphic",
+		"jammer_link": "https://isomorphic.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 139,
+				"title": "Blood nights",
+				"title_link": "https://isomorphic.itch.io/blood-nights",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770168",
+				"by_list": [
+					"Isomorphic"
+				],
+				"by_link_list": [
+					"https://isomorphic.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 12,
+				"score": 3.188,
+				"ilscore": 73,
+				"submission_time_diff": -21614000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Shadow on the Sands",
+				"title_link": "https://isomorphic.itch.io/shadow-on-the-sands",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1470070",
+				"by_list": [
+					"Isomorphic"
+				],
+				"by_link_list": [
+					"https://isomorphic.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 10,
+				"score": 2.775,
+				"ilscore": 65,
+				"submission_time_diff": -3464000
+			}
+		]
+	},
+	{
+		"jammer": "KiraKun",
+		"jammer_link": "https://kirakun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Lightless",
+				"title_link": "https://kirakun.itch.io/lightless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1468160",
+				"by_list": [
+					"KiraKun"
+				],
+				"by_link_list": [
+					"https://kirakun.itch.io/"
+				],
+				"rank": 75,
+				"ratings": 10,
+				"score": 2.75,
+				"ilscore": 64,
+				"submission_time_diff": -62976000
 			}
 		]
 	}

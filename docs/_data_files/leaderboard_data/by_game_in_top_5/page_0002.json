@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "moonunit",
+		"jammer_link": "https://moonunit.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 40,
+				"jam_name": "Hunters",
+				"jam_link": "https://itch.io/jam/mini-jam-40-hunters",
+				"jam_vs": 35,
+				"title": "Bow Solver",
+				"title_link": "https://moonunit.itch.io/bow-solver",
+				"submission_page_link": "https://itch.io/jam/mini-jam-40-hunters/rate/510683",
+				"by_list": [
+					"moonunit"
+				],
+				"by_link_list": [
+					"https://moonunit.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.364,
+				"ilscore": 52,
+				"submission_time_diff": -114000
+			}
+		]
+	},
+	{
 		"jammer": "Riptide Realms",
 		"jammer_link": "https://riptiderealms.itch.io/",
 		"game_list_sorted": [
@@ -257,33 +284,6 @@
 				"score": 4.333,
 				"ilscore": 29,
 				"submission_time_diff": -24379000
-			}
-		]
-	},
-	{
-		"jammer": "LaggyFox",
-		"jammer_link": "https://laggyfox.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 165,
-				"jam_name": "Paint",
-				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
-				"jam_vs": 45,
-				"title": "Slime Splash",
-				"title_link": "https://laggyfox.itch.io/color-splash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2904630",
-				"by_list": [
-					"LaggyFox"
-				],
-				"by_link_list": [
-					"https://laggyfox.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 4.321,
-				"ilscore": 59,
-				"submission_time_diff": -33208000
 			}
 		]
 	},
@@ -563,7 +563,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
+				"jam_vs": 134,
 				"title": "Dungeon Shapest",
 				"title_link": "https://casualbystander.itch.io/dungeon-shapest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2094242",
@@ -576,7 +576,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.286,
-				"ilscore": 96,
+				"ilscore": 97,
 				"submission_time_diff": 71292000
 			}
 		]
@@ -1256,7 +1256,7 @@
 				"jam_id": 65,
 				"jam_name": "Abandoned",
 				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
-				"jam_vs": 57,
+				"jam_vs": 56,
 				"title": "Totally Finished Game (Game Jam Version)",
 				"title_link": "https://orangescientist1.itch.io/totally-finished-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792406",
@@ -1269,7 +1269,7 @@
 				"rank": 1,
 				"ratings": 7,
 				"score": 4.214,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -431000
 			}
 		]
@@ -2474,6 +2474,33 @@
 		]
 	},
 	{
+		"jammer": "Funny Doge",
+		"jammer_link": "https://funny-doge.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 46,
+				"title": "Time Machine",
+				"title_link": "https://funny-doge.itch.io/time-machine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3036391",
+				"by_list": [
+					"Funny Doge"
+				],
+				"by_link_list": [
+					"https://funny-doge.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 10,
+				"score": 3.95,
+				"ilscore": 55,
+				"submission_time_diff": -39330000
+			}
+		]
+	},
+	{
 		"jammer": "BACON BEAST",
 		"jammer_link": "https://bacon-beast.itch.io/",
 		"game_list_sorted": [
@@ -2590,7 +2617,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Adventuring Pixx",
 				"title_link": "https://rhaelzo.itch.io/adventuring-pixx",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332664",
@@ -2603,7 +2630,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 3.833,
-				"ilscore": 60,
+				"ilscore": 59,
 				"submission_time_diff": -1259000
 			}
 		]
@@ -2883,33 +2910,6 @@
 				"score": 0.643,
 				"ilscore": 2,
 				"submission_time_diff": -4570000
-			}
-		]
-	},
-	{
-		"jammer": "Zaphiron",
-		"jammer_link": "https://zaphiron.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 13,
-				"jam_name": "Villains",
-				"jam_link": "https://itch.io/jam/mini-jam-13-villains-",
-				"jam_vs": 3,
-				"title": "The Seven Sins (Game Jam Entry)",
-				"title_link": "https://zaphiron.itch.io/the-seven-sins-game-jam-entry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-13-villains-/rate/320048",
-				"by_list": [
-					"Zaphiron"
-				],
-				"by_link_list": [
-					"https://zaphiron.itch.io/"
-				],
-				"rank": 1,
-				"ratings": null,
-				"score": null,
-				"ilscore": 0,
-				"submission_time_diff": -1261000
 			}
 		]
 	}

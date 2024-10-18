@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Zaphiron",
+		"jammer_link": "https://zaphiron.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 13,
+				"jam_name": "Villains",
+				"jam_link": "https://itch.io/jam/mini-jam-13-villains-",
+				"jam_vs": 3,
+				"title": "The Seven Sins (Game Jam Entry)",
+				"title_link": "https://zaphiron.itch.io/the-seven-sins-game-jam-entry",
+				"submission_page_link": "https://itch.io/jam/mini-jam-13-villains-/rate/320048",
+				"by_list": [
+					"Zaphiron"
+				],
+				"by_link_list": [
+					"https://zaphiron.itch.io/"
+				],
+				"rank": 1,
+				"ratings": null,
+				"score": null,
+				"ilscore": 0,
+				"submission_time_diff": -1261000
+			}
+		]
+	},
+	{
 		"jammer": "FaunaGames",
 		"jammer_link": "https://faunagames.itch.io/",
 		"game_list_sorted": [
@@ -302,7 +329,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Puzzle Reign (a.k.a. Kingdom Tetris)",
 				"title_link": "https://solroo.itch.io/puzzle-reign",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
@@ -1025,7 +1052,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 157,
+				"jam_vs": 156,
 				"title": "Ancient Misunderstanding",
 				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
@@ -1199,7 +1226,7 @@
 				"jam_id": 65,
 				"jam_name": "Abandoned",
 				"jam_link": "https://itch.io/jam/mini-jam-65-abandoned",
-				"jam_vs": 57,
+				"jam_vs": 56,
 				"title": "Skill Drop",
 				"title_link": "https://nightshade.itch.io/skill-drop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-65-abandoned/rate/792998",
@@ -1212,7 +1239,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 4.207,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -96000
 			}
 		]
@@ -1311,7 +1338,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 133,
+				"jam_vs": 134,
 				"title": "Heart and Soul",
 				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
@@ -1326,7 +1353,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.188,
-				"ilscore": 94,
+				"ilscore": 95,
 				"submission_time_diff": -18845000
 			}
 		]
@@ -1831,7 +1858,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Seaside Fireflies (Game Jam Build)",
 				"title_link": "https://piggybank.itch.io/seaside-fireflies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572030",
@@ -1844,7 +1871,7 @@
 				"rank": 2,
 				"ratings": 13,
 				"score": 4.135,
-				"ilscore": 112,
+				"ilscore": 111,
 				"submission_time_diff": -3514000
 			}
 		]
@@ -2847,33 +2874,6 @@
 				"score": 3.95,
 				"ilscore": 78,
 				"submission_time_diff": -12987000
-			}
-		]
-	},
-	{
-		"jammer": "HarryNotWizard",
-		"jammer_link": "https://harrynotwizard.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 1,
-				"jam_name": "Break Out",
-				"jam_link": "https://itch.io/jam/mini-jam",
-				"jam_vs": 19,
-				"title": "Breakfast",
-				"title_link": "https://harrynotwizard.itch.io/breakfast",
-				"submission_page_link": "https://itch.io/jam/mini-jam/rate/255329",
-				"by_list": [
-					"HarryNotWizard"
-				],
-				"by_link_list": [
-					"https://harrynotwizard.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 13,
-				"score": 3.923,
-				"ilscore": 33,
-				"submission_time_diff": -6162000
 			}
 		]
 	}

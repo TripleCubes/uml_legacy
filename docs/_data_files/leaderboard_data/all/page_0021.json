@@ -1,50 +1,5 @@
 [
 	{
-		"jammer": "Pol Recasens",
-		"jammer_link": "https://polhostrex.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"jam_vs": 48,
-				"title": "Soul Keeper",
-				"title_link": "https://optus23.itch.io/soul-keeper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683727",
-				"by_list": [
-					"Marc Gálvez",
-					"Oriorii",
-					"Víctor Segura",
-					"didaclis",
-					"RoperoIvan",
-					"youis11",
-					"PeterMcP",
-					"Pol Recasens",
-					"Akius",
-					"christt105"
-				],
-				"by_link_list": [
-					"https://optus23.itch.io/",
-					"https://oriolcs2.itch.io/",
-					"https://victorgg-11.itch.io/",
-					"https://didaclis.itch.io/",
-					"https://roperoivan.itch.io/",
-					"https://youis11.itch.io/",
-					"https://petermcp.itch.io/",
-					"https://polhostrex.itch.io/",
-					"https://akius.itch.io/",
-					"https://christt105.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 6,
-				"score": 3.375,
-				"ilscore": 48,
-				"submission_time_diff": -2498000
-			}
-		]
-	},
-	{
 		"jammer": "Akius",
 		"jammer_link": "https://akius.itch.io/",
 		"game_list_sorted": [
@@ -354,7 +309,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "Ascension",
 				"title_link": "https://thuleanx.itch.io/ascension",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738916",
@@ -367,7 +322,7 @@
 				"rank": 30,
 				"ratings": 8,
 				"score": 2.759,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -205000
 			}
 		]
@@ -1957,7 +1912,7 @@
 				"jam_id": 108,
 				"jam_name": "Seaside",
 				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 212,
+				"jam_vs": 211,
 				"title": "Holiday Saver",
 				"title_link": "https://bardon.itch.io/holiday-saver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571869",
@@ -3576,7 +3531,7 @@
 				"jam_id": 61,
 				"jam_name": "Ancient Egypt",
 				"jam_link": "https://itch.io/jam/mini-jam-61",
-				"jam_vs": 50,
+				"jam_vs": 49,
 				"title": "The Temple of Belief",
 				"title_link": "https://darren-thibodeau.itch.io/the-temple-of-belief",
 				"submission_page_link": "https://itch.io/jam/mini-jam-61/rate/738667",
@@ -3948,6 +3903,33 @@
 				"score": 2.458,
 				"ilscore": 40,
 				"submission_time_diff": -44004000
+			}
+		]
+	},
+	{
+		"jammer": "peter_sc",
+		"jammer_link": "https://peter-sc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "Step Me Deadly",
+				"title_link": "https://peter-sc.itch.io/step-me-deadly",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726506",
+				"by_list": [
+					"peter_sc"
+				],
+				"by_link_list": [
+					"https://peter-sc.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 5,
+				"score": 2.451,
+				"ilscore": 40,
+				"submission_time_diff": -23022000
 			}
 		]
 	}

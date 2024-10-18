@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "NormandErwan",
-		"jammer_link": "https://normanderwan.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Captain Wilson",
-				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
-				"by_list": [
-					"Joan Sol ROO",
-					"Titwin",
-					"Saltadrow",
-					"clerg0",
-					"NormandErwan"
-				],
-				"by_link_list": [
-					"https://solroo.itch.io/",
-					"https://titwin.itch.io/",
-					"https://saltadrow.itch.io/",
-					"https://clerg0.itch.io/",
-					"https://normanderwan.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 4.229,
-				"ilscore": 94,
-				"submission_time_diff": -30822000
-			}
-		]
-	},
-	{
 		"jammer": "Goori",
 		"jammer_link": "https://goori.itch.io/",
 		"game_list_sorted": [
@@ -453,7 +418,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Tile Knight",
 				"title_link": "https://ilprinni.itch.io/tile-knight-minijam71",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879568",
@@ -466,7 +431,7 @@
 				"rank": 3,
 				"ratings": 12,
 				"score": 4.354,
-				"ilscore": 84,
+				"ilscore": 83,
 				"submission_time_diff": -14653000
 			},
 			{
@@ -2605,7 +2570,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Connector",
 				"title_link": "https://norberttony.itch.io/connector",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880518",
@@ -3217,7 +3182,7 @@
 				"jam_id": 71,
 				"jam_name": "Puzzles",
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 92,
+				"jam_vs": 91,
 				"title": "Shop Till It Drops",
 				"title_link": "https://alfa-labs.itch.io/minijam71",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878229",
@@ -3795,6 +3760,33 @@
 				"score": 1.133,
 				"ilscore": 25,
 				"submission_time_diff": -5713000
+			}
+		]
+	},
+	{
+		"jammer": "Eliot LE GALL",
+		"jammer_link": "https://eliot-le-gall.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Auguste Alexandre - Eliot Le Gall",
+				"title_link": "https://eliot-le-gall.itch.io/game-jam-epitech",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592595",
+				"by_list": [
+					"Eliot LE GALL"
+				],
+				"by_link_list": [
+					"https://eliot-le-gall.itch.io/"
+				],
+				"rank": 132,
+				"ratings": 1,
+				"score": 1.131,
+				"ilscore": 25,
+				"submission_time_diff": -19638000
 			}
 		]
 	}
