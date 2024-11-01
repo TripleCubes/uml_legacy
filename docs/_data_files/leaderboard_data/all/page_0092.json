@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "Donveloper Studios",
-		"jammer_link": "https://donveloper-studios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Wily Wizards",
-				"title_link": "https://donveloper-studios.itch.io/wily-wizards",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2136521",
-				"by_list": [
-					"Donveloper Studios"
-				],
-				"by_link_list": [
-					"https://donveloper-studios.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 9,
-				"score": 3.611,
-				"ilscore": 63,
-				"submission_time_diff": 119894000
-			}
-		]
-	},
-	{
-		"jammer": "Team DreamRot",
-		"jammer_link": "https://team-dreamrot.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Moonstar Keep",
-				"title_link": "https://team-dreamrot.itch.io/moonstar-keep",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2136415",
-				"by_list": [
-					"Team DreamRot",
-					"Danilock"
-				],
-				"by_link_list": [
-					"https://team-dreamrot.itch.io/",
-					"https://danilock.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 15,
-				"score": 3.517,
-				"ilscore": 61,
-				"submission_time_diff": 90015000
-			}
-		]
-	},
-	{
 		"jammer": "Danilock",
 		"jammer_link": "https://danilock.itch.io/",
 		"game_list_sorted": [
@@ -2681,7 +2625,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Inop",
 				"title_link": "https://noobernoobnoob.itch.io/inop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674889",
@@ -2694,7 +2638,7 @@
 				"rank": 50,
 				"ratings": 6,
 				"score": 3.139,
-				"ilscore": 67,
+				"ilscore": 66,
 				"submission_time_diff": -38702000
 			}
 		]
@@ -3348,6 +3292,60 @@
 				"score": 3.227,
 				"ilscore": 40,
 				"submission_time_diff": -2085000
+			}
+		]
+	},
+	{
+		"jammer": "BlueEagle421",
+		"jammer_link": "https://blueeagle421.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 37,
+				"title": "Tooth Fairy",
+				"title_link": "https://blueeagle421.itch.io/tooth-fairy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2227360",
+				"by_list": [
+					"BlueEagle421"
+				],
+				"by_link_list": [
+					"https://blueeagle421.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 17,
+				"score": 3.206,
+				"ilscore": 40,
+				"submission_time_diff": -39262000
+			}
+		]
+	},
+	{
+		"jammer": "Point Point",
+		"jammer_link": "https://pointpointstudio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 37,
+				"title": "Unlucky Penny",
+				"title_link": "https://pointpointstudio.itch.io/unluckypenny",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226685",
+				"by_list": [
+					"Point Point"
+				],
+				"by_link_list": [
+					"https://pointpointstudio.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 9,
+				"score": 3.167,
+				"ilscore": 39,
+				"submission_time_diff": 1832000
 			}
 		]
 	}

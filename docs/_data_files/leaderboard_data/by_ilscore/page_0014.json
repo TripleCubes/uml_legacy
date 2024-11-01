@@ -1,7 +1,35 @@
 [
 	{
-		"jammer": "EthanDev",
-		"jammer_link": "https://ethandalecreative.itch.io/",
+		"jammer": "Shroomius",
+		"jammer_link": "https://shroomius.itch.io/",
+		"total_ilscore": 137,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "MirrorTap",
+				"title_link": "https://shroomius.itch.io/mirrortap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1636045",
+				"by_list": [
+					"Shroomius"
+				],
+				"by_link_list": [
+					"https://shroomius.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 10,
+				"score": 4.125,
+				"ilscore": 137,
+				"submission_time_diff": 67740000
+			}
+		]
+	},
+	{
+		"jammer": "Stanislaus",
+		"jammer_link": "https://stanislaus-ss.itch.io/",
 		"total_ilscore": 137,
 		"game_list_sorted": [
 			{
@@ -10,47 +38,41 @@
 				"jam_name": "Vampires",
 				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
 				"jam_vs": 139,
-				"title": "Little Red Blood",
-				"title_link": "https://ethandalecreative.itch.io/littleredblood",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769478",
+				"title": "Broken blood",
+				"title_link": "https://stanislaus-ss.itch.io/broken-blood",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769499",
 				"by_list": [
-					"EthanDev",
-					"Javier"
+					"Stanislaus"
 				],
 				"by_link_list": [
-					"https://ethandalecreative.itch.io/",
-					"https://ventousa.itch.io/"
+					"https://stanislaus-ss.itch.io/"
 				],
-				"rank": 52,
-				"ratings": 20,
-				"score": 3.163,
-				"ilscore": 72,
-				"submission_time_diff": -1484000
+				"rank": 55,
+				"ratings": 6,
+				"score": 3.125,
+				"ilscore": 71,
+				"submission_time_diff": -44644000
 			},
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
-				"title": "Solar Bound",
-				"title_link": "https://ethandalecreative.itch.io/solar-bound",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "This is my house!",
+				"title_link": "https://stanislaus-ss.itch.io/this-is-my-house",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748633",
 				"by_list": [
-					"EthanDev",
-					"CDplaya",
-					"Denis The Menace"
+					"Stanislaus"
 				],
 				"by_link_list": [
-					"https://ethandalecreative.itch.io/",
-					"https://cdplaya.itch.io/",
-					"https://denis002.itch.io/"
+					"https://stanislaus-ss.itch.io/"
 				],
-				"rank": 11,
-				"ratings": 16,
-				"score": 3.719,
-				"ilscore": 65,
-				"submission_time_diff": -248000
+				"rank": 110,
+				"ratings": 6,
+				"score": 2.571,
+				"ilscore": 66,
+				"submission_time_diff": -53650000
 			}
 		]
 	},
@@ -960,6 +982,61 @@
 		]
 	},
 	{
+		"jammer": "EthanDev",
+		"jammer_link": "https://ethandalecreative.itch.io/",
+		"total_ilscore": 136,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 139,
+				"title": "Little Red Blood",
+				"title_link": "https://ethandalecreative.itch.io/littleredblood",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769478",
+				"by_list": [
+					"EthanDev",
+					"Javier"
+				],
+				"by_link_list": [
+					"https://ethandalecreative.itch.io/",
+					"https://ventousa.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 20,
+				"score": 3.163,
+				"ilscore": 72,
+				"submission_time_diff": -1484000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 73,
+				"title": "Solar Bound",
+				"title_link": "https://ethandalecreative.itch.io/solar-bound",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
+				"by_list": [
+					"EthanDev",
+					"CDplaya",
+					"Denis The Menace"
+				],
+				"by_link_list": [
+					"https://ethandalecreative.itch.io/",
+					"https://cdplaya.itch.io/",
+					"https://denis002.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 16,
+				"score": 3.719,
+				"ilscore": 64,
+				"submission_time_diff": -248000
+			}
+		]
+	},
+	{
 		"jammer": "Axial Studios",
 		"jammer_link": "https://axial-studios.itch.io/",
 		"total_ilscore": 136,
@@ -1005,112 +1082,6 @@
 				"score": 2.437,
 				"ilscore": 55,
 				"submission_time_diff": -6052000
-			}
-		]
-	},
-	{
-		"jammer": "gezdev",
-		"jammer_link": "https://gezdev.itch.io/",
-		"total_ilscore": 136,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
-				"title": "Babel's dungeon",
-				"title_link": "https://gezdev.itch.io/babels-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459417",
-				"by_list": [
-					"gezdev",
-					"Peter03"
-				],
-				"by_link_list": [
-					"https://gezdev.itch.io/",
-					"https://peter003.itch.io/"
-				],
-				"rank": 27,
-				"ratings": 8,
-				"score": 3.656,
-				"ilscore": 88,
-				"submission_time_diff": 35080000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 152,
-				"jam_name": "Heroes",
-				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
-				"title": "Silver shot",
-				"title_link": "https://gezdev.itch.io/silver-shot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536912",
-				"by_list": [
-					"gezdev",
-					"Peter03"
-				],
-				"by_link_list": [
-					"https://gezdev.itch.io/",
-					"https://peter003.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.481,
-				"ilscore": 48,
-				"submission_time_diff": -961000
-			}
-		]
-	},
-	{
-		"jammer": "Peter03",
-		"jammer_link": "https://peter003.itch.io/",
-		"total_ilscore": 136,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
-				"title": "Babel's dungeon",
-				"title_link": "https://gezdev.itch.io/babels-dungeon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459417",
-				"by_list": [
-					"gezdev",
-					"Peter03"
-				],
-				"by_link_list": [
-					"https://gezdev.itch.io/",
-					"https://peter003.itch.io/"
-				],
-				"rank": 27,
-				"ratings": 8,
-				"score": 3.656,
-				"ilscore": 88,
-				"submission_time_diff": 35080000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 152,
-				"jam_name": "Heroes",
-				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
-				"title": "Silver shot",
-				"title_link": "https://gezdev.itch.io/silver-shot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536912",
-				"by_list": [
-					"gezdev",
-					"Peter03"
-				],
-				"by_link_list": [
-					"https://gezdev.itch.io/",
-					"https://peter003.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 13,
-				"score": 3.481,
-				"ilscore": 48,
-				"submission_time_diff": -961000
 			}
 		]
 	},
@@ -1223,7 +1194,7 @@
 		]
 	},
 	{
-		"jammer": "Thomas O'Brien",
+		"jammer": "Thomas O'Brien (ohh_bee)",
 		"jammer_link": "https://dragen000.itch.io/",
 		"total_ilscore": 135,
 		"game_list_sorted": [
@@ -1241,7 +1212,7 @@
 					"Olin the Producer",
 					"Festus",
 					"musicallyroy",
-					"Thomas O'Brien",
+					"Thomas O'Brien (ohh_bee)",
 					"Geode890",
 					"CyclopicSpider",
 					"Atlas3D",
@@ -1277,7 +1248,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1154153",
 				"by_list": [
 					"almost_friday",
-					"Thomas O'Brien"
+					"Thomas O'Brien (ohh_bee)"
 				],
 				"by_link_list": [
 					"https://almost-friday.itch.io/",
@@ -1424,7 +1395,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Golden Skull",
 				"title_link": "https://almostalivezak.itch.io/golden-skull",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137369",
@@ -1944,7 +1915,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Glyph Knight",
 				"title_link": "https://beepone.itch.io/glyph-knight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460114",
@@ -1990,6 +1961,112 @@
 		]
 	},
 	{
+		"jammer": "gezdev",
+		"jammer_link": "https://gezdev.itch.io/",
+		"total_ilscore": 135,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 155,
+				"title": "Babel's dungeon",
+				"title_link": "https://gezdev.itch.io/babels-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459417",
+				"by_list": [
+					"gezdev",
+					"Peter03"
+				],
+				"by_link_list": [
+					"https://gezdev.itch.io/",
+					"https://peter003.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 8,
+				"score": 3.656,
+				"ilscore": 87,
+				"submission_time_diff": 35080000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 45,
+				"title": "Silver shot",
+				"title_link": "https://gezdev.itch.io/silver-shot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536912",
+				"by_list": [
+					"gezdev",
+					"Peter03"
+				],
+				"by_link_list": [
+					"https://gezdev.itch.io/",
+					"https://peter003.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.481,
+				"ilscore": 48,
+				"submission_time_diff": -961000
+			}
+		]
+	},
+	{
+		"jammer": "Peter03",
+		"jammer_link": "https://peter003.itch.io/",
+		"total_ilscore": 135,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 155,
+				"title": "Babel's dungeon",
+				"title_link": "https://gezdev.itch.io/babels-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459417",
+				"by_list": [
+					"gezdev",
+					"Peter03"
+				],
+				"by_link_list": [
+					"https://gezdev.itch.io/",
+					"https://peter003.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 8,
+				"score": 3.656,
+				"ilscore": 87,
+				"submission_time_diff": 35080000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 45,
+				"title": "Silver shot",
+				"title_link": "https://gezdev.itch.io/silver-shot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2536912",
+				"by_list": [
+					"gezdev",
+					"Peter03"
+				],
+				"by_link_list": [
+					"https://gezdev.itch.io/",
+					"https://peter003.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 13,
+				"score": 3.481,
+				"ilscore": 48,
+				"submission_time_diff": -961000
+			}
+		]
+	},
+	{
 		"jammer": "sjeeesh",
 		"jammer_link": "https://sjeeesh.itch.io/",
 		"total_ilscore": 135,
@@ -1999,7 +2076,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Alien skeleton platformer",
 				"title_link": "https://sjeeesh.itch.io/alien-skeleton-platformer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459498",
@@ -2322,7 +2399,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "We Need More Gold!",
 				"title_link": "https://rushunter.itch.io/we-need-more-gold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137514",
@@ -3146,71 +3223,6 @@
 		]
 	},
 	{
-		"jammer": "CreepyPvP",
-		"jammer_link": "https://creepypvp.itch.io/",
-		"total_ilscore": 134,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 127,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 116,
-				"title": "SplatCat",
-				"title_link": "https://gerolmed.itch.io/splatcat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955777",
-				"by_list": [
-					"Gerolmed",
-					"Olof Music",
-					"CreepyPvP",
-					"Panpukin",
-					"PsychoSkylla"
-				],
-				"by_link_list": [
-					"https://gerolmed.itch.io/",
-					"https://olofmusic.itch.io/",
-					"https://creepypvp.itch.io/",
-					"https://panpukin.itch.io/",
-					"https://psychoskylla.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 19,
-				"score": 4.092,
-				"ilscore": 87,
-				"submission_time_diff": 28086000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 169,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-169-future",
-				"jam_vs": 46,
-				"title": "Time Portal Paradox",
-				"title_link": "https://gerolmed.itch.io/time-portal-paradox",
-				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3032475",
-				"by_list": [
-					"Gerolmed",
-					"passivedragon",
-					"CreepyPvP",
-					"Myren Eario",
-					"lolli42"
-				],
-				"by_link_list": [
-					"https://gerolmed.itch.io/",
-					"https://passivedragon.itch.io/",
-					"https://creepypvp.itch.io/",
-					"https://myren-eario.itch.io/",
-					"https://lolli42.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 12,
-				"score": 3.417,
-				"ilscore": 47,
-				"submission_time_diff": -3169000
-			}
-		]
-	},
-	{
 		"jammer": "Nervous_koala",
 		"jammer_link": "https://nervous-koala.itch.io/",
 		"total_ilscore": 134,
@@ -3220,7 +3232,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Time Keeper",
 				"title_link": "https://nervous-koala.itch.io/time-keeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674006",
@@ -3584,7 +3596,7 @@
 				"jam_id": 87,
 				"jam_name": "Break",
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Demon of destruction",
 				"title_link": "https://ivan-baranov.itch.io/demon-of-destruction",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1168934",
@@ -3819,7 +3831,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "60SecondsStruggle",
 				"title_link": "https://anshumansinghvi.itch.io/60secondsstruggle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1136893",
@@ -3885,55 +3897,6 @@
 				"score": 2.418,
 				"ilscore": 57,
 				"submission_time_diff": -1344000
-			}
-		]
-	},
-	{
-		"jammer": "BotellaDeRon",
-		"jammer_link": "https://botelladeron.itch.io/",
-		"total_ilscore": 133,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
-				"title": "Drill adventure",
-				"title_link": "https://botelladeron.itch.io/drill-adventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137783",
-				"by_list": [
-					"BotellaDeRon"
-				],
-				"by_link_list": [
-					"https://botelladeron.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 7,
-				"score": 3.04,
-				"ilscore": 75,
-				"submission_time_diff": 5385000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
-				"title": "Shiro´s Nightmare",
-				"title_link": "https://botelladeron.itch.io/shiros-nightmare",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591749",
-				"by_list": [
-					"BotellaDeRon"
-				],
-				"by_link_list": [
-					"https://botelladeron.itch.io/"
-				],
-				"rank": 94,
-				"ratings": 5,
-				"score": 2.569,
-				"ilscore": 58,
-				"submission_time_diff": 931000
 			}
 		]
 	},

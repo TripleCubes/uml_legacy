@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "AskError",
-		"jammer_link": "https://askerror.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 142,
-				"jam_name": "Fortune",
-				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
-				"title": "AlienAugur",
-				"title_link": "https://darksunarts.itch.io/alienaugur",
-				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
-				"by_list": [
-					"Dark Sun Arts",
-					"AskError",
-					"Cane B"
-				],
-				"by_link_list": [
-					"https://darksunarts.itch.io/",
-					"https://askerror.itch.io/",
-					"https://cane-b.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.295,
-				"ilscore": 43,
-				"submission_time_diff": -3684000
-			}
-		]
-	},
-	{
-		"jammer": "Cane B",
-		"jammer_link": "https://cane-b.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 142,
-				"jam_name": "Fortune",
-				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
-				"title": "AlienAugur",
-				"title_link": "https://darksunarts.itch.io/alienaugur",
-				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
-				"by_list": [
-					"Dark Sun Arts",
-					"AskError",
-					"Cane B"
-				],
-				"by_link_list": [
-					"https://darksunarts.itch.io/",
-					"https://askerror.itch.io/",
-					"https://cane-b.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.295,
-				"ilscore": 43,
-				"submission_time_diff": -3684000
-			}
-		]
-	},
-	{
 		"jammer": "Wadoo_Gazoono",
 		"jammer_link": "https://wadoo-gazoono.itch.io/",
 		"game_list_sorted": [
@@ -3082,27 +3020,6 @@
 				"score": 3,
 				"ilscore": 50,
 				"submission_time_diff": -6910000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
-				"title": "RoboRun - Mini Jam 157 Entry",
-				"title_link": "https://izzet-dev.itch.io/robo-run-mini-jam-157-entry",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675895",
-				"by_list": [
-					"Izzet_Dev"
-				],
-				"by_link_list": [
-					"https://izzet-dev.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 5,
-				"score": 2.411,
-				"ilscore": 51,
-				"submission_time_diff": -10943000
 			}
 		]
 	},
@@ -3371,6 +3288,62 @@
 				"score": 2.742,
 				"ilscore": 45,
 				"submission_time_diff": 1597000
+			}
+		]
+	},
+	{
+		"jammer": "mrtsg.art",
+		"jammer_link": "https://mrtsgart.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Fall Rush (mini game JAM)",
+				"title_link": "https://mrtsgart.itch.io/fall-rush-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341029",
+				"by_list": [
+					"mrtsg.art",
+					"key878"
+				],
+				"by_link_list": [
+					"https://mrtsgart.itch.io/",
+					"https://key878.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 9,
+				"score": 2.611,
+				"ilscore": 43,
+				"submission_time_diff": -10894000
+			}
+		]
+	},
+	{
+		"jammer": "Yisus2119",
+		"jammer_link": "https://yisus2119.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Knightmare",
+				"title_link": "https://yisus2119.itch.io/knightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2346572",
+				"by_list": [
+					"Yisus2119"
+				],
+				"by_link_list": [
+					"https://yisus2119.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 3,
+				"score": 2.449,
+				"ilscore": 40,
+				"submission_time_diff": 246356000
 			}
 		]
 	}

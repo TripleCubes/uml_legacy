@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "BlueEagle421",
-		"jammer_link": "https://blueeagle421.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"jam_vs": 37,
-				"title": "Tooth Fairy",
-				"title_link": "https://blueeagle421.itch.io/tooth-fairy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2227360",
-				"by_list": [
-					"BlueEagle421"
-				],
-				"by_link_list": [
-					"https://blueeagle421.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 17,
-				"score": 3.206,
-				"ilscore": 40,
-				"submission_time_diff": -39262000
-			}
-		]
-	},
-	{
-		"jammer": "Point Point",
-		"jammer_link": "https://pointpointstudio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"jam_vs": 37,
-				"title": "Unlucky Penny",
-				"title_link": "https://pointpointstudio.itch.io/unluckypenny",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2226685",
-				"by_list": [
-					"Point Point"
-				],
-				"by_link_list": [
-					"https://pointpointstudio.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 9,
-				"score": 3.167,
-				"ilscore": 39,
-				"submission_time_diff": 1832000
-			}
-		]
-	},
-	{
 		"jammer": "Fabricio Caixeta Andriani",
 		"jammer_link": "https://fabsca.itch.io/",
 		"game_list_sorted": [
@@ -1753,7 +1699,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Ancient Research",
 				"title_link": "https://tricodeyt.itch.io/ancient-research",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460055",
@@ -3513,6 +3459,68 @@
 				"score": 2.155,
 				"ilscore": 47,
 				"submission_time_diff": -331000
+			}
+		]
+	},
+	{
+		"jammer": "AskError",
+		"jammer_link": "https://askerror.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "AlienAugur",
+				"title_link": "https://darksunarts.itch.io/alienaugur",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
+				"by_list": [
+					"Dark Sun Arts",
+					"AskError",
+					"Cane B"
+				],
+				"by_link_list": [
+					"https://darksunarts.itch.io/",
+					"https://askerror.itch.io/",
+					"https://cane-b.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.295,
+				"ilscore": 43,
+				"submission_time_diff": -3684000
+			}
+		]
+	},
+	{
+		"jammer": "Cane B",
+		"jammer_link": "https://cane-b.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "AlienAugur",
+				"title_link": "https://darksunarts.itch.io/alienaugur",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292818",
+				"by_list": [
+					"Dark Sun Arts",
+					"AskError",
+					"Cane B"
+				],
+				"by_link_list": [
+					"https://darksunarts.itch.io/",
+					"https://askerror.itch.io/",
+					"https://cane-b.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 11,
+				"score": 3.295,
+				"ilscore": 43,
+				"submission_time_diff": -3684000
 			}
 		]
 	}

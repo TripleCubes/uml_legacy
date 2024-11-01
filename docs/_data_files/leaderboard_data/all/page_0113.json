@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Adninymous",
-		"jammer_link": "https://adninymous.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Earth Rebirth: The Last Eden",
-				"title_link": "https://adninymous.itch.io/earth-rebirth-the-last-eden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2939485",
-				"by_list": [
-					"Adninymous"
-				],
-				"by_link_list": [
-					"https://adninymous.itch.io/"
-				],
-				"rank": 148,
-				"ratings": 6,
-				"score": 2.237,
-				"ilscore": 59,
-				"submission_time_diff": -123901000
-			}
-		]
-	},
-	{
-		"jammer": "ocxy224",
-		"jammer_link": "https://ocxy224.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Egg Hunters",
-				"title_link": "https://ocxy224.itch.io/egg-hunters",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944845",
-				"by_list": [
-					"ocxy224"
-				],
-				"by_link_list": [
-					"https://ocxy224.itch.io/"
-				],
-				"rank": 149,
-				"ratings": 3,
-				"score": 2.237,
-				"ilscore": 59,
-				"submission_time_diff": 99970000
-			}
-		]
-	},
-	{
 		"jammer": "JackleroqDev",
 		"jammer_link": "https://jackleroqdev.itch.io/",
 		"game_list_sorted": [
@@ -1856,8 +1802,8 @@
 		]
 	},
 	{
-		"jammer": "Anxilooper",
-		"jammer_link": "https://anxilooper.itch.io/",
+		"jammer": "e.savvy",
+		"jammer_link": "https://esavvy.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1866,13 +1812,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
 				"jam_vs": 63,
 				"title": "Digital Counterattack",
-				"title_link": "https://anxilooper.itch.io/digital-countera",
+				"title_link": "https://esavvy.itch.io/digital-countera",
 				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976266",
 				"by_list": [
-					"Anxilooper"
+					"e.savvy"
 				],
 				"by_link_list": [
-					"https://anxilooper.itch.io/"
+					"https://esavvy.itch.io/"
 				],
 				"rank": 15,
 				"ratings": 17,
@@ -2871,6 +2817,64 @@
 				"score": 1.479,
 				"ilscore": 24,
 				"submission_time_diff": -13134000
+			}
+		]
+	},
+	{
+		"jammer": "I_LikeLemons",
+		"jammer_link": "https://i-likelemons.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 63,
+				"title": "Cyber Tank Pursuit",
+				"title_link": "https://i-likelemons.itch.io/cyber-tank-pursuit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976350",
+				"by_list": [
+					"I_LikeLemons",
+					"1dinosaur"
+				],
+				"by_link_list": [
+					"https://i-likelemons.itch.io/",
+					"https://1dinosaur.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 4,
+				"score": 1.299,
+				"ilscore": 21,
+				"submission_time_diff": -5038000
+			}
+		]
+	},
+	{
+		"jammer": "1dinosaur",
+		"jammer_link": "https://1dinosaur.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 63,
+				"title": "Cyber Tank Pursuit",
+				"title_link": "https://i-likelemons.itch.io/cyber-tank-pursuit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976350",
+				"by_list": [
+					"I_LikeLemons",
+					"1dinosaur"
+				],
+				"by_link_list": [
+					"https://i-likelemons.itch.io/",
+					"https://1dinosaur.itch.io/"
+				],
+				"rank": 61,
+				"ratings": 4,
+				"score": 1.299,
+				"ilscore": 21,
+				"submission_time_diff": -5038000
 			}
 		]
 	}

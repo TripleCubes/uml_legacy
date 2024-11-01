@@ -1,69 +1,5 @@
 [
 	{
-		"jammer": "Dharshan",
-		"jammer_link": "https://dharshan-palani.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Lunar collector",
-				"title_link": "https://dharshan-palani.itch.io/lunar-collector",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021460",
-				"by_list": [
-					"Dharshan"
-				],
-				"by_link_list": [
-					"https://dharshan-palani.itch.io/"
-				],
-				"rank": 173,
-				"ratings": 7,
-				"score": 2.036,
-				"ilscore": 55,
-				"submission_time_diff": -653000
-			}
-		]
-	},
-	{
-		"jammer": "Roger Ng",
-		"jammer_link": "https://yugawa.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Lunar Odyssey - A Rabbit's Tale",
-				"title_link": "https://dannyvsh.itch.io/lunar-odyssey-a-rabbits-tale",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020711",
-				"by_list": [
-					"FenrixK17",
-					"Roger Ng",
-					"JamesIanWorrall",
-					"jb431",
-					"Frog King",
-					"Marc Panicello (kraminap)"
-				],
-				"by_link_list": [
-					"https://dannyvsh.itch.io/",
-					"https://yugawa.itch.io/",
-					"https://jamesianworrall.itch.io/",
-					"https://jb431.itch.io/",
-					"https://cagant.itch.io/",
-					"https://kraminap.itch.io/"
-				],
-				"rank": 176,
-				"ratings": 2,
-				"score": 1.938,
-				"ilscore": 52,
-				"submission_time_diff": 128355000
-			}
-		]
-	},
-	{
 		"jammer": "JamesIanWorrall",
 		"jammer_link": "https://jamesianworrall.itch.io/",
 		"game_list_sorted": [
@@ -1087,27 +1023,6 @@
 		"jammer": "Yanfer",
 		"jammer_link": "https://yanfer.itch.io/",
 		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
-				"title": "CATEDRAL TOWER",
-				"title_link": "https://yanfer.itch.io/catedral-tower",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878660",
-				"by_list": [
-					"Yanfer"
-				],
-				"by_link_list": [
-					"https://yanfer.itch.io/"
-				],
-				"rank": 65,
-				"ratings": 4,
-				"score": 1.945,
-				"ilscore": 34,
-				"submission_time_diff": -3788000
-			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 145,
@@ -3421,6 +3336,62 @@
 				"score": 4.286,
 				"ilscore": 97,
 				"submission_time_diff": 71292000
+			}
+		]
+	},
+	{
+		"jammer": "ggg10wr",
+		"jammer_link": "https://ggg10wr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 134,
+				"title": "Heart and Soul",
+				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
+				"by_list": [
+					"The_Hat_Guy",
+					"ggg10wr"
+				],
+				"by_link_list": [
+					"https://the-hat-guy.itch.io/",
+					"https://ggg10wr.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 16,
+				"score": 4.188,
+				"ilscore": 95,
+				"submission_time_diff": -18845000
+			}
+		]
+	},
+	{
+		"jammer": "Malachi Bance",
+		"jammer_link": "https://moolordking.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 134,
+				"title": "A Holey Planet",
+				"title_link": "https://moolordking.itch.io/a-holey-planet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089613",
+				"by_list": [
+					"Malachi Bance"
+				],
+				"by_link_list": [
+					"https://moolordking.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 37,
+				"score": 4.149,
+				"ilscore": 94,
+				"submission_time_diff": -36431000
 			}
 		]
 	}

@@ -1,35 +1,5 @@
 [
 	{
-		"jammer": "Gizmote",
-		"jammer_link": "https://gizmote.itch.io/",
-		"total_ilscore": 114,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Mirror Medusa",
-				"title_link": "https://rockcrafts.itch.io/mirror-medusa",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635044",
-				"by_list": [
-					"RockCrafts",
-					"Gizmote"
-				],
-				"by_link_list": [
-					"https://rockcrafts.itch.io/",
-					"https://gizmote.itch.io/"
-				],
-				"rank": 114,
-				"ratings": 7,
-				"score": 3.408,
-				"ilscore": 114,
-				"submission_time_diff": 1192000
-			}
-		]
-	},
-	{
 		"jammer": "TheSnowly",
 		"jammer_link": "https://thesnowly.itch.io/",
 		"total_ilscore": 114,
@@ -348,7 +318,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Charge The Battery",
 				"title_link": "https://banna-games.itch.io/charge-the-battery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676069",
@@ -691,7 +661,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Golden Run",
 				"title_link": "https://benjidev26.itch.io/golden-run",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137301",
@@ -712,7 +682,7 @@
 				"jam_id": 87,
 				"jam_name": "Break",
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Coffee Break",
 				"title_link": "https://benjidev26.itch.io/coffeebreak",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1168476",
@@ -882,6 +852,55 @@
 				"score": 3.19,
 				"ilscore": 49,
 				"submission_time_diff": -155849000
+			}
+		]
+	},
+	{
+		"jammer": "Tri Saurus",
+		"jammer_link": "https://tri-saurus.itch.io/",
+		"total_ilscore": 113,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Just an Ordinary Triangle Game",
+				"title_link": "https://tri-saurus.itch.io/just-an-ordinary-triangle-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571878",
+				"by_list": [
+					"Tri Saurus"
+				],
+				"by_link_list": [
+					"https://tri-saurus.itch.io/"
+				],
+				"rank": 126,
+				"ratings": 7,
+				"score": 2.735,
+				"ilscore": 74,
+				"submission_time_diff": -30443000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "FOOT-BALL",
+				"title_link": "https://tri-saurus.itch.io/foot-ball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591544",
+				"by_list": [
+					"Tri Saurus"
+				],
+				"by_link_list": [
+					"https://tri-saurus.itch.io/"
+				],
+				"rank": 118,
+				"ratings": 2,
+				"score": 1.75,
+				"ilscore": 39,
+				"submission_time_diff": -7164000
 			}
 		]
 	},
@@ -1383,7 +1402,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "LegBob",
 				"title_link": "https://angelodev.itch.io/legbob",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878425",
@@ -1436,7 +1455,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "LegBob",
 				"title_link": "https://angelodev.itch.io/legbob",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878425",
@@ -2301,7 +2320,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Time is Gold",
 				"title_link": "https://chiiisa.itch.io/time-is-gold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137138",
@@ -3961,7 +3980,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Spark of Urgency",
 				"title_link": "https://filthyminx.itch.io/spark-of-urgency",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673764",

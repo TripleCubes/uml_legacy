@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "lavaplaysz",
-		"jammer_link": "https://lavaplaysz.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "pong",
-				"title_link": "https://lavaplaysz.itch.io/pong123",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867148",
-				"by_list": [
-					"lavaplaysz"
-				],
-				"by_link_list": [
-					"https://lavaplaysz.itch.io/"
-				],
-				"rank": 199,
-				"ratings": 4,
-				"score": 1.383,
-				"ilscore": 37,
-				"submission_time_diff": -97770000
-			}
-		]
-	},
-	{
-		"jammer": "BurgerGuy4",
-		"jammer_link": "https://burgerguy4.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Bleb",
-				"title_link": "https://burgerguy4.itch.io/bleb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869556",
-				"by_list": [
-					"BurgerGuy4"
-				],
-				"by_link_list": [
-					"https://burgerguy4.itch.io/"
-				],
-				"rank": 202,
-				"ratings": 4,
-				"score": 1.344,
-				"ilscore": 36,
-				"submission_time_diff": -159000
-			}
-		]
-	},
-	{
 		"jammer": "beds",
 		"jammer_link": "https://beds.itch.io/",
 		"game_list_sorted": [
@@ -338,7 +284,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "The Notes",
 				"title_link": "https://theboredkid.itch.io/the-notes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459875",
@@ -2609,7 +2555,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Slice demolition| mini-jam-164-destruction gdd",
 				"title_link": "https://sappirgames.itch.io/cut-the-heavens-mini-jam-164-destruction-gdd",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874423",
@@ -3466,6 +3412,62 @@
 				"score": 1.606,
 				"ilscore": 34,
 				"submission_time_diff": -80000
+			}
+		]
+	},
+	{
+		"jammer": "MrBenj12",
+		"jammer_link": "https://mrbenj12.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Cupid's Revenge",
+				"title_link": "https://sauttize.itch.io/cupids-revenge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890063",
+				"by_list": [
+					"sauttize",
+					"MrBenj12"
+				],
+				"by_link_list": [
+					"https://sauttize.itch.io/",
+					"https://mrbenj12.itch.io/"
+				],
+				"rank": 105,
+				"ratings": 4,
+				"score": 1.606,
+				"ilscore": 34,
+				"submission_time_diff": -80000
+			}
+		]
+	},
+	{
+		"jammer": "Emmanuel_meneses45",
+		"jammer_link": "https://emmanuel-meneses45.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Fireman",
+				"title_link": "https://emmanuel-meneses45.itch.io/fireman",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889207",
+				"by_list": [
+					"Emmanuel_meneses45"
+				],
+				"by_link_list": [
+					"https://emmanuel-meneses45.itch.io/"
+				],
+				"rank": 108,
+				"ratings": 5,
+				"score": 1.479,
+				"ilscore": 31,
+				"submission_time_diff": -27656000
 			}
 		]
 	}

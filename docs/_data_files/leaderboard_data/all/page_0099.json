@@ -1,96 +1,5 @@
 [
 	{
-		"jammer": "Agusio",
-		"jammer_link": "https://agusio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Magic Maze",
-				"title_link": "https://agusio.itch.io/magic-maze",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2488770",
-				"by_list": [
-					"Agusio",
-					"Gennyp"
-				],
-				"by_link_list": [
-					"https://agusio.itch.io/",
-					"https://gennyp.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 7,
-				"score": 3.179,
-				"ilscore": 70,
-				"submission_time_diff": 292841000
-			}
-		]
-	},
-	{
-		"jammer": "Gennyp",
-		"jammer_link": "https://gennyp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Magic Maze",
-				"title_link": "https://agusio.itch.io/magic-maze",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2488770",
-				"by_list": [
-					"Agusio",
-					"Gennyp"
-				],
-				"by_link_list": [
-					"https://agusio.itch.io/",
-					"https://gennyp.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 7,
-				"score": 3.179,
-				"ilscore": 70,
-				"submission_time_diff": 292841000
-			}
-		]
-	},
-	{
-		"jammer": "musniro",
-		"jammer_link": "https://musniro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Lux Ducit",
-				"title_link": "https://musniro.itch.io/minimagic-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
-				"by_list": [
-					"musniro",
-					"BearRush",
-					"NiSSAK",
-					"mikelbresko"
-				],
-				"by_link_list": [
-					"https://musniro.itch.io/",
-					"https://bearrush.itch.io/",
-					"https://eldritch-needle.itch.io/",
-					"https://mikelbresko.itch.io/"
-				],
-				"rank": 45,
-				"ratings": 8,
-				"score": 3.156,
-				"ilscore": 69,
-				"submission_time_diff": -63942000
-			}
-		]
-	},
-	{
 		"jammer": "BearRush",
 		"jammer_link": "https://bearrush.itch.io/",
 		"game_list_sorted": [
@@ -337,7 +246,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Destruction Unlimited",
 				"title_link": "https://dux-dev-games.itch.io/destruction-unlimited",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878599",
@@ -350,7 +259,7 @@
 				"rank": 29,
 				"ratings": 8,
 				"score": 3.188,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -200000
 			},
 			{
@@ -1669,7 +1578,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Time Keeper",
 				"title_link": "https://nervous-koala.itch.io/time-keeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674006",
@@ -3409,8 +3318,8 @@
 		]
 	},
 	{
-		"jammer": "CalebGameing",
-		"jammer_link": "https://calebgaiming.itch.io/",
+		"jammer": "CRGS",
+		"jammer_link": "https://cr-game-studio.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3419,13 +3328,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
 				"jam_vs": 126,
 				"title": "GR Cave Surprize",
-				"title_link": "https://calebgaiming.itch.io/gr-cave-surprize",
+				"title_link": "https://cr-game-studio.itch.io/gr-cave-surprize",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481826",
 				"by_list": [
-					"CalebGameing"
+					"CRGS"
 				],
 				"by_link_list": [
-					"https://calebgaiming.itch.io/"
+					"https://cr-game-studio.itch.io/"
 				],
 				"rank": 127,
 				"ratings": 6,
@@ -3689,6 +3598,158 @@
 				"score": 3.833,
 				"ilscore": 74,
 				"submission_time_diff": -104381000
+			}
+		]
+	},
+	{
+		"jammer": "ecaroh.games",
+		"jammer_link": "https://ecaroh.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Ecaroh's Elementals",
+				"title_link": "https://ecaroh.itch.io/ecarohs-elementals",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818447",
+				"by_list": [
+					"ecaroh.games"
+				],
+				"by_link_list": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 32,
+				"score": 4.219,
+				"ilscore": 96,
+				"submission_time_diff": -4320000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Ecaroh's Dragon",
+				"title_link": "https://ecaroh.itch.io/ecaroh-dragon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2509239",
+				"by_list": [
+					"ecaroh.games"
+				],
+				"by_link_list": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 27,
+				"score": 3.787,
+				"ilscore": 74,
+				"submission_time_diff": -1229000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Ecaroh's Electric Escape",
+				"title_link": "https://ecaroh.itch.io/ecarohs-electric-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671637",
+				"by_list": [
+					"ecaroh.games"
+				],
+				"by_link_list": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 30,
+				"score": 3.842,
+				"ilscore": 81,
+				"submission_time_diff": -199000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 110,
+				"title": "Propeller Plunge",
+				"title_link": "https://ecaroh.itch.io/propeller-plunge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618521",
+				"by_list": [
+					"ecaroh.games"
+				],
+				"by_link_list": [
+					"https://ecaroh.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 20,
+				"score": 3.45,
+				"ilscore": 72,
+				"submission_time_diff": -6038000
+			}
+		]
+	},
+	{
+		"jammer": "Kalathea",
+		"jammer_link": "https://kalathea.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Dragon's Destruction",
+				"title_link": "https://silvyger.itch.io/dragons-destruction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2507840",
+				"by_list": [
+					"Silvyger",
+					"Kalathea",
+					"Kensingtonw"
+				],
+				"by_link_list": [
+					"https://silvyger.itch.io/",
+					"https://kalathea.itch.io/",
+					"https://kensingtonw.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 19,
+				"score": 3.724,
+				"ilscore": 72,
+				"submission_time_diff": -46000
+			}
+		]
+	},
+	{
+		"jammer": "Kensingtonw",
+		"jammer_link": "https://kensingtonw.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Dragon's Destruction",
+				"title_link": "https://silvyger.itch.io/dragons-destruction",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2507840",
+				"by_list": [
+					"Silvyger",
+					"Kalathea",
+					"Kensingtonw"
+				],
+				"by_link_list": [
+					"https://silvyger.itch.io/",
+					"https://kalathea.itch.io/",
+					"https://kensingtonw.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 19,
+				"score": 3.724,
+				"ilscore": 72,
+				"submission_time_diff": -46000
 			}
 		]
 	}

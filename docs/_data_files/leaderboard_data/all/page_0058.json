@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "Dinos4ur",
-		"jammer_link": "https://dinos4ur.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 101,
-				"jam_name": "Limit",
-				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
-				"jam_vs": 142,
-				"title": "Perfect Temperature",
-				"title_link": "https://dinos4ur.itch.io/perfect-temperature",
-				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431333",
-				"by_list": [
-					"Dinos4ur"
-				],
-				"by_link_list": [
-					"https://dinos4ur.itch.io/"
-				],
-				"rank": 153,
-				"ratings": 1,
-				"score": 0.333,
-				"ilscore": 7,
-				"submission_time_diff": -11360000
-			}
-		]
-	},
-	{
-		"jammer": "Gearless",
-		"jammer_link": "https://gearless-june.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Ghost in a Box",
-				"title_link": "https://gearless-june.itch.io/ghost-in-a-box",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1448464",
-				"by_list": [
-					"Gearless",
-					"Regular Sized Hamster"
-				],
-				"by_link_list": [
-					"https://gearless-june.itch.io/",
-					"https://regularsizedhamster.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 9,
-				"score": 3.944,
-				"ilscore": 56,
-				"submission_time_diff": -10067000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Ricochet",
-				"title_link": "https://gearless-june.itch.io/ricochet",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469888",
-				"by_list": [
-					"Gearless",
-					"Regular Sized Hamster",
-					"PixiVan"
-				],
-				"by_link_list": [
-					"https://gearless-june.itch.io/",
-					"https://regularsizedhamster.itch.io/",
-					"https://pixivan.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 28,
-				"score": 4.089,
-				"ilscore": 96,
-				"submission_time_diff": -5654000
-			}
-		]
-	},
-	{
 		"jammer": "Regular Sized Hamster",
 		"jammer_link": "https://regularsizedhamster.itch.io/",
 		"game_list_sorted": [
@@ -731,7 +650,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "MindSweep",
 				"title_link": "https://team-sunforge.itch.io/mindsweep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591036",
@@ -1377,7 +1296,7 @@
 		]
 	},
 	{
-		"jammer": "melonllama",
+		"jammer": "Melon Llama",
 		"jammer_link": "https://melonllama.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1390,7 +1309,7 @@
 				"title_link": "https://melonllama.itch.io/echos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469323",
 				"by_list": [
-					"melonllama"
+					"Melon Llama"
 				],
 				"by_link_list": [
 					"https://melonllama.itch.io/"
@@ -1618,7 +1537,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Succu-Bus",
 				"title_link": "https://gwelkind.itch.io/succu-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
@@ -2222,7 +2141,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Leaps of Faith",
 				"title_link": "https://fasttoad.itch.io/leaps-of-faith",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1589383",
@@ -4040,6 +3959,60 @@
 				"score": 2.75,
 				"ilscore": 64,
 				"submission_time_diff": -62976000
+			}
+		]
+	},
+	{
+		"jammer": "incuriousforms",
+		"jammer_link": "https://incuriousforms.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Enemy",
+				"title_link": "https://incuriousforms.itch.io/enemy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1470223",
+				"by_list": [
+					"incuriousforms"
+				],
+				"by_link_list": [
+					"https://incuriousforms.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 6,
+				"score": 2.742,
+				"ilscore": 64,
+				"submission_time_diff": -360000
+			}
+		]
+	},
+	{
+		"jammer": "Namedix",
+		"jammer_link": "https://namedix.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Bonelord",
+				"title_link": "https://namedix.itch.io/bonelord",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469333",
+				"by_list": [
+					"Namedix"
+				],
+				"by_link_list": [
+					"https://namedix.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 11,
+				"score": 2.705,
+				"ilscore": 63,
+				"submission_time_diff": -19684000
 			}
 		]
 	}

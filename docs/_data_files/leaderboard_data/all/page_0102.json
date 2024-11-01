@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "d4rk0men",
-		"jammer_link": "https://d4rk0men.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
-				"title": "FishIN",
-				"title_link": "https://d4rk0men.itch.io/fishin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563012",
-				"by_list": [
-					"d4rk0men"
-				],
-				"by_link_list": [
-					"https://d4rk0men.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 11,
-				"score": 3,
-				"ilscore": 80,
-				"submission_time_diff": -32913000
-			}
-		]
-	},
-	{
-		"jammer": "UpsideOut",
-		"jammer_link": "https://downside-in.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
-				"title": "Cosmic Catch",
-				"title_link": "https://downside-in.itch.io/cosmic-catch",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564168",
-				"by_list": [
-					"UpsideOut"
-				],
-				"by_link_list": [
-					"https://downside-in.itch.io/"
-				],
-				"rank": 89,
-				"ratings": 8,
-				"score": 2.976,
-				"ilscore": 79,
-				"submission_time_diff": -5884000
-			}
-		]
-	},
-	{
 		"jammer": "ivar",
 		"jammer_link": "https://ivar-s.itch.io/",
 		"game_list_sorted": [
@@ -89,7 +35,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Needless Flattening",
 				"title_link": "https://hatchibombotar.itch.io/needless-flattening",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878171",
@@ -2037,7 +1983,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Charge The Battery",
 				"title_link": "https://banna-games.itch.io/charge-the-battery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676069",
@@ -2907,7 +2853,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Micro-Grid",
 				"title_link": "https://phantomdenstudios.itch.io/micro-grid",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673888",
@@ -3120,6 +3066,60 @@
 				"score": 0.745,
 				"ilscore": 19,
 				"submission_time_diff": -219097000
+			}
+		]
+	},
+	{
+		"jammer": "GlennHS",
+		"jammer_link": "https://clarinetking.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 204,
+				"title": "Mallow Fishin'",
+				"title_link": "https://clarinetking.itch.io/mallow-fishin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563128",
+				"by_list": [
+					"GlennHS"
+				],
+				"by_link_list": [
+					"https://clarinetking.itch.io/"
+				],
+				"rank": 209,
+				"ratings": 1,
+				"score": 0.667,
+				"ilscore": 17,
+				"submission_time_diff": -31407000
+			}
+		]
+	},
+	{
+		"jammer": "StilBlue",
+		"jammer_link": "https://stilblue.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 204,
+				"title": "Space Hunting",
+				"title_link": "https://stilblue.itch.io/space-hunting",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563513",
+				"by_list": [
+					"StilBlue"
+				],
+				"by_link_list": [
+					"https://stilblue.itch.io/"
+				],
+				"rank": 211,
+				"ratings": 1,
+				"score": 0.583,
+				"ilscore": 15,
+				"submission_time_diff": -18815000
 			}
 		]
 	}

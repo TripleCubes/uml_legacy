@@ -1,60 +1,5 @@
 [
 	{
-		"jammer": "Ruby Raccoon",
-		"jammer_link": "https://raccoon-thief.itch.io/",
-		"total_ilscore": 127,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
-				"title": "Hungered Vampire",
-				"title_link": "https://thewillgamer.itch.io/hungered-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591732",
-				"by_list": [
-					"TheWillgamer",
-					"Ruby Raccoon"
-				],
-				"by_link_list": [
-					"https://thewillgamer.itch.io/",
-					"https://raccoon-thief.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 8,
-				"score": 3.469,
-				"ilscore": 79,
-				"submission_time_diff": -243000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "Tempo!",
-				"title_link": "https://raccoon-thief.itch.io/tempo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913617",
-				"by_list": [
-					"Ruby Raccoon",
-					"TustinJimberlake",
-					"TheWillgamer"
-				],
-				"by_link_list": [
-					"https://raccoon-thief.itch.io/",
-					"https://tustinjimberlake.itch.io/",
-					"https://thewillgamer.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 9,
-				"score": 2.75,
-				"ilscore": 48,
-				"submission_time_diff": -120000
-			}
-		]
-	},
-	{
 		"jammer": "Zone /A\\",
 		"jammer_link": "https://zone-a.itch.io/",
 		"total_ilscore": 127,
@@ -64,7 +9,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Unknown Dimensions (Prototype)",
 				"title_link": "https://zone-a.itch.io/unknown-dimensions",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591517",
@@ -535,7 +480,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Faster than lightning",
 				"title_link": "https://nainame.itch.io/faster-than-lightning",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674558",
@@ -556,7 +501,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Cave Breaker",
 				"title_link": "https://nainame.itch.io/cave-breaker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875721",
@@ -673,55 +618,6 @@
 		]
 	},
 	{
-		"jammer": "Abd-Elkader",
-		"jammer_link": "https://abd-elkader.itch.io/",
-		"total_ilscore": 126,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 63,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-63-future",
-				"jam_vs": 113,
-				"title": "The adventure of Jan",
-				"title_link": "https://abd-elkader.itch.io/the-adventure-of-jan",
-				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763416",
-				"by_list": [
-					"Abd-Elkader"
-				],
-				"by_link_list": [
-					"https://abd-elkader.itch.io/"
-				],
-				"rank": 27,
-				"ratings": 22,
-				"score": 3.477,
-				"ilscore": 73,
-				"submission_time_diff": -19520000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "Family Invasion",
-				"title_link": "https://abd-elkader.itch.io/family-invasion",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169362",
-				"by_list": [
-					"Abd-Elkader"
-				],
-				"by_link_list": [
-					"https://abd-elkader.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 13,
-				"score": 2.596,
-				"ilscore": 53,
-				"submission_time_diff": -16006000
-			}
-		]
-	},
-	{
 		"jammer": "Nightma12e",
 		"jammer_link": "https://nightma12e.itch.io/",
 		"total_ilscore": 126,
@@ -824,6 +720,55 @@
 				"score": 2.879,
 				"ilscore": 62,
 				"submission_time_diff": -106712000
+			}
+		]
+	},
+	{
+		"jammer": "Kholodov Ilya",
+		"jammer_link": "https://kholodov-ilya.itch.io/",
+		"total_ilscore": 126,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 89,
+				"jam_name": "Pumpkin",
+				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
+				"jam_vs": 83,
+				"title": "Spirit Of Noah Ark",
+				"title_link": "https://kholodov-ilya.itch.io/noah-ark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203026",
+				"by_list": [
+					"Kholodov Ilya"
+				],
+				"by_link_list": [
+					"https://kholodov-ilya.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 10,
+				"score": 3.6,
+				"ilscore": 66,
+				"submission_time_diff": -36187000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 169,
+				"title": "Mr. Sock(Prototype)",
+				"title_link": "https://kholodov-ilya.itch.io/mrsock-prototype",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137040",
+				"by_list": [
+					"Kholodov Ilya"
+				],
+				"by_link_list": [
+					"https://kholodov-ilya.itch.io/"
+				],
+				"rank": 114,
+				"ratings": 20,
+				"score": 2.45,
+				"ilscore": 60,
+				"submission_time_diff": -36700000
 			}
 		]
 	},
@@ -991,7 +936,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Mola's Great Dive",
 				"title_link": "https://macleodian.itch.io/molas-great-dive",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591786",
@@ -1382,7 +1327,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "google dinosaur is going somewhere",
 				"title_link": "https://peppermintt.itch.io/google-dinosaur-is-going-somewhere",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2456206",
@@ -1647,6 +1592,55 @@
 				"score": 3.244,
 				"ilscore": 46,
 				"submission_time_diff": -7066000
+			}
+		]
+	},
+	{
+		"jammer": "Abd-Elkader",
+		"jammer_link": "https://abd-elkader.itch.io/",
+		"total_ilscore": 125,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "The adventure of Jan",
+				"title_link": "https://abd-elkader.itch.io/the-adventure-of-jan",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763416",
+				"by_list": [
+					"Abd-Elkader"
+				],
+				"by_link_list": [
+					"https://abd-elkader.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 22,
+				"score": 3.477,
+				"ilscore": 73,
+				"submission_time_diff": -19520000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 103,
+				"title": "Family Invasion",
+				"title_link": "https://abd-elkader.itch.io/family-invasion",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169362",
+				"by_list": [
+					"Abd-Elkader"
+				],
+				"by_link_list": [
+					"https://abd-elkader.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 13,
+				"score": 2.596,
+				"ilscore": 52,
+				"submission_time_diff": -16006000
 			}
 		]
 	},
@@ -1933,7 +1927,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "DeepDiver",
 				"title_link": "https://djknudsen.itch.io/deepdiver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591541",
@@ -2141,7 +2135,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Tree of Life",
 				"title_link": "https://qangeldratsch.itch.io/tree-of-life",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672709",
@@ -2720,7 +2714,7 @@
 				"jam_id": 87,
 				"jam_name": "Break",
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Sticks and Bones",
 				"title_link": "https://smallbuggames.itch.io/sticks-and-stones",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169375",
@@ -3971,7 +3965,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Oh Gold",
 				"title_link": "https://icodestuff.itch.io/oh-gold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1136959",
@@ -4118,7 +4112,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Doctor Dying Love Website",
 				"title_link": "https://spaceclubgames.itch.io/doctor-dying-love-website",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591753",
@@ -4468,7 +4462,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Ekrixi Cavia",
 				"title_link": "https://luckythespacecat.itch.io/ekrixi-cavia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674874",

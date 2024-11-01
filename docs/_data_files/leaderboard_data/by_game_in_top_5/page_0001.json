@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Asdonaur",
+		"jammer_link": "https://asdonaur.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "TeleKIDnesis",
+				"title_link": "https://asdonaur.itch.io/telekidnesis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1429410",
+				"by_list": [
+					"Asdonaur"
+				],
+				"by_link_list": [
+					"https://asdonaur.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 29,
+				"score": 4.216,
+				"ilscore": 97,
+				"submission_time_diff": -7938000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Unidentified Flying Monsters",
+				"title_link": "https://asdonaur.itch.io/unidentified-flying-monsters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239509",
+				"by_list": [
+					"Asdonaur"
+				],
+				"by_link_list": [
+					"https://asdonaur.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 24,
+				"score": 3.99,
+				"ilscore": 88,
+				"submission_time_diff": -16773000
+			}
+		]
+	},
+	{
 		"jammer": "Rufflesworth",
 		"jammer_link": "https://rufflesworth.itch.io/",
 		"game_list_sorted": [
@@ -863,7 +911,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -925,7 +973,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -987,7 +1035,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -1603,7 +1651,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "You Got Promoted!",
 				"title_link": "https://goloob.itch.io/you-got-promoted",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878655",
@@ -3723,7 +3771,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "A Package In Space",
 				"title_link": "https://part-time-maniac.itch.io/spicy-package",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672292",
@@ -4013,7 +4061,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "MEGALODON DATING SIMULATOR",
 				"title_link": "https://sadgirls.itch.io/megladon-dating-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459860",
@@ -4028,33 +4076,6 @@
 				"score": 4.368,
 				"ilscore": 105,
 				"submission_time_diff": -6819000
-			}
-		]
-	},
-	{
-		"jammer": "Kelsala",
-		"jammer_link": "https://kelsala.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Cracked Crab Cabal",
-				"title_link": "https://kelsala.itch.io/cracked-crab-cabal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572217",
-				"by_list": [
-					"Kelsala"
-				],
-				"by_link_list": [
-					"https://kelsala.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 13,
-				"score": 4.365,
-				"ilscore": 118,
-				"submission_time_diff": -6998000
 			}
 		]
 	}

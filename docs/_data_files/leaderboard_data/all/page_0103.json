@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "GlennHS",
-		"jammer_link": "https://clarinetking.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
-				"title": "Mallow Fishin'",
-				"title_link": "https://clarinetking.itch.io/mallow-fishin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563128",
-				"by_list": [
-					"GlennHS"
-				],
-				"by_link_list": [
-					"https://clarinetking.itch.io/"
-				],
-				"rank": 209,
-				"ratings": 1,
-				"score": 0.667,
-				"ilscore": 17,
-				"submission_time_diff": -31407000
-			}
-		]
-	},
-	{
-		"jammer": "StilBlue",
-		"jammer_link": "https://stilblue.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
-				"title": "Space Hunting",
-				"title_link": "https://stilblue.itch.io/space-hunting",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563513",
-				"by_list": [
-					"StilBlue"
-				],
-				"by_link_list": [
-					"https://stilblue.itch.io/"
-				],
-				"rank": 211,
-				"ratings": 1,
-				"score": 0.583,
-				"ilscore": 15,
-				"submission_time_diff": -18815000
-			}
-		]
-	},
-	{
 		"jammer": "DragonsavSUPERCODE",
 		"jammer_link": "https://dragonsavsupercode.itch.io/",
 		"game_list_sorted": [
@@ -569,7 +515,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -2910,7 +2856,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Low % Robot",
 				"title_link": "https://nlkesh.itch.io/low-robot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675221",
@@ -3354,6 +3300,81 @@
 				"score": 2.974,
 				"ilscore": 62,
 				"submission_time_diff": -6408000
+			}
+		]
+	},
+	{
+		"jammer": "Cristian Nastase",
+		"jammer_link": "https://cristian-nastase.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "It was a Rainy Day",
+				"title_link": "https://cristian-nastase.itch.io/it-was-a-rainy-day",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944626",
+				"by_list": [
+					"Cristian Nastase"
+				],
+				"by_link_list": [
+					"https://cristian-nastase.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 14,
+				"score": 3.732,
+				"ilscore": 99,
+				"submission_time_diff": -346000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 110,
+				"title": "Winding Through Farms",
+				"title_link": "https://cristian-nastase.itch.io/winding-through-farms",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617869",
+				"by_list": [
+					"Cristian Nastase"
+				],
+				"by_link_list": [
+					"https://cristian-nastase.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 19,
+				"score": 2.974,
+				"ilscore": 62,
+				"submission_time_diff": -30754000
+			}
+		]
+	},
+	{
+		"jammer": "Fusion",
+		"jammer_link": "https://fusion24.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 110,
+				"title": "Stormy Glider",
+				"title_link": "https://fusion24.itch.io/stormy-glider",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618306",
+				"by_list": [
+					"Fusion"
+				],
+				"by_link_list": [
+					"https://fusion24.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 13,
+				"score": 2.904,
+				"ilscore": 60,
+				"submission_time_diff": -4097000
 			}
 		]
 	}

@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "JeriamJito",
-		"jammer_link": "https://heriam.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
-				"title": "RockBound",
-				"title_link": "https://heriam.itch.io/rockbound",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734288",
-				"by_list": [
-					"JeriamJito"
-				],
-				"by_link_list": [
-					"https://heriam.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 6,
-				"score": 3.433,
-				"ilscore": 75,
-				"submission_time_diff": -3440000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Void of Illusions",
-				"title_link": "https://heriam.itch.io/void-of-illusions",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764002",
-				"by_list": [
-					"JeriamJito"
-				],
-				"by_link_list": [
-					"https://heriam.itch.io/"
-				],
-				"rank": 80,
-				"ratings": 6,
-				"score": 2.418,
-				"ilscore": 52,
-				"submission_time_diff": 40985000
-			}
-		]
-	},
-	{
-		"jammer": "SoloBro",
-		"jammer_link": "https://solobro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
-				"title": "Depth Perception",
-				"title_link": "https://solobro.itch.io/depth-perception",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2728647",
-				"by_list": [
-					"SoloBro"
-				],
-				"by_link_list": [
-					"https://solobro.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 14,
-				"score": 3.411,
-				"ilscore": 75,
-				"submission_time_diff": -41465000
-			}
-		]
-	},
-	{
 		"jammer": "DunaMan",
 		"jammer_link": "https://dunaman.itch.io/",
 		"game_list_sorted": [
@@ -1116,7 +1041,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Ruthless Grug: World Eater 4000",
 				"title_link": "https://doctorstupid.itch.io/ruthless-grug-future-world-eater-4000",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878690",
@@ -1131,7 +1056,7 @@
 				"rank": 48,
 				"ratings": 6,
 				"score": 2.851,
-				"ilscore": 50,
+				"ilscore": 49,
 				"submission_time_diff": -1481000
 			},
 			{
@@ -3232,6 +3157,64 @@
 				"score": 3.478,
 				"ilscore": 75,
 				"submission_time_diff": -20996000
+			}
+		]
+	},
+	{
+		"jammer": "dpolk",
+		"jammer_link": "https://dpolk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Superluminal Drifter",
+				"title_link": "https://dpolk.itch.io/superluminal-drifter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764524",
+				"by_list": [
+					"dpolk",
+					"jayv0"
+				],
+				"by_link_list": [
+					"https://dpolk.itch.io/",
+					"https://jayv0.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 14,
+				"score": 3.357,
+				"ilscore": 73,
+				"submission_time_diff": -1301000
+			}
+		]
+	},
+	{
+		"jammer": "jayv0",
+		"jammer_link": "https://jayv0.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Superluminal Drifter",
+				"title_link": "https://dpolk.itch.io/superluminal-drifter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764524",
+				"by_list": [
+					"dpolk",
+					"jayv0"
+				],
+				"by_link_list": [
+					"https://dpolk.itch.io/",
+					"https://jayv0.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 14,
+				"score": 3.357,
+				"ilscore": 73,
+				"submission_time_diff": -1301000
 			}
 		]
 	}

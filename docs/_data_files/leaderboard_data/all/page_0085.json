@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Some Code Guy",
-		"jammer_link": "https://connormoran17cnuedu.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "Get Lost",
-				"title_link": "https://connormoran17cnuedu.itch.io/get-lost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1935125",
-				"by_list": [
-					"Some Code Guy"
-				],
-				"by_link_list": [
-					"https://connormoran17cnuedu.itch.io/"
-				],
-				"rank": 63,
-				"ratings": 3,
-				"score": 1.786,
-				"ilscore": 32,
-				"submission_time_diff": -645000
-			}
-		]
-	},
-	{
-		"jammer": "GhostGoats",
-		"jammer_link": "https://ghostgoats.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "Lost - MiniJam 126",
-				"title_link": "https://ghostgoats.itch.io/lost-minijam-126",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934573",
-				"by_list": [
-					"GhostGoats"
-				],
-				"by_link_list": [
-					"https://ghostgoats.itch.io/"
-				],
-				"rank": 67,
-				"ratings": 3,
-				"score": 1.633,
-				"ilscore": 29,
-				"submission_time_diff": -16947000
-			}
-		]
-	},
-	{
 		"jammer": "ZuZu84",
 		"jammer_link": "https://zuzu84.itch.io/",
 		"game_list_sorted": [
@@ -581,6 +527,33 @@
 				"score": 3.417,
 				"ilscore": 47,
 				"submission_time_diff": -3169000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 170,
+				"jam_name": "Clean",
+				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
+				"jam_vs": 37,
+				"title": "Clean Sweep Creeps",
+				"title_link": "https://linapawz.itch.io/cleansweep",
+				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068622",
+				"by_list": [
+					"LinaPawz",
+					"passivedragon",
+					"CreepyPvP",
+					"alphawolfin"
+				],
+				"by_link_list": [
+					"https://linapawz.itch.io/",
+					"https://passivedragon.itch.io/",
+					"https://creepypvp.itch.io/",
+					"https://alphawolfin.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 7,
+				"score": 1.937,
+				"ilscore": 24,
+				"submission_time_diff": -4801000
 			}
 		]
 	},
@@ -3705,6 +3678,85 @@
 				"score": 3.898,
 				"ilscore": 88,
 				"submission_time_diff": -11600000
+			}
+		]
+	},
+	{
+		"jammer": "Falcon89",
+		"jammer_link": "https://falcon89.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"jam_vs": 133,
+				"title": "ChillTower",
+				"title_link": "https://falcon89.itch.io/chilltower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1975871",
+				"by_list": [
+					"Falcon89"
+				],
+				"by_link_list": [
+					"https://falcon89.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 37,
+				"score": 3.797,
+				"ilscore": 85,
+				"submission_time_diff": -106215000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Quick! Hide the green",
+				"title_link": "https://falcon89.itch.io/quick-hide-the-green",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2940612",
+				"by_list": [
+					"Falcon89"
+				],
+				"by_link_list": [
+					"https://falcon89.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 18,
+				"score": 3.389,
+				"ilscore": 90,
+				"submission_time_diff": -26176000
+			}
+		]
+	},
+	{
+		"jammer": "Dairygold",
+		"jammer_link": "https://dairygold.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"jam_vs": 133,
+				"title": "MeatUp",
+				"title_link": "https://dairygold.itch.io/meatup",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977736",
+				"by_list": [
+					"Dairygold",
+					"dfib",
+					"glenlevi"
+				],
+				"by_link_list": [
+					"https://dairygold.itch.io/",
+					"https://dfib.itch.io/",
+					"https://glenlevi.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 41,
+				"score": 3.738,
+				"ilscore": 84,
+				"submission_time_diff": -2914000
 			}
 		]
 	}

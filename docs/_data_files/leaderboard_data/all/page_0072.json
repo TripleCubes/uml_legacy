@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Jamse32",
-		"jammer_link": "https://jamse32.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Hue",
-				"title_link": "https://jamse32.itch.io/hue",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634366",
-				"by_list": [
-					"Jamse32"
-				],
-				"by_link_list": [
-					"https://jamse32.itch.io/"
-				],
-				"rank": 285,
-				"ratings": 4,
-				"score": 2.121,
-				"ilscore": 70,
-				"submission_time_diff": -2302000
-			}
-		]
-	},
-	{
-		"jammer": "Chijkem",
-		"jammer_link": "https://chijkem.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "color wHELL",
-				"title_link": "https://chijkem.itch.io/color-whell",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634971",
-				"by_list": [
-					"Chijkem"
-				],
-				"by_link_list": [
-					"https://chijkem.itch.io/"
-				],
-				"rank": 285,
-				"ratings": 4,
-				"score": 2.121,
-				"ilscore": 70,
-				"submission_time_diff": -1541000
-			}
-		]
-	},
-	{
 		"jammer": "Szyntax",
 		"jammer_link": "https://szyntax.itch.io/",
 		"game_list_sorted": [
@@ -1146,7 +1092,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "destructo-boing",
 				"title_link": "https://cffa.itch.io/destructo-boing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878092",
@@ -1159,7 +1105,7 @@
 				"rank": 66,
 				"ratings": 4,
 				"score": 1.768,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -26586000
 			},
 			{
@@ -3442,6 +3388,60 @@
 				"score": 1,
 				"ilscore": 33,
 				"submission_time_diff": -165000
+			}
+		]
+	},
+	{
+		"jammer": "Lunarium Works",
+		"jammer_link": "https://lunarium-works.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "The First Law",
+				"title_link": "https://lunarium-works.itch.io/the-first-law",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634988",
+				"by_list": [
+					"Lunarium Works"
+				],
+				"by_link_list": [
+					"https://lunarium-works.itch.io/"
+				],
+				"rank": 396,
+				"ratings": 1,
+				"score": 0.972,
+				"ilscore": 32,
+				"submission_time_diff": -960000
+			}
+		]
+	},
+	{
+		"jammer": "FrostPathGames",
+		"jammer_link": "https://frostpathgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Another Shade Older",
+				"title_link": "https://frostpathgames.itch.io/another-shade-older",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635043",
+				"by_list": [
+					"FrostPathGames"
+				],
+				"by_link_list": [
+					"https://frostpathgames.itch.io/"
+				],
+				"rank": 396,
+				"ratings": 1,
+				"score": 0.972,
+				"ilscore": 32,
+				"submission_time_diff": 2269000
 			}
 		]
 	}

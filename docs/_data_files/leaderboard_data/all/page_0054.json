@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "cadyze",
-		"jammer_link": "https://cadyze.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Delivery Duck",
-				"title_link": "https://cadyze.itch.io/delivery-duck",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389108",
-				"by_list": [
-					"cadyze"
-				],
-				"by_link_list": [
-					"https://cadyze.itch.io/"
-				],
-				"rank": 64,
-				"ratings": 12,
-				"score": 3.375,
-				"ilscore": 97,
-				"submission_time_diff": -7214000
-			}
-		]
-	},
-	{
-		"jammer": "PizzaLacroy",
-		"jammer_link": "https://pizzalacroy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "Bird Spotter's Travels",
-				"title_link": "https://markus-franz.itch.io/bird-spotters-travels",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388851",
-				"by_list": [
-					"Markus Franz",
-					"PizzaLacroy",
-					"Alberto Rodriguez"
-				],
-				"by_link_list": [
-					"https://markus-franz.itch.io/",
-					"https://pizzalacroy.itch.io/",
-					"https://seyar-o.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 9,
-				"score": 3.361,
-				"ilscore": 97,
-				"submission_time_diff": -231000
-			}
-		]
-	},
-	{
 		"jammer": "Alberto Rodriguez",
 		"jammer_link": "https://seyar-o.itch.io/",
 		"game_list_sorted": [
@@ -238,10 +180,31 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 170,
+				"jam_name": "Clean",
+				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
+				"jam_vs": 37,
+				"title": "It Sleeps Deeply",
+				"title_link": "https://tlalice.itch.io/it-sleeps-deeply",
+				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069273",
+				"by_list": [
+					"TLAlice"
+				],
+				"by_link_list": [
+					"https://tlalice.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 9,
+				"score": 2.161,
+				"ilscore": 26,
+				"submission_time_diff": 2060000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Electric Massacre",
 				"title_link": "https://tlalice.itch.io/electric-massacre",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676138",
@@ -3886,7 +3849,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Egyptian Fun",
 				"title_link": "https://hexoman.itch.io/egyptian-fun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460014",
@@ -4099,6 +4062,60 @@
 				"score": 2.273,
 				"ilscore": 65,
 				"submission_time_diff": -114776000
+			}
+		]
+	},
+	{
+		"jammer": "JIT_Games",
+		"jammer_link": "https://jit-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Blue Bird",
+				"title_link": "https://jit-games.itch.io/blue-bird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1385058",
+				"by_list": [
+					"JIT_Games"
+				],
+				"by_link_list": [
+					"https://jit-games.itch.io/"
+				],
+				"rank": 191,
+				"ratings": 11,
+				"score": 2.25,
+				"ilscore": 65,
+				"submission_time_diff": -212542000
+			}
+		]
+	},
+	{
+		"jammer": "Lettucecow",
+		"jammer_link": "https://lettucecow.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "KickBird!",
+				"title_link": "https://lettucecow.itch.io/kickbird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388119",
+				"by_list": [
+					"Lettucecow"
+				],
+				"by_link_list": [
+					"https://lettucecow.itch.io/"
+				],
+				"rank": 191,
+				"ratings": 10,
+				"score": 2.25,
+				"ilscore": 65,
+				"submission_time_diff": -41328000
 			}
 		]
 	}

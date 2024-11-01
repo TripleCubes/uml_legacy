@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "glooberloob",
-		"jammer_link": "https://glooberloob.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
-				"title": "Eternal Prey",
-				"title_link": "https://glooberloob.itch.io/eternal-prey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347942",
-				"by_list": [
-					"glooberloob"
-				],
-				"by_link_list": [
-					"https://glooberloob.itch.io/"
-				],
-				"rank": 37,
-				"ratings": 16,
-				"score": 3.156,
-				"ilscore": 64,
-				"submission_time_diff": -1207000
-			}
-		]
-	},
-	{
-		"jammer": "NIRMAL KUMAR",
-		"jammer_link": "https://nirmal-kumar.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
-				"title": "VACCINATE HIM",
-				"title_link": "https://nirmal-kumar.itch.io/vaccinate-him",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347932",
-				"by_list": [
-					"NIRMAL KUMAR"
-				],
-				"by_link_list": [
-					"https://nirmal-kumar.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 13,
-				"score": 3.154,
-				"ilscore": 64,
-				"submission_time_diff": 39841000
-			}
-		]
-	},
-	{
 		"jammer": "novial",
 		"jammer_link": "https://novial.itch.io/",
 		"game_list_sorted": [
@@ -328,7 +274,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Meteor Shower",
 				"title_link": "https://cyber-squib.itch.io/meteor-shower",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590914",
@@ -4241,6 +4187,102 @@
 				"score": 2.958,
 				"ilscore": 63,
 				"submission_time_diff": -11220000
+			}
+		]
+	},
+	{
+		"jammer": "Lukas Vaiciunas",
+		"jammer_link": "https://lukas-vaiciunas.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "Keyper",
+				"title_link": "https://lukas-vaiciunas.itch.io/keyper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1366167",
+				"by_list": [
+					"Lukas Vaiciunas"
+				],
+				"by_link_list": [
+					"https://lukas-vaiciunas.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 8,
+				"score": 2.932,
+				"ilscore": 62,
+				"submission_time_diff": -473000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "Gem Drilla Incorporated",
+				"title_link": "https://lukas-vaiciunas.itch.io/gem-drilla-incorporated",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1595796",
+				"by_list": [
+					"Lukas Vaiciunas"
+				],
+				"by_link_list": [
+					"https://lukas-vaiciunas.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 1,
+				"score": 1.326,
+				"ilscore": 30,
+				"submission_time_diff": 325193000
+			}
+		]
+	},
+	{
+		"jammer": "AdrKacz",
+		"jammer_link": "https://adrkacz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "Space Birds",
+				"title_link": "https://adrkacz.itch.io/space-birds",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1387937",
+				"by_list": [
+					"AdrKacz"
+				],
+				"by_link_list": [
+					"https://adrkacz.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 15,
+				"score": 3.45,
+				"ilscore": 99,
+				"submission_time_diff": -43959000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "Lost in the dark",
+				"title_link": "https://adrkacz.itch.io/lost-in-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1363245",
+				"by_list": [
+					"AdrKacz"
+				],
+				"by_link_list": [
+					"https://adrkacz.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 12,
+				"score": 2.917,
+				"ilscore": 62,
+				"submission_time_diff": -53570000
 			}
 		]
 	}

@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "Splaten4Ever",
-		"jammer_link": "https://splaten4ever.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "The Windows: Escape the rooms",
-				"title_link": "https://splaten4ever.itch.io/the-windows-escape-the-rooms",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832333",
-				"by_list": [
-					"Splaten4Ever"
-				],
-				"by_link_list": [
-					"https://splaten4ever.itch.io/"
-				],
-				"rank": 100,
-				"ratings": 2,
-				"score": 1.621,
-				"ilscore": 34,
-				"submission_time_diff": -5982000
-			}
-		]
-	},
-	{
-		"jammer": "Dripping Tap Games",
-		"jammer_link": "https://dripping-tap-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Inkling",
-				"title_link": "https://dripping-tap-games.itch.io/inkling",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2314926",
-				"by_list": [
-					"Dripping Tap Games"
-				],
-				"by_link_list": [
-					"https://dripping-tap-games.itch.io/"
-				],
-				"rank": 47,
-				"ratings": 2,
-				"score": 2.382,
-				"ilscore": 38,
-				"submission_time_diff": -44218000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "Man in the mirror",
-				"title_link": "https://dripping-tap-games.itch.io/man-in-the-mirror",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832099",
-				"by_list": [
-					"Dripping Tap Games"
-				],
-				"by_link_list": [
-					"https://dripping-tap-games.itch.io/"
-				],
-				"rank": 101,
-				"ratings": 3,
-				"score": 1.598,
-				"ilscore": 34,
-				"submission_time_diff": -16436000
-			}
-		]
-	},
-	{
 		"jammer": "LaughingMad",
 		"jammer_link": "https://laughingmad.itch.io/",
 		"game_list_sorted": [
@@ -574,7 +499,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "The Ancient Explorer",
 				"title_link": "https://team-bean.itch.io/ancient-explorer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457416",
@@ -1011,7 +936,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Stellar Odyssey",
 				"title_link": "https://betermain.itch.io/stellar-odyssey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460174",
@@ -3565,6 +3490,62 @@
 				"score": 3.146,
 				"ilscore": 84,
 				"submission_time_diff": 44782000
+			}
+		]
+	},
+	{
+		"jammer": "Enzitoc",
+		"jammer_link": "https://enzitoc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 210,
+				"title": "Fluffy Climb Ball",
+				"title_link": "https://from-the-bottom.itch.io/fluffy-climb-ball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869394",
+				"by_list": [
+					"From The Bottom",
+					"Enzitoc"
+				],
+				"by_link_list": [
+					"https://from-the-bottom.itch.io/",
+					"https://enzitoc.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 14,
+				"score": 3.143,
+				"ilscore": 84,
+				"submission_time_diff": -5713000
+			}
+		]
+	},
+	{
+		"jammer": "Gizmo",
+		"jammer_link": "https://gizmos-place.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 210,
+				"title": "Web Ravine",
+				"title_link": "https://gizmos-place.itch.io/web-ravine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868604",
+				"by_list": [
+					"Gizmo"
+				],
+				"by_link_list": [
+					"https://gizmos-place.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 15,
+				"score": 3.133,
+				"ilscore": 84,
+				"submission_time_diff": -27945000
 			}
 		]
 	}

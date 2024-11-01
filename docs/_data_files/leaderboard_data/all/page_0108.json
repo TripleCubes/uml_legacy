@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "dpolk",
-		"jammer_link": "https://dpolk.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Superluminal Drifter",
-				"title_link": "https://dpolk.itch.io/superluminal-drifter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764524",
-				"by_list": [
-					"dpolk",
-					"jayv0"
-				],
-				"by_link_list": [
-					"https://dpolk.itch.io/",
-					"https://jayv0.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 14,
-				"score": 3.357,
-				"ilscore": 73,
-				"submission_time_diff": -1301000
-			}
-		]
-	},
-	{
-		"jammer": "jayv0",
-		"jammer_link": "https://jayv0.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Superluminal Drifter",
-				"title_link": "https://dpolk.itch.io/superluminal-drifter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764524",
-				"by_list": [
-					"dpolk",
-					"jayv0"
-				],
-				"by_link_list": [
-					"https://dpolk.itch.io/",
-					"https://jayv0.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 14,
-				"score": 3.357,
-				"ilscore": 73,
-				"submission_time_diff": -1301000
-			}
-		]
-	},
-	{
 		"jammer": "Lemnon",
 		"jammer_link": "https://lemnon.itch.io/",
 		"game_list_sorted": [
@@ -1374,7 +1316,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Ruthless Grug: World Eater 4000",
 				"title_link": "https://doctorstupid.itch.io/ruthless-grug-future-world-eater-4000",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878690",
@@ -1389,7 +1331,7 @@
 				"rank": 48,
 				"ratings": 6,
 				"score": 2.851,
-				"ilscore": 50,
+				"ilscore": 49,
 				"submission_time_diff": -1481000
 			},
 			{
@@ -3034,6 +2976,60 @@
 				"score": 0.85,
 				"ilscore": 12,
 				"submission_time_diff": 32649000
+			}
+		]
+	},
+	{
+		"jammer": "Juno_Design",
+		"jammer_link": "https://juno-design.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 53,
+				"title": "SENTINEL[FashionCorp]",
+				"title_link": "https://juno-design.itch.io/sentinelfashioncorp",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792052",
+				"by_list": [
+					"Juno_Design"
+				],
+				"by_link_list": [
+					"https://juno-design.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 1,
+				"score": 0.567,
+				"ilscore": 8,
+				"submission_time_diff": -2498000
+			}
+		]
+	},
+	{
+		"jammer": "Chimham",
+		"jammer_link": "https://chimham.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Ball N' Chain",
+				"title_link": "https://chimham.itch.io/ball-n-chain",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819199",
+				"by_list": [
+					"Chimham"
+				],
+				"by_link_list": [
+					"https://chimham.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 28,
+				"score": 4.393,
+				"ilscore": 99,
+				"submission_time_diff": -1245000
 			}
 		]
 	}

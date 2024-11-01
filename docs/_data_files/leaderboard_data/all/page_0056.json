@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "Zaksley",
-		"jammer_link": "https://zaksley.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Bob loves food",
-				"title_link": "https://zaksley.itch.io/bob-loves-food",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408667",
-				"by_list": [
-					"Zaksley",
-					"Drenaya"
-				],
-				"by_link_list": [
-					"https://zaksley.itch.io/",
-					"https://drenaya.itch.io/"
-				],
-				"rank": 44,
-				"ratings": 21,
-				"score": 3.571,
-				"ilscore": 87,
-				"submission_time_diff": -8002000
-			}
-		]
-	},
-	{
-		"jammer": "Drenaya",
-		"jammer_link": "https://drenaya.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Bob loves food",
-				"title_link": "https://zaksley.itch.io/bob-loves-food",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408667",
-				"by_list": [
-					"Zaksley",
-					"Drenaya"
-				],
-				"by_link_list": [
-					"https://zaksley.itch.io/",
-					"https://drenaya.itch.io/"
-				],
-				"rank": 44,
-				"ratings": 21,
-				"score": 3.571,
-				"ilscore": 87,
-				"submission_time_diff": -8002000
-			}
-		]
-	},
-	{
 		"jammer": "Hardwin Bui",
 		"jammer_link": "https://hardwin.itch.io/",
 		"game_list_sorted": [
@@ -195,7 +137,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -212,7 +154,7 @@
 				"rank": 3,
 				"ratings": 25,
 				"score": 4.15,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -40000
 			},
 			{
@@ -722,7 +664,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Armageddon",
 				"title_link": "https://feraswheel.itch.io/armageddon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1587812",
@@ -735,7 +677,7 @@
 				"rank": 13,
 				"ratings": 23,
 				"score": 3.891,
-				"ilscore": 89,
+				"ilscore": 88,
 				"submission_time_diff": -58378000
 			},
 			{
@@ -1661,7 +1603,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Submarine game",
 				"title_link": "https://blockhead-maniac.itch.io/submarine-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593067",
@@ -4226,6 +4168,101 @@
 				"score": 3.625,
 				"ilscore": 84,
 				"submission_time_diff": 32889000
+			}
+		]
+	},
+	{
+		"jammer": "pdcomposing",
+		"jammer_link": "https://pdcomposing.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Flickers of the Hearth",
+				"title_link": "https://erizux.itch.io/flickers-of-the-hearth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431066",
+				"by_list": [
+					"Erizux",
+					"Neverdusk",
+					"pdcomposing",
+					"Mantis"
+				],
+				"by_link_list": [
+					"https://erizux.itch.io/",
+					"https://neverdusk.itch.io/",
+					"https://pdcomposing.itch.io/",
+					"https://mantis.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 13,
+				"score": 3.615,
+				"ilscore": 83,
+				"submission_time_diff": -135000
+			}
+		]
+	},
+	{
+		"jammer": "Mantis",
+		"jammer_link": "https://mantis.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"jam_vs": 48,
+				"title": "Icy Ships",
+				"title_link": "https://erizux.itch.io/icy-ships",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449709",
+				"by_list": [
+					"Erizux",
+					"Haiyoooo | Artist",
+					"Mantis",
+					"AdamMorton",
+					"Unnamed Collective"
+				],
+				"by_link_list": [
+					"https://erizux.itch.io/",
+					"https://haiyoooo.itch.io/",
+					"https://mantis.itch.io/",
+					"https://adammorton.itch.io/",
+					"https://unnamed-collective.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 13,
+				"score": 2.519,
+				"ilscore": 35,
+				"submission_time_diff": 585000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Flickers of the Hearth",
+				"title_link": "https://erizux.itch.io/flickers-of-the-hearth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431066",
+				"by_list": [
+					"Erizux",
+					"Neverdusk",
+					"pdcomposing",
+					"Mantis"
+				],
+				"by_link_list": [
+					"https://erizux.itch.io/",
+					"https://neverdusk.itch.io/",
+					"https://pdcomposing.itch.io/",
+					"https://mantis.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 13,
+				"score": 3.615,
+				"ilscore": 83,
+				"submission_time_diff": -135000
 			}
 		]
 	}

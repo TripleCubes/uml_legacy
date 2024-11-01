@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "kaafirookie",
-		"jammer_link": "https://kaafirookie.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Colors Rhapsody",
-				"title_link": "https://kaafirookie.itch.io/colors-rhapsody",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634577",
-				"by_list": [
-					"kaafirookie"
-				],
-				"by_link_list": [
-					"https://kaafirookie.itch.io/"
-				],
-				"rank": 68,
-				"ratings": 30,
-				"score": 3.633,
-				"ilscore": 121,
-				"submission_time_diff": -19646000
-			}
-		]
-	},
-	{
-		"jammer": "Wrong Way Games",
-		"jammer_link": "https://wrong-way-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Silhouette",
-				"title_link": "https://wrong-way-games.itch.io/silhouette",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634933",
-				"by_list": [
-					"Wrong Way Games"
-				],
-				"by_link_list": [
-					"https://wrong-way-games.itch.io/"
-				],
-				"rank": 70,
-				"ratings": 13,
-				"score": 3.615,
-				"ilscore": 120,
-				"submission_time_diff": -2447000
-			}
-		]
-	},
-	{
 		"jammer": "JoaoCupido",
 		"jammer_link": "https://joaocupido.itch.io/",
 		"game_list_sorted": [
@@ -1468,7 +1414,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "The Lost Tomb",
 				"title_link": "https://mafesto87.itch.io/the-lost-tomb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460034",
@@ -1777,7 +1723,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "W = V * A",
 				"title_link": "https://saix93.itch.io/w-va",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675731",
@@ -2233,7 +2179,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "Alien Journey",
 				"title_link": "https://egorg.itch.io/alien-journey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457006",
@@ -3586,6 +3532,60 @@
 				"score": 3.044,
 				"ilscore": 101,
 				"submission_time_diff": -26216000
+			}
+		]
+	},
+	{
+		"jammer": "lunikkun",
+		"jammer_link": "https://lunikkun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Slimey",
+				"title_link": "https://lunikkun.itch.io/slimey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634534",
+				"by_list": [
+					"lunikkun"
+				],
+				"by_link_list": [
+					"https://lunikkun.itch.io/"
+				],
+				"rank": 174,
+				"ratings": 32,
+				"score": 3.039,
+				"ilscore": 101,
+				"submission_time_diff": -12251000
+			}
+		]
+	},
+	{
+		"jammer": "lew",
+		"jammer_link": "https://lew-dev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Distorted",
+				"title_link": "https://lew-dev.itch.io/distorted",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632138",
+				"by_list": [
+					"lew"
+				],
+				"by_link_list": [
+					"https://lew-dev.itch.io/"
+				],
+				"rank": 175,
+				"ratings": 6,
+				"score": 3.031,
+				"ilscore": 101,
+				"submission_time_diff": -4292000
 			}
 		]
 	}

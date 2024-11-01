@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "fivetwoeighty",
-		"jammer_link": "https://fivetwoeighty.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Sansgreen Garden",
-				"title_link": "https://fivetwoeighty.itch.io/sansgreen-garden",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943232",
-				"by_list": [
-					"fivetwoeighty"
-				],
-				"by_link_list": [
-					"https://fivetwoeighty.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 7,
-				"score": 3.5,
-				"ilscore": 93,
-				"submission_time_diff": -32651000
-			}
-		]
-	},
-	{
-		"jammer": "Zynvolt",
-		"jammer_link": "https://zynvolt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Alchemy Artisan",
-				"title_link": "https://zynvolt.itch.io/alchemy-artisan",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944522",
-				"by_list": [
-					"Zynvolt"
-				],
-				"by_link_list": [
-					"https://zynvolt.itch.io/"
-				],
-				"rank": 42,
-				"ratings": 10,
-				"score": 3.475,
-				"ilscore": 92,
-				"submission_time_diff": -1305000
-			}
-		]
-	},
-	{
 		"jammer": "Larzt",
 		"jammer_link": "https://larzt.itch.io/",
 		"game_list_sorted": [
@@ -272,7 +218,7 @@
 	},
 	{
 		"jammer": "BooMoon",
-		"jammer_link": "https://mz-boomoon.itch.io/",
+		"jammer_link": "https://oboomoon.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -281,13 +227,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
 				"jam_vs": 204,
 				"title": "Light Quo",
-				"title_link": "https://mz-boomoon.itch.io/light-quo",
+				"title_link": "https://oboomoon.itch.io/light-quo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944621",
 				"by_list": [
 					"BooMoon"
 				],
 				"by_link_list": [
-					"https://mz-boomoon.itch.io/"
+					"https://oboomoon.itch.io/"
 				],
 				"rank": 48,
 				"ratings": 9,
@@ -1213,7 +1159,7 @@
 		]
 	},
 	{
-		"jammer": "paper_mint_2",
+		"jammer": "paper_mint",
 		"jammer_link": "https://paper-mint-2.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1226,7 +1172,7 @@
 				"title_link": "https://paper-mint-2.itch.io/earth-defender",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944876",
 				"by_list": [
-					"paper_mint_2"
+					"paper_mint"
 				],
 				"by_link_list": [
 					"https://paper-mint-2.itch.io/"
@@ -1432,6 +1378,27 @@
 		"jammer": "Jahin",
 		"jammer_link": "https://jahin-ahnaf.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 170,
+				"jam_name": "Clean",
+				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
+				"jam_vs": 37,
+				"title": "Purifico",
+				"title_link": "https://jahin-ahnaf.itch.io/purifico",
+				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067778",
+				"by_list": [
+					"Jahin"
+				],
+				"by_link_list": [
+					"https://jahin-ahnaf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 13,
+				"score": 2.538,
+				"ilscore": 31,
+				"submission_time_diff": -33523000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 169,
@@ -2990,6 +2957,60 @@
 				"score": 2.321,
 				"ilscore": 62,
 				"submission_time_diff": -17970000
+			}
+		]
+	},
+	{
+		"jammer": "Adninymous",
+		"jammer_link": "https://adninymous.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Earth Rebirth: The Last Eden",
+				"title_link": "https://adninymous.itch.io/earth-rebirth-the-last-eden",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2939485",
+				"by_list": [
+					"Adninymous"
+				],
+				"by_link_list": [
+					"https://adninymous.itch.io/"
+				],
+				"rank": 148,
+				"ratings": 6,
+				"score": 2.237,
+				"ilscore": 59,
+				"submission_time_diff": -123901000
+			}
+		]
+	},
+	{
+		"jammer": "ocxy224",
+		"jammer_link": "https://ocxy224.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Egg Hunters",
+				"title_link": "https://ocxy224.itch.io/egg-hunters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944845",
+				"by_list": [
+					"ocxy224"
+				],
+				"by_link_list": [
+					"https://ocxy224.itch.io/"
+				],
+				"rank": 149,
+				"ratings": 3,
+				"score": 2.237,
+				"ilscore": 59,
+				"submission_time_diff": 99970000
 			}
 		]
 	}

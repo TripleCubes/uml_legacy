@@ -1,65 +1,5 @@
 [
 	{
-		"jammer": "IceIcePingu",
-		"jammer_link": "https://iceicepingu.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Love to death",
-				"title_link": "https://ernani.itch.io/lovetodeath",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1258773",
-				"by_list": [
-					"ernani",
-					"IceIcePingu",
-					"danielemarotta"
-				],
-				"by_link_list": [
-					"https://ernani.itch.io/",
-					"https://iceicepingu.itch.io/",
-					"https://danielemarotta.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 27,
-				"score": 3.583,
-				"ilscore": 75,
-				"submission_time_diff": -13931000
-			}
-		]
-	},
-	{
-		"jammer": "ExtraCrafTX",
-		"jammer_link": "https://extracraftx.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 92,
-				"jam_name": "Death",
-				"jam_link": "https://itch.io/jam/mini-jam-92-death",
-				"jam_vs": 111,
-				"title": "Gun-Die",
-				"title_link": "https://extracraftx.itch.io/gun-die",
-				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259310",
-				"by_list": [
-					"ExtraCrafTX",
-					"Popstuff"
-				],
-				"by_link_list": [
-					"https://extracraftx.itch.io/",
-					"https://popstuff.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 15,
-				"score": 3.55,
-				"ilscore": 74,
-				"submission_time_diff": -4234000
-			}
-		]
-	},
-	{
 		"jammer": "Popstuff",
 		"jammer_link": "https://popstuff.itch.io/",
 		"game_list_sorted": [
@@ -615,7 +555,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
+				"jam_vs": 136,
 				"title": "Healthfull",
 				"title_link": "https://herof123.itch.io/healtfull",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590867",
@@ -2745,7 +2685,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Reformat().escape()",
 				"title_link": "https://none-yaroslav.itch.io/reformatescape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877974",
@@ -3963,6 +3903,102 @@
 				"score": 2.917,
 				"ilscore": 40,
 				"submission_time_diff": -5477000
+			}
+		]
+	},
+	{
+		"jammer": "newman games",
+		"jammer_link": "https://newman-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"jam_vs": 45,
+				"title": "Bad Ball Game",
+				"title_link": "https://newman-games.itch.io/bad-ball-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1270028",
+				"by_list": [
+					"newman games"
+				],
+				"by_link_list": [
+					"https://newman-games.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 5,
+				"score": 2.907,
+				"ilscore": 40,
+				"submission_time_diff": -130029000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 94,
+				"jam_name": "Baking",
+				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
+				"jam_vs": 89,
+				"title": "Ball Eater",
+				"title_link": "https://newman-games.itch.io/ball-eater",
+				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1293255",
+				"by_list": [
+					"newman games"
+				],
+				"by_link_list": [
+					"https://newman-games.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 4,
+				"score": 1.265,
+				"ilscore": 24,
+				"submission_time_diff": -222998000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "bad cute cube",
+				"title_link": "https://newman-games.itch.io/bad-cute-cube",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1745948",
+				"by_list": [
+					"newman games"
+				],
+				"by_link_list": [
+					"https://newman-games.itch.io/"
+				],
+				"rank": 187,
+				"ratings": 3,
+				"score": 0.949,
+				"ilscore": 24,
+				"submission_time_diff": -242488000
+			}
+		]
+	},
+	{
+		"jammer": "greywizardgames",
+		"jammer_link": "https://greywizardgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 93,
+				"jam_name": "Vacation",
+				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
+				"jam_vs": 45,
+				"title": "Casino Classics Slots",
+				"title_link": "https://greywizardgames.itch.io/casino-classics",
+				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1276686",
+				"by_list": [
+					"greywizardgames"
+				],
+				"by_link_list": [
+					"https://greywizardgames.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 9,
+				"score": 2.861,
+				"ilscore": 39,
+				"submission_time_diff": -113378000
 			}
 		]
 	}

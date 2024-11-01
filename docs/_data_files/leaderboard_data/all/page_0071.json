@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "lunikkun",
-		"jammer_link": "https://lunikkun.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Slimey",
-				"title_link": "https://lunikkun.itch.io/slimey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634534",
-				"by_list": [
-					"lunikkun"
-				],
-				"by_link_list": [
-					"https://lunikkun.itch.io/"
-				],
-				"rank": 174,
-				"ratings": 32,
-				"score": 3.039,
-				"ilscore": 101,
-				"submission_time_diff": -12251000
-			}
-		]
-	},
-	{
-		"jammer": "lew",
-		"jammer_link": "https://lew-dev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Distorted",
-				"title_link": "https://lew-dev.itch.io/distorted",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632138",
-				"by_list": [
-					"lew"
-				],
-				"by_link_list": [
-					"https://lew-dev.itch.io/"
-				],
-				"rank": 175,
-				"ratings": 6,
-				"score": 3.031,
-				"ilscore": 101,
-				"submission_time_diff": -4292000
-			}
-		]
-	},
-	{
 		"jammer": "[KreativName]",
 		"jammer_link": "https://kreativname.itch.io/",
 		"game_list_sorted": [
@@ -1991,7 +1937,7 @@
 					"https://bare-bones.itch.io/",
 					"https://cellos51.itch.io/",
 					"https://seiond.itch.io/",
-					"https://katherinewarwick.itch.io/"
+					"https://21stcenturygraffiti.itch.io/"
 				],
 				"rank": 230,
 				"ratings": 5,
@@ -2026,7 +1972,7 @@
 					"https://bare-bones.itch.io/",
 					"https://cellos51.itch.io/",
 					"https://seiond.itch.io/",
-					"https://katherinewarwick.itch.io/"
+					"https://21stcenturygraffiti.itch.io/"
 				],
 				"rank": 230,
 				"ratings": 5,
@@ -2061,7 +2007,7 @@
 					"https://bare-bones.itch.io/",
 					"https://cellos51.itch.io/",
 					"https://seiond.itch.io/",
-					"https://katherinewarwick.itch.io/"
+					"https://21stcenturygraffiti.itch.io/"
 				],
 				"rank": 230,
 				"ratings": 5,
@@ -2096,7 +2042,7 @@
 					"https://bare-bones.itch.io/",
 					"https://cellos51.itch.io/",
 					"https://seiond.itch.io/",
-					"https://katherinewarwick.itch.io/"
+					"https://21stcenturygraffiti.itch.io/"
 				],
 				"rank": 230,
 				"ratings": 5,
@@ -2108,7 +2054,7 @@
 	},
 	{
 		"jammer": "Katherine",
-		"jammer_link": "https://katherinewarwick.itch.io/",
+		"jammer_link": "https://21stcenturygraffiti.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2131,7 +2077,7 @@
 					"https://bare-bones.itch.io/",
 					"https://cellos51.itch.io/",
 					"https://seiond.itch.io/",
-					"https://katherinewarwick.itch.io/"
+					"https://21stcenturygraffiti.itch.io/"
 				],
 				"rank": 230,
 				"ratings": 5,
@@ -3578,6 +3524,60 @@
 				"score": 2.135,
 				"ilscore": 71,
 				"submission_time_diff": 3141000
+			}
+		]
+	},
+	{
+		"jammer": "Jamse32",
+		"jammer_link": "https://jamse32.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Hue",
+				"title_link": "https://jamse32.itch.io/hue",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634366",
+				"by_list": [
+					"Jamse32"
+				],
+				"by_link_list": [
+					"https://jamse32.itch.io/"
+				],
+				"rank": 285,
+				"ratings": 4,
+				"score": 2.121,
+				"ilscore": 70,
+				"submission_time_diff": -2302000
+			}
+		]
+	},
+	{
+		"jammer": "Chijkem",
+		"jammer_link": "https://chijkem.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "color wHELL",
+				"title_link": "https://chijkem.itch.io/color-whell",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634971",
+				"by_list": [
+					"Chijkem"
+				],
+				"by_link_list": [
+					"https://chijkem.itch.io/"
+				],
+				"rank": 285,
+				"ratings": 4,
+				"score": 2.121,
+				"ilscore": 70,
+				"submission_time_diff": -1541000
 			}
 		]
 	}

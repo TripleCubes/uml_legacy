@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Keaton Lazzara",
-		"jammer_link": "https://keaton-lazzara.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "Arcade circle",
-				"title_link": "https://keaton-lazzara.itch.io/arcade-circle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976089",
-				"by_list": [
-					"Keaton Lazzara"
-				],
-				"by_link_list": [
-					"https://keaton-lazzara.itch.io/"
-				],
-				"rank": 127,
-				"ratings": 3,
-				"score": 1,
-				"ilscore": 22,
-				"submission_time_diff": -93813000
-			}
-		]
-	},
-	{
-		"jammer": "Solar Punch Games",
-		"jammer_link": "https://solar-punch-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "HeartBreak",
-				"title_link": "https://solar-punch-games.itch.io/heartbreak",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1975012",
-				"by_list": [
-					"Solar Punch Games"
-				],
-				"by_link_list": [
-					"https://solar-punch-games.itch.io/"
-				],
-				"rank": 128,
-				"ratings": 2,
-				"score": 0.919,
-				"ilscore": 20,
-				"submission_time_diff": 30974000
-			}
-		]
-	},
-	{
 		"jammer": "J4QK",
 		"jammer_link": "https://j4qk.itch.io/",
 		"game_list_sorted": [
@@ -1015,7 +961,7 @@
 		]
 	},
 	{
-		"jammer": "Quemone",
+		"jammer": "Kvemon",
 		"jammer_link": "https://quemone.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1028,7 +974,7 @@
 				"title_link": "https://quemone.itch.io/toxic-blob-platformer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999273",
 				"by_list": [
-					"Quemone"
+					"Kvemon"
 				],
 				"by_link_list": [
 					"https://quemone.itch.io/"
@@ -1092,7 +1038,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
+				"jam_vs": 155,
 				"title": "The Ancient Explorer",
 				"title_link": "https://team-bean.itch.io/ancient-explorer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457416",
@@ -3838,6 +3784,60 @@
 				"score": 3.3,
 				"ilscore": 90,
 				"submission_time_diff": -44096000
+			}
+		]
+	},
+	{
+		"jammer": "CollCaz",
+		"jammer_link": "https://collcaz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 216,
+				"title": "Lunar Run",
+				"title_link": "https://collcaz.itch.io/lunar-run",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2024016",
+				"by_list": [
+					"CollCaz"
+				],
+				"by_link_list": [
+					"https://collcaz.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 5,
+				"score": 3.296,
+				"ilscore": 89,
+				"submission_time_diff": 146702000
+			}
+		]
+	},
+	{
+		"jammer": "LeRougeUn",
+		"jammer_link": "https://lerougeun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 216,
+				"title": "MO2N",
+				"title_link": "https://lerougeun.itch.io/mo2n",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020609",
+				"by_list": [
+					"LeRougeUn"
+				],
+				"by_link_list": [
+					"https://lerougeun.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 7,
+				"score": 3.286,
+				"ilscore": 89,
+				"submission_time_diff": -28132000
 			}
 		]
 	}

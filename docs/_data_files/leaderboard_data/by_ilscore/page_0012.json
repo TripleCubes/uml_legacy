@@ -1,5 +1,54 @@
 [
 	{
+		"jammer": "CrookedBlackHeart",
+		"jammer_link": "https://crookedblackheart.itch.io/",
+		"total_ilscore": 148,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 124,
+				"title": "Attack of the Fifty Foot Irradiated Spider from Outer Space",
+				"title_link": "https://crookedblackheart.itch.io/radioactive-spider",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/963925",
+				"by_list": [
+					"CrookedBlackHeart"
+				],
+				"by_link_list": [
+					"https://crookedblackheart.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 5,
+				"score": 3.88,
+				"ilscore": 85,
+				"submission_time_diff": -15224000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 74,
+				"jam_name": "Chaos",
+				"jam_link": "https://itch.io/jam/mini-jam-74-chaos",
+				"jam_vs": 82,
+				"title": "Slice Slice Baby",
+				"title_link": "https://crookedblackheart.itch.io/slice-slice-baby",
+				"submission_page_link": "https://itch.io/jam/mini-jam-74-chaos/rate/930293",
+				"by_list": [
+					"CrookedBlackHeart"
+				],
+				"by_link_list": [
+					"https://crookedblackheart.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 14,
+				"score": 3.464,
+				"ilscore": 63,
+				"submission_time_diff": -16288000
+			}
+		]
+	},
+	{
 		"jammer": "Zukoix",
 		"jammer_link": "https://zukoix.itch.io/",
 		"total_ilscore": 148,
@@ -754,7 +803,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -858,7 +907,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Lumin",
 				"title_link": "https://duckcrossingstudio.itch.io/lumen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673847",
@@ -1374,7 +1423,7 @@
 				"jam_id": 157,
 				"jam_name": "Electric",
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 116,
+				"jam_vs": 115,
 				"title": "Don't Buzz The Wire",
 				"title_link": "https://sideron.itch.io/electric-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2670379",
@@ -1743,55 +1792,6 @@
 		]
 	},
 	{
-		"jammer": "nomron",
-		"jammer_link": "https://nomron.itch.io/",
-		"total_ilscore": 145,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
-				"title": "Crystalline",
-				"title_link": "https://nomron.itch.io/crystalline",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591820",
-				"by_list": [
-					"nomron"
-				],
-				"by_link_list": [
-					"https://nomron.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 20,
-				"score": 3.8,
-				"ilscore": 87,
-				"submission_time_diff": 29277000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "No Dice",
-				"title_link": "https://nomron.itch.io/no-dice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105525",
-				"by_list": [
-					"nomron"
-				],
-				"by_link_list": [
-					"https://nomron.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 7,
-				"score": 2.773,
-				"ilscore": 58,
-				"submission_time_diff": 5068000
-			}
-		]
-	},
-	{
 		"jammer": "sihlecodes",
 		"jammer_link": "https://sihlecodes.itch.io/",
 		"total_ilscore": 145,
@@ -1871,7 +1871,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Reformat().escape()",
 				"title_link": "https://none-yaroslav.itch.io/reformatescape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877974",
@@ -2650,6 +2650,55 @@
 		]
 	},
 	{
+		"jammer": "nomron",
+		"jammer_link": "https://nomron.itch.io/",
+		"total_ilscore": 144,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "Crystalline",
+				"title_link": "https://nomron.itch.io/crystalline",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591820",
+				"by_list": [
+					"nomron"
+				],
+				"by_link_list": [
+					"https://nomron.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 20,
+				"score": 3.8,
+				"ilscore": 86,
+				"submission_time_diff": 29277000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"jam_vs": 110,
+				"title": "No Dice",
+				"title_link": "https://nomron.itch.io/no-dice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105525",
+				"by_list": [
+					"nomron"
+				],
+				"by_link_list": [
+					"https://nomron.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 7,
+				"score": 2.773,
+				"ilscore": 58,
+				"submission_time_diff": 5068000
+			}
+		]
+	},
+	{
 		"jammer": "LionEY",
 		"jammer_link": "https://lioneym.itch.io/",
 		"total_ilscore": 144,
@@ -2744,76 +2793,6 @@
 				"score": 2.373,
 				"ilscore": 54,
 				"submission_time_diff": -124024000
-			}
-		]
-	},
-	{
-		"jammer": "Kim Manson",
-		"jammer_link": "https://kimdev-manson.itch.io/",
-		"total_ilscore": 144,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 156,
-				"title": "Interstellar Dam Keeper",
-				"title_link": "https://kimdev-manson.itch.io/interstellar-dam-keeper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2458885",
-				"by_list": [
-					"Kim Manson"
-				],
-				"by_link_list": [
-					"https://kimdev-manson.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 7,
-				"score": 3.071,
-				"ilscore": 74,
-				"submission_time_diff": -53445000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Fish The Grid",
-				"title_link": "https://kimdev-manson.itch.io/fish-the-grid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113997",
-				"by_list": [
-					"Kim Manson"
-				],
-				"by_link_list": [
-					"https://kimdev-manson.itch.io/"
-				],
-				"rank": 91,
-				"ratings": 4,
-				"score": 2.055,
-				"ilscore": 42,
-				"submission_time_diff": -12000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 136,
-				"jam_name": "Cycles",
-				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
-				"jam_vs": 43,
-				"title": "Slime Generation",
-				"title_link": "https://kimdev-manson.itch.io/slime-generation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164395",
-				"by_list": [
-					"Kim Manson"
-				],
-				"by_link_list": [
-					"https://kimdev-manson.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 6,
-				"score": 2.107,
-				"ilscore": 28,
-				"submission_time_diff": -1817000
 			}
 		]
 	},
@@ -3291,103 +3270,6 @@
 		]
 	},
 	{
-		"jammer": "Cowgummiboy",
-		"jammer_link": "https://cowgummiboy.itch.io/",
-		"total_ilscore": 143,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 104,
-				"title": "Break",
-				"title_link": "https://cowgummiboy.itch.io/break",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169399",
-				"by_list": [
-					"Cowgummiboy",
-					"Timbaleek",
-					"patrickematik",
-					"JamiesBond007"
-				],
-				"by_link_list": [
-					"https://cowgummiboy.itch.io/",
-					"https://timbaleek.itch.io/",
-					"https://patrickematik.itch.io/",
-					"https://jamiesbond007.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 21,
-				"score": 3.44,
-				"ilscore": 70,
-				"submission_time_diff": -9473000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 47,
-				"jam_name": "Internet",
-				"jam_link": "https://itch.io/jam/mini-jam-47-internet",
-				"jam_vs": 53,
-				"title": "Binary Tetris",
-				"title_link": "https://cowgummiboy.itch.io/binary-tetris",
-				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/566165",
-				"by_list": [
-					"Cowgummiboy"
-				],
-				"by_link_list": [
-					"https://cowgummiboy.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 13,
-				"score": 2.923,
-				"ilscore": 43,
-				"submission_time_diff": -3367000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 48,
-				"jam_name": "Teamwork",
-				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
-				"jam_vs": 32,
-				"title": "Paralellonauts",
-				"title_link": "https://cowgummiboy.itch.io/paralellonauts",
-				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575142",
-				"by_list": [
-					"Cowgummiboy"
-				],
-				"by_link_list": [
-					"https://cowgummiboy.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 4,
-				"score": 1.663,
-				"ilscore": 19,
-				"submission_time_diff": -18500000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 58,
-				"jam_name": "Neon",
-				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
-				"jam_vs": 22,
-				"title": "Neon Arena",
-				"title_link": "https://cowgummiboy.itch.io/neon-arena",
-				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701230",
-				"by_list": [
-					"Cowgummiboy"
-				],
-				"by_link_list": [
-					"https://cowgummiboy.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 3,
-				"score": 1.237,
-				"ilscore": 11,
-				"submission_time_diff": -14206000
-			}
-		]
-	},
-	{
 		"jammer": "Cloudke",
 		"jammer_link": "https://cloudke.itch.io/",
 		"total_ilscore": 143,
@@ -3528,7 +3410,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "GoldHack",
 				"title_link": "https://anubisdunk.itch.io/goldhack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137354",
@@ -3836,7 +3718,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Au Banque",
 				"title_link": "https://tavoe.itch.io/au-banque",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1138571",
@@ -4311,57 +4193,6 @@
 		]
 	},
 	{
-		"jammer": "studentkrisk",
-		"jammer_link": "https://studentkrisk.itch.io/",
-		"total_ilscore": 143,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Linking The Grid",
-				"title_link": "https://twilightrh.itch.io/linking-the-grid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113787",
-				"by_list": [
-					"twilightrh",
-					"studentkrisk"
-				],
-				"by_link_list": [
-					"https://twilightrh.itch.io/",
-					"https://studentkrisk.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 13,
-				"score": 3.538,
-				"ilscore": 74,
-				"submission_time_diff": -12582000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 137,
-				"title": "Becoming a Pirate Assassin that Steals People's Life Forces: A Guide",
-				"title_link": "https://studentkrisk.itch.io/becoming-a-pirate-assassin-that-steals-peoples-life-forces-a-guide",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591648",
-				"by_list": [
-					"studentkrisk"
-				],
-				"by_link_list": [
-					"https://studentkrisk.itch.io/"
-				],
-				"rank": 67,
-				"ratings": 15,
-				"score": 3.017,
-				"ilscore": 69,
-				"submission_time_diff": -2102000
-			}
-		]
-	},
-	{
 		"jammer": "MyCousinJimmy",
 		"jammer_link": "https://mycousinjimmy.itch.io/",
 		"total_ilscore": 143,
@@ -4713,6 +4544,76 @@
 		]
 	},
 	{
+		"jammer": "Kim Manson",
+		"jammer_link": "https://kimdev-manson.itch.io/",
+		"total_ilscore": 143,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 155,
+				"title": "Interstellar Dam Keeper",
+				"title_link": "https://kimdev-manson.itch.io/interstellar-dam-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2458885",
+				"by_list": [
+					"Kim Manson"
+				],
+				"by_link_list": [
+					"https://kimdev-manson.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 7,
+				"score": 3.071,
+				"ilscore": 73,
+				"submission_time_diff": -53445000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"jam_vs": 110,
+				"title": "Fish The Grid",
+				"title_link": "https://kimdev-manson.itch.io/fish-the-grid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113997",
+				"by_list": [
+					"Kim Manson"
+				],
+				"by_link_list": [
+					"https://kimdev-manson.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 4,
+				"score": 2.055,
+				"ilscore": 42,
+				"submission_time_diff": -12000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 136,
+				"jam_name": "Cycles",
+				"jam_link": "https://itch.io/jam/mini-jam-136-cycles",
+				"jam_vs": 43,
+				"title": "Slime Generation",
+				"title_link": "https://kimdev-manson.itch.io/slime-generation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-136-cycles/rate/2164395",
+				"by_list": [
+					"Kim Manson"
+				],
+				"by_link_list": [
+					"https://kimdev-manson.itch.io/"
+				],
+				"rank": 41,
+				"ratings": 6,
+				"score": 2.107,
+				"ilscore": 28,
+				"submission_time_diff": -1817000
+			}
+		]
+	},
+	{
 		"jammer": "rechronicle",
 		"jammer_link": "https://rechronicle.itch.io/",
 		"total_ilscore": 142,
@@ -4912,6 +4813,103 @@
 				"score": 2.045,
 				"ilscore": 41,
 				"submission_time_diff": -60126000
+			}
+		]
+	},
+	{
+		"jammer": "Cowgummiboy",
+		"jammer_link": "https://cowgummiboy.itch.io/",
+		"total_ilscore": 142,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 87,
+				"jam_name": "Break",
+				"jam_link": "https://itch.io/jam/mini-jam-87-break",
+				"jam_vs": 103,
+				"title": "Break",
+				"title_link": "https://cowgummiboy.itch.io/break",
+				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169399",
+				"by_list": [
+					"Cowgummiboy",
+					"Timbaleek",
+					"patrickematik",
+					"JamiesBond007"
+				],
+				"by_link_list": [
+					"https://cowgummiboy.itch.io/",
+					"https://timbaleek.itch.io/",
+					"https://patrickematik.itch.io/",
+					"https://jamiesbond007.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 21,
+				"score": 3.44,
+				"ilscore": 69,
+				"submission_time_diff": -9473000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 47,
+				"jam_name": "Internet",
+				"jam_link": "https://itch.io/jam/mini-jam-47-internet",
+				"jam_vs": 53,
+				"title": "Binary Tetris",
+				"title_link": "https://cowgummiboy.itch.io/binary-tetris",
+				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/566165",
+				"by_list": [
+					"Cowgummiboy"
+				],
+				"by_link_list": [
+					"https://cowgummiboy.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 13,
+				"score": 2.923,
+				"ilscore": 43,
+				"submission_time_diff": -3367000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 48,
+				"jam_name": "Teamwork",
+				"jam_link": "https://itch.io/jam/mini-jam-48-teamwork",
+				"jam_vs": 32,
+				"title": "Paralellonauts",
+				"title_link": "https://cowgummiboy.itch.io/paralellonauts",
+				"submission_page_link": "https://itch.io/jam/mini-jam-48-teamwork/rate/575142",
+				"by_list": [
+					"Cowgummiboy"
+				],
+				"by_link_list": [
+					"https://cowgummiboy.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 4,
+				"score": 1.663,
+				"ilscore": 19,
+				"submission_time_diff": -18500000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 58,
+				"jam_name": "Neon",
+				"jam_link": "https://itch.io/jam/mini-jam-58-neon",
+				"jam_vs": 22,
+				"title": "Neon Arena",
+				"title_link": "https://cowgummiboy.itch.io/neon-arena",
+				"submission_page_link": "https://itch.io/jam/mini-jam-58-neon/rate/701230",
+				"by_list": [
+					"Cowgummiboy"
+				],
+				"by_link_list": [
+					"https://cowgummiboy.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 3,
+				"score": 1.237,
+				"ilscore": 11,
+				"submission_time_diff": -14206000
 			}
 		]
 	},
@@ -5597,7 +5595,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "Time is Gold",
 				"title_link": "https://beatriztdias.itch.io/time-is-gold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1136022",
@@ -5953,6 +5951,57 @@
 		]
 	},
 	{
+		"jammer": "studentkrisk",
+		"jammer_link": "https://studentkrisk.itch.io/",
+		"total_ilscore": 142,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"jam_vs": 110,
+				"title": "Linking The Grid",
+				"title_link": "https://twilightrh.itch.io/linking-the-grid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113787",
+				"by_list": [
+					"twilightrh",
+					"studentkrisk"
+				],
+				"by_link_list": [
+					"https://twilightrh.itch.io/",
+					"https://studentkrisk.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 13,
+				"score": 3.538,
+				"ilscore": 74,
+				"submission_time_diff": -12582000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "Becoming a Pirate Assassin that Steals People's Life Forces: A Guide",
+				"title_link": "https://studentkrisk.itch.io/becoming-a-pirate-assassin-that-steals-peoples-life-forces-a-guide",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591648",
+				"by_list": [
+					"studentkrisk"
+				],
+				"by_link_list": [
+					"https://studentkrisk.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 15,
+				"score": 3.017,
+				"ilscore": 68,
+				"submission_time_diff": -2102000
+			}
+		]
+	},
+	{
 		"jammer": "Niko",
 		"jammer_link": "https://0niko1.itch.io/",
 		"total_ilscore": 142,
@@ -6047,34 +6096,6 @@
 				"score": 2.221,
 				"ilscore": 60,
 				"submission_time_diff": -857000
-			}
-		]
-	},
-	{
-		"jammer": "JaxStutz",
-		"jammer_link": "https://jaxstutz.itch.io/",
-		"total_ilscore": 142,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Sink",
-				"title_link": "https://jaxstutz.itch.io/sink",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635047",
-				"by_list": [
-					"JaxStutz"
-				],
-				"by_link_list": [
-					"https://jaxstutz.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 4.25,
-				"ilscore": 142,
-				"submission_time_diff": 2222000
 			}
 		]
 	}

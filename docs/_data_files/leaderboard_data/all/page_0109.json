@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Juno_Design",
-		"jammer_link": "https://juno-design.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "SENTINEL[FashionCorp]",
-				"title_link": "https://juno-design.itch.io/sentinelfashioncorp",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792052",
-				"by_list": [
-					"Juno_Design"
-				],
-				"by_link_list": [
-					"https://juno-design.itch.io/"
-				],
-				"rank": 52,
-				"ratings": 1,
-				"score": 0.567,
-				"ilscore": 8,
-				"submission_time_diff": -2498000
-			}
-		]
-	},
-	{
-		"jammer": "Chimham",
-		"jammer_link": "https://chimham.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Ball N' Chain",
-				"title_link": "https://chimham.itch.io/ball-n-chain",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819199",
-				"by_list": [
-					"Chimham"
-				],
-				"by_link_list": [
-					"https://chimham.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 28,
-				"score": 4.393,
-				"ilscore": 99,
-				"submission_time_diff": -1245000
-			}
-		]
-	},
-	{
 		"jammer": "AndreiGames",
 		"jammer_link": "https://andrei2323.itch.io/",
 		"game_list_sorted": [
@@ -2473,7 +2419,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Mystic Fog Maze",
 				"title_link": "https://antonisdevstuff.itch.io/mystic-fog-maze",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878570",
@@ -2883,7 +2829,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 74,
+				"jam_vs": 73,
 				"title": "Ballistic Blast",
 				"title_link": "https://laggyfox.itch.io/ballistic-blast",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877895",
@@ -3305,6 +3251,89 @@
 				"score": 2.5,
 				"ilscore": 56,
 				"submission_time_diff": -36371000
+			}
+		]
+	},
+	{
+		"jammer": "biscuits_phd",
+		"jammer_link": "https://biscuits-phd.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 163,
+				"jam_name": "Dessert",
+				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
+				"jam_vs": 52,
+				"title": "Tiny Kiosk",
+				"title_link": "https://ananasikdeveloper.itch.io/tinykiosk",
+				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848415",
+				"by_list": [
+					"AnanasikDeveloper",
+					"Valdriks the Jazzborn",
+					"biscuits_phd"
+				],
+				"by_link_list": [
+					"https://ananasikdeveloper.itch.io/",
+					"https://valdriks-the-jazzborn.itch.io/",
+					"https://biscuits-phd.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 5,
+				"score": 2.62,
+				"ilscore": 38,
+				"submission_time_diff": -6123000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Heat Tower",
+				"title_link": "https://biscuits-phd.itch.io/heat-tower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2821464",
+				"by_list": [
+					"biscuits_phd",
+					"Strange_dino25"
+				],
+				"by_link_list": [
+					"https://biscuits-phd.itch.io/",
+					"https://strange-dino25.itch.io/"
+				],
+				"rank": 96,
+				"ratings": 6,
+				"score": 2.49,
+				"ilscore": 56,
+				"submission_time_diff": 93035000
+			}
+		]
+	},
+	{
+		"jammer": "Strange_dino25",
+		"jammer_link": "https://strange-dino25.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Heat Tower",
+				"title_link": "https://biscuits-phd.itch.io/heat-tower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2821464",
+				"by_list": [
+					"biscuits_phd",
+					"Strange_dino25"
+				],
+				"by_link_list": [
+					"https://biscuits-phd.itch.io/",
+					"https://strange-dino25.itch.io/"
+				],
+				"rank": 96,
+				"ratings": 6,
+				"score": 2.49,
+				"ilscore": 56,
+				"submission_time_diff": 93035000
 			}
 		]
 	}
