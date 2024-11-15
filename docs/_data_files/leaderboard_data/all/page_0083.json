@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "beds",
-		"jammer_link": "https://beds.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Spider Astronaut",
-				"title_link": "https://beds.itch.io/spider-astronaut",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869222",
-				"by_list": [
-					"beds"
-				],
-				"by_link_list": [
-					"https://beds.itch.io/"
-				],
-				"rank": 203,
-				"ratings": 5,
-				"score": 1.344,
-				"ilscore": 36,
-				"submission_time_diff": -13237000
-			}
-		]
-	},
-	{
 		"jammer": "kittco36",
 		"jammer_link": "https://kittco36.itch.io/",
 		"game_list_sorted": [
@@ -1930,7 +1903,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Sokobind",
 				"title_link": "https://el0x.itch.io/sokobind",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089690",
@@ -2223,7 +2196,7 @@
 		]
 	},
 	{
-		"jammer": "Joey the game maker",
+		"jammer": "square slime",
 		"jammer_link": "https://joey-the-game-maker.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2236,7 +2209,7 @@
 				"title_link": "https://joey-the-game-maker.itch.io/marshy-hunt-for-cocoa",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889489",
 				"by_list": [
-					"Joey the game maker"
+					"square slime"
 				],
 				"by_link_list": [
 					"https://joey-the-game-maker.itch.io/"
@@ -2257,7 +2230,7 @@
 				"title_link": "https://joey-the-game-maker.itch.io/p",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913416",
 				"by_list": [
-					"Joey the game maker"
+					"square slime"
 				],
 				"by_link_list": [
 					"https://joey-the-game-maker.itch.io/"
@@ -2787,8 +2760,8 @@
 		]
 	},
 	{
-		"jammer": "ACcreations",
-		"jammer_link": "https://accreations.itch.io/",
+		"jammer": "PortalGolem",
+		"jammer_link": "https://portalgolem.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2797,13 +2770,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
 				"jam_vs": 114,
 				"title": "Marshmellow",
-				"title_link": "https://accreations.itch.io/marshmellow",
+				"title_link": "https://portalgolem.itch.io/marshmellow",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889901",
 				"by_list": [
-					"ACcreations"
+					"PortalGolem"
 				],
 				"by_link_list": [
-					"https://accreations.itch.io/"
+					"https://portalgolem.itch.io/"
 				],
 				"rank": 84,
 				"ratings": 6,
@@ -3468,6 +3441,33 @@
 				"score": 1.479,
 				"ilscore": 31,
 				"submission_time_diff": -27656000
+			}
+		]
+	},
+	{
+		"jammer": "zedzee",
+		"jammer_link": "https://zedzee.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Jazzy Snow Lodge",
+				"title_link": "https://zedzee.itch.io/jazzy-snow-lodge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889500",
+				"by_list": [
+					"zedzee"
+				],
+				"by_link_list": [
+					"https://zedzee.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 3,
+				"score": 1.473,
+				"ilscore": 31,
+				"submission_time_diff": 68205000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "JackleroqDev",
-		"jammer_link": "https://jackleroqdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Gem Dude",
-				"title_link": "https://jackleroqdev.itch.io/gem-dude",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944055",
-				"by_list": [
-					"JackleroqDev"
-				],
-				"by_link_list": [
-					"https://jackleroqdev.itch.io/"
-				],
-				"rank": 150,
-				"ratings": 10,
-				"score": 2.225,
-				"ilscore": 59,
-				"submission_time_diff": -19631000
-			}
-		]
-	},
-	{
 		"jammer": "Scratchqy",
 		"jammer_link": "https://scratchqy.itch.io/",
 		"game_list_sorted": [
@@ -860,7 +833,7 @@
 	},
 	{
 		"jammer": "BrokenCube Studios",
-		"jammer_link": "https://kazu-slayer.itch.io/",
+		"jammer_link": "https://brokencube.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -869,13 +842,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
 				"jam_vs": 204,
 				"title": "Spacy-166",
-				"title_link": "https://kazu-slayer.itch.io/spacy",
+				"title_link": "https://brokencube.itch.io/spacy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943334",
 				"by_list": [
 					"BrokenCube Studios"
 				],
 				"by_link_list": [
-					"https://kazu-slayer.itch.io/"
+					"https://brokencube.itch.io/"
 				],
 				"rank": 175,
 				"ratings": 2,
@@ -1475,7 +1448,7 @@
 	},
 	{
 		"jammer": "Wall games",
-		"jammer_link": "https://the-dude-who-makes-games.itch.io/",
+		"jammer_link": "https://wall-games.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1484,15 +1457,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
 				"jam_vs": 204,
 				"title": "Colony Side",
-				"title_link": "https://the-dude-who-makes-games.itch.io/colony-side",
+				"title_link": "https://wall-games.itch.io/colony-side",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2761070",
 				"by_list": [
 					"Wall games",
 					"Quest Games"
 				],
 				"by_link_list": [
-					"https://the-dude-who-makes-games.itch.io/",
-					"https://desktopjoker.itch.io/"
+					"https://wall-games.itch.io/",
+					"https://quest-games.itch.io/"
 				],
 				"rank": 202,
 				"ratings": 2,
@@ -1504,7 +1477,7 @@
 	},
 	{
 		"jammer": "Quest Games",
-		"jammer_link": "https://desktopjoker.itch.io/",
+		"jammer_link": "https://quest-games.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1513,15 +1486,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
 				"jam_vs": 204,
 				"title": "Colony Side",
-				"title_link": "https://the-dude-who-makes-games.itch.io/colony-side",
+				"title_link": "https://wall-games.itch.io/colony-side",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2761070",
 				"by_list": [
 					"Wall games",
 					"Quest Games"
 				],
 				"by_link_list": [
-					"https://the-dude-who-makes-games.itch.io/",
-					"https://desktopjoker.itch.io/"
+					"https://wall-games.itch.io/",
+					"https://quest-games.itch.io/"
 				],
 				"rank": 202,
 				"ratings": 2,
@@ -2875,6 +2848,33 @@
 				"score": 1.299,
 				"ilscore": 21,
 				"submission_time_diff": -5038000
+			}
+		]
+	},
+	{
+		"jammer": "sabih games",
+		"jammer_link": "https://sabih-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 63,
+				"title": "Lovin' Emma Watson",
+				"title_link": "https://sabih-games.itch.io/lovin-emma-watson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975057",
+				"by_list": [
+					"sabih games"
+				],
+				"by_link_list": [
+					"https://sabih-games.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 8,
+				"score": 1.25,
+				"ilscore": 20,
+				"submission_time_diff": -38818000
 			}
 		]
 	}

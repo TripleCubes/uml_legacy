@@ -1,103 +1,5 @@
 [
 	{
-		"jammer": "sattylion",
-		"jammer_link": "https://sattylion.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
-				"title": "Gear",
-				"title_link": "https://sattylion.itch.io/gear",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089224",
-				"by_list": [
-					"sattylion",
-					"Christian"
-				],
-				"by_link_list": [
-					"https://sattylion.itch.io/",
-					"https://dijonpigeon.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 20,
-				"score": 3.725,
-				"ilscore": 84,
-				"submission_time_diff": -38000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "All Aboard",
-				"title_link": "https://sattylion.itch.io/all-aboard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1933269",
-				"by_list": [
-					"sattylion",
-					"Christian"
-				],
-				"by_link_list": [
-					"https://sattylion.itch.io/",
-					"https://dijonpigeon.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 9,
-				"score": 3.361,
-				"ilscore": 60,
-				"submission_time_diff": -556000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "It's Sunny Outside",
-				"title_link": "https://sattylion.itch.io/its-sunny-outside",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1830903",
-				"by_list": [
-					"sattylion",
-					"Christian"
-				],
-				"by_link_list": [
-					"https://sattylion.itch.io/",
-					"https://dijonpigeon.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 13,
-				"score": 3.5,
-				"ilscore": 75,
-				"submission_time_diff": -305000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"jam_vs": 55,
-				"title": "Run Faster Than Death",
-				"title_link": "https://sattylion.itch.io/run-faster-than-death",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1811022",
-				"by_list": [
-					"sattylion",
-					"Christian"
-				],
-				"by_link_list": [
-					"https://sattylion.itch.io/",
-					"https://dijonpigeon.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 8,
-				"score": 2.688,
-				"ilscore": 41,
-				"submission_time_diff": -16000
-			}
-		]
-	},
-	{
 		"jammer": "Christian",
 		"jammer_link": "https://dijonpigeon.itch.io/",
 		"game_list_sorted": [
@@ -106,7 +8,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Gear",
 				"title_link": "https://sattylion.itch.io/gear",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089224",
@@ -775,7 +677,7 @@
 		]
 	},
 	{
-		"jammer": "DedReflection",
+		"jammer": "Ded-Reflection",
 		"jammer_link": "https://dedreflection.itch.io/",
 		"game_list_sorted": [
 			{
@@ -788,7 +690,7 @@
 				"title_link": "https://dedreflection.itch.io/hand-shaker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070225",
 				"by_list": [
-					"DedReflection"
+					"Ded-Reflection"
 				],
 				"by_link_list": [
 					"https://dedreflection.itch.io/"
@@ -809,7 +711,7 @@
 				"title_link": "https://dedreflection.itch.io/the-man-in-the-frame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832091",
 				"by_list": [
-					"DedReflection"
+					"Ded-Reflection"
 				],
 				"by_link_list": [
 					"https://dedreflection.itch.io/"
@@ -2043,7 +1945,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "A Witch's Cure",
 				"title_link": "https://melliomusic.itch.io/a-witchs-cure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069192",
@@ -3773,6 +3675,35 @@
 				"score": 1.598,
 				"ilscore": 34,
 				"submission_time_diff": -16436000
+			}
+		]
+	},
+	{
+		"jammer": "LaughingMad",
+		"jammer_link": "https://laughingmad.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Is God the type to open windows?",
+				"title_link": "https://tricore.itch.io/is-god-the-type-to-open-windows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832093",
+				"by_list": [
+					"Tricore",
+					"LaughingMad"
+				],
+				"by_link_list": [
+					"https://tricore.itch.io/",
+					"https://laughingmad.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 11,
+				"score": 1.591,
+				"ilscore": 34,
+				"submission_time_diff": -15545000
 			}
 		]
 	}

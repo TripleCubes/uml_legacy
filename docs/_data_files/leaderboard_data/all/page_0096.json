@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "Tony_Wayne_Maker",
-		"jammer_link": "https://tony-wayne-maker.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 88,
-				"title": "Frost Rush",
-				"title_link": "https://tony-wayne-maker.itch.io/frost-rush",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364491",
-				"by_list": [
-					"Tony_Wayne_Maker"
-				],
-				"by_link_list": [
-					"https://tony-wayne-maker.itch.io/"
-				],
-				"rank": 82,
-				"ratings": 3,
-				"score": 1.364,
-				"ilscore": 25,
-				"submission_time_diff": -23857000
-			}
-		]
-	},
-	{
-		"jammer": "Dairo Forbian",
-		"jammer_link": "https://nomerun.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 88,
-				"title": "Fire Heart",
-				"title_link": "https://nomerun.itch.io/fire-heartnew",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2365164",
-				"by_list": [
-					"Dairo Forbian",
-					"Avenazh",
-					"Fr4ilty"
-				],
-				"by_link_list": [
-					"https://nomerun.itch.io/",
-					"https://avenazh.itch.io/",
-					"https://fr4ilty.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 2,
-				"score": 1.269,
-				"ilscore": 24,
-				"submission_time_diff": 37868000
-			}
-		]
-	},
-	{
 		"jammer": "Avenazh",
 		"jammer_link": "https://avenazh.itch.io/",
 		"game_list_sorted": [
@@ -228,7 +170,7 @@
 		]
 	},
 	{
-		"jammer": "catmakegames",
+		"jammer": "c locker studios",
 		"jammer_link": "https://catmakegames.itch.io/",
 		"game_list_sorted": [
 			{
@@ -241,7 +183,7 @@
 				"title_link": "https://catmakegames.itch.io/winter-witch-unfinished",
 				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2364845",
 				"by_list": [
-					"catmakegames"
+					"c locker studios"
 				],
 				"by_link_list": [
 					"https://catmakegames.itch.io/"
@@ -3410,6 +3352,60 @@
 				"score": 2.48,
 				"ilscore": 37,
 				"submission_time_diff": -25454000
+			}
+		]
+	},
+	{
+		"jammer": "TheOnlyOne",
+		"jammer_link": "https://cdgn.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"jam_vs": 54,
+				"title": "Defen",
+				"title_link": "https://cdgn.itch.io/defen",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440778",
+				"by_list": [
+					"TheOnlyOne"
+				],
+				"by_link_list": [
+					"https://cdgn.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 9,
+				"score": 2.457,
+				"ilscore": 37,
+				"submission_time_diff": 151793000
+			}
+		]
+	},
+	{
+		"jammer": "Nyakiway",
+		"jammer_link": "https://nyakiway.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"jam_vs": 54,
+				"title": "AIRISE",
+				"title_link": "https://nyakiway.itch.io/airise",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440752",
+				"by_list": [
+					"Nyakiway"
+				],
+				"by_link_list": [
+					"https://nyakiway.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 10,
+				"score": 2.448,
+				"ilscore": 37,
+				"submission_time_diff": -802000
 			}
 		]
 	}

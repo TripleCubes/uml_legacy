@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "dfib",
-		"jammer_link": "https://dfib.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "MeatUp",
-				"title_link": "https://dairygold.itch.io/meatup",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977736",
-				"by_list": [
-					"Dairygold",
-					"dfib",
-					"glenlevi"
-				],
-				"by_link_list": [
-					"https://dairygold.itch.io/",
-					"https://dfib.itch.io/",
-					"https://glenlevi.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 41,
-				"score": 3.738,
-				"ilscore": 84,
-				"submission_time_diff": -2914000
-			}
-		]
-	},
-	{
 		"jammer": "glenlevi",
 		"jammer_link": "https://glenlevi.itch.io/",
 		"game_list_sorted": [
@@ -2936,7 +2905,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Chromatic Wanderer",
 				"title_link": "https://laboratori.itch.io/chromatic-wanderer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092086",
@@ -3487,6 +3456,33 @@
 				"score": 0.919,
 				"ilscore": 20,
 				"submission_time_diff": 30974000
+			}
+		]
+	},
+	{
+		"jammer": "J4QK",
+		"jammer_link": "https://j4qk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"jam_vs": 133,
+				"title": "Match Food",
+				"title_link": "https://j4qk.itch.io/match-food",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976858",
+				"by_list": [
+					"J4QK"
+				],
+				"by_link_list": [
+					"https://j4qk.itch.io/"
+				],
+				"rank": 128,
+				"ratings": 2,
+				"score": 0.919,
+				"ilscore": 20,
+				"submission_time_diff": -44291000
 			}
 		]
 	}

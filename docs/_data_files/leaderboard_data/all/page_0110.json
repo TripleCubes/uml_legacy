@@ -1,65 +1,5 @@
 [
 	{
-		"jammer": "CreatoMan",
-		"jammer_link": "https://creatoman.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Heed the Heat!",
-				"title_link": "https://creatoman.itch.io/heed-the-heat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819637",
-				"by_list": [
-					"CreatoMan"
-				],
-				"by_link_list": [
-					"https://creatoman.itch.io/"
-				],
-				"rank": 97,
-				"ratings": 12,
-				"score": 2.479,
-				"ilscore": 56,
-				"submission_time_diff": -249000
-			}
-		]
-	},
-	{
-		"jammer": "HardEggGames",
-		"jammer_link": "https://hardegggames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "TrigonomeBeats",
-				"title_link": "https://hardegggames.itch.io/trigonomebeat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818980",
-				"by_list": [
-					"HardEggGames",
-					"deatyG",
-					"Mimpendo",
-					"commonboy12"
-				],
-				"by_link_list": [
-					"https://hardegggames.itch.io/",
-					"https://deatyg.itch.io/",
-					"https://mimpendo.itch.io/",
-					"https://commonboy12.itch.io/"
-				],
-				"rank": 98,
-				"ratings": 4,
-				"score": 2.475,
-				"ilscore": 56,
-				"submission_time_diff": -130000
-			}
-		]
-	},
-	{
 		"jammer": "deatyG",
 		"jammer_link": "https://deatyg.itch.io/",
 		"game_list_sorted": [
@@ -255,10 +195,41 @@
 				"title_link": "https://box-wizard-studios.itch.io/heated-iron",
 				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819362",
 				"by_list": [
-					"Box Wizard Studios"
+					"Box Wizard Studios",
+					"Benjamin Smith"
 				],
 				"by_link_list": [
-					"https://box-wizard-studios.itch.io/"
+					"https://box-wizard-studios.itch.io/",
+					"https://smipcorebenny.itch.io/"
+				],
+				"rank": 101,
+				"ratings": 6,
+				"score": 2.345,
+				"ilscore": 53,
+				"submission_time_diff": -9570000
+			}
+		]
+	},
+	{
+		"jammer": "Benjamin Smith",
+		"jammer_link": "https://smipcorebenny.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Heated Iron",
+				"title_link": "https://box-wizard-studios.itch.io/heated-iron",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819362",
+				"by_list": [
+					"Box Wizard Studios",
+					"Benjamin Smith"
+				],
+				"by_link_list": [
+					"https://box-wizard-studios.itch.io/",
+					"https://smipcorebenny.itch.io/"
 				],
 				"rank": 101,
 				"ratings": 6,
@@ -1235,6 +1206,27 @@
 				"score": 3.675,
 				"ilscore": 64,
 				"submission_time_diff": -13621000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "False Fear. (+1 ending ,Bug Fixes)",
+				"title_link": "https://angelodev.itch.io/fears-return",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100156",
+				"by_list": [
+					"AngeloDev (ツ)"
+				],
+				"by_link_list": [
+					"https://angelodev.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 5,
+				"score": 2.789,
+				"ilscore": 44,
+				"submission_time_diff": -23237000
 			}
 		]
 	},
@@ -3060,6 +3052,33 @@
 				"score": 3.139,
 				"ilscore": 54,
 				"submission_time_diff": -398000
+			}
+		]
+	},
+	{
+		"jammer": "Unsorted Almanac",
+		"jammer_link": "https://unsorted-almanac.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 73,
+				"title": "Pacific Raider",
+				"title_link": "https://unsorted-almanac.itch.io/pacific-raider",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877773",
+				"by_list": [
+					"Unsorted Almanac"
+				],
+				"by_link_list": [
+					"https://unsorted-almanac.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 11,
+				"score": 3.091,
+				"ilscore": 54,
+				"submission_time_diff": -34948000
 			}
 		]
 	}

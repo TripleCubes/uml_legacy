@@ -1,88 +1,5 @@
 [
 	{
-		"jammer": "Danilock",
-		"jammer_link": "https://danilock.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Moonstar Keep",
-				"title_link": "https://team-dreamrot.itch.io/moonstar-keep",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2136415",
-				"by_list": [
-					"Team DreamRot",
-					"Danilock"
-				],
-				"by_link_list": [
-					"https://team-dreamrot.itch.io/",
-					"https://danilock.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 15,
-				"score": 3.517,
-				"ilscore": 61,
-				"submission_time_diff": 90015000
-			}
-		]
-	},
-	{
-		"jammer": "DevilishAndEvilMiscreant",
-		"jammer_link": "https://devilishandevilmiscreant.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Maze X",
-				"title_link": "https://devilishandevilmiscreant.itch.io/mazex",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134829",
-				"by_list": [
-					"DevilishAndEvilMiscreant",
-					"GabeMalk",
-					"ZeroStas"
-				],
-				"by_link_list": [
-					"https://devilishandevilmiscreant.itch.io/",
-					"https://gabemalk.itch.io/",
-					"https://zerostas.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 7,
-				"score": 3.179,
-				"ilscore": 55,
-				"submission_time_diff": -164000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 168,
-				"jam_name": "Retro",
-				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 39,
-				"title": "Rowdy Aliens",
-				"title_link": "https://devilishandevilmiscreant.itch.io/rowdy-aliens",
-				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007127",
-				"by_list": [
-					"DevilishAndEvilMiscreant",
-					"KlausKingsman"
-				],
-				"by_link_list": [
-					"https://devilishandevilmiscreant.itch.io/",
-					"https://klauskingsman.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 3,
-				"score": 1.123,
-				"ilscore": 14,
-				"submission_time_diff": -293000
-			}
-		]
-	},
-	{
 		"jammer": "ZeroStas",
 		"jammer_link": "https://zerostas.itch.io/",
 		"game_list_sorted": [
@@ -3346,6 +3263,83 @@
 				"score": 3.167,
 				"ilscore": 39,
 				"submission_time_diff": 1832000
+			}
+		]
+	},
+	{
+		"jammer": "Fabricio Caixeta Andriani",
+		"jammer_link": "https://fabsca.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "One Chance Match Shoot",
+				"title_link": "https://fabsca.itch.io/one-chance-match-shoot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292624",
+				"by_list": [
+					"Fabricio Caixeta Andriani",
+					"Biscoithor"
+				],
+				"by_link_list": [
+					"https://fabsca.itch.io/",
+					"https://johnnyfsa.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 13,
+				"score": 3.519,
+				"ilscore": 46,
+				"submission_time_diff": -12194000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 37,
+				"title": "Bet Coins",
+				"title_link": "https://fabsca.itch.io/bet-coins",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228174",
+				"by_list": [
+					"Fabricio Caixeta Andriani"
+				],
+				"by_link_list": [
+					"https://fabsca.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 7,
+				"score": 3.107,
+				"ilscore": 38,
+				"submission_time_diff": -1032000
+			}
+		]
+	},
+	{
+		"jammer": "Taikari Games",
+		"jammer_link": "https://taikari.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 37,
+				"title": "Nefairyus",
+				"title_link": "https://taikari.itch.io/nefairyus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2225447",
+				"by_list": [
+					"Taikari Games"
+				],
+				"by_link_list": [
+					"https://taikari.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 13,
+				"score": 3.096,
+				"ilscore": 38,
+				"submission_time_diff": -48638000
 			}
 		]
 	}

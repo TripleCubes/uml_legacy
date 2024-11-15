@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "ACB_Gamez",
-		"jammer_link": "https://acb-gamez.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
-				"title": "Small Fall",
-				"title_link": "https://acb-gamez.itch.io/small-fall",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1871716",
-				"by_list": [
-					"ACB_Gamez"
-				],
-				"by_link_list": [
-					"https://acb-gamez.itch.io/"
-				],
-				"rank": 74,
-				"ratings": 17,
-				"score": 3.118,
-				"ilscore": 84,
-				"submission_time_diff": 124382000
-			}
-		]
-	},
-	{
 		"jammer": "anotherMosquito",
 		"jammer_link": "https://anothermosquito.itch.io/",
 		"game_list_sorted": [
@@ -203,7 +176,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Love Letter",
 				"title_link": "https://crazy-vixen.itch.io/love-letter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2090880",
@@ -2997,7 +2970,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Fusing Out",
 				"title_link": "https://frier-s.itch.io/fusing-out",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092401",
@@ -3091,8 +3064,8 @@
 		]
 	},
 	{
-		"jammer": "noWniaR",
-		"jammer_link": "https://rainwon.itch.io/",
+		"jammer": "Yomi (yomirein)",
+		"jammer_link": "https://yomirein.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3101,13 +3074,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
 				"jam_vs": 210,
 				"title": "Mazyaka",
-				"title_link": "https://rainwon.itch.io/mazyaka",
+				"title_link": "https://yomirein.itch.io/mazyaka",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868511",
 				"by_list": [
-					"noWniaR"
+					"Yomi (yomirein)"
 				],
 				"by_link_list": [
-					"https://rainwon.itch.io/"
+					"https://yomirein.itch.io/"
 				],
 				"rank": 181,
 				"ratings": 5,
@@ -3451,8 +3424,8 @@
 		]
 	},
 	{
-		"jammer": "JulenRa",
-		"jammer_link": "https://julenra.itch.io/",
+		"jammer": "deblpr",
+		"jammer_link": "https://deblpr.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3461,13 +3434,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
 				"jam_vs": 210,
 				"title": "Buy a ticket: The game",
-				"title_link": "https://julenra.itch.io/buy-a-ticket",
+				"title_link": "https://deblpr.itch.io/buy-a-ticket",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1866318",
 				"by_list": [
-					"JulenRa"
+					"deblpr"
 				],
 				"by_link_list": [
-					"https://julenra.itch.io/"
+					"https://deblpr.itch.io/"
 				],
 				"rank": 195,
 				"ratings": 10,
@@ -3630,6 +3603,33 @@
 				"score": 1.344,
 				"ilscore": 36,
 				"submission_time_diff": -159000
+			}
+		]
+	},
+	{
+		"jammer": "beds",
+		"jammer_link": "https://beds.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 210,
+				"title": "Spider Astronaut",
+				"title_link": "https://beds.itch.io/spider-astronaut",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869222",
+				"by_list": [
+					"beds"
+				],
+				"by_link_list": [
+					"https://beds.itch.io/"
+				],
+				"rank": 203,
+				"ratings": 5,
+				"score": 1.344,
+				"ilscore": 36,
+				"submission_time_diff": -13237000
 			}
 		]
 	}

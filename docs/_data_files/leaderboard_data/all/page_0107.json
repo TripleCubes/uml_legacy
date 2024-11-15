@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "DunaMan",
-		"jammer_link": "https://dunaman.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
-				"title": "Crab Conquest",
-				"title_link": "https://dunaman.itch.io/crab-conquest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733864",
-				"by_list": [
-					"DunaMan"
-				],
-				"by_link_list": [
-					"https://dunaman.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 7,
-				"score": 3.393,
-				"ilscore": 75,
-				"submission_time_diff": -15189000
-			}
-		]
-	},
-	{
-		"jammer": "ThirdNationGames",
-		"jammer_link": "https://thirdnationgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
-				"title": "Icebreaker",
-				"title_link": "https://thirdnationgames.itch.io/icebreaker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733748",
-				"by_list": [
-					"ThirdNationGames"
-				],
-				"by_link_list": [
-					"https://thirdnationgames.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 14,
-				"score": 3.357,
-				"ilscore": 74,
-				"submission_time_diff": -25390000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "CyberSuns",
-				"title_link": "https://thirdnationgames.itch.io/cybersuns",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2974869",
-				"by_list": [
-					"ThirdNationGames"
-				],
-				"by_link_list": [
-					"https://thirdnationgames.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 8,
-				"score": 2.501,
-				"ilscore": 40,
-				"submission_time_diff": -35478000
-			}
-		]
-	},
-	{
 		"jammer": "Aidturith",
 		"jammer_link": "https://aidturith.itch.io/",
 		"game_list_sorted": [
@@ -1270,8 +1195,8 @@
 		]
 	},
 	{
-		"jammer": "Wizard_Jordan",
-		"jammer_link": "https://wizard-jordan.itch.io/",
+		"jammer": "the-bert",
+		"jammer_link": "https://the-bert.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1280,13 +1205,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
 				"jam_vs": 126,
 				"title": "This Little Light",
-				"title_link": "https://wizard-jordan.itch.io/this-little-light",
+				"title_link": "https://the-bert.itch.io/this-little-light",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733989",
 				"by_list": [
-					"Wizard_Jordan"
+					"the-bert"
 				],
 				"by_link_list": [
-					"https://wizard-jordan.itch.io/"
+					"https://the-bert.itch.io/"
 				],
 				"rank": 85,
 				"ratings": 5,
@@ -3215,6 +3140,62 @@
 				"score": 3.357,
 				"ilscore": 73,
 				"submission_time_diff": -1301000
+			}
+		]
+	},
+	{
+		"jammer": "Lemnon",
+		"jammer_link": "https://lemnon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Night Lighter",
+				"title_link": "https://lemnon.itch.io/night-lighter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2761548",
+				"by_list": [
+					"Lemnon"
+				],
+				"by_link_list": [
+					"https://lemnon.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 24,
+				"score": 3.333,
+				"ilscore": 72,
+				"submission_time_diff": -36078000
+			}
+		]
+	},
+	{
+		"jammer": "VexedBun",
+		"jammer_link": "https://vexedbun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Final Light",
+				"title_link": "https://vexedbun.itch.io/final-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2765195",
+				"by_list": [
+					"VexedBun",
+					"Pudeer"
+				],
+				"by_link_list": [
+					"https://vexedbun.itch.io/",
+					"https://pudeer.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 11,
+				"score": 3.318,
+				"ilscore": 72,
+				"submission_time_diff": 35069000
 			}
 		]
 	}

@@ -1,5 +1,94 @@
 [
 	{
+		"jammer": "Wild Beard",
+		"jammer_link": "https://thewildbeard.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Spin To Begin",
+				"title_link": "https://indigosingularity.itch.io/spintobegin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671501",
+				"by_list": [
+					"tharmoth",
+					"Wild Beard",
+					"AnonFood"
+				],
+				"by_link_list": [
+					"https://indigosingularity.itch.io/",
+					"https://thewildbeard.itch.io/",
+					"https://anonfood.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.026,
+				"ilscore": 85,
+				"submission_time_diff": -3372000
+			}
+		]
+	},
+	{
+		"jammer": "AnonFood",
+		"jammer_link": "https://anonfood.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Spin To Begin",
+				"title_link": "https://indigosingularity.itch.io/spintobegin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2671501",
+				"by_list": [
+					"tharmoth",
+					"Wild Beard",
+					"AnonFood"
+				],
+				"by_link_list": [
+					"https://indigosingularity.itch.io/",
+					"https://thewildbeard.itch.io/",
+					"https://anonfood.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.026,
+				"ilscore": 85,
+				"submission_time_diff": -3372000
+			}
+		]
+	},
+	{
+		"jammer": "flyingrollercoaster",
+		"jammer_link": "https://flyingrollercoaster.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Balance",
+				"title_link": "https://flyingrollercoaster.itch.io/balance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674484",
+				"by_list": [
+					"flyingrollercoaster"
+				],
+				"by_link_list": [
+					"https://flyingrollercoaster.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.026,
+				"ilscore": 85,
+				"submission_time_diff": -11488000
+			}
+		]
+	},
+	{
 		"jammer": "Len Underbrink",
 		"jammer_link": "https://len-underbrink-devs.itch.io/",
 		"game_list_sorted": [
@@ -771,7 +860,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Death Ticker",
 				"title_link": "https://hederlunden.itch.io/death-ticker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347449",
@@ -1008,7 +1097,7 @@
 		]
 	},
 	{
-		"jammer": "Mippy109",
+		"jammer": "Mippy",
 		"jammer_link": "https://mippy109.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1021,7 +1110,7 @@
 				"title_link": "https://mippy109.itch.io/superball-sprint",
 				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537437",
 				"by_list": [
-					"Mippy109"
+					"Mippy"
 				],
 				"by_link_list": [
 					"https://mippy109.itch.io/"
@@ -1899,6 +1988,33 @@
 		]
 	},
 	{
+		"jammer": "TheMKDev",
+		"jammer_link": "https://themkdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "Spell-evator",
+				"title_link": "https://themkdev.itch.io/spell-evator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100859",
+				"by_list": [
+					"TheMKDev"
+				],
+				"by_link_list": [
+					"https://themkdev.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 10,
+				"score": 3.625,
+				"ilscore": 58,
+				"submission_time_diff": -5089000
+			}
+		]
+	},
+	{
 		"jammer": "Herald",
 		"jammer_link": "https://heraldod.itch.io/",
 		"game_list_sorted": [
@@ -2504,7 +2620,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
+				"jam_vs": 96,
 				"title": "Shut-In Angel (Gamejam-Version)",
 				"title_link": "https://eggbox.itch.io/shut-in-angel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1791305",
@@ -2558,7 +2674,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Cleaning up the Pieces",
 				"title_link": "https://philipnewsham.itch.io/cleaning-up-the-pieces",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065653",
@@ -2571,7 +2687,7 @@
 				"rank": 7,
 				"ratings": 12,
 				"score": 3.458,
-				"ilscore": 43,
+				"ilscore": 42,
 				"submission_time_diff": -28827000
 			}
 		]
@@ -2710,120 +2826,6 @@
 				"score": 3.365,
 				"ilscore": 51,
 				"submission_time_diff": -23199000
-			}
-		]
-	},
-	{
-		"jammer": "Dr.Bleep",
-		"jammer_link": "https://drbleep.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 132,
-				"jam_name": "Severed",
-				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"jam_vs": 55,
-				"title": "Blurp !",
-				"title_link": "https://mrzayh.itch.io/blurp-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2069973",
-				"by_list": [
-					"Mr.Zayh",
-					"Dr.Bleep"
-				],
-				"by_link_list": [
-					"https://mrzayh.itch.io/",
-					"https://drbleep.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 13,
-				"score": 3.365,
-				"ilscore": 51,
-				"submission_time_diff": -23199000
-			}
-		]
-	},
-	{
-		"jammer": "Yumeji",
-		"jammer_link": "https://yumejiart.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Steam Out",
-				"title_link": "https://yumejiart.itch.io/steam-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449998",
-				"by_list": [
-					"Yumeji",
-					"momo597"
-				],
-				"by_link_list": [
-					"https://yumejiart.itch.io/",
-					"https://momo597.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 15,
-				"score": 3.35,
-				"ilscore": 47,
-				"submission_time_diff": 35707000
-			}
-		]
-	},
-	{
-		"jammer": "momo597",
-		"jammer_link": "https://momo597.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Steam Out",
-				"title_link": "https://yumejiart.itch.io/steam-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449998",
-				"by_list": [
-					"Yumeji",
-					"momo597"
-				],
-				"by_link_list": [
-					"https://yumejiart.itch.io/",
-					"https://momo597.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 15,
-				"score": 3.35,
-				"ilscore": 47,
-				"submission_time_diff": 35707000
-			}
-		]
-	},
-	{
-		"jammer": "viri_renard",
-		"jammer_link": "https://viri-renard.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"jam_vs": 28,
-				"title": "Vampire's Bane",
-				"title_link": "https://viri-renard.itch.io/lichs-bane",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/518456",
-				"by_list": [
-					"viri_renard"
-				],
-				"by_link_list": [
-					"https://viri-renard.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 10,
-				"score": 3.325,
-				"ilscore": 35,
-				"submission_time_diff": -32096000
 			}
 		]
 	}

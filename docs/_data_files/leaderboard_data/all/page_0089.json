@@ -1,42 +1,5 @@
 [
 	{
-		"jammer": "JamesIanWorrall",
-		"jammer_link": "https://jamesianworrall.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Lunar Odyssey - A Rabbit's Tale",
-				"title_link": "https://dannyvsh.itch.io/lunar-odyssey-a-rabbits-tale",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020711",
-				"by_list": [
-					"FenrixK17",
-					"Roger Ng",
-					"JamesIanWorrall",
-					"jb431",
-					"Frog King",
-					"Marc Panicello (kraminap)"
-				],
-				"by_link_list": [
-					"https://dannyvsh.itch.io/",
-					"https://yugawa.itch.io/",
-					"https://jamesianworrall.itch.io/",
-					"https://jb431.itch.io/",
-					"https://cagant.itch.io/",
-					"https://kraminap.itch.io/"
-				],
-				"rank": 176,
-				"ratings": 2,
-				"score": 1.938,
-				"ilscore": 52,
-				"submission_time_diff": 128355000
-			}
-		]
-	},
-	{
 		"jammer": "jb431",
 		"jammer_link": "https://jb431.itch.io/",
 		"game_list_sorted": [
@@ -321,7 +284,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "CONTROL",
 				"title_link": "https://rafsterrr.itch.io/control",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2092397",
@@ -1023,6 +986,27 @@
 		"jammer": "Yanfer",
 		"jammer_link": "https://yanfer.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "BUBBA STAR",
+				"title_link": "https://yanfer.itch.io/bubba-star",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3098048",
+				"by_list": [
+					"Yanfer"
+				],
+				"by_link_list": [
+					"https://yanfer.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 3.111,
+				"ilscore": 49,
+				"submission_time_diff": -92627000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 145,
@@ -2059,7 +2043,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Road Fusion",
 				"title_link": "https://ruby-makes-bad-games.itch.io/road-fusion",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091995",
@@ -2072,7 +2056,7 @@
 				"rank": 57,
 				"ratings": 11,
 				"score": 3.045,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -16462000
 			},
 			{
@@ -3321,7 +3305,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Dungeon Shapest",
 				"title_link": "https://casualbystander.itch.io/dungeon-shapest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2094242",
@@ -3334,7 +3318,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.286,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": 71292000
 			}
 		]
@@ -3348,7 +3332,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Heart and Soul",
 				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
@@ -3363,7 +3347,7 @@
 				"rank": 2,
 				"ratings": 16,
 				"score": 4.188,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -18845000
 			}
 		]
@@ -3377,7 +3361,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "A Holey Planet",
 				"title_link": "https://moolordking.itch.io/a-holey-planet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089613",
@@ -3390,8 +3374,35 @@
 				"rank": 4,
 				"ratings": 37,
 				"score": 4.149,
-				"ilscore": 94,
+				"ilscore": 93,
 				"submission_time_diff": -36431000
+			}
+		]
+	},
+	{
+		"jammer": "Cedar Street",
+		"jammer_link": "https://cedar-street.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 133,
+				"title": "Starpuffs (Alpha Version)",
+				"title_link": "https://cedar-street.itch.io/starpuffs-alpha",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2097379",
+				"by_list": [
+					"Cedar Street"
+				],
+				"by_link_list": [
+					"https://cedar-street.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 11,
+				"score": 4.045,
+				"ilscore": 91,
+				"submission_time_diff": 290153000
 			}
 		]
 	}

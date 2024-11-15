@@ -1,14 +1,72 @@
 [
 	{
-		"jammer": "Roxling",
-		"jammer_link": "https://roxling.itch.io/",
+		"jammer": "Koba",
+		"jammer_link": "https://gabrielkoba.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Arcus - Battle in the Skies",
+				"title_link": "https://gabrielkoba.itch.io/arcus-battle-in-the-skies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671980",
+				"by_list": [
+					"Koba",
+					"novalain"
+				],
+				"by_link_list": [
+					"https://gabrielkoba.itch.io/",
+					"https://novalain.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 25,
+				"score": 3.95,
+				"ilscore": 83,
+				"submission_time_diff": -2277000
+			}
+		]
+	},
+	{
+		"jammer": "novalain",
+		"jammer_link": "https://novalain.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Arcus - Battle in the Skies",
+				"title_link": "https://gabrielkoba.itch.io/arcus-battle-in-the-skies",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671980",
+				"by_list": [
+					"Koba",
+					"novalain"
+				],
+				"by_link_list": [
+					"https://gabrielkoba.itch.io/",
+					"https://novalain.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 25,
+				"score": 3.95,
+				"ilscore": 83,
+				"submission_time_diff": -2277000
+			}
+		]
+	},
+	{
+		"jammer": "CloMousse",
+		"jammer_link": "https://clomousse.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
+				"jam_vs": 96,
 				"title": "The Pilgrims",
 				"title_link": "https://arzza.itch.io/thepilgrims",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
@@ -29,7 +87,42 @@
 				"rank": 2,
 				"ratings": 30,
 				"score": 3.95,
-				"ilscore": 78,
+				"ilscore": 77,
+				"submission_time_diff": -12987000
+			}
+		]
+	},
+	{
+		"jammer": "Roxling",
+		"jammer_link": "https://roxling.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 119,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
+				"jam_vs": 96,
+				"title": "The Pilgrims",
+				"title_link": "https://arzza.itch.io/thepilgrims",
+				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789235",
+				"by_list": [
+					"Arzza",
+					"R3D",
+					"DuffusWaffleButt",
+					"CloMousse",
+					"Roxling"
+				],
+				"by_link_list": [
+					"https://arzza.itch.io/",
+					"https://r3david.itch.io/",
+					"https://duffuswafflebutt.itch.io/",
+					"https://clomousse.itch.io/",
+					"https://roxling.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 30,
+				"score": 3.95,
+				"ilscore": 77,
 				"submission_time_diff": -12987000
 			}
 		]
@@ -987,64 +1080,6 @@
 		]
 	},
 	{
-		"jammer": "Grumelkeks",
-		"jammer_link": "https://grumelkeks.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Colossal Nightmares",
-				"title_link": "https://grumelkeks.itch.io/colossalnightmares",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2338498",
-				"by_list": [
-					"Grumelkeks",
-					"Tobinotron"
-				],
-				"by_link_list": [
-					"https://grumelkeks.itch.io/",
-					"https://tobinotron.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 3.786,
-				"ilscore": 63,
-				"submission_time_diff": -41031000
-			}
-		]
-	},
-	{
-		"jammer": "Tobinotron",
-		"jammer_link": "https://tobinotron.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Colossal Nightmares",
-				"title_link": "https://grumelkeks.itch.io/colossalnightmares",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2338498",
-				"by_list": [
-					"Grumelkeks",
-					"Tobinotron"
-				],
-				"by_link_list": [
-					"https://grumelkeks.itch.io/",
-					"https://tobinotron.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 3.786,
-				"ilscore": 63,
-				"submission_time_diff": -41031000
-			}
-		]
-	},
-	{
 		"jammer": "Raptorspank",
 		"jammer_link": "https://raptorspank.itch.io/",
 		"game_list_sorted": [
@@ -1053,7 +1088,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Leaf by Leaf",
 				"title_link": "https://raptorspank.itch.io/leaf-by-leaf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068330",
@@ -1068,7 +1103,7 @@
 				"rank": 2,
 				"ratings": 14,
 				"score": 3.768,
-				"ilscore": 47,
+				"ilscore": 46,
 				"submission_time_diff": -28794000
 			}
 		]
@@ -1082,7 +1117,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Leaf by Leaf",
 				"title_link": "https://raptorspank.itch.io/leaf-by-leaf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068330",
@@ -1097,7 +1132,7 @@
 				"rank": 2,
 				"ratings": 14,
 				"score": 3.768,
-				"ilscore": 47,
+				"ilscore": 46,
 				"submission_time_diff": -28794000
 			}
 		]
@@ -2842,7 +2877,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
+				"jam_vs": 188,
 				"title": "Shotgun Night",
 				"title_link": "https://noh-kinda.itch.io/shotgun-night",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748023",
@@ -2857,33 +2892,6 @@
 				"score": 4.158,
 				"ilscore": 107,
 				"submission_time_diff": -34001000
-			}
-		]
-	},
-	{
-		"jammer": "smorrebrot",
-		"jammer_link": "https://smorrebrot.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"jam_vs": 98,
-				"title": "Hellcrawler",
-				"title_link": "https://smorrebrot.itch.io/hellcrawler",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854366",
-				"by_list": [
-					"smorrebrot"
-				],
-				"by_link_list": [
-					"https://smorrebrot.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 8,
-				"score": 4.156,
-				"ilscore": 82,
-				"submission_time_diff": -25628000
 			}
 		]
 	}

@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "John johnson music",
+		"jammer_link": "https://john-johnson-music.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 6,
+				"jam_name": "Major Jam 6: Life",
+				"jam_link": "https://itch.io/jam/major-jam-6-life",
+				"jam_vs": 138,
+				"title": "Apart",
+				"title_link": "https://itsmostlymagic.itch.io/life-jam",
+				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2187144",
+				"by_list": [
+					"MostlyMagic",
+					"John johnson music"
+				],
+				"by_link_list": [
+					"https://itsmostlymagic.itch.io/",
+					"https://john-johnson-music.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 21,
+				"score": 4.298,
+				"ilscore": 98,
+				"submission_time_diff": -12916000
+			}
+		]
+	},
+	{
 		"jammer": "aXu",
 		"jammer_link": "https://axu-ap.itch.io/",
 		"game_list_sorted": [
@@ -843,7 +872,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
+				"jam_vs": 188,
 				"title": "Shotgun Night",
 				"title_link": "https://noh-kinda.itch.io/shotgun-night",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748023",
@@ -2814,6 +2843,33 @@
 		]
 	},
 	{
+		"jammer": "TheTrashDev",
+		"jammer_link": "https://thetrashdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "Event Horizon",
+				"title_link": "https://thetrashdev.itch.io/event-horizon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3101090",
+				"by_list": [
+					"TheTrashDev"
+				],
+				"by_link_list": [
+					"https://thetrashdev.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 8,
+				"score": 3.875,
+				"ilscore": 62,
+				"submission_time_diff": 62688000
+			}
+		]
+	},
+	{
 		"jammer": "Chakkan",
 		"jammer_link": "https://chakkan.itch.io/",
 		"game_list_sorted": [
@@ -2907,80 +2963,6 @@
 	{
 		"jammer": "JC",
 		"jammer_link": "https://californiaroll.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 40,
-				"title": "You Are The Floor",
-				"title_link": "https://night0.itch.io/you-are-the-floor",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2410626",
-				"by_list": [
-					"Night0",
-					"TreeOfCrabs",
-					"JC",
-					"kei",
-					"theoriginalsushii",
-					"Jaden Eubanks"
-				],
-				"by_link_list": [
-					"https://night0.itch.io/",
-					"https://treeofcrabs.itch.io/",
-					"https://californiaroll.itch.io/",
-					"https://abyss-presence.itch.io/",
-					"https://theoriginalsushii.itch.io/",
-					"https://jaden-eubanks.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 8,
-				"score": 3.844,
-				"ilscore": 49,
-				"submission_time_diff": -8786000
-			}
-		]
-	},
-	{
-		"jammer": "kei",
-		"jammer_link": "https://abyss-presence.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 40,
-				"title": "You Are The Floor",
-				"title_link": "https://night0.itch.io/you-are-the-floor",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2410626",
-				"by_list": [
-					"Night0",
-					"TreeOfCrabs",
-					"JC",
-					"kei",
-					"theoriginalsushii",
-					"Jaden Eubanks"
-				],
-				"by_link_list": [
-					"https://night0.itch.io/",
-					"https://treeofcrabs.itch.io/",
-					"https://californiaroll.itch.io/",
-					"https://abyss-presence.itch.io/",
-					"https://theoriginalsushii.itch.io/",
-					"https://jaden-eubanks.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 8,
-				"score": 3.844,
-				"ilscore": 49,
-				"submission_time_diff": -8786000
-			}
-		]
-	},
-	{
-		"jammer": "theoriginalsushii",
-		"jammer_link": "https://theoriginalsushii.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

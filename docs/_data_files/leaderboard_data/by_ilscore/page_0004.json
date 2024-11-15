@@ -637,7 +637,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "CardBoard Avenide",
 				"title_link": "https://feligameland.itch.io/cardboard-avenide",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347835",
@@ -1746,76 +1746,6 @@
 		]
 	},
 	{
-		"jammer": "willowec",
-		"jammer_link": "https://willowec.itch.io/",
-		"total_ilscore": 250,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Paintball Panic!",
-				"title_link": "https://willowec.itch.io/paintball-panic",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634825",
-				"by_list": [
-					"willowec"
-				],
-				"by_link_list": [
-					"https://willowec.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 9,
-				"score": 3.972,
-				"ilscore": 132,
-				"submission_time_diff": -7148000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
-				"title": "Laser Boids!",
-				"title_link": "https://willowec.itch.io/laser-boids",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347798",
-				"by_list": [
-					"willowec"
-				],
-				"by_link_list": [
-					"https://willowec.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 23,
-				"score": 3.12,
-				"ilscore": 64,
-				"submission_time_diff": -7855000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 78,
-				"jam_name": "Bugs",
-				"jam_link": "https://itch.io/jam/mini-jam-78-bugs",
-				"jam_vs": 63,
-				"title": "Ant Sacrifice",
-				"title_link": "https://willowec.itch.io/ant-sacrifice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-78-bugs/rate/1002803",
-				"by_list": [
-					"willowec"
-				],
-				"by_link_list": [
-					"https://willowec.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 12,
-				"score": 3.354,
-				"ilscore": 54,
-				"submission_time_diff": -12907000
-			}
-		]
-	},
-	{
 		"jammer": "ImpossibleStudios",
 		"jammer_link": "https://impossiblestudios.itch.io/",
 		"total_ilscore": 250,
@@ -2236,6 +2166,76 @@
 				"score": 3.6,
 				"ilscore": 53,
 				"submission_time_diff": -21845000
+			}
+		]
+	},
+	{
+		"jammer": "willowec",
+		"jammer_link": "https://willowec.itch.io/",
+		"total_ilscore": 249,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Paintball Panic!",
+				"title_link": "https://willowec.itch.io/paintball-panic",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634825",
+				"by_list": [
+					"willowec"
+				],
+				"by_link_list": [
+					"https://willowec.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 9,
+				"score": 3.972,
+				"ilscore": 132,
+				"submission_time_diff": -7148000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 105,
+				"title": "Laser Boids!",
+				"title_link": "https://willowec.itch.io/laser-boids",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347798",
+				"by_list": [
+					"willowec"
+				],
+				"by_link_list": [
+					"https://willowec.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 23,
+				"score": 3.12,
+				"ilscore": 63,
+				"submission_time_diff": -7855000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 78,
+				"jam_name": "Bugs",
+				"jam_link": "https://itch.io/jam/mini-jam-78-bugs",
+				"jam_vs": 63,
+				"title": "Ant Sacrifice",
+				"title_link": "https://willowec.itch.io/ant-sacrifice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-78-bugs/rate/1002803",
+				"by_list": [
+					"willowec"
+				],
+				"by_link_list": [
+					"https://willowec.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 12,
+				"score": 3.354,
+				"ilscore": 54,
+				"submission_time_diff": -12907000
 			}
 		]
 	},
@@ -2944,7 +2944,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "Sokobind",
 				"title_link": "https://el0x.itch.io/sokobind",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089690",
@@ -4745,7 +4745,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
+				"jam_vs": 188,
 				"title": "The Clash of the EVILS",
 				"title_link": "https://maxwelltheape.itch.io/the-clash-of-the-evil",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1748997",
@@ -5494,7 +5494,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Death Ticker",
 				"title_link": "https://hederlunden.itch.io/death-ticker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347449",
@@ -5784,76 +5784,6 @@
 				"score": 0.73,
 				"ilscore": 14,
 				"submission_time_diff": -53852000
-			}
-		]
-	},
-	{
-		"jammer": "martymon",
-		"jammer_link": "https://martymon.itch.io/",
-		"total_ilscore": 239,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "S.E.T.A",
-				"title_link": "https://martymon.itch.io/seta",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388172",
-				"by_list": [
-					"martymon"
-				],
-				"by_link_list": [
-					"https://martymon.itch.io/"
-				],
-				"rank": 63,
-				"ratings": 11,
-				"score": 3.386,
-				"ilscore": 98,
-				"submission_time_diff": -39370000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Tyler vs the matrix",
-				"title_link": "https://martymon.itch.io/tyler-vs-the-matrix",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408935",
-				"by_list": [
-					"martymon"
-				],
-				"by_link_list": [
-					"https://martymon.itch.io/"
-				],
-				"rank": 103,
-				"ratings": 12,
-				"score": 2.938,
-				"ilscore": 72,
-				"submission_time_diff": -35230000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
-				"title": "Assasinator",
-				"title_link": "https://martymon.itch.io/assasinator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346465",
-				"by_list": [
-					"martymon"
-				],
-				"by_link_list": [
-					"https://martymon.itch.io/"
-				],
-				"rank": 26,
-				"ratings": 21,
-				"score": 3.357,
-				"ilscore": 69,
-				"submission_time_diff": -101020000
 			}
 		]
 	},
@@ -6313,6 +6243,76 @@
 				"score": 1.368,
 				"ilscore": 24,
 				"submission_time_diff": -50823000
+			}
+		]
+	},
+	{
+		"jammer": "martymon",
+		"jammer_link": "https://martymon.itch.io/",
+		"total_ilscore": 238,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 254,
+				"title": "S.E.T.A",
+				"title_link": "https://martymon.itch.io/seta",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388172",
+				"by_list": [
+					"martymon"
+				],
+				"by_link_list": [
+					"https://martymon.itch.io/"
+				],
+				"rank": 63,
+				"ratings": 11,
+				"score": 3.386,
+				"ilscore": 98,
+				"submission_time_diff": -39370000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Tyler vs the matrix",
+				"title_link": "https://martymon.itch.io/tyler-vs-the-matrix",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408935",
+				"by_list": [
+					"martymon"
+				],
+				"by_link_list": [
+					"https://martymon.itch.io/"
+				],
+				"rank": 103,
+				"ratings": 12,
+				"score": 2.938,
+				"ilscore": 72,
+				"submission_time_diff": -35230000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 105,
+				"title": "Assasinator",
+				"title_link": "https://martymon.itch.io/assasinator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346465",
+				"by_list": [
+					"martymon"
+				],
+				"by_link_list": [
+					"https://martymon.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 21,
+				"score": 3.357,
+				"ilscore": 68,
+				"submission_time_diff": -101020000
 			}
 		]
 	},
@@ -6882,7 +6882,7 @@
 				"jam_id": 133,
 				"jam_name": "Fusion",
 				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 134,
+				"jam_vs": 133,
 				"title": "River Shift",
 				"title_link": "https://redsham.itch.io/river-shift",
 				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091831",
@@ -7683,7 +7683,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "Hypothesis",
 				"title_link": "https://deltea.itch.io/hypothesis",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1345343",
@@ -7711,7 +7711,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
+				"jam_vs": 188,
 				"title": "Shotgun: Ghost Warrior",
 				"title_link": "https://psemo.itch.io/shotgun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750095",
@@ -8652,7 +8652,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 106,
+				"jam_vs": 105,
 				"title": "The Puppet Show",
 				"title_link": "https://tetracup.itch.io/the-puppet-show",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347755",

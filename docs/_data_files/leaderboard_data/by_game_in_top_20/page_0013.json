@@ -1,5 +1,156 @@
 [
 	{
+		"jammer": "milkismet",
+		"jammer_link": "https://milkismet.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 45,
+				"title": "Shop Hero",
+				"title_link": "https://baldtaria.itch.io/shophero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2535331",
+				"by_list": [
+					"Baldtaria",
+					"milkismet",
+					"bear"
+				],
+				"by_link_list": [
+					"https://baldtaria.itch.io/",
+					"https://milkismet.itch.io/",
+					"https://beardontcare.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 19,
+				"score": 4,
+				"ilscore": 55,
+				"submission_time_diff": -1138000
+			}
+		]
+	},
+	{
+		"jammer": "bear",
+		"jammer_link": "https://beardontcare.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 45,
+				"title": "Shop Hero",
+				"title_link": "https://baldtaria.itch.io/shophero",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2535331",
+				"by_list": [
+					"Baldtaria",
+					"milkismet",
+					"bear"
+				],
+				"by_link_list": [
+					"https://baldtaria.itch.io/",
+					"https://milkismet.itch.io/",
+					"https://beardontcare.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 19,
+				"score": 4,
+				"ilscore": 55,
+				"submission_time_diff": -1138000
+			}
+		]
+	},
+	{
+		"jammer": "Rob Hoff",
+		"jammer_link": "https://robhoff.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Galactic Fish Collector",
+				"title_link": "https://robhoff.itch.io/galactic-fish-collector",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238097",
+				"by_list": [
+					"Rob Hoff"
+				],
+				"by_link_list": [
+					"https://robhoff.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 23,
+				"score": 3.989,
+				"ilscore": 88,
+				"submission_time_diff": -640000
+			}
+		]
+	},
+	{
+		"jammer": "necrosaint",
+		"jammer_link": "https://necrosaint.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "The Long Road",
+				"title_link": "https://necrosaint.itch.io/the-long-road",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763324",
+				"by_list": [
+					"necrosaint",
+					"Theonlyrio",
+					"Ryanb2505"
+				],
+				"by_link_list": [
+					"https://necrosaint.itch.io/",
+					"https://theonlyrio.itch.io/",
+					"https://ryanb2505.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.986,
+				"ilscore": 84,
+				"submission_time_diff": -4914000
+			}
+		]
+	},
+	{
+		"jammer": "Theonlyrio",
+		"jammer_link": "https://theonlyrio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "The Long Road",
+				"title_link": "https://necrosaint.itch.io/the-long-road",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763324",
+				"by_list": [
+					"necrosaint",
+					"Theonlyrio",
+					"Ryanb2505"
+				],
+				"by_link_list": [
+					"https://necrosaint.itch.io/",
+					"https://theonlyrio.itch.io/",
+					"https://ryanb2505.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 18,
+				"score": 3.986,
+				"ilscore": 84,
+				"submission_time_diff": -4914000
+			}
+		]
+	},
+	{
 		"jammer": "Ryanb2505",
 		"jammer_link": "https://ryanb2505.itch.io/",
 		"game_list_sorted": [
@@ -1291,33 +1442,6 @@
 		]
 	},
 	{
-		"jammer": "FrogJuice Studio",
-		"jammer_link": "https://frogjuice-studio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 79,
-				"title": "Fox in a Box",
-				"title_link": "https://frogjuice-studio.itch.io/fox-in-box",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591634",
-				"by_list": [
-					"FrogJuice Studio"
-				],
-				"by_link_list": [
-					"https://frogjuice-studio.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 18,
-				"score": 3.667,
-				"ilscore": 66,
-				"submission_time_diff": -432000
-			}
-		]
-	},
-	{
 		"jammer": "Romimap",
 		"jammer_link": "https://romimap.itch.io/",
 		"game_list_sorted": [
@@ -1326,7 +1450,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
+				"jam_vs": 96,
 				"title": "Vigor Hero",
 				"title_link": "https://romimap.itch.io/vigor-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1790666",
@@ -1357,7 +1481,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
+				"jam_vs": 96,
 				"title": "Vigor Hero",
 				"title_link": "https://romimap.itch.io/vigor-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1790666",
@@ -1388,7 +1512,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 97,
+				"jam_vs": 96,
 				"title": "Vigor Hero",
 				"title_link": "https://romimap.itch.io/vigor-hero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1790666",
@@ -1960,7 +2084,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "The Demon Robot Vacuum Cleaner",
 				"title_link": "https://silverknightgg.itch.io/the-demon-robovac",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068992",
@@ -1973,7 +2097,7 @@
 				"rank": 6,
 				"ratings": 11,
 				"score": 3.477,
-				"ilscore": 43,
+				"ilscore": 42,
 				"submission_time_diff": -9235000
 			}
 		]
@@ -2780,122 +2904,6 @@
 				"score": 4.083,
 				"ilscore": 86,
 				"submission_time_diff": -10255000
-			}
-		]
-	},
-	{
-		"jammer": "SoapyEngima",
-		"jammer_link": "https://soapyengima.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 124,
-				"jam_name": "Warmth",
-				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
-				"title": "Lulu's Hot Pot",
-				"title_link": "https://spacesorcererstudio.itch.io/lulus-hot-pot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1886748",
-				"by_list": [
-					"Space Sorcerer Studio",
-					"mintwatercolor",
-					"Sul_iac",
-					"SoapyEngima"
-				],
-				"by_link_list": [
-					"https://spacesorcererstudio.itch.io/",
-					"https://mintwatercolor.itch.io/",
-					"https://sul-iac.itch.io/",
-					"https://soapyengima.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 30,
-				"score": 4.083,
-				"ilscore": 86,
-				"submission_time_diff": -10255000
-			}
-		]
-	},
-	{
-		"jammer": "eXeDev",
-		"jammer_link": "https://exedex.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "The Green Invasion",
-				"title_link": "https://exedex.itch.io/the-green-invasion",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943215",
-				"by_list": [
-					"eXeDev"
-				],
-				"by_link_list": [
-					"https://exedex.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 9,
-				"score": 4.083,
-				"ilscore": 109,
-				"submission_time_diff": -13161000
-			}
-		]
-	},
-	{
-		"jammer": "Blue05",
-		"jammer_link": "https://blue05.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 3,
-				"jam_name": "Major Jam 3: Retro",
-				"jam_link": "https://itch.io/jam/major-jam-3",
-				"jam_vs": 55,
-				"title": "Hookshot Tower",
-				"title_link": "https://blue05.itch.io/hookshot-tower",
-				"submission_page_link": "https://itch.io/jam/major-jam-3/rate/845920",
-				"by_list": [
-					"Blue05"
-				],
-				"by_link_list": [
-					"https://blue05.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 13,
-				"score": 4.077,
-				"ilscore": 62,
-				"submission_time_diff": -7630000
-			}
-		]
-	},
-	{
-		"jammer": "MikkoK",
-		"jammer_link": "https://mikkok.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "Color # Change",
-				"title_link": "https://mikkok.itch.io/colorchange",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/750060",
-				"by_list": [
-					"MikkoK",
-					"Eeyra"
-				],
-				"by_link_list": [
-					"https://mikkok.itch.io/",
-					"https://eeyra.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 15,
-				"score": 4.05,
-				"ilscore": 95,
-				"submission_time_diff": -36398000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Larzt",
-		"jammer_link": "https://larzt.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "Medieval",
-				"title_link": "https://larzt.itch.io/medieval",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2940800",
-				"by_list": [
-					"Larzt"
-				],
-				"by_link_list": [
-					"https://larzt.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 9,
-				"score": 3.472,
-				"ilscore": 92,
-				"submission_time_diff": -27521000
-			}
-		]
-	},
-	{
 		"jammer": "ESpiering",
 		"jammer_link": "https://espiering.itch.io/",
 		"game_list_sorted": [
@@ -1383,7 +1356,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Purifico",
 				"title_link": "https://jahin-ahnaf.itch.io/purifico",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067778",
@@ -3011,6 +2984,33 @@
 				"score": 2.237,
 				"ilscore": 59,
 				"submission_time_diff": 99970000
+			}
+		]
+	},
+	{
+		"jammer": "JackleroqDev",
+		"jammer_link": "https://jackleroqdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Gem Dude",
+				"title_link": "https://jackleroqdev.itch.io/gem-dude",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944055",
+				"by_list": [
+					"JackleroqDev"
+				],
+				"by_link_list": [
+					"https://jackleroqdev.itch.io/"
+				],
+				"rank": 150,
+				"ratings": 10,
+				"score": 2.225,
+				"ilscore": 59,
+				"submission_time_diff": -19631000
 			}
 		]
 	}

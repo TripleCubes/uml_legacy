@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "sabih games",
-		"jammer_link": "https://sabih-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "Lovin' Emma Watson",
-				"title_link": "https://sabih-games.itch.io/lovin-emma-watson",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975057",
-				"by_list": [
-					"sabih games"
-				],
-				"by_link_list": [
-					"https://sabih-games.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 8,
-				"score": 1.25,
-				"ilscore": 20,
-				"submission_time_diff": -38818000
-			}
-		]
-	},
-	{
 		"jammer": "Jyodann",
 		"jammer_link": "https://jyodann.itch.io/",
 		"game_list_sorted": [
@@ -159,14 +132,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
 				"jam_vs": 39,
 				"title": "Roadkill Warlock",
-				"title_link": "https://thomas-labelle.itch.io/warlock-roadkill",
+				"title_link": "https://horko-rosso.itch.io/warlock-roadkill",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3004985",
 				"by_list": [
 					"Thomas LaBelle",
 					"Jay"
 				],
 				"by_link_list": [
-					"https://thomas-labelle.itch.io/",
+					"https://horko-rosso.itch.io/",
 					"https://spanosjustin.itch.io/"
 				],
 				"rank": 9,
@@ -373,9 +346,30 @@
 		]
 	},
 	{
-		"jammer": "314isme",
+		"jammer": "「 。」",
 		"jammer_link": "https://314isme.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "Grimoire",
+				"title_link": "https://314isme.itch.io/grimoire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3099708",
+				"by_list": [
+					"「 。」"
+				],
+				"by_link_list": [
+					"https://314isme.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 54,
+				"submission_time_diff": -4987000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 168,
@@ -386,7 +380,7 @@
 				"title_link": "https://314isme.itch.io/echoes-in-the-snow",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3005546",
 				"by_list": [
-					"314isme"
+					"「 。」"
 				],
 				"by_link_list": [
 					"https://314isme.itch.io/"
@@ -537,7 +531,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Structural Intergrity Low",
 				"title_link": "https://gamegrove.itch.io/structrual-intergrtiy-low",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065856",
@@ -550,7 +544,7 @@
 				"rank": 33,
 				"ratings": 5,
 				"score": 2.023,
-				"ilscore": 25,
+				"ilscore": 24,
 				"submission_time_diff": -21268000
 			}
 		]
@@ -743,6 +737,27 @@
 				"score": 3.95,
 				"ilscore": 55,
 				"submission_time_diff": -39330000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "Cursed Witch",
+				"title_link": "https://funny-doge.itch.io/cursed-witch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3099620",
+				"by_list": [
+					"Funny Doge"
+				],
+				"by_link_list": [
+					"https://funny-doge.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 14,
+				"score": 3.071,
+				"ilscore": 49,
+				"submission_time_diff": -707000
 			}
 		]
 	},
@@ -892,7 +907,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Clean Sweep Creeps",
 				"title_link": "https://linapawz.itch.io/cleansweep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068622",
@@ -911,7 +926,7 @@
 				"rank": 34,
 				"ratings": 7,
 				"score": 1.937,
-				"ilscore": 24,
+				"ilscore": 23,
 				"submission_time_diff": -4801000
 			}
 		]
@@ -1994,6 +2009,27 @@
 				"score": 0.674,
 				"ilscore": 9,
 				"submission_time_diff": -234703000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 61,
+				"title": "Simple TTRPG: \"Gods’ animals\" 😇🐺",
+				"title_link": "https://ormrin.itch.io/simple-ttrpg-gods-animals",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3069714",
+				"by_list": [
+					"Ormrin Sinkalte Ged - Sparrowhawk"
+				],
+				"by_link_list": [
+					"https://ormrin.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 1,
+				"score": 0.472,
+				"ilscore": 7,
+				"submission_time_diff": -234883000
 			}
 		]
 	},
@@ -2033,7 +2069,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Suck It Up, Buttercup!",
 				"title_link": "https://carmenxero.itch.io/suck-it-up-buttercup",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068982",
@@ -2046,7 +2082,7 @@
 				"rank": 1,
 				"ratings": 15,
 				"score": 3.983,
-				"ilscore": 49,
+				"ilscore": 48,
 				"submission_time_diff": -61000
 			}
 		]
@@ -2060,7 +2096,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Dollipop Chainsaw",
 				"title_link": "https://ren-sunshine-boy.itch.io/dollipop-chainsaw",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069255",
@@ -2068,18 +2104,18 @@
 					"Ren Sunshine Boy",
 					"Halchimer",
 					"Guilhem Le saint Marquet",
-					"Blanc-Game"
+					"Djak_tn"
 				],
 				"by_link_list": [
 					"https://ren-sunshine-boy.itch.io/",
 					"https://halchimer.itch.io/",
 					"https://guilhem-le-saint-marquet.itch.io/",
-					"https://blanc-game.itch.io/"
+					"https://djak-tn.itch.io/"
 				],
 				"rank": 4,
 				"ratings": 11,
 				"score": 3.636,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 31302000
 			}
 		]
@@ -2093,7 +2129,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Dollipop Chainsaw",
 				"title_link": "https://ren-sunshine-boy.itch.io/dollipop-chainsaw",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069255",
@@ -2101,18 +2137,18 @@
 					"Ren Sunshine Boy",
 					"Halchimer",
 					"Guilhem Le saint Marquet",
-					"Blanc-Game"
+					"Djak_tn"
 				],
 				"by_link_list": [
 					"https://ren-sunshine-boy.itch.io/",
 					"https://halchimer.itch.io/",
 					"https://guilhem-le-saint-marquet.itch.io/",
-					"https://blanc-game.itch.io/"
+					"https://djak-tn.itch.io/"
 				],
 				"rank": 4,
 				"ratings": 11,
 				"score": 3.636,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 31302000
 			}
 		]
@@ -2126,7 +2162,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Dollipop Chainsaw",
 				"title_link": "https://ren-sunshine-boy.itch.io/dollipop-chainsaw",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069255",
@@ -2134,32 +2170,32 @@
 					"Ren Sunshine Boy",
 					"Halchimer",
 					"Guilhem Le saint Marquet",
-					"Blanc-Game"
+					"Djak_tn"
 				],
 				"by_link_list": [
 					"https://ren-sunshine-boy.itch.io/",
 					"https://halchimer.itch.io/",
 					"https://guilhem-le-saint-marquet.itch.io/",
-					"https://blanc-game.itch.io/"
+					"https://djak-tn.itch.io/"
 				],
 				"rank": 4,
 				"ratings": 11,
 				"score": 3.636,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 31302000
 			}
 		]
 	},
 	{
-		"jammer": "Blanc-Game",
-		"jammer_link": "https://blanc-game.itch.io/",
+		"jammer": "Djak_tn",
+		"jammer_link": "https://djak-tn.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Dollipop Chainsaw",
 				"title_link": "https://ren-sunshine-boy.itch.io/dollipop-chainsaw",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069255",
@@ -2167,18 +2203,18 @@
 					"Ren Sunshine Boy",
 					"Halchimer",
 					"Guilhem Le saint Marquet",
-					"Blanc-Game"
+					"Djak_tn"
 				],
 				"by_link_list": [
 					"https://ren-sunshine-boy.itch.io/",
 					"https://halchimer.itch.io/",
 					"https://guilhem-le-saint-marquet.itch.io/",
-					"https://blanc-game.itch.io/"
+					"https://djak-tn.itch.io/"
 				],
 				"rank": 4,
 				"ratings": 11,
 				"score": 3.636,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 31302000
 			}
 		]
@@ -2192,7 +2228,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "The Demon Robot Vacuum Cleaner",
 				"title_link": "https://silverknightgg.itch.io/the-demon-robovac",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068992",
@@ -2205,7 +2241,7 @@
 				"rank": 6,
 				"ratings": 11,
 				"score": 3.477,
-				"ilscore": 43,
+				"ilscore": 42,
 				"submission_time_diff": -9235000
 			}
 		]
@@ -2219,7 +2255,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Puzzle Car",
 				"title_link": "https://one-loo.itch.io/puzzle-car",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067048",
@@ -2232,7 +2268,7 @@
 				"rank": 8,
 				"ratings": 11,
 				"score": 3.409,
-				"ilscore": 42,
+				"ilscore": 41,
 				"submission_time_diff": -64365000
 			}
 		]
@@ -2246,7 +2282,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Dungeon Cleaner",
 				"title_link": "https://kayuusha.itch.io/dungeon-cleaner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068726",
@@ -2259,7 +2295,7 @@
 				"rank": 11,
 				"ratings": 13,
 				"score": 3.308,
-				"ilscore": 41,
+				"ilscore": 40,
 				"submission_time_diff": -14386000
 			}
 		]
@@ -2273,7 +2309,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Lost and Found",
 				"title_link": "https://jetskigaming.itch.io/lost-and-found",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068609",
@@ -2286,7 +2322,7 @@
 				"rank": 12,
 				"ratings": 14,
 				"score": 3.25,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -21830000
 			}
 		]
@@ -2300,7 +2336,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Slime Over Scrap",
 				"title_link": "https://toufoumaster.itch.io/slime-over-scrap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065842",
@@ -2319,7 +2355,7 @@
 				"rank": 13,
 				"ratings": 11,
 				"score": 3.227,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -1288000
 			}
 		]
@@ -2333,7 +2369,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Slime Over Scrap",
 				"title_link": "https://toufoumaster.itch.io/slime-over-scrap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065842",
@@ -2352,7 +2388,7 @@
 				"rank": 13,
 				"ratings": 11,
 				"score": 3.227,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -1288000
 			}
 		]
@@ -2366,7 +2402,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Slime Over Scrap",
 				"title_link": "https://toufoumaster.itch.io/slime-over-scrap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065842",
@@ -2385,7 +2421,7 @@
 				"rank": 13,
 				"ratings": 11,
 				"score": 3.227,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -1288000
 			}
 		]
@@ -2399,7 +2435,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Slime Over Scrap",
 				"title_link": "https://toufoumaster.itch.io/slime-over-scrap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3065842",
@@ -2418,7 +2454,7 @@
 				"rank": 13,
 				"ratings": 11,
 				"score": 3.227,
-				"ilscore": 40,
+				"ilscore": 39,
 				"submission_time_diff": -1288000
 			}
 		]
@@ -2432,7 +2468,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Garbage Bot",
 				"title_link": "https://waifuferos.itch.io/garbage-bot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069307",
@@ -2459,7 +2495,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "weird axe game",
 				"title_link": "https://awesometurtle70.itch.io/weird-axe-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069249",
@@ -2486,7 +2522,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "PieceSpace",
 				"title_link": "https://levadev.itch.io/piecespace",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068568",
@@ -2499,7 +2535,7 @@
 				"rank": 16,
 				"ratings": 12,
 				"score": 3.063,
-				"ilscore": 38,
+				"ilscore": 37,
 				"submission_time_diff": -22261000
 			}
 		]
@@ -2513,7 +2549,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Polished Park",
 				"title_link": "https://sonechko.itch.io/polished-park",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069207",
@@ -2540,7 +2576,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Vac Attack!",
 				"title_link": "https://poundstospare.itch.io/vac-attack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069216",
@@ -2553,7 +2589,7 @@
 				"rank": 18,
 				"ratings": 7,
 				"score": 2.906,
-				"ilscore": 36,
+				"ilscore": 35,
 				"submission_time_diff": -243000
 			}
 		]
@@ -2567,7 +2603,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Storm Cleaner",
 				"title_link": "https://numms.itch.io/storm-cleaner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067663",
@@ -2594,7 +2630,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Schoolwork Scramble",
 				"title_link": "https://bigggstile.itch.io/schoolwork-scramble",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069227",
@@ -2621,7 +2657,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Soulmender",
 				"title_link": "https://stonebrokegames.itch.io/soulmender",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067996",
@@ -2634,7 +2670,7 @@
 				"rank": 21,
 				"ratings": 10,
 				"score": 2.813,
-				"ilscore": 35,
+				"ilscore": 34,
 				"submission_time_diff": -37324000
 			}
 		]
@@ -2648,7 +2684,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Crop Keepers [MiniJamEdition]",
 				"title_link": "https://raylios.itch.io/crop-keepers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068885",
@@ -2675,7 +2711,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Meteo-Attack",
 				"title_link": "https://12cuboid21.itch.io/meteo-attack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068651",
@@ -2688,7 +2724,7 @@
 				"rank": 25,
 				"ratings": 12,
 				"score": 2.521,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -19921000
 			}
 		]
@@ -2702,7 +2738,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "A Ross-like Demo",
 				"title_link": "https://leecommamichael.itch.io/a-ross-like-demo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069217",
@@ -2717,7 +2753,7 @@
 				"rank": 26,
 				"ratings": 9,
 				"score": 2.487,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -541000
 			}
 		]
@@ -2731,7 +2767,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "A Ross-like Demo",
 				"title_link": "https://leecommamichael.itch.io/a-ross-like-demo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069217",
@@ -2746,7 +2782,7 @@
 				"rank": 26,
 				"ratings": 9,
 				"score": 2.487,
-				"ilscore": 31,
+				"ilscore": 30,
 				"submission_time_diff": -541000
 			}
 		]
@@ -2760,7 +2796,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Room Sweeper",
 				"title_link": "https://zawyeyaintnaing.itch.io/room-sweeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068722",
@@ -2787,7 +2823,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Soap Saga: Curse of the Trashman",
 				"title_link": "https://emogames.itch.io/soap-saga",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067565",
@@ -2814,7 +2850,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "WHERE DOES SO MUCH GARBAGE COME FROM?",
 				"title_link": "https://unknowns-games.itch.io/wheredoessomuchgarbagecomefrom",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3064695",
@@ -2827,7 +2863,7 @@
 				"rank": 32,
 				"ratings": 7,
 				"score": 2.023,
-				"ilscore": 25,
+				"ilscore": 24,
 				"submission_time_diff": -80756000
 			}
 		]
@@ -2841,7 +2877,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Clean Sweep Creeps",
 				"title_link": "https://linapawz.itch.io/cleansweep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068622",
@@ -2860,7 +2896,7 @@
 				"rank": 34,
 				"ratings": 7,
 				"score": 1.937,
-				"ilscore": 24,
+				"ilscore": 23,
 				"submission_time_diff": -4801000
 			}
 		]
@@ -2874,7 +2910,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
+				"jam_vs": 36,
 				"title": "Clean Sweep Creeps",
 				"title_link": "https://linapawz.itch.io/cleansweep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068622",
@@ -2893,35 +2929,62 @@
 				"rank": 34,
 				"ratings": 7,
 				"score": 1.937,
-				"ilscore": 24,
+				"ilscore": 23,
 				"submission_time_diff": -4801000
 			}
 		]
 	},
 	{
-		"jammer": "PrinceCorvo",
-		"jammer_link": "https://princecorvo.itch.io/",
+		"jammer": "katnamag",
+		"jammer_link": "https://katnamag.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 37,
-				"title": "Vampire Arcade",
-				"title_link": "https://princecorvo.itch.io/vampire-arcade",
-				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3068093",
+				"jam_vs": 36,
+				"title": "Pumpkin Smash",
+				"title_link": "https://katnamag.itch.io/pumpkin-smash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069244",
 				"by_list": [
-					"PrinceCorvo"
+					"katnamag"
 				],
 				"by_link_list": [
-					"https://princecorvo.itch.io/"
+					"https://katnamag.itch.io/"
 				],
-				"rank": 35,
+				"rank": 36,
 				"ratings": 4,
-				"score": 1.884,
-				"ilscore": 23,
-				"submission_time_diff": -16451000
+				"score": 1.734,
+				"ilscore": 21,
+				"submission_time_diff": -131000
+			}
+		]
+	},
+	{
+		"jammer": "Babita singh",
+		"jammer_link": "https://babita-singh.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 170,
+				"jam_name": "Clean",
+				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
+				"jam_vs": 36,
+				"title": "English learning puzzle",
+				"title_link": "https://babita-singh.itch.io/english-learning-puzzle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3053486",
+				"by_list": [
+					"Babita singh"
+				],
+				"by_link_list": [
+					"https://babita-singh.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 6,
+				"score": 0.739,
+				"ilscore": 9,
+				"submission_time_diff": -76806000
 			}
 		]
 	}

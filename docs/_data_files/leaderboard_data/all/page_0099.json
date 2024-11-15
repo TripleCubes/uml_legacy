@@ -1,71 +1,5 @@
 [
 	{
-		"jammer": "BearRush",
-		"jammer_link": "https://bearrush.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Lux Ducit",
-				"title_link": "https://musniro.itch.io/minimagic-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
-				"by_list": [
-					"musniro",
-					"BearRush",
-					"NiSSAK",
-					"mikelbresko"
-				],
-				"by_link_list": [
-					"https://musniro.itch.io/",
-					"https://bearrush.itch.io/",
-					"https://eldritch-needle.itch.io/",
-					"https://mikelbresko.itch.io/"
-				],
-				"rank": 45,
-				"ratings": 8,
-				"score": 3.156,
-				"ilscore": 69,
-				"submission_time_diff": -63942000
-			}
-		]
-	},
-	{
-		"jammer": "NiSSAK",
-		"jammer_link": "https://eldritch-needle.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Lux Ducit",
-				"title_link": "https://musniro.itch.io/minimagic-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480024",
-				"by_list": [
-					"musniro",
-					"BearRush",
-					"NiSSAK",
-					"mikelbresko"
-				],
-				"by_link_list": [
-					"https://musniro.itch.io/",
-					"https://bearrush.itch.io/",
-					"https://eldritch-needle.itch.io/",
-					"https://mikelbresko.itch.io/"
-				],
-				"rank": 45,
-				"ratings": 8,
-				"score": 3.156,
-				"ilscore": 69,
-				"submission_time_diff": -63942000
-			}
-		]
-	},
-	{
 		"jammer": "mikelbresko",
 		"jammer_link": "https://mikelbresko.itch.io/",
 		"game_list_sorted": [
@@ -3750,6 +3684,60 @@
 				"score": 3.724,
 				"ilscore": 72,
 				"submission_time_diff": -46000
+			}
+		]
+	},
+	{
+		"jammer": "Normkoto",
+		"jammer_link": "https://normkoto.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Kobold Lunch Rush",
+				"title_link": "https://normkoto.itch.io/kobold-lunch-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513089",
+				"by_list": [
+					"Normkoto"
+				],
+				"by_link_list": [
+					"https://normkoto.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 14,
+				"score": 3.696,
+				"ilscore": 72,
+				"submission_time_diff": -987000
+			}
+		]
+	},
+	{
+		"jammer": "DREADWARE",
+		"jammer_link": "https://dreadware-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Midas' Maw",
+				"title_link": "https://dreadware-games.itch.io/midas-maw",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513136",
+				"by_list": [
+					"DREADWARE"
+				],
+				"by_link_list": [
+					"https://dreadware-games.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 11,
+				"score": 3.614,
+				"ilscore": 70,
+				"submission_time_diff": -34000
 			}
 		]
 	}

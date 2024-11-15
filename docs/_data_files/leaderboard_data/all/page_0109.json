@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "AndreiGames",
-		"jammer_link": "https://andrei2323.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "MultiCactus",
-				"title_link": "https://andrei2323.itch.io/multicactus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819556",
-				"by_list": [
-					"AndreiGames",
-					"TIN-slayer"
-				],
-				"by_link_list": [
-					"https://andrei2323.itch.io/",
-					"https://tin-slayer.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.383,
-				"ilscore": 99,
-				"submission_time_diff": -120000
-			}
-		]
-	},
-	{
-		"jammer": "TIN-slayer",
-		"jammer_link": "https://tin-slayer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "MultiCactus",
-				"title_link": "https://andrei2323.itch.io/multicactus",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819556",
-				"by_list": [
-					"AndreiGames",
-					"TIN-slayer"
-				],
-				"by_link_list": [
-					"https://andrei2323.itch.io/",
-					"https://tin-slayer.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.383,
-				"ilscore": 99,
-				"submission_time_diff": -120000
-			}
-		]
-	},
-	{
 		"jammer": "Pinho13",
 		"jammer_link": "https://pinho13.itch.io/",
 		"game_list_sorted": [
@@ -3334,6 +3276,66 @@
 				"score": 2.49,
 				"ilscore": 56,
 				"submission_time_diff": 93035000
+			}
+		]
+	},
+	{
+		"jammer": "CreatoMan",
+		"jammer_link": "https://creatoman.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Heed the Heat!",
+				"title_link": "https://creatoman.itch.io/heed-the-heat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819637",
+				"by_list": [
+					"CreatoMan"
+				],
+				"by_link_list": [
+					"https://creatoman.itch.io/"
+				],
+				"rank": 97,
+				"ratings": 12,
+				"score": 2.479,
+				"ilscore": 56,
+				"submission_time_diff": -249000
+			}
+		]
+	},
+	{
+		"jammer": "HardEggGames",
+		"jammer_link": "https://hardegggames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "TrigonomeBeats",
+				"title_link": "https://hardegggames.itch.io/trigonomebeat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818980",
+				"by_list": [
+					"HardEggGames",
+					"deatyG",
+					"Mimpendo",
+					"commonboy12"
+				],
+				"by_link_list": [
+					"https://hardegggames.itch.io/",
+					"https://deatyg.itch.io/",
+					"https://mimpendo.itch.io/",
+					"https://commonboy12.itch.io/"
+				],
+				"rank": 98,
+				"ratings": 4,
+				"score": 2.475,
+				"ilscore": 56,
+				"submission_time_diff": -130000
 			}
 		]
 	}
