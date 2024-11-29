@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "MayaEggRoll",
-		"jammer_link": "https://mayaeggroll.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "Rolling with the devil",
-				"title_link": "https://mayaeggroll.itch.io/rolling-with-the-devil",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1105018",
-				"by_list": [
-					"MayaEggRoll"
-				],
-				"by_link_list": [
-					"https://mayaeggroll.itch.io/"
-				],
-				"rank": 107,
-				"ratings": 3,
-				"score": 1.531,
-				"ilscore": 32,
-				"submission_time_diff": -25814000
-			}
-		]
-	},
-	{
-		"jammer": "By Gleb Bortsov",
-		"jammer_link": "https://by-gleb-bortsov.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "DREAD",
-				"title_link": "https://by-gleb-bortsov.itch.io/dread",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1103943",
-				"by_list": [
-					"By Gleb Bortsov"
-				],
-				"by_link_list": [
-					"https://by-gleb-bortsov.itch.io/"
-				],
-				"rank": 109,
-				"ratings": 2,
-				"score": 1.375,
-				"ilscore": 28,
-				"submission_time_diff": -90954000
-			}
-		]
-	},
-	{
 		"jammer": "McBlueFrog",
 		"jammer_link": "https://mcbluefrog.itch.io/",
 		"game_list_sorted": [
@@ -529,7 +475,7 @@
 				"jam_id": 116,
 				"jam_name": "Pocket Sized",
 				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
-				"jam_vs": 43,
+				"jam_vs": 42,
 				"title": "Noodle Arms Pick Pocket",
 				"title_link": "https://bluemango.itch.io/noodle-arms-pick-pocket",
 				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1727392",
@@ -1456,7 +1402,7 @@
 				"jam_id": 118,
 				"jam_name": "Vampires",
 				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "The Blood Curse",
 				"title_link": "https://mfproject.itch.io/the-blood-curse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769012",
@@ -3599,7 +3545,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 188,
+				"jam_vs": 187,
 				"title": "Shotgun Shack",
 				"title_link": "https://walmartpanda.itch.io/shotgun-shack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750072",
@@ -4166,6 +4112,102 @@
 				"score": 2.688,
 				"ilscore": 63,
 				"submission_time_diff": -17098000
+			}
+		]
+	},
+	{
+		"jammer": "thisGameDev",
+		"jammer_link": "https://thisgamedev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "Don't Die Now",
+				"title_link": "https://thisgamedev.itch.io/dontdienow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120828",
+				"by_list": [
+					"thisGameDev"
+				],
+				"by_link_list": [
+					"https://thisgamedev.itch.io/"
+				],
+				"rank": 106,
+				"ratings": 5,
+				"score": 2.648,
+				"ilscore": 62,
+				"submission_time_diff": -23263000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 169,
+				"title": "Mini Builder",
+				"title_link": "https://thisgamedev.itch.io/mini-builder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137178",
+				"by_list": [
+					"thisGameDev"
+				],
+				"by_link_list": [
+					"https://thisgamedev.itch.io/"
+				],
+				"rank": 122,
+				"ratings": 10,
+				"score": 2.35,
+				"ilscore": 58,
+				"submission_time_diff": -30791000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "doppel",
+				"title_link": "https://thisgamedev.itch.io/doppel",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634822",
+				"by_list": [
+					"thisGameDev"
+				],
+				"by_link_list": [
+					"https://thisgamedev.itch.io/"
+				],
+				"rank": 161,
+				"ratings": 7,
+				"score": 3.14,
+				"ilscore": 105,
+				"submission_time_diff": -7817000
+			}
+		]
+	},
+	{
+		"jammer": "GibraCorp",
+		"jammer_link": "https://gibracorp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "BubblePhobia",
+				"title_link": "https://gibracorp.itch.io/bubblephobia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121686",
+				"by_list": [
+					"GibraCorp"
+				],
+				"by_link_list": [
+					"https://gibracorp.itch.io/"
+				],
+				"rank": 107,
+				"ratings": 6,
+				"score": 2.634,
+				"ilscore": 62,
+				"submission_time_diff": -9634000
 			}
 		]
 	}

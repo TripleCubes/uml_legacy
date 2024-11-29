@@ -200,59 +200,6 @@
 		]
 	},
 	{
-		"jammer": "Robin Deriaud",
-		"jammer_link": "https://robinderiaud.itch.io/",
-		"total_ilscore": 118,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
-				"title": "Boss of the Month",
-				"title_link": "https://phoque.itch.io/boss-of-the-month",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672762",
-				"by_list": [
-					"Phoque",
-					"Robin Deriaud",
-					"Mudd"
-				],
-				"by_link_list": [
-					"https://phoque.itch.io/",
-					"https://robinderiaud.itch.io/",
-					"https://muddddd.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 17,
-				"score": 3.853,
-				"ilscore": 79,
-				"submission_time_diff": -398000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 115,
-				"jam_name": "Noir",
-				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
-				"jam_vs": 37,
-				"title": "Temp City",
-				"title_link": "https://robinderiaud.itch.io/tempcity",
-				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1707141",
-				"by_list": [
-					"Robin Deriaud"
-				],
-				"by_link_list": [
-					"https://robinderiaud.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 8,
-				"score": 3.182,
-				"ilscore": 39,
-				"submission_time_diff": -277000
-			}
-		]
-	},
-	{
 		"jammer": "Electro Games",
 		"jammer_link": "https://electrogames.itch.io/",
 		"total_ilscore": 118,
@@ -300,6 +247,59 @@
 				"score": 3.625,
 				"ilscore": 54,
 				"submission_time_diff": 44544000
+			}
+		]
+	},
+	{
+		"jammer": "Kaddi",
+		"jammer_link": "https://kahzn.itch.io/",
+		"total_ilscore": 118,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 132,
+				"title": "Maze&lt;--&gt;Shift",
+				"title_link": "https://kahzn.itch.io/maze-shift",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091781",
+				"by_list": [
+					"Kaddi"
+				],
+				"by_link_list": [
+					"https://kahzn.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 12,
+				"score": 3.542,
+				"ilscore": 79,
+				"submission_time_diff": -22711000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "sneak-O-bots",
+				"title_link": "https://kahzn.itch.io/sneak-o-bots",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134585",
+				"by_list": [
+					"Kaddi",
+					"ComanderXXY",
+					"PurpurTentakel"
+				],
+				"by_link_list": [
+					"https://kahzn.itch.io/",
+					"https://comanderxxy.itch.io/",
+					"https://purpurtentakel.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 3,
+				"score": 2.239,
+				"ilscore": 39,
+				"submission_time_diff": -14942000
 			}
 		]
 	},
@@ -946,34 +946,6 @@
 		]
 	},
 	{
-		"jammer": "YouDoYouBuddy",
-		"jammer_link": "https://youdoyoubuddy.itch.io/",
-		"total_ilscore": 117,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Ember Slash",
-				"title_link": "https://youdoyoubuddy.itch.io/ember-slash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609540",
-				"by_list": [
-					"YouDoYouBuddy"
-				],
-				"by_link_list": [
-					"https://youdoyoubuddy.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.304,
-				"ilscore": 117,
-				"submission_time_diff": -4574000
-			}
-		]
-	},
-	{
 		"jammer": "Martin",
 		"jammer_link": "https://moeren.itch.io/",
 		"total_ilscore": 117,
@@ -983,7 +955,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "We Were 20",
 				"title_link": "https://moeren.itch.io/we-were-20",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609253",
@@ -1233,6 +1205,59 @@
 		]
 	},
 	{
+		"jammer": "Robin Deriaud",
+		"jammer_link": "https://robinderiaud.itch.io/",
+		"total_ilscore": 117,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 104,
+				"title": "Boss of the Month",
+				"title_link": "https://phoque.itch.io/boss-of-the-month",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1672762",
+				"by_list": [
+					"Phoque",
+					"Robin Deriaud",
+					"Mudd"
+				],
+				"by_link_list": [
+					"https://phoque.itch.io/",
+					"https://robinderiaud.itch.io/",
+					"https://muddddd.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 17,
+				"score": 3.853,
+				"ilscore": 78,
+				"submission_time_diff": -398000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"jam_vs": 37,
+				"title": "Temp City",
+				"title_link": "https://robinderiaud.itch.io/tempcity",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1707141",
+				"by_list": [
+					"Robin Deriaud"
+				],
+				"by_link_list": [
+					"https://robinderiaud.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.182,
+				"ilscore": 39,
+				"submission_time_diff": -277000
+			}
+		]
+	},
+	{
 		"jammer": "Riptide Realms",
 		"jammer_link": "https://riptiderealms.itch.io/",
 		"total_ilscore": 117,
@@ -1242,7 +1267,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Approaching Zero (game jam version)",
 				"title_link": "https://cryy22.itch.io/approaching-zero",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869470",
@@ -1272,7 +1297,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 61,
+				"jam_vs": 59,
 				"title": "BUBBA STAR",
 				"title_link": "https://yanfer.itch.io/bubba-star",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3098048",
@@ -1431,128 +1456,6 @@
 		]
 	},
 	{
-		"jammer": "Botling",
-		"jammer_link": "https://botling.itch.io/",
-		"total_ilscore": 117,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Coalins",
-				"title_link": "https://youle.itch.io/coalins",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2815798",
-				"by_list": [
-					"Youle",
-					"N3re",
-					"Botling",
-					"Laloney"
-				],
-				"by_link_list": [
-					"https://youle.itch.io/",
-					"https://n3re.itch.io/",
-					"https://botling.itch.io/",
-					"https://laloney.itch.io/"
-				],
-				"rank": 48,
-				"ratings": 19,
-				"score": 3.276,
-				"ilscore": 74,
-				"submission_time_diff": -27904000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 168,
-				"jam_name": "Retro",
-				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 39,
-				"title": "Invaders Mayhem",
-				"title_link": "https://youle.itch.io/invaders-mayhem",
-				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3003250",
-				"by_list": [
-					"Youle",
-					"Laloney",
-					"Botling",
-					"L2S-CE"
-				],
-				"by_link_list": [
-					"https://youle.itch.io/",
-					"https://laloney.itch.io/",
-					"https://botling.itch.io/",
-					"https://l2s-ce.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 14,
-				"score": 3.357,
-				"ilscore": 43,
-				"submission_time_diff": -21818000
-			}
-		]
-	},
-	{
-		"jammer": "Laloney",
-		"jammer_link": "https://laloney.itch.io/",
-		"total_ilscore": 117,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Coalins",
-				"title_link": "https://youle.itch.io/coalins",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2815798",
-				"by_list": [
-					"Youle",
-					"N3re",
-					"Botling",
-					"Laloney"
-				],
-				"by_link_list": [
-					"https://youle.itch.io/",
-					"https://n3re.itch.io/",
-					"https://botling.itch.io/",
-					"https://laloney.itch.io/"
-				],
-				"rank": 48,
-				"ratings": 19,
-				"score": 3.276,
-				"ilscore": 74,
-				"submission_time_diff": -27904000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 168,
-				"jam_name": "Retro",
-				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 39,
-				"title": "Invaders Mayhem",
-				"title_link": "https://youle.itch.io/invaders-mayhem",
-				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3003250",
-				"by_list": [
-					"Youle",
-					"Laloney",
-					"Botling",
-					"L2S-CE"
-				],
-				"by_link_list": [
-					"https://youle.itch.io/",
-					"https://laloney.itch.io/",
-					"https://botling.itch.io/",
-					"https://l2s-ce.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 14,
-				"score": 3.357,
-				"ilscore": 43,
-				"submission_time_diff": -21818000
-			}
-		]
-	},
-	{
 		"jammer": "RetroGamer",
 		"jammer_link": "https://retrogamergames.itch.io/",
 		"total_ilscore": 116,
@@ -1562,7 +1465,7 @@
 				"jam_id": 76,
 				"jam_name": "Radiation",
 				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 124,
+				"jam_vs": 123,
 				"title": "Dead Light",
 				"title_link": "https://retrogamergames.itch.io/deadlight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/965347",
@@ -1811,7 +1714,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 183,
+				"jam_vs": 182,
 				"title": "Gunsling frog",
 				"title_link": "https://smileydroid.itch.io/gunsling-frog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025433",
@@ -2178,6 +2081,34 @@
 		]
 	},
 	{
+		"jammer": "YouDoYouBuddy",
+		"jammer_link": "https://youdoyoubuddy.itch.io/",
+		"total_ilscore": 116,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 213,
+				"title": "Ember Slash",
+				"title_link": "https://youdoyoubuddy.itch.io/ember-slash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609540",
+				"by_list": [
+					"YouDoYouBuddy"
+				],
+				"by_link_list": [
+					"https://youdoyoubuddy.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.304,
+				"ilscore": 116,
+				"submission_time_diff": -4574000
+			}
+		]
+	},
+	{
 		"jammer": "spavolk",
 		"jammer_link": "https://spavolk.itch.io/",
 		"total_ilscore": 116,
@@ -2238,7 +2169,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "BUGGED",
 				"title_link": "https://mangoworks.itch.io/bugged",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869105",
@@ -2503,6 +2434,128 @@
 		]
 	},
 	{
+		"jammer": "Botling",
+		"jammer_link": "https://botling.itch.io/",
+		"total_ilscore": 116,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Coalins",
+				"title_link": "https://youle.itch.io/coalins",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2815798",
+				"by_list": [
+					"Youle",
+					"N3re",
+					"Botling",
+					"Laloney"
+				],
+				"by_link_list": [
+					"https://youle.itch.io/",
+					"https://n3re.itch.io/",
+					"https://botling.itch.io/",
+					"https://laloney.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 19,
+				"score": 3.276,
+				"ilscore": 74,
+				"submission_time_diff": -27904000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 38,
+				"title": "Invaders Mayhem",
+				"title_link": "https://youle.itch.io/invaders-mayhem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3003250",
+				"by_list": [
+					"Youle",
+					"Laloney",
+					"Botling",
+					"L2S-CE"
+				],
+				"by_link_list": [
+					"https://youle.itch.io/",
+					"https://laloney.itch.io/",
+					"https://botling.itch.io/",
+					"https://l2s-ce.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 14,
+				"score": 3.357,
+				"ilscore": 42,
+				"submission_time_diff": -21818000
+			}
+		]
+	},
+	{
+		"jammer": "Laloney",
+		"jammer_link": "https://laloney.itch.io/",
+		"total_ilscore": 116,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Coalins",
+				"title_link": "https://youle.itch.io/coalins",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2815798",
+				"by_list": [
+					"Youle",
+					"N3re",
+					"Botling",
+					"Laloney"
+				],
+				"by_link_list": [
+					"https://youle.itch.io/",
+					"https://n3re.itch.io/",
+					"https://botling.itch.io/",
+					"https://laloney.itch.io/"
+				],
+				"rank": 48,
+				"ratings": 19,
+				"score": 3.276,
+				"ilscore": 74,
+				"submission_time_diff": -27904000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 168,
+				"jam_name": "Retro",
+				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
+				"jam_vs": 38,
+				"title": "Invaders Mayhem",
+				"title_link": "https://youle.itch.io/invaders-mayhem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3003250",
+				"by_list": [
+					"Youle",
+					"Laloney",
+					"Botling",
+					"L2S-CE"
+				],
+				"by_link_list": [
+					"https://youle.itch.io/",
+					"https://laloney.itch.io/",
+					"https://botling.itch.io/",
+					"https://l2s-ce.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 14,
+				"score": 3.357,
+				"ilscore": 42,
+				"submission_time_diff": -21818000
+			}
+		]
+	},
+	{
 		"jammer": "DucklingKnight",
 		"jammer_link": "https://ducklingknight.itch.io/",
 		"total_ilscore": 116,
@@ -2610,7 +2663,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Milky Way",
 				"title_link": "https://game-dev-villager.itch.io/milky-way",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609171",
@@ -3050,34 +3103,6 @@
 		]
 	},
 	{
-		"jammer": "Firebelley",
-		"jammer_link": "https://firebelley.itch.io/",
-		"total_ilscore": 115,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
-				"title": "Corpse Wizard",
-				"title_link": "https://firebelley.itch.io/corpse-wizard",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609404",
-				"by_list": [
-					"Firebelley"
-				],
-				"by_link_list": [
-					"https://firebelley.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 28,
-				"score": 4.232,
-				"ilscore": 115,
-				"submission_time_diff": -9728000
-			}
-		]
-	},
-	{
 		"jammer": "Fasmaday Runeli",
 		"jammer_link": "https://fasmaday-runeli.itch.io/",
 		"total_ilscore": 115,
@@ -3171,7 +3196,7 @@
 				"jam_id": 117,
 				"jam_name": "Ghosts",
 				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 188,
+				"jam_vs": 187,
 				"title": "Ghost vs. Zombies",
 				"title_link": "https://owls-again.itch.io/ghost-vs-zombies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750057",
@@ -3220,7 +3245,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Cyber Webber",
 				"title_link": "https://coolgamertag.itch.io/cyber-webber",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869389",
@@ -3379,7 +3404,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -4226,7 +4251,7 @@
 				"jam_id": 79,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 183,
+				"jam_vs": 182,
 				"title": "Frog Time!",
 				"title_link": "https://cjcats.itch.io/frog-time",
 				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025971",
@@ -4611,7 +4636,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Freefall",
 				"title_link": "https://falkon2246.itch.io/freefall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609641",
@@ -4651,30 +4676,30 @@
 		]
 	},
 	{
-		"jammer": "Magnarris",
-		"jammer_link": "https://magnarris.itch.io/",
+		"jammer": "Firebelley",
+		"jammer_link": "https://firebelley.itch.io/",
 		"total_ilscore": 114,
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Bouncy Bullets",
-				"title_link": "https://magnarris.itch.io/bouncy-bullets",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634214",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 213,
+				"title": "Corpse Wizard",
+				"title_link": "https://firebelley.itch.io/corpse-wizard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609404",
 				"by_list": [
-					"Magnarris"
+					"Firebelley"
 				],
 				"by_link_list": [
-					"https://magnarris.itch.io/"
+					"https://firebelley.itch.io/"
 				],
-				"rank": 106,
-				"ratings": 14,
-				"score": 3.429,
+				"rank": 4,
+				"ratings": 28,
+				"score": 4.232,
 				"ilscore": 114,
-				"submission_time_diff": -34625000
+				"submission_time_diff": -9728000
 			}
 		]
 	}

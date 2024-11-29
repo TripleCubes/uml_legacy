@@ -1,5 +1,65 @@
 [
 	{
+		"jammer": "ggg10wr",
+		"jammer_link": "https://ggg10wr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 132,
+				"title": "Heart and Soul",
+				"title_link": "https://the-hat-guy.itch.io/heart-and-soul",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091855",
+				"by_list": [
+					"The_Hat_Guy",
+					"ggg10wr"
+				],
+				"by_link_list": [
+					"https://the-hat-guy.itch.io/",
+					"https://ggg10wr.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 16,
+				"score": 4.188,
+				"ilscore": 94,
+				"submission_time_diff": -18845000
+			}
+		]
+	},
+	{
+		"jammer": "Old-World-Bird",
+		"jammer_link": "https://old-world-bird.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Vampire's hunt",
+				"title_link": "https://flavedogame.itch.io/vampire",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1765848",
+				"by_list": [
+					"flavedogame",
+					"Old-World-Bird",
+					"diago.music"
+				],
+				"by_link_list": [
+					"https://flavedogame.itch.io/",
+					"https://old-world-bird.itch.io/",
+					"https://diagomusic.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 11,
+				"score": 4.182,
+				"ilscore": 96,
+				"submission_time_diff": -66650000
+			}
+		]
+	},
+	{
 		"jammer": "diago.music",
 		"jammer_link": "https://diagomusic.itch.io/",
 		"game_list_sorted": [
@@ -8,7 +68,7 @@
 				"jam_id": 118,
 				"jam_name": "Vampires",
 				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Vampire's hunt",
 				"title_link": "https://flavedogame.itch.io/vampire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1765848",
@@ -1047,7 +1107,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 61,
+				"jam_vs": 59,
 				"title": "Bloom &amp; Defend",
 				"title_link": "https://filgreen3.itch.io/bloom-defense",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100746",
@@ -1060,7 +1120,7 @@
 				"rank": 2,
 				"ratings": 17,
 				"score": 3.971,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -7328000
 			}
 		]
@@ -1271,6 +1331,72 @@
 				"score": 3.917,
 				"ilscore": 35,
 				"submission_time_diff": -443000
+			}
+		]
+	},
+	{
+		"jammer": "thunder229",
+		"jammer_link": "https://thunder229.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 172,
+				"jam_name": "Security",
+				"jam_link": "https://itch.io/jam/mini-jam-172-security",
+				"jam_vs": 38,
+				"title": "AD NAUSEAM",
+				"title_link": "https://liquidcrafty.itch.io/ad-nauseam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-172-security/rate/3132596",
+				"by_list": [
+					"liquidcrafty",
+					"thunder229",
+					"Jdegs192",
+					"Consul C"
+				],
+				"by_link_list": [
+					"https://liquidcrafty.itch.io/",
+					"https://thunder229.itch.io/",
+					"https://jdegs192.itch.io/",
+					"https://consul-c.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 3.911,
+				"ilscore": 49,
+				"submission_time_diff": -8902000
+			}
+		]
+	},
+	{
+		"jammer": "Consul C",
+		"jammer_link": "https://consul-c.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 172,
+				"jam_name": "Security",
+				"jam_link": "https://itch.io/jam/mini-jam-172-security",
+				"jam_vs": 38,
+				"title": "AD NAUSEAM",
+				"title_link": "https://liquidcrafty.itch.io/ad-nauseam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-172-security/rate/3132596",
+				"by_list": [
+					"liquidcrafty",
+					"thunder229",
+					"Jdegs192",
+					"Consul C"
+				],
+				"by_link_list": [
+					"https://liquidcrafty.itch.io/",
+					"https://thunder229.itch.io/",
+					"https://jdegs192.itch.io/",
+					"https://consul-c.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 3.911,
+				"ilscore": 49,
+				"submission_time_diff": -8902000
 			}
 		]
 	},
@@ -1859,7 +1985,7 @@
 				],
 				"by_link_list": [
 					"https://officialchaser8.itch.io/",
-					"https://dgobbe.itch.io/",
+					"https://gobbe57.itch.io/",
 					"https://dj5412.itch.io/"
 				],
 				"rank": 2,
@@ -1872,7 +1998,7 @@
 	},
 	{
 		"jammer": "gobbe",
-		"jammer_link": "https://dgobbe.itch.io/",
+		"jammer_link": "https://gobbe57.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1890,7 +2016,7 @@
 				],
 				"by_link_list": [
 					"https://officialchaser8.itch.io/",
-					"https://dgobbe.itch.io/",
+					"https://gobbe57.itch.io/",
 					"https://dj5412.itch.io/"
 				],
 				"rank": 2,
@@ -1921,7 +2047,7 @@
 				],
 				"by_link_list": [
 					"https://officialchaser8.itch.io/",
-					"https://dgobbe.itch.io/",
+					"https://gobbe57.itch.io/",
 					"https://dj5412.itch.io/"
 				],
 				"rank": 2,
@@ -2762,114 +2888,6 @@
 				"score": 4.361,
 				"ilscore": 131,
 				"submission_time_diff": -866000
-			}
-		]
-	},
-	{
-		"jammer": "DucklingKnight",
-		"jammer_link": "https://ducklingknight.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
-				"title": "NO GREEN",
-				"title_link": "https://ducklingknight.itch.io/no-green",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943338",
-				"by_list": [
-					"DucklingKnight"
-				],
-				"by_link_list": [
-					"https://ducklingknight.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.361,
-				"ilscore": 116,
-				"submission_time_diff": -7226000
-			}
-		]
-	},
-	{
-		"jammer": "Mi1",
-		"jammer_link": "https://mi111.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 115,
-				"title": "Wiresnake",
-				"title_link": "https://mi111.itch.io/wiresnake",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675355",
-				"by_list": [
-					"Mi1"
-				],
-				"by_link_list": [
-					"https://mi111.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.324,
-				"ilscore": 92,
-				"submission_time_diff": -14901000
-			}
-		]
-	},
-	{
-		"jammer": "MyCousinJimmy",
-		"jammer_link": "https://mycousinjimmy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "The Devil On My Shoulder",
-				"title_link": "https://mycousinjimmy.itch.io/the-devil-on-my-shoulder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634851",
-				"by_list": [
-					"MyCousinJimmy"
-				],
-				"by_link_list": [
-					"https://mycousinjimmy.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 24,
-				"score": 4.302,
-				"ilscore": 143,
-				"submission_time_diff": -208000
-			}
-		]
-	},
-	{
-		"jammer": "arshia80",
-		"jammer_link": "https://arshia80.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "The Vault",
-				"title_link": "https://arshia80.itch.io/the-vault",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976405",
-				"by_list": [
-					"arshia80"
-				],
-				"by_link_list": [
-					"https://arshia80.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.3,
-				"ilscore": 70,
-				"submission_time_diff": -1702000
 			}
 		]
 	}

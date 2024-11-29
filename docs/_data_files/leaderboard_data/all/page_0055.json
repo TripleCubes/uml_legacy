@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "LegeDEv",
-		"jammer_link": "https://legedev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "BIRDIERUN",
-				"title_link": "https://legedev.itch.io/birdierun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1386259",
-				"by_list": [
-					"LegeDEv"
-				],
-				"by_link_list": [
-					"https://legedev.itch.io/"
-				],
-				"rank": 193,
-				"ratings": 8,
-				"score": 2.239,
-				"ilscore": 64,
-				"submission_time_diff": -129992000
-			}
-		]
-	},
-	{
-		"jammer": "AxBox",
-		"jammer_link": "https://axbox.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 254,
-				"title": "A Bird Against The World",
-				"title_link": "https://axbox.itch.io/a-bird-against-the-world",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1389220",
-				"by_list": [
-					"AxBox"
-				],
-				"by_link_list": [
-					"https://axbox.itch.io/"
-				],
-				"rank": 194,
-				"ratings": 7,
-				"score": 2.236,
-				"ilscore": 64,
-				"submission_time_diff": -3453000
-			}
-		]
-	},
-	{
 		"jammer": "HenriMakesGames",
 		"jammer_link": "https://henrimakesgames.itch.io/",
 		"game_list_sorted": [
@@ -1353,7 +1299,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 214,
+				"jam_vs": 213,
 				"title": "Freefall",
 				"title_link": "https://falkon2246.itch.io/freefall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609641",
@@ -2664,7 +2610,7 @@
 				"jam_id": 113,
 				"jam_name": "Final Boss",
 				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Morkhërr",
 				"title_link": "https://amealky.itch.io/morkherr",
 				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673048",
@@ -2995,7 +2941,7 @@
 				"jam_id": 168,
 				"jam_name": "Retro",
 				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 39,
+				"jam_vs": 38,
 				"title": "Roadkill Warlock",
 				"title_link": "https://horko-rosso.itch.io/warlock-roadkill",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3004985",
@@ -3549,6 +3495,81 @@
 				"score": 3.571,
 				"ilscore": 87,
 				"submission_time_diff": -8002000
+			}
+		]
+	},
+	{
+		"jammer": "Hardwin Bui",
+		"jammer_link": "https://hardwin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Curse Escape",
+				"title_link": "https://hardwin.itch.io/curse-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408977",
+				"by_list": [
+					"Hardwin Bui"
+				],
+				"by_link_list": [
+					"https://hardwin.itch.io/"
+				],
+				"rank": 46,
+				"ratings": 19,
+				"score": 3.553,
+				"ilscore": 87,
+				"submission_time_diff": -23222000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Bloodtender",
+				"title_link": "https://hardwin.itch.io/bloodtender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1767324",
+				"by_list": [
+					"Hardwin Bui"
+				],
+				"by_link_list": [
+					"https://hardwin.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 12,
+				"score": 3.208,
+				"ilscore": 73,
+				"submission_time_diff": -37180000
+			}
+		]
+	},
+	{
+		"jammer": "Narrenschlag",
+		"jammer_link": "https://narrenschlag.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Downhill Chaos - Mini Jam 100",
+				"title_link": "https://narrenschlag.itch.io/downhill",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409726",
+				"by_list": [
+					"Narrenschlag"
+				],
+				"by_link_list": [
+					"https://narrenschlag.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 7,
+				"score": 3.541,
+				"ilscore": 87,
+				"submission_time_diff": -10681000
 			}
 		]
 	}
