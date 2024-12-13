@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "The SDB",
-		"jammer_link": "https://the-sdb.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Creeps",
-				"title_link": "https://the-sdb.itch.io/creeps",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1747855",
-				"by_list": [
-					"The SDB"
-				],
-				"by_link_list": [
-					"https://the-sdb.itch.io/"
-				],
-				"rank": 142,
-				"ratings": 5,
-				"score": 1.878,
-				"ilscore": 48,
-				"submission_time_diff": -26398000
-			}
-		]
-	},
-	{
-		"jammer": "WonderBug",
-		"jammer_link": "https://wonderbug.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Ghost And Graves",
-				"title_link": "https://wonderbug.itch.io/ghost-and-graves",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749036",
-				"by_list": [
-					"WonderBug"
-				],
-				"by_link_list": [
-					"https://wonderbug.itch.io/"
-				],
-				"rank": 144,
-				"ratings": 5,
-				"score": 1.837,
-				"ilscore": 47,
-				"submission_time_diff": -37353000
-			}
-		]
-	},
-	{
 		"jammer": "OKΛMI",
 		"jammer_link": "https://okmi.itch.io/",
 		"game_list_sorted": [
@@ -1412,7 +1358,7 @@
 				"by_list": [
 					"flavedogame",
 					"Old-World-Bird",
-					"diago.music"
+					"Diego Bastiani Gameaudio"
 				],
 				"by_link_list": [
 					"https://flavedogame.itch.io/",
@@ -1470,7 +1416,7 @@
 				"by_list": [
 					"flavedogame",
 					"Old-World-Bird",
-					"diago.music"
+					"Diego Bastiani Gameaudio"
 				],
 				"by_link_list": [
 					"https://flavedogame.itch.io/",
@@ -1486,7 +1432,7 @@
 		]
 	},
 	{
-		"jammer": "diago.music",
+		"jammer": "Diego Bastiani Gameaudio",
 		"jammer_link": "https://diagomusic.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1501,7 +1447,7 @@
 				"by_list": [
 					"flavedogame",
 					"Old-World-Bird",
-					"diago.music"
+					"Diego Bastiani Gameaudio"
 				],
 				"by_link_list": [
 					"https://flavedogame.itch.io/",
@@ -3589,6 +3535,83 @@
 				"score": 3,
 				"ilscore": 68,
 				"submission_time_diff": -1513000
+			}
+		]
+	},
+	{
+		"jammer": "Qangeldratsch",
+		"jammer_link": "https://qangeldratsch.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Bloody Dungeons",
+				"title_link": "https://qangeldratsch.itch.io/bloody-dungeons",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769444",
+				"by_list": [
+					"Qangeldratsch"
+				],
+				"by_link_list": [
+					"https://qangeldratsch.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 12,
+				"score": 2.979,
+				"ilscore": 68,
+				"submission_time_diff": -30143000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Tree of Life",
+				"title_link": "https://qangeldratsch.itch.io/tree-of-life",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2672709",
+				"by_list": [
+					"Qangeldratsch",
+					"DynamicVoid9"
+				],
+				"by_link_list": [
+					"https://qangeldratsch.itch.io/",
+					"https://dynamicvoid9.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 7,
+				"score": 2.706,
+				"ilscore": 57,
+				"submission_time_diff": -18238000
+			}
+		]
+	},
+	{
+		"jammer": "TheBlueRuby",
+		"jammer_link": "https://blueruby.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Vampirat",
+				"title_link": "https://blueruby.itch.io/vampirat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769408",
+				"by_list": [
+					"TheBlueRuby"
+				],
+				"by_link_list": [
+					"https://blueruby.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 6,
+				"score": 2.917,
+				"ilscore": 66,
+				"submission_time_diff": -25741000
 			}
 		]
 	}

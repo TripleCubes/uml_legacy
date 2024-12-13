@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "retr0grape",
-		"jammer_link": "https://retr0grape.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Funkin' (In Space)",
-				"title_link": "https://maksimovmaksimilian.itch.io/funkin-in-space",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1551596",
-				"by_list": [
-					"maksimov.maksimilian",
-					"retr0grape",
-					"Pikroncia"
-				],
-				"by_link_list": [
-					"https://maksimovmaksimilian.itch.io/",
-					"https://retr0grape.itch.io/",
-					"https://pikroncia.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 22,
-				"score": 3.795,
-				"ilscore": 74,
-				"submission_time_diff": -10339000
-			}
-		]
-	},
-	{
-		"jammer": "Pikroncia",
-		"jammer_link": "https://pikroncia.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Funkin' (In Space)",
-				"title_link": "https://maksimovmaksimilian.itch.io/funkin-in-space",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1551596",
-				"by_list": [
-					"maksimov.maksimilian",
-					"retr0grape",
-					"Pikroncia"
-				],
-				"by_link_list": [
-					"https://maksimovmaksimilian.itch.io/",
-					"https://retr0grape.itch.io/",
-					"https://pikroncia.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 22,
-				"score": 3.795,
-				"ilscore": 74,
-				"submission_time_diff": -10339000
-			}
-		]
-	},
-	{
 		"jammer": "Perita",
 		"jammer_link": "https://perita.itch.io/",
 		"game_list_sorted": [
@@ -3664,6 +3602,60 @@
 				"score": 3.368,
 				"ilscore": 91,
 				"submission_time_diff": 62467000
+			}
+		]
+	},
+	{
+		"jammer": "hi rohun",
+		"jammer_link": "https://hirohun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Grubby Gull",
+				"title_link": "https://hirohun.itch.io/grubby-gull",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571616",
+				"by_list": [
+					"hi rohun"
+				],
+				"by_link_list": [
+					"https://hirohun.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 52,
+				"score": 3.337,
+				"ilscore": 90,
+				"submission_time_diff": -27443000
+			}
+		]
+	},
+	{
+		"jammer": "slenkerlab",
+		"jammer_link": "https://slenkerlab.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Seaside Shells",
+				"title_link": "https://slenkerlab.itch.io/seaside-shells",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572040",
+				"by_list": [
+					"slenkerlab"
+				],
+				"by_link_list": [
+					"https://slenkerlab.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 19,
+				"score": 3.329,
+				"ilscore": 90,
+				"submission_time_diff": -25653000
 			}
 		]
 	}

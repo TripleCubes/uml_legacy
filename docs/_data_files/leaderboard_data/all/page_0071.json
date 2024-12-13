@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "DonCaberu",
-		"jammer_link": "https://doncaberu.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Mach Speed Painting",
-				"title_link": "https://doncaberu.itch.io/mach-speed-painting",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634243",
-				"by_list": [
-					"DonCaberu",
-					"Hivernote"
-				],
-				"by_link_list": [
-					"https://doncaberu.itch.io/",
-					"https://hivernote.itch.io/"
-				],
-				"rank": 181,
-				"ratings": 6,
-				"score": 2.995,
-				"ilscore": 100,
-				"submission_time_diff": -9895000
-			}
-		]
-	},
-	{
-		"jammer": "Hivernote",
-		"jammer_link": "https://hivernote.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Mach Speed Painting",
-				"title_link": "https://doncaberu.itch.io/mach-speed-painting",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634243",
-				"by_list": [
-					"DonCaberu",
-					"Hivernote"
-				],
-				"by_link_list": [
-					"https://doncaberu.itch.io/",
-					"https://hivernote.itch.io/"
-				],
-				"rank": 181,
-				"ratings": 6,
-				"score": 2.995,
-				"ilscore": 100,
-				"submission_time_diff": -9895000
-			}
-		]
-	},
-	{
 		"jammer": "AFNarratives",
 		"jammer_link": "https://afnarratives.itch.io/",
 		"game_list_sorted": [
@@ -3549,6 +3491,60 @@
 				"score": 2.055,
 				"ilscore": 68,
 				"submission_time_diff": -273000
+			}
+		]
+	},
+	{
+		"jammer": "Encrypted",
+		"jammer_link": "https://the-encrypt3d.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Something Something Colour",
+				"title_link": "https://the-encrypt3d.itch.io/something-something-colour",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633736",
+				"by_list": [
+					"Encrypted"
+				],
+				"by_link_list": [
+					"https://the-encrypt3d.itch.io/"
+				],
+				"rank": 295,
+				"ratings": 6,
+				"score": 2.021,
+				"ilscore": 67,
+				"submission_time_diff": -64030000
+			}
+		]
+	},
+	{
+		"jammer": "GTA5AW",
+		"jammer_link": "https://gta5aw.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "A story of An robot",
+				"title_link": "https://gta5aw.itch.io/a-story-of-an-robot",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633880",
+				"by_list": [
+					"GTA5AW"
+				],
+				"by_link_list": [
+					"https://gta5aw.itch.io/"
+				],
+				"rank": 296,
+				"ratings": 5,
+				"score": 2.016,
+				"ilscore": 67,
+				"submission_time_diff": -53503000
 			}
 		]
 	}

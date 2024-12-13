@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Stefano Galligani",
+		"jammer_link": "https://ostrich-dog.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 62,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-62",
+				"jam_vs": 146,
+				"title": "All the colored people",
+				"title_link": "https://ostrich-dog.itch.io/all-the-colored-people",
+				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751833",
+				"by_list": [
+					"Stefano Galligani"
+				],
+				"by_link_list": [
+					"https://ostrich-dog.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 7,
+				"score": 3.571,
+				"ilscore": 83,
+				"submission_time_diff": -21918000
+			}
+		]
+	},
+	{
 		"jammer": "flyinglikeaghost",
 		"jammer_link": "https://flyinglikeaghost.itch.io/",
 		"game_list_sorted": [
@@ -3690,7 +3717,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Mortal Walk",
 				"title_link": "https://mynamedave.itch.io/mortal-walk",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347280",
@@ -3703,7 +3730,7 @@
 				"rank": 32,
 				"ratings": 21,
 				"score": 3.226,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -7859000
 			},
 			{
@@ -4044,33 +4071,6 @@
 				"score": 1.804,
 				"ilscore": 42,
 				"submission_time_diff": -10718000
-			}
-		]
-	},
-	{
-		"jammer": "Hydrodinamic Studios",
-		"jammer_link": "https://hydrodinamic-studios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "Kalei Witch",
-				"title_link": "https://hydrodinamic-studios.itch.io/kalei-witch",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752264",
-				"by_list": [
-					"Hydrodinamic Studios"
-				],
-				"by_link_list": [
-					"https://hydrodinamic-studios.itch.io/"
-				],
-				"rank": 132,
-				"ratings": 2,
-				"score": 1.804,
-				"ilscore": 42,
-				"submission_time_diff": 82522000
 			}
 		]
 	}

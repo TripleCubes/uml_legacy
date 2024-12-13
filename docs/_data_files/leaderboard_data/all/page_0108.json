@@ -1,101 +1,5 @@
 [
 	{
-		"jammer": "DerekAmicon",
-		"jammer_link": "https://derekamicon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "Style Saloon",
-				"title_link": "https://derekamicon.itch.io/style-saloon",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792078",
-				"by_list": [
-					"DerekAmicon"
-				],
-				"by_link_list": [
-					"https://derekamicon.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 10,
-				"score": 3.675,
-				"ilscore": 55,
-				"submission_time_diff": -1454000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Moth to the Flame",
-				"title_link": "https://derekamicon.itch.io/moth-to-the-flame",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764585",
-				"by_list": [
-					"DerekAmicon"
-				],
-				"by_link_list": [
-					"https://derekamicon.itch.io/"
-				],
-				"rank": 52,
-				"ratings": 17,
-				"score": 3.029,
-				"ilscore": 66,
-				"submission_time_diff": 1468000
-			}
-		]
-	},
-	{
-		"jammer": "kaikkeus",
-		"jammer_link": "https://kaikkeus.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "random runway",
-				"title_link": "https://kaikkeus.itch.io/random-runway",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792110",
-				"by_list": [
-					"kaikkeus"
-				],
-				"by_link_list": [
-					"https://kaikkeus.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 5,
-				"score": 2.324,
-				"ilscore": 34,
-				"submission_time_diff": -306000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Peili the tabledog",
-				"title_link": "https://kaikkeus.itch.io/tabledog",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764581",
-				"by_list": [
-					"kaikkeus"
-				],
-				"by_link_list": [
-					"https://kaikkeus.itch.io/"
-				],
-				"rank": 53,
-				"ratings": 17,
-				"score": 3.015,
-				"ilscore": 65,
-				"submission_time_diff": 2348000
-			}
-		]
-	},
-	{
 		"jammer": "Eliot Floor",
 		"jammer_link": "https://eliot-floor.itch.io/",
 		"game_list_sorted": [
@@ -3058,6 +2962,62 @@
 				"score": 4.038,
 				"ilscore": 91,
 				"submission_time_diff": -12280000
+			}
+		]
+	},
+	{
+		"jammer": "megnogg",
+		"jammer_link": "https://megnogg.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "F.P.I",
+				"title_link": "https://pgn567.itch.io/fpi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2817323",
+				"by_list": [
+					"Pigeon",
+					"megnogg"
+				],
+				"by_link_list": [
+					"https://pgn567.itch.io/",
+					"https://megnogg.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 13,
+				"score": 4.038,
+				"ilscore": 91,
+				"submission_time_diff": -12280000
+			}
+		]
+	},
+	{
+		"jammer": "Passivist",
+		"jammer_link": "https://passivistefforts.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Solar Flare-Up",
+				"title_link": "https://passivistefforts.itch.io/solar-flare-up",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819339",
+				"by_list": [
+					"Passivist"
+				],
+				"by_link_list": [
+					"https://passivistefforts.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 11,
+				"score": 3.977,
+				"ilscore": 90,
+				"submission_time_diff": -3349000
 			}
 		]
 	}

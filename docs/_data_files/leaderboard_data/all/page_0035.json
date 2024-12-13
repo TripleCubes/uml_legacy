@@ -1,5 +1,77 @@
 [
 	{
+		"jammer": "Grimoire Games",
+		"jammer_link": "https://grimoire-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"jam_vs": 74,
+				"title": "KAI U",
+				"title_link": "https://grimoire-games.itch.io/kai-u",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063196",
+				"by_list": [
+					"Grimoire Games",
+					"Say.say9",
+					"HassanHellm",
+					"drolejan",
+					"Andrew2115",
+					"NanisZamora",
+					"MrUltraEnder",
+					"Kinckich",
+					"PachucoAtomico"
+				],
+				"by_link_list": [
+					"https://grimoire-games.itch.io/",
+					"https://saysay9.itch.io/",
+					"https://hassanhellm.itch.io/",
+					"https://drolejan.itch.io/",
+					"https://andrew2115.itch.io/",
+					"https://naniszamora.itch.io/",
+					"https://mrultraender.itch.io/",
+					"https://kinckich.itch.io/",
+					"https://pachucoatomico.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 22,
+				"score": 3.636,
+				"ilscore": 63,
+				"submission_time_diff": 383000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 77,
+				"jam_name": "Courage",
+				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
+				"jam_vs": 138,
+				"title": "Courager",
+				"title_link": "https://mrultraender.itch.io/courager",
+				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984131",
+				"by_list": [
+					"MrUltraEnder",
+					"Kinckich",
+					"drolejan",
+					"HassanHellm",
+					"Grimoire Games"
+				],
+				"by_link_list": [
+					"https://mrultraender.itch.io/",
+					"https://kinckich.itch.io/",
+					"https://drolejan.itch.io/",
+					"https://hassanhellm.itch.io/",
+					"https://grimoire-games.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 22,
+				"score": 3.443,
+				"ilscore": 79,
+				"submission_time_diff": -3121000
+			}
+		]
+	},
+	{
 		"jammer": "Dresses Digital",
 		"jammer_link": "https://dressesdigital.itch.io/",
 		"game_list_sorted": [
@@ -2137,7 +2209,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "FroggiCraft",
 				"title_link": "https://moosdruide13.itch.io/froggicraft",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1534777",
@@ -3560,7 +3632,7 @@
 				"jam_id": 95,
 				"jam_name": "Chance",
 				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "Throw [Space]",
 				"title_link": "https://olgazamyslona.itch.io/throw-space",
 				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1314447",
@@ -3903,7 +3975,7 @@
 		]
 	},
 	{
-		"jammer": "Infinity Labs",
+		"jammer": "Kupher Studios",
 		"jammer_link": "https://ksgd.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3916,7 +3988,7 @@
 				"title_link": "https://ksgd.itch.io/lifeless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/981966",
 				"by_list": [
-					"Infinity Labs"
+					"Kupher Studios"
 				],
 				"by_link_list": [
 					"https://ksgd.itch.io/"
@@ -4076,33 +4148,6 @@
 				"score": 0.5,
 				"ilscore": 11,
 				"submission_time_diff": 3737000
-			}
-		]
-	},
-	{
-		"jammer": "Delbys",
-		"jammer_link": "https://delbys.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 138,
-				"title": "MarsRunner",
-				"title_link": "https://delbys.itch.io/marsrunner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/984224",
-				"by_list": [
-					"Delbys"
-				],
-				"by_link_list": [
-					"https://delbys.itch.io/"
-				],
-				"rank": 144,
-				"ratings": 2,
-				"score": 0.471,
-				"ilscore": 10,
-				"submission_time_diff": -3456000
 			}
 		]
 	}

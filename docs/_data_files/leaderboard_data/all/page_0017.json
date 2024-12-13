@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Eliot LE GALL",
+		"jammer_link": "https://eliot-le-gall.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Auguste Alexandre - Eliot Le Gall",
+				"title_link": "https://eliot-le-gall.itch.io/game-jam-epitech",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592595",
+				"by_list": [
+					"Eliot LE GALL"
+				],
+				"by_link_list": [
+					"https://eliot-le-gall.itch.io/"
+				],
+				"rank": 132,
+				"ratings": 1,
+				"score": 1.131,
+				"ilscore": 25,
+				"submission_time_diff": -19638000
+			}
+		]
+	},
+	{
 		"jammer": "Tom Wright",
 		"jammer_link": "https://tomnwright.itch.io/",
 		"game_list_sorted": [
@@ -3259,6 +3286,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "The space highway",
+				"title_link": "https://meichio.itch.io/the-space-highway",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166782",
+				"by_list": [
+					"Meichio"
+				],
+				"by_link_list": [
+					"https://meichio.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 7,
+				"score": 2.673,
+				"ilscore": 44,
+				"submission_time_diff": -10363000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 53,
 				"jam_name": "Oasis",
 				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
@@ -3679,7 +3727,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "dunG",
 				"title_link": "https://rodrigo151515151515151.itch.io/dungi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347979",
@@ -4235,7 +4283,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Like Moths to a Star",
 				"title_link": "https://mewore.itch.io/like-moths-to-a-star",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045291",
@@ -4250,7 +4298,7 @@
 				"rank": 17,
 				"ratings": 11,
 				"score": 3.273,
-				"ilscore": 50,
+				"ilscore": 51,
 				"submission_time_diff": -37000
 			},
 			{
@@ -4511,33 +4559,6 @@
 				"score": 3.276,
 				"ilscore": 50,
 				"submission_time_diff": -29329000
-			}
-		]
-	},
-	{
-		"jammer": "billy",
-		"jammer_link": "https://dairydog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Dragon Oasis",
-				"title_link": "https://dairydog.itch.io/dragon-oasis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633449",
-				"by_list": [
-					"billy"
-				],
-				"by_link_list": [
-					"https://dairydog.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 10,
-				"score": 3.26,
-				"ilscore": 50,
-				"submission_time_diff": -806000
 			}
 		]
 	}

@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "henmoplayer",
-		"jammer_link": "https://henmoplayer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Heat run",
-				"title_link": "https://henmoplayer.itch.io/heat-run",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818901",
-				"by_list": [
-					"henmoplayer"
-				],
-				"by_link_list": [
-					"https://henmoplayer.itch.io/"
-				],
-				"rank": 110,
-				"ratings": 7,
-				"score": 2.238,
-				"ilscore": 50,
-				"submission_time_diff": -21227000
-			}
-		]
-	},
-	{
-		"jammer": "piercecco",
-		"jammer_link": "https://piercecco.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Golf, Zap, Nuke!",
-				"title_link": "https://piercecco.itch.io/golf-zap-nuke",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2814561",
-				"by_list": [
-					"piercecco"
-				],
-				"by_link_list": [
-					"https://piercecco.itch.io/"
-				],
-				"rank": 113,
-				"ratings": 6,
-				"score": 2.165,
-				"ilscore": 49,
-				"submission_time_diff": -52997000
-			}
-		]
-	},
-	{
 		"jammer": "Dxi0q",
 		"jammer_link": "https://dxi0q.itch.io/",
 		"game_list_sorted": [
@@ -891,7 +837,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "False Fear. (+1 ending ,Bug Fixes)",
 				"title_link": "https://angelodev.itch.io/fears-return",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100156",
@@ -904,7 +850,7 @@
 				"rank": 29,
 				"ratings": 5,
 				"score": 2.789,
-				"ilscore": 44,
+				"ilscore": 43,
 				"submission_time_diff": -23237000
 			}
 		]
@@ -3148,6 +3094,60 @@
 				"score": 2.886,
 				"ilscore": 50,
 				"submission_time_diff": -17648000
+			}
+		]
+	},
+	{
+		"jammer": "SamDotGov",
+		"jammer_link": "https://samdotgov.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 73,
+				"title": "BOB HAS LOST IT *oh god no*",
+				"title_link": "https://samdotgov.itch.io/bob-has-lost-it-oh-god-no",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2880498",
+				"by_list": [
+					"SamDotGov"
+				],
+				"by_link_list": [
+					"https://samdotgov.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 7,
+				"score": 2.84,
+				"ilscore": 49,
+				"submission_time_diff": 77638000
+			}
+		]
+	},
+	{
+		"jammer": "Pandaqi",
+		"jammer_link": "https://pandaqi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 73,
+				"title": "Bombgoggles",
+				"title_link": "https://pandaqi.itch.io/bombgoggles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2873937",
+				"by_list": [
+					"Pandaqi"
+				],
+				"by_link_list": [
+					"https://pandaqi.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 6,
+				"score": 2.815,
+				"ilscore": 49,
+				"submission_time_diff": -18001000
 			}
 		]
 	}

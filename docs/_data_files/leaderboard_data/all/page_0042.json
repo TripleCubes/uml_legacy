@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "GibraCorp",
+		"jammer_link": "https://gibracorp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "BubblePhobia",
+				"title_link": "https://gibracorp.itch.io/bubblephobia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121686",
+				"by_list": [
+					"GibraCorp"
+				],
+				"by_link_list": [
+					"https://gibracorp.itch.io/"
+				],
+				"rank": 107,
+				"ratings": 6,
+				"score": 2.634,
+				"ilscore": 62,
+				"submission_time_diff": -9634000
+			}
+		]
+	},
+	{
 		"jammer": "JSONnumberone",
 		"jammer_link": "https://jsonnumberone.itch.io/",
 		"game_list_sorted": [
@@ -1225,7 +1252,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "FROGGY ATTACK",
 				"title_link": "https://pocket-games.itch.io/froggy-attack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530747",
@@ -1981,7 +2008,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Death Ticker",
 				"title_link": "https://hederlunden.itch.io/death-ticker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347449",
@@ -2530,6 +2557,27 @@
 				"score": 3.52,
 				"ilscore": 47,
 				"submission_time_diff": -1613000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Emergency Simulation",
+				"title_link": "https://ryans-games.itch.io/emergency-simulation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3167117",
+				"by_list": [
+					"Ryan's Games"
+				],
+				"by_link_list": [
+					"https://ryans-games.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 8,
+				"score": 3.156,
+				"ilscore": 52,
+				"submission_time_diff": -644000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -4017,37 +4065,6 @@
 	{
 		"jammer": "Trekkateer",
 		"jammer_link": "https://trekkateer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 169,
-				"title": "Sizeable Burglary",
-				"title_link": "https://migdev.itch.io/sizeable-burglary",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137108",
-				"by_list": [
-					"MigDev",
-					"Trekkateer",
-					"Pr0fessor T"
-				],
-				"by_link_list": [
-					"https://migdev.itch.io/",
-					"https://trekkateer.itch.io/",
-					"https://pr0fessor-t.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 14,
-				"score": 3.036,
-				"ilscore": 75,
-				"submission_time_diff": -34869000
-			}
-		]
-	},
-	{
-		"jammer": "Pr0fessor T",
-		"jammer_link": "https://pr0fessor-t.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

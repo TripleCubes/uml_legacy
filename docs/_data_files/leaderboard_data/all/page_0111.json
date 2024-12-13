@@ -1,62 +1,29 @@
 [
 	{
-		"jammer": "SamDotGov",
-		"jammer_link": "https://samdotgov.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
-				"title": "BOB HAS LOST IT *oh god no*",
-				"title_link": "https://samdotgov.itch.io/bob-has-lost-it-oh-god-no",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2880498",
-				"by_list": [
-					"SamDotGov"
-				],
-				"by_link_list": [
-					"https://samdotgov.itch.io/"
-				],
-				"rank": 49,
-				"ratings": 7,
-				"score": 2.84,
-				"ilscore": 49,
-				"submission_time_diff": 77638000
-			}
-		]
-	},
-	{
-		"jammer": "Pandaqi",
-		"jammer_link": "https://pandaqi.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
-				"title": "Bombgoggles",
-				"title_link": "https://pandaqi.itch.io/bombgoggles",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2873937",
-				"by_list": [
-					"Pandaqi"
-				],
-				"by_link_list": [
-					"https://pandaqi.itch.io/"
-				],
-				"rank": 50,
-				"ratings": 6,
-				"score": 2.815,
-				"ilscore": 49,
-				"submission_time_diff": -18001000
-			}
-		]
-	},
-	{
 		"jammer": "Cat Jug",
 		"jammer_link": "https://cat-jug.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Rat vs Rat",
+				"title_link": "https://cat-jug.itch.io/rat-vs-rat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166919",
+				"by_list": [
+					"Cat Jug"
+				],
+				"by_link_list": [
+					"https://cat-jug.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 8,
+				"score": 2.75,
+				"ilscore": 46,
+				"submission_time_diff": -8600000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 164,
@@ -573,7 +540,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 36,
+				"jam_vs": 35,
 				"title": "Maid . to . Clean",
 				"title_link": "https://macrowdev.itch.io/maid-to-clean",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069185",
@@ -588,6 +555,27 @@
 				"score": 3.318,
 				"ilscore": 40,
 				"submission_time_diff": -1686000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Brick . Drop . Bash",
+				"title_link": "https://macrowdev.itch.io/brick-drop-bash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3167127",
+				"by_list": [
+					"Macrow"
+				],
+				"by_link_list": [
+					"https://macrowdev.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 28,
+				"score": 3.259,
+				"ilscore": 54,
+				"submission_time_diff": -1780000
 			}
 		]
 	},
@@ -3022,6 +3010,60 @@
 				"score": 3.35,
 				"ilscore": 89,
 				"submission_time_diff": -3649000
+			}
+		]
+	},
+	{
+		"jammer": "to1ex",
+		"jammer_link": "https://to1ex.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "The Invisible Box Challenge",
+				"title_link": "https://to1ex.itch.io/the-invisible-box-challenge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2935803",
+				"by_list": [
+					"to1ex"
+				],
+				"by_link_list": [
+					"https://to1ex.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 10,
+				"score": 3.325,
+				"ilscore": 88,
+				"submission_time_diff": -41142000
+			}
+		]
+	},
+	{
+		"jammer": "AFFR1",
+		"jammer_link": "https://affr1.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Forest's Revenge",
+				"title_link": "https://affr1.itch.io/forests-revenge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943594",
+				"by_list": [
+					"AFFR1"
+				],
+				"by_link_list": [
+					"https://affr1.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 14,
+				"score": 3.321,
+				"ilscore": 88,
+				"submission_time_diff": -27752000
 			}
 		]
 	}

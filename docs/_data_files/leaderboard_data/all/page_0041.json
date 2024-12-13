@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "By Gleb Bortsov",
+		"jammer_link": "https://by-gleb-bortsov.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"jam_vs": 110,
+				"title": "DREAD",
+				"title_link": "https://by-gleb-bortsov.itch.io/dread",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1103943",
+				"by_list": [
+					"By Gleb Bortsov"
+				],
+				"by_link_list": [
+					"https://by-gleb-bortsov.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 2,
+				"score": 1.375,
+				"ilscore": 28,
+				"submission_time_diff": -90954000
+			}
+		]
+	},
+	{
 		"jammer": "McBlueFrog",
 		"jammer_link": "https://mcbluefrog.itch.io/",
 		"game_list_sorted": [
@@ -995,7 +1022,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Froggo' Fast",
 				"title_link": "https://staintocton.itch.io/froggo-fast",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532547",
@@ -1232,7 +1259,7 @@
 				"jam_id": 95,
 				"jam_name": "Chance",
 				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "Name Thine Faite",
 				"title_link": "https://nvrskipgameday.itch.io/faite",
 				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1312679",
@@ -1245,7 +1272,7 @@
 				"rank": 41,
 				"ratings": 8,
 				"score": 2.799,
-				"ilscore": 46,
+				"ilscore": 45,
 				"submission_time_diff": -3416000
 			}
 		]
@@ -1646,7 +1673,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "These Are Frogs",
 				"title_link": "https://mauvegrover.itch.io/these-are-frogs",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1529277",
@@ -2695,7 +2722,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Hack();",
 				"title_link": "https://psemo.itch.io/hack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440779",
@@ -2714,7 +2741,7 @@
 				"rank": 4,
 				"ratings": 12,
 				"score": 3.708,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": 47355000
 			},
 			{
@@ -3791,7 +3818,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Burning Out!",
 				"title_link": "https://jksun22.itch.io/burning-out",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347772",
@@ -3833,7 +3860,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Micro(game)management",
 				"title_link": "https://jksun22.itch.io/microgamemanagement",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532160",
@@ -4181,33 +4208,6 @@
 				"score": 3.14,
 				"ilscore": 105,
 				"submission_time_diff": -7817000
-			}
-		]
-	},
-	{
-		"jammer": "GibraCorp",
-		"jammer_link": "https://gibracorp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 84,
-				"jam_name": "Bubbles",
-				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
-				"title": "BubblePhobia",
-				"title_link": "https://gibracorp.itch.io/bubblephobia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121686",
-				"by_list": [
-					"GibraCorp"
-				],
-				"by_link_list": [
-					"https://gibracorp.itch.io/"
-				],
-				"rank": 107,
-				"ratings": 6,
-				"score": 2.634,
-				"ilscore": 62,
-				"submission_time_diff": -9634000
 			}
 		]
 	}

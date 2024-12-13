@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "MechanicalRaven",
-		"jammer_link": "https://mechanicalraven.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Mare Enter Into Knight",
-				"title_link": "https://heftybandicoot.itch.io/mare-enter-into-knight",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341303",
-				"by_list": [
-					"HeftyBandicoot",
-					"MechanicalRaven"
-				],
-				"by_link_list": [
-					"https://heftybandicoot.itch.io/",
-					"https://mechanicalraven.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 8,
-				"score": 2,
-				"ilscore": 33,
-				"submission_time_diff": 1732000
-			}
-		]
-	},
-	{
 		"jammer": "Vladeko_CZ",
 		"jammer_link": "https://vladeko-cz.itch.io/",
 		"game_list_sorted": [
@@ -172,7 +143,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Spirit Defense",
 				"title_link": "https://boogerboy12.itch.io/spirit-defense",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440626",
@@ -185,7 +156,7 @@
 				"rank": 20,
 				"ratings": 16,
 				"score": 3.25,
-				"ilscore": 49,
+				"ilscore": 48,
 				"submission_time_diff": -1862000
 			},
 			{
@@ -193,7 +164,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Hop &amp; Chomp Idle",
 				"title_link": "https://dewakuneiei.itch.io/hop-chomp-idle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3099995",
@@ -212,6 +183,29 @@
 				"score": 3.023,
 				"ilscore": 47,
 				"submission_time_diff": -26881000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Energizer (read desc for tutorial)",
+				"title_link": "https://jaspermoerland.itch.io/energizer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3165865",
+				"by_list": [
+					"Jaspermoerland",
+					"boogerboy12"
+				],
+				"by_link_list": [
+					"https://jaspermoerland.itch.io/",
+					"https://boogerboy12.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 7,
+				"score": 2.372,
+				"ilscore": 39,
+				"submission_time_diff": -28725000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -591,6 +585,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "321Cut!",
+				"title_link": "https://static-gamin.itch.io/321cut",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166240",
+				"by_list": [
+					"Static gamin"
+				],
+				"by_link_list": [
+					"https://static-gamin.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 11,
+				"score": 3.523,
+				"ilscore": 59,
+				"submission_time_diff": -26493000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
@@ -615,7 +630,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Ears on the toys",
 				"title_link": "https://static-gamin.itch.io/ears-on-the-toys",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440092",
@@ -628,7 +643,7 @@
 				"rank": 28,
 				"ratings": 10,
 				"score": 2.844,
-				"ilscore": 43,
+				"ilscore": 42,
 				"submission_time_diff": -32675000
 			},
 			{
@@ -2007,7 +2022,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Positive Thinking",
 				"title_link": "https://sharpnose.itch.io/positive-thinking",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3098375",
@@ -2020,7 +2035,7 @@
 				"rank": 38,
 				"ratings": 8,
 				"score": 2.281,
-				"ilscore": 36,
+				"ilscore": 35,
 				"submission_time_diff": -74702000
 			},
 			{
@@ -2901,6 +2916,27 @@
 				"score": 1.237,
 				"ilscore": 17,
 				"submission_time_diff": -1376000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Project Dungeon",
+				"title_link": "https://crazedmonkey231.itch.io/project-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3167126",
+				"by_list": [
+					"crazedmonkey231"
+				],
+				"by_link_list": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 8,
+				"score": 2.531,
+				"ilscore": 42,
+				"submission_time_diff": -564000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3874,6 +3910,81 @@
 				"score": 3.6,
 				"ilscore": 55,
 				"submission_time_diff": -4460000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"jam_vs": 40,
+				"title": "Wizard of NOS",
+				"title_link": "https://flyguy4247.itch.io/wizard-of-nos",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2410557",
+				"by_list": [
+					"flyguy4247",
+					"Echofiend",
+					"CraZyBRITT37"
+				],
+				"by_link_list": [
+					"https://flyguy4247.itch.io/",
+					"https://echofiend.itch.io/",
+					"https://crazybritt37.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 2.857,
+				"ilscore": 37,
+				"submission_time_diff": -990000
+			}
+		]
+	},
+	{
+		"jammer": "flyguy4247",
+		"jammer_link": "https://flyguy4247.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 146,
+				"jam_name": "Windows",
+				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
+				"jam_vs": 57,
+				"title": "UnderCutter's Glass, Inc",
+				"title_link": "https://echofiend.itch.io/undercutters-glass",
+				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389010",
+				"by_list": [
+					"Echofiend",
+					"flyguy4247"
+				],
+				"by_link_list": [
+					"https://echofiend.itch.io/",
+					"https://flyguy4247.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 10,
+				"score": 3.6,
+				"ilscore": 55,
+				"submission_time_diff": -4460000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 148,
+				"jam_name": "Connections",
+				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
+				"jam_vs": 53,
+				"title": "Office Ordeal",
+				"title_link": "https://flyguy4247.itch.io/office-ordeal",
+				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2439518",
+				"by_list": [
+					"flyguy4247"
+				],
+				"by_link_list": [
+					"https://flyguy4247.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 16,
+				"score": 3.563,
+				"ilscore": 53,
+				"submission_time_diff": -10698000
 			},
 			{
 				"jam_type": "mini_jam",

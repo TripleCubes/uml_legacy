@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "MUIFWEGO",
+		"jammer_link": "https://muifwego.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Out Of Orbit (Game Jam Prototype)",
+				"title_link": "https://muifwego.itch.io/out-of-orbit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763635",
+				"by_list": [
+					"MUIFWEGO"
+				],
+				"by_link_list": [
+					"https://muifwego.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 7,
+				"score": 2.806,
+				"ilscore": 59,
+				"submission_time_diff": -4565000
+			}
+		]
+	},
+	{
 		"jammer": "Iksonik",
 		"jammer_link": "https://iksonik.itch.io/",
 		"game_list_sorted": [
@@ -2094,7 +2121,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Slayer",
 				"title_link": "https://orangescientist1.itch.io/frog-slayer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532739",
@@ -2335,7 +2362,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Run",
 				"title_link": "https://johnbrynte.itch.io/frog-run",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532343",
@@ -3974,33 +4001,6 @@
 				"score": 3.889,
 				"ilscore": 78,
 				"submission_time_diff": -5568000
-			}
-		]
-	},
-	{
-		"jammer": "DerpGio",
-		"jammer_link": "https://derpgio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 66,
-				"jam_name": "Sweets",
-				"jam_link": "https://itch.io/jam/mini-jam-66-sweets",
-				"jam_vs": 100,
-				"title": "Candy Buckets",
-				"title_link": "https://derpgio.itch.io/candy-buckets",
-				"submission_page_link": "https://itch.io/jam/mini-jam-66-sweets/rate/808269",
-				"by_list": [
-					"DerpGio"
-				],
-				"by_link_list": [
-					"https://derpgio.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 11,
-				"score": 3.841,
-				"ilscore": 77,
-				"submission_time_diff": -477000
 			}
 		]
 	}

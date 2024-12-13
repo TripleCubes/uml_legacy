@@ -1,61 +1,5 @@
 [
 	{
-		"jammer": "megnogg",
-		"jammer_link": "https://megnogg.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "F.P.I",
-				"title_link": "https://pgn567.itch.io/fpi",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2817323",
-				"by_list": [
-					"Pigeon",
-					"megnogg"
-				],
-				"by_link_list": [
-					"https://pgn567.itch.io/",
-					"https://megnogg.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 13,
-				"score": 4.038,
-				"ilscore": 91,
-				"submission_time_diff": -12280000
-			}
-		]
-	},
-	{
-		"jammer": "Passivist",
-		"jammer_link": "https://passivistefforts.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Solar Flare-Up",
-				"title_link": "https://passivistefforts.itch.io/solar-flare-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819339",
-				"by_list": [
-					"Passivist"
-				],
-				"by_link_list": [
-					"https://passivistefforts.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 11,
-				"score": 3.977,
-				"ilscore": 90,
-				"submission_time_diff": -3349000
-			}
-		]
-	},
-	{
 		"jammer": "Rowlof",
 		"jammer_link": "https://rowlof.itch.io/",
 		"game_list_sorted": [
@@ -3314,6 +3258,60 @@
 				"score": 2.293,
 				"ilscore": 52,
 				"submission_time_diff": -553000
+			}
+		]
+	},
+	{
+		"jammer": "henmoplayer",
+		"jammer_link": "https://henmoplayer.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Heat run",
+				"title_link": "https://henmoplayer.itch.io/heat-run",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818901",
+				"by_list": [
+					"henmoplayer"
+				],
+				"by_link_list": [
+					"https://henmoplayer.itch.io/"
+				],
+				"rank": 110,
+				"ratings": 7,
+				"score": 2.238,
+				"ilscore": 50,
+				"submission_time_diff": -21227000
+			}
+		]
+	},
+	{
+		"jammer": "piercecco",
+		"jammer_link": "https://piercecco.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Golf, Zap, Nuke!",
+				"title_link": "https://piercecco.itch.io/golf-zap-nuke",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2814561",
+				"by_list": [
+					"piercecco"
+				],
+				"by_link_list": [
+					"https://piercecco.itch.io/"
+				],
+				"rank": 113,
+				"ratings": 6,
+				"score": 2.165,
+				"ilscore": 49,
+				"submission_time_diff": -52997000
 			}
 		]
 	}

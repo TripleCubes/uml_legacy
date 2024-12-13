@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "ntb896",
-		"jammer_link": "https://ntb896.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
-				"title": "Hopping Harvester",
-				"title_link": "https://ntb896.itch.io/hopping-harvester",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867353",
-				"by_list": [
-					"ntb896"
-				],
-				"by_link_list": [
-					"https://ntb896.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 11,
-				"score": 3.023,
-				"ilscore": 81,
-				"submission_time_diff": -83167000
-			}
-		]
-	},
-	{
-		"jammer": "MYline media 👤",
-		"jammer_link": "https://mylinemedia.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
-				"title": "WEB (W.I.P.)",
-				"title_link": "https://mylinemedia.itch.io/web-wip",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869510",
-				"by_list": [
-					"MYline media 👤",
-					"DiegoSoler",
-					"AntonXCM",
-					"Terock",
-					"Game dav"
-				],
-				"by_link_list": [
-					"https://mylinemedia.itch.io/",
-					"https://diegosoler.itch.io/",
-					"https://antonxcm.itch.io/",
-					"https://terock.itch.io/",
-					"https://game-dav.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 14,
-				"score": 3.018,
-				"ilscore": 81,
-				"submission_time_diff": -806000
-			}
-		]
-	},
-	{
 		"jammer": "DiegoSoler",
 		"jammer_link": "https://diegosoler.itch.io/",
 		"game_list_sorted": [
@@ -3000,7 +2938,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Vertical SliceR",
 				"title_link": "https://jose-tello.itch.io/vertical-slicer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045149",
@@ -3013,7 +2951,7 @@
 				"rank": 47,
 				"ratings": 7,
 				"score": 1.984,
-				"ilscore": 30,
+				"ilscore": 31,
 				"submission_time_diff": -13888000
 			},
 			{
@@ -3672,6 +3610,60 @@
 				"score": 1.146,
 				"ilscore": 30,
 				"submission_time_diff": -24291000
+			}
+		]
+	},
+	{
+		"jammer": "Rabotyagi Games",
+		"jammer_link": "https://rabotyagi-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Trus, Balbes and Byvaly -  Cryptochase",
+				"title_link": "https://rabotyagi-games.itch.io/trus-balbes-and-byvaly-cryptochase",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1870016",
+				"by_list": [
+					"Rabotyagi Games"
+				],
+				"by_link_list": [
+					"https://rabotyagi-games.itch.io/"
+				],
+				"rank": 213,
+				"ratings": 3,
+				"score": 1.095,
+				"ilscore": 29,
+				"submission_time_diff": 33904000
+			}
+		]
+	},
+	{
+		"jammer": "derefepo",
+		"jammer_link": "https://derefepo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Stickman Part 2",
+				"title_link": "https://derefepo.itch.io/stickman-part-2",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868515",
+				"by_list": [
+					"derefepo"
+				],
+				"by_link_list": [
+					"https://derefepo.itch.io/"
+				],
+				"rank": 215,
+				"ratings": 3,
+				"score": 1.05,
+				"ilscore": 28,
+				"submission_time_diff": -30009000
 			}
 		]
 	}

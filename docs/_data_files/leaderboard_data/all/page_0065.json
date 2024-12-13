@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "hi rohun",
-		"jammer_link": "https://hirohun.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Grubby Gull",
-				"title_link": "https://hirohun.itch.io/grubby-gull",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571616",
-				"by_list": [
-					"hi rohun"
-				],
-				"by_link_list": [
-					"https://hirohun.itch.io/"
-				],
-				"rank": 58,
-				"ratings": 52,
-				"score": 3.337,
-				"ilscore": 90,
-				"submission_time_diff": -27443000
-			}
-		]
-	},
-	{
-		"jammer": "slenkerlab",
-		"jammer_link": "https://slenkerlab.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Seaside Shells",
-				"title_link": "https://slenkerlab.itch.io/seaside-shells",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572040",
-				"by_list": [
-					"slenkerlab"
-				],
-				"by_link_list": [
-					"https://slenkerlab.itch.io/"
-				],
-				"rank": 60,
-				"ratings": 19,
-				"score": 3.329,
-				"ilscore": 90,
-				"submission_time_diff": -25653000
-			}
-		]
-	},
-	{
 		"jammer": "IvanM71",
 		"jammer_link": "https://ivanm71.itch.io/",
 		"game_list_sorted": [
@@ -2304,7 +2250,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Sol Iterations",
 				"title_link": "https://tom-purcell.itch.io/sol-interations",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2043513",
@@ -2494,7 +2440,7 @@
 		]
 	},
 	{
-		"jammer": "Lobster",
+		"jammer": "LobsterTF",
 		"jammer_link": "https://lebster.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2507,7 +2453,7 @@
 				"title_link": "https://lebster.itch.io/beachfront-fighter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572170",
 				"by_list": [
-					"Lobster"
+					"LobsterTF"
 				],
 				"by_link_list": [
 					"https://lebster.itch.io/"
@@ -3749,6 +3695,60 @@
 				"score": 2.279,
 				"ilscore": 61,
 				"submission_time_diff": -24019000
+			}
+		]
+	},
+	{
+		"jammer": "Lorsa",
+		"jammer_link": "https://lorsa.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "CrAbic GamE",
+				"title_link": "https://lorsa.itch.io/crabic-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571483",
+				"by_list": [
+					"Lorsa"
+				],
+				"by_link_list": [
+					"https://lorsa.itch.io/"
+				],
+				"rank": 171,
+				"ratings": 5,
+				"score": 2.259,
+				"ilscore": 61,
+				"submission_time_diff": -51318000
+			}
+		]
+	},
+	{
+		"jammer": "MssjjssM",
+		"jammer_link": "https://mssj-ludumdare.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "CrabTheCrap!",
+				"title_link": "https://mssj-ludumdare.itch.io/crabthecrap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572074",
+				"by_list": [
+					"MssjjssM"
+				],
+				"by_link_list": [
+					"https://mssj-ludumdare.itch.io/"
+				],
+				"rank": 172,
+				"ratings": 7,
+				"score": 2.251,
+				"ilscore": 60,
+				"submission_time_diff": -24203000
 			}
 		]
 	}

@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "tonx",
+		"jammer_link": "https://tonx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Hop",
+				"title_link": "https://tonx.itch.io/hop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025243",
+				"by_list": [
+					"tonx"
+				],
+				"by_link_list": [
+					"https://tonx.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 14,
+				"score": 3.536,
+				"ilscore": 90,
+				"submission_time_diff": -21906000
+			}
+		]
+	},
+	{
 		"jammer": "Schrippchen",
 		"jammer_link": "https://schrippchen.itch.io/",
 		"game_list_sorted": [
@@ -1209,7 +1236,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "(prototype) Congratulations, You Have Died!",
 				"title_link": "https://dirtbug.itch.io/congratulations-youre-dead",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1333393",
@@ -2096,7 +2123,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "FrogNJump",
 				"title_link": "https://denis-tuners.itch.io/frognjump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531611",
@@ -3698,159 +3725,6 @@
 				"score": 1.614,
 				"ilscore": 41,
 				"submission_time_diff": -26719000
-			}
-		]
-	},
-	{
-		"jammer": "Jenislav",
-		"jammer_link": "https://jenislav.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 151,
-				"jam_name": "Dragons",
-				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
-				"title": "GOLDSICK",
-				"title_link": "https://jenislav.itch.io/goldsick",
-				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513153",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 4.135,
-				"ilscore": 80,
-				"submission_time_diff": -832000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 171,
-				"jam_name": "Mystic",
-				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
-				"title": "The long and blessed pilgrimage up the Holy mountain",
-				"title_link": "https://jenislav.itch.io/the-long-and-blessed-pilgrimage-up-the-holy-mountain",
-				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100967",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 7,
-				"score": 3.679,
-				"ilscore": 58,
-				"submission_time_diff": -1236000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Deus interim Machina",
-				"title_link": "https://jenislav.itch.io/deus-interim-machina",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449974",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 18,
-				"score": 3.361,
-				"ilscore": 48,
-				"submission_time_diff": -441000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Herding Cats",
-				"title_link": "https://jenislav.itch.io/herding-cats",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483237",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 22,
-				"score": 3.966,
-				"ilscore": 87,
-				"submission_time_diff": -1006000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 163,
-				"jam_name": "Dessert",
-				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
-				"jam_vs": 52,
-				"title": "Greedy Gremlins",
-				"title_link": "https://jenislav.itch.io/greedy-gremlins",
-				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848659",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 24,
-				"ratings": 7,
-				"score": 3.071,
-				"ilscore": 45,
-				"submission_time_diff": -783000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
-				"title": "SVIONOZHETZ",
-				"title_link": "https://jenislav.itch.io/svionozhetz",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591718",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 47,
-				"ratings": 12,
-				"score": 3.271,
-				"ilscore": 74,
-				"submission_time_diff": -653000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Deranged Frhug",
-				"title_link": "https://jenislav.itch.io/deranged-frhug",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025787",
-				"by_list": [
-					"Jenislav"
-				],
-				"by_link_list": [
-					"https://jenislav.itch.io/"
-				],
-				"rank": 186,
-				"ratings": 3,
-				"score": 1.506,
-				"ilscore": 38,
-				"submission_time_diff": -13108000
 			}
 		]
 	}

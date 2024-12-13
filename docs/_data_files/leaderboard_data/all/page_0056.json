@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "SavanDev",
-		"jammer_link": "https://savandev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 100,
-				"jam_name": "Overload",
-				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
-				"jam_vs": 164,
-				"title": "Proof of Work: OVERLOADED!",
-				"title_link": "https://savandev.itch.io/proof-of-work-overloaded",
-				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1409754",
-				"by_list": [
-					"SavanDev"
-				],
-				"by_link_list": [
-					"https://savandev.itch.io/"
-				],
-				"rank": 49,
-				"ratings": 12,
-				"score": 3.521,
-				"ilscore": 86,
-				"submission_time_diff": -2603000
-			}
-		]
-	},
-	{
 		"jammer": "Silvyger",
 		"jammer_link": "https://silvyger.itch.io/",
 		"game_list_sorted": [
@@ -1130,7 +1103,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Fire Wall",
 				"title_link": "https://blockhead-maniac.itch.io/fire-wall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440560",
@@ -1570,7 +1543,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Hungry Frog",
 				"title_link": "https://blockhead-maniac.itch.io/newgame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1526154",
@@ -2558,7 +2531,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "SolarCard",
 				"title_link": "https://coffeetest1.itch.io/solarcard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045499",
@@ -2571,7 +2544,7 @@
 				"rank": 31,
 				"ratings": 9,
 				"score": 2.694,
-				"ilscore": 41,
+				"ilscore": 42,
 				"submission_time_diff": -3833000
 			},
 			{
@@ -4326,6 +4299,60 @@
 				"score": 3.583,
 				"ilscore": 83,
 				"submission_time_diff": -42404000
+			}
+		]
+	},
+	{
+		"jammer": "Splattie",
+		"jammer_link": "https://splattie.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"jam_vs": 37,
+				"title": "Mayfly PI",
+				"title_link": "https://nothing-d.itch.io/mayfly-pi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1705879",
+				"by_list": [
+					"Nothing",
+					"Splattie",
+					"unseconds"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/",
+					"https://unseconds.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 15,
+				"score": 4.217,
+				"ilscore": 52,
+				"submission_time_diff": 346000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Lush Rush",
+				"title_link": "https://nothing-d.itch.io/lush-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431567",
+				"by_list": [
+					"Nothing",
+					"Splattie"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 19,
+				"score": 3.566,
+				"ilscore": 82,
+				"submission_time_diff": -1071000
 			}
 		]
 	}

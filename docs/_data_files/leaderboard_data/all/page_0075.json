@@ -1,105 +1,5 @@
 [
 	{
-		"jammer": "Madelaine21",
-		"jammer_link": "https://madelaine21.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 114,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
-				"jam_vs": 57,
-				"title": "no escape",
-				"title_link": "https://quabmara.itch.io/no-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691621",
-				"by_list": [
-					"quabmara",
-					"Madelaine21"
-				],
-				"by_link_list": [
-					"https://quabmara.itch.io/",
-					"https://madelaine21.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 18,
-				"score": 3.181,
-				"ilscore": 49,
-				"submission_time_diff": -18836000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "wonderland",
-				"title_link": "https://quabmara.itch.io/wonderland",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1934387",
-				"by_list": [
-					"quabmara",
-					"Madelaine21"
-				],
-				"by_link_list": [
-					"https://quabmara.itch.io/",
-					"https://madelaine21.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 11,
-				"score": 2.75,
-				"ilscore": 49,
-				"submission_time_diff": -33057000
-			}
-		]
-	},
-	{
-		"jammer": "Octartis",
-		"jammer_link": "https://octartis.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 114,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
-				"jam_vs": 57,
-				"title": "Dino Spin",
-				"title_link": "https://octartis.itch.io/dinospin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691627",
-				"by_list": [
-					"Octartis"
-				],
-				"by_link_list": [
-					"https://octartis.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 14,
-				"score": 3.179,
-				"ilscore": 49,
-				"submission_time_diff": -8355000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Pibooh!",
-				"title_link": "https://octartis.itch.io/pibooh",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749547",
-				"by_list": [
-					"Octartis"
-				],
-				"by_link_list": [
-					"https://octartis.itch.io/"
-				],
-				"rank": 116,
-				"ratings": 11,
-				"score": 2.432,
-				"ilscore": 62,
-				"submission_time_diff": -14604000
-			}
-		]
-	},
-	{
 		"jammer": "necrocultist",
 		"jammer_link": "https://necrocultist.itch.io/",
 		"game_list_sorted": [
@@ -1583,7 +1483,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Spell-evator",
 				"title_link": "https://themkdev.itch.io/spell-evator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100859",
@@ -1596,7 +1496,7 @@
 				"rank": 7,
 				"ratings": 10,
 				"score": 3.625,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -5089000
 			},
 			{
@@ -1621,6 +1521,27 @@
 				"score": 3,
 				"ilscore": 37,
 				"submission_time_diff": -10404000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Rain Drop Drop",
+				"title_link": "https://themkdev.itch.io/raindropdrop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166226",
+				"by_list": [
+					"TheMKDev"
+				],
+				"by_link_list": [
+					"https://themkdev.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 14,
+				"score": 3.268,
+				"ilscore": 54,
+				"submission_time_diff": -27430000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3872,6 +3793,62 @@
 				"score": 3.739,
 				"ilscore": 96,
 				"submission_time_diff": -13743000
+			}
+		]
+	},
+	{
+		"jammer": "0ut0fnameideas",
+		"jammer_link": "https://0ut0fnameideas.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Ethereal Eradication",
+				"title_link": "https://0ut0fnameideas.itch.io/ethereal-eradication",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749588",
+				"by_list": [
+					"0ut0fnameideas"
+				],
+				"by_link_list": [
+					"https://0ut0fnameideas.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 18,
+				"score": 3.708,
+				"ilscore": 95,
+				"submission_time_diff": -13641000
+			}
+		]
+	},
+	{
+		"jammer": "Brinjaw",
+		"jammer_link": "https://brinjaw.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Spookfestation",
+				"title_link": "https://brinjaw.itch.io/spookfestation",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750000",
+				"by_list": [
+					"Brinjaw",
+					"daggerKN19HT"
+				],
+				"by_link_list": [
+					"https://brinjaw.itch.io/",
+					"https://daggerkn19ht.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 14,
+				"score": 3.696,
+				"ilscore": 95,
+				"submission_time_diff": -2738000
 			}
 		]
 	}

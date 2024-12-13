@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "jake2theizzo",
-		"jammer_link": "https://jake2theizzo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Wreckipeligo",
-				"title_link": "https://kandistar.itch.io/wreckipeligo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113954",
-				"by_list": [
-					"KandiStar",
-					"HaywireJo",
-					"jake2theizzo"
-				],
-				"by_link_list": [
-					"https://kandistar.itch.io/",
-					"https://haywirejo.itch.io/",
-					"https://jake2theizzo.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 18,
-				"score": 3.917,
-				"ilscore": 81,
-				"submission_time_diff": -759000
-			}
-		]
-	},
-	{
 		"jammer": "JackPrograms",
 		"jammer_link": "https://jackprograms.itch.io/",
 		"game_list_sorted": [
@@ -3453,6 +3422,54 @@
 				"score": 2.875,
 				"ilscore": 50,
 				"submission_time_diff": -20495000
+			}
+		]
+	},
+	{
+		"jammer": "SnoopSnoopNacho",
+		"jammer_link": "https://snoopsnoopnacho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 53,
+				"title": "BudWest",
+				"title_link": "https://snoopsnoopnacho.itch.io/budwest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792076",
+				"by_list": [
+					"SnoopSnoopNacho"
+				],
+				"by_link_list": [
+					"https://snoopsnoopnacho.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 7,
+				"score": 2.821,
+				"ilscore": 42,
+				"submission_time_diff": -1025000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "DeceptionKnight",
+				"title_link": "https://snoopsnoopnacho.itch.io/deceptionknight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134082",
+				"by_list": [
+					"SnoopSnoopNacho"
+				],
+				"by_link_list": [
+					"https://snoopsnoopnacho.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 7,
+				"score": 2.75,
+				"ilscore": 48,
+				"submission_time_diff": -36230000
 			}
 		]
 	}

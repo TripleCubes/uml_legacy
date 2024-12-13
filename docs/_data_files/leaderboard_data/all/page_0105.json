@@ -1,90 +1,5 @@
 [
 	{
-		"jammer": "budgiemint",
-		"jammer_link": "https://budgiemint.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
-				"title": "Mess of Mushrooms",
-				"title_link": "https://bhatura.itch.io/mess-of-mushrooms",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2646989",
-				"by_list": [
-					"bhatura",
-					"budgiemint"
-				],
-				"by_link_list": [
-					"https://bhatura.itch.io/",
-					"https://budgiemint.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 4,
-				"score": 2.347,
-				"ilscore": 44,
-				"submission_time_diff": 32236000
-			}
-		]
-	},
-	{
-		"jammer": "DaisieDoodle",
-		"jammer_link": "https://daisiedoodle.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "Thrift Store Fight League",
-				"title_link": "https://waynemadeagame.itch.io/thrift-store-fight-league",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2791729",
-				"by_list": [
-					"WayneMadeAGame",
-					"DaisieDoodle",
-					"Multiphonix"
-				],
-				"by_link_list": [
-					"https://waynemadeagame.itch.io/",
-					"https://daisiedoodle.itch.io/",
-					"https://multiphonix.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 8,
-				"score": 3.563,
-				"ilscore": 53,
-				"submission_time_diff": 115094000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
-				"title": "Mushroom Wardener",
-				"title_link": "https://axelftv.itch.io/mushroom-wardener",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2640787",
-				"by_list": [
-					"Axelf",
-					"SeaLantern",
-					"DaisieDoodle"
-				],
-				"by_link_list": [
-					"https://axelftv.itch.io/",
-					"https://sealantern.itch.io/",
-					"https://daisiedoodle.itch.io/"
-				],
-				"rank": 63,
-				"ratings": 6,
-				"score": 2.292,
-				"ilscore": 43,
-				"submission_time_diff": -4355000
-			}
-		]
-	},
-	{
 		"jammer": "Intensechili2",
 		"jammer_link": "https://intensechili2.itch.io/",
 		"game_list_sorted": [
@@ -1243,7 +1158,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 36,
+				"jam_vs": 35,
 				"title": "Mow the lawn!",
 				"title_link": "https://11slx.itch.io/mow-the-lawn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069210",
@@ -3228,6 +3143,60 @@
 				"score": 2.275,
 				"ilscore": 48,
 				"submission_time_diff": -102889000
+			}
+		]
+	},
+	{
+		"jammer": "6cpz",
+		"jammer_link": "https://6cpz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Lightning Round",
+				"title_link": "https://6cpz.itch.io/lightning-round",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675236",
+				"by_list": [
+					"6cpz"
+				],
+				"by_link_list": [
+					"https://6cpz.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 6,
+				"score": 2.273,
+				"ilscore": 48,
+				"submission_time_diff": -30485000
+			}
+		]
+	},
+	{
+		"jammer": "Dooke",
+		"jammer_link": "https://dooke.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Battery Burglary",
+				"title_link": "https://dooke.itch.io/battery-burglary",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673867",
+				"by_list": [
+					"Dooke"
+				],
+				"by_link_list": [
+					"https://dooke.itch.io/"
+				],
+				"rank": 94,
+				"ratings": 5,
+				"score": 2.253,
+				"ilscore": 48,
+				"submission_time_diff": 32691000
 			}
 		]
 	}

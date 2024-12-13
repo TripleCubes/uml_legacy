@@ -1,5 +1,95 @@
 [
 	{
+		"jammer": "bloody chicken",
+		"jammer_link": "https://bloody-chicken.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 82,
+				"jam_name": "Doodle",
+				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
+				"jam_vs": 65,
+				"title": "Draw The Line",
+				"title_link": "https://bloody-chicken.itch.io/the-line",
+				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1080521",
+				"by_list": [
+					"bloody chicken"
+				],
+				"by_link_list": [
+					"https://bloody-chicken.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 12,
+				"score": 2.688,
+				"ilscore": 44,
+				"submission_time_diff": -99689000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 113,
+				"title": "Outtatime",
+				"title_link": "https://bloody-chicken.itch.io/outtatime",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188085",
+				"by_list": [
+					"bloody chicken"
+				],
+				"by_link_list": [
+					"https://bloody-chicken.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 11,
+				"score": 2.773,
+				"ilscore": 58,
+				"submission_time_diff": -16089000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 84,
+				"jam_name": "Bubbles",
+				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
+				"jam_vs": 149,
+				"title": "bubbly fun",
+				"title_link": "https://bloody-chicken.itch.io/bubble-pun",
+				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121813",
+				"by_list": [
+					"bloody chicken"
+				],
+				"by_link_list": [
+					"https://bloody-chicken.itch.io/"
+				],
+				"rank": 71,
+				"ratings": 7,
+				"score": 3.04,
+				"ilscore": 71,
+				"submission_time_diff": -5329000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 169,
+				"title": "screen monkeys",
+				"title_link": "https://bloody-chicken.itch.io/screen-monkeys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1136035",
+				"by_list": [
+					"bloody chicken"
+				],
+				"by_link_list": [
+					"https://bloody-chicken.itch.io/"
+				],
+				"rank": 171,
+				"ratings": 9,
+				"score": 1.667,
+				"ilscore": 41,
+				"submission_time_diff": -119962000
+			}
+		]
+	},
+	{
 		"jammer": "TwigWallder",
 		"jammer_link": "https://twigwallder.itch.io/",
 		"game_list_sorted": [
@@ -985,7 +1075,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Talisman",
 				"title_link": "https://not-jam.itch.io/talisman",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530590",
@@ -1766,6 +1856,27 @@
 				"score": 3.641,
 				"ilscore": 76,
 				"submission_time_diff": -276000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Spinner's Descent",
+				"title_link": "https://sturmdesign.itch.io/minijam173",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3164604",
+				"by_list": [
+					"Bryan Sturm"
+				],
+				"by_link_list": [
+					"https://sturmdesign.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 4,
+				"score": 2.21,
+				"ilscore": 37,
+				"submission_time_diff": -70050000
 			}
 		]
 	},
@@ -2712,7 +2823,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Solar Soldier",
 				"title_link": "https://20083540.itch.io/solar-soldier",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045752",
@@ -2727,7 +2838,7 @@
 				"rank": 51,
 				"ratings": 6,
 				"score": 1.531,
-				"ilscore": 23,
+				"ilscore": 24,
 				"submission_time_diff": 34044000
 			}
 		]
@@ -2935,7 +3046,7 @@
 				"jam_id": 96,
 				"jam_name": "Fate",
 				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Corpsplosion",
 				"title_link": "https://wizarddev1234.itch.io/corpsplosion",
 				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332301",
@@ -4301,33 +4412,6 @@
 				"score": 1.531,
 				"ilscore": 32,
 				"submission_time_diff": -25814000
-			}
-		]
-	},
-	{
-		"jammer": "By Gleb Bortsov",
-		"jammer_link": "https://by-gleb-bortsov.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "DREAD",
-				"title_link": "https://by-gleb-bortsov.itch.io/dread",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1103943",
-				"by_list": [
-					"By Gleb Bortsov"
-				],
-				"by_link_list": [
-					"https://by-gleb-bortsov.itch.io/"
-				],
-				"rank": 109,
-				"ratings": 2,
-				"score": 1.375,
-				"ilscore": 28,
-				"submission_time_diff": -90954000
 			}
 		]
 	}

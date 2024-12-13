@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Lorsa",
-		"jammer_link": "https://lorsa.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "CrAbic GamE",
-				"title_link": "https://lorsa.itch.io/crabic-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571483",
-				"by_list": [
-					"Lorsa"
-				],
-				"by_link_list": [
-					"https://lorsa.itch.io/"
-				],
-				"rank": 171,
-				"ratings": 5,
-				"score": 2.259,
-				"ilscore": 61,
-				"submission_time_diff": -51318000
-			}
-		]
-	},
-	{
-		"jammer": "MssjjssM",
-		"jammer_link": "https://mssj-ludumdare.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "CrabTheCrap!",
-				"title_link": "https://mssj-ludumdare.itch.io/crabthecrap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572074",
-				"by_list": [
-					"MssjjssM"
-				],
-				"by_link_list": [
-					"https://mssj-ludumdare.itch.io/"
-				],
-				"rank": 172,
-				"ratings": 7,
-				"score": 2.251,
-				"ilscore": 60,
-				"submission_time_diff": -24203000
-			}
-		]
-	},
-	{
 		"jammer": "Tricore",
 		"jammer_link": "https://tricore.itch.io/",
 		"game_list_sorted": [
@@ -2348,7 +2294,7 @@
 		]
 	},
 	{
-		"jammer": "Arceryz",
+		"jammer": "Timothy van der Valk",
 		"jammer_link": "https://arceryz.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2361,7 +2307,7 @@
 				"title_link": "https://arceryz.itch.io/sunken-sword",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591482",
 				"by_list": [
-					"Arceryz"
+					"Timothy van der Valk"
 				],
 				"by_link_list": [
 					"https://arceryz.itch.io/"
@@ -3822,6 +3768,64 @@
 				"score": 2.886,
 				"ilscore": 65,
 				"submission_time_diff": -42741000
+			}
+		]
+	},
+	{
+		"jammer": "Leshiy",
+		"jammer_link": "https://yshel-v-les.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "Deep In The Woods",
+				"title_link": "https://theraveparade.itch.io/deep-in-the-woods",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590613",
+				"by_list": [
+					"theraveparade",
+					"DreamEaterBane",
+					"Leshiy"
+				],
+				"by_link_list": [
+					"https://theraveparade.itch.io/",
+					"https://dreameaterbane.itch.io/",
+					"https://yshel-v-les.itch.io/"
+				],
+				"rank": 79,
+				"ratings": 5,
+				"score": 2.886,
+				"ilscore": 65,
+				"submission_time_diff": -42741000
+			}
+		]
+	},
+	{
+		"jammer": "Gray Hato",
+		"jammer_link": "https://grayhato.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 136,
+				"title": "Starch Trek: Deep Spud Nine",
+				"title_link": "https://grayhato.itch.io/starch-trek-deep-spud-nine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590068",
+				"by_list": [
+					"Gray Hato"
+				],
+				"by_link_list": [
+					"https://grayhato.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 8,
+				"score": 2.875,
+				"ilscore": 65,
+				"submission_time_diff": -75989000
 			}
 		]
 	}

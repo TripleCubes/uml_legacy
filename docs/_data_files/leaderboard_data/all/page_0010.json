@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "cnatalo",
+		"jammer_link": "https://cnatalo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 24,
+				"jam_name": "Space",
+				"jam_link": "https://itch.io/jam/mini-jam-24-space",
+				"jam_vs": 56,
+				"title": "Earth Attack",
+				"title_link": "https://cnatalo.itch.io/earth-attack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395822",
+				"by_list": [
+					"cnatalo",
+					"ObvTago",
+					"Thayson Coutinho"
+				],
+				"by_link_list": [
+					"https://cnatalo.itch.io/",
+					"https://obvtago.itch.io/",
+					"https://thay2son.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 6,
+				"score": 3.69,
+				"ilscore": 56,
+				"submission_time_diff": -6398000
+			}
+		]
+	},
+	{
 		"jammer": "ObvTago",
 		"jammer_link": "https://obvtago.itch.io/",
 		"game_list_sorted": [
@@ -1209,7 +1240,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Out of Water",
 				"title_link": "https://cy-s.itch.io/frog-out-of-water",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532679",
@@ -1222,7 +1253,7 @@
 				"rank": 88,
 				"ratings": 6,
 				"score": 3.356,
-				"ilscore": 101,
+				"ilscore": 100,
 				"submission_time_diff": -349000
 			}
 		]
@@ -1743,7 +1774,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Running Hot",
 				"title_link": "https://fmlad.itch.io/running-hot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045533",
@@ -2167,7 +2198,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Closed Circuit",
 				"title_link": "https://fmlad.itch.io/closed-circuit",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1345501",
@@ -2421,7 +2452,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Eldy",
 				"title_link": "https://fmlad.itch.io/eldy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100844",
@@ -4664,33 +4695,6 @@
 				"score": 1.667,
 				"ilscore": 16,
 				"submission_time_diff": -41757000
-			}
-		]
-	},
-	{
-		"jammer": "Final Render Animation Studio",
-		"jammer_link": "https://cleowillo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 27,
-				"jam_name": "Celebration",
-				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
-				"jam_vs": 24,
-				"title": "The Celebration",
-				"title_link": "https://cleowillo.itch.io/the-celebration",
-				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418455",
-				"by_list": [
-					"Final Render Animation Studio"
-				],
-				"by_link_list": [
-					"https://cleowillo.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 2,
-				"score": 1.667,
-				"ilscore": 16,
-				"submission_time_diff": -289000
 			}
 		]
 	}

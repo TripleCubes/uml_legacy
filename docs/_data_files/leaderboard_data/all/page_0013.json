@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "waleedalqalaf",
+		"jammer_link": "https://waleedalqalaf.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"jam_vs": 37,
+				"title": "Protect The Tree",
+				"title_link": "https://waleedalqalaf.itch.io/protect-the-tree",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/480359",
+				"by_list": [
+					"waleedalqalaf"
+				],
+				"by_link_list": [
+					"https://waleedalqalaf.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 4,
+				"score": 2.313,
+				"ilscore": 28,
+				"submission_time_diff": -120662000
+			}
+		]
+	},
+	{
 		"jammer": "mapsandapps",
 		"jammer_link": "https://mapsandapps.itch.io/",
 		"game_list_sorted": [
@@ -882,7 +909,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frogeat",
 				"title_link": "https://silversnakegames.itch.io/frogeat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532634",
@@ -3809,33 +3836,6 @@
 				"score": 4.25,
 				"ilscore": 45,
 				"submission_time_diff": -41860000
-			}
-		]
-	},
-	{
-		"jammer": "MountainsideGames",
-		"jammer_link": "https://mountainsidegames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 42,
-				"jam_name": "Snow",
-				"jam_link": "https://itch.io/jam/mini-jam-42-snow",
-				"jam_vs": 28,
-				"title": "Lost in the Frost",
-				"title_link": "https://mountainsidegames.itch.io/lost-in-the-frost",
-				"submission_page_link": "https://itch.io/jam/mini-jam-42-snow/rate/527279",
-				"by_list": [
-					"MountainsideGames"
-				],
-				"by_link_list": [
-					"https://mountainsidegames.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 12,
-				"score": 3.875,
-				"ilscore": 41,
-				"submission_time_diff": -2594000
 			}
 		]
 	}

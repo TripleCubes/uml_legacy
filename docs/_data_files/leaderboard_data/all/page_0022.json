@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "peter_sc",
+		"jammer_link": "https://peter-sc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "Step Me Deadly",
+				"title_link": "https://peter-sc.itch.io/step-me-deadly",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726506",
+				"by_list": [
+					"peter_sc"
+				],
+				"by_link_list": [
+					"https://peter-sc.itch.io/"
+				],
+				"rank": 47,
+				"ratings": 5,
+				"score": 2.451,
+				"ilscore": 40,
+				"submission_time_diff": -23022000
+			}
+		]
+	},
+	{
 		"jammer": "slashay",
 		"jammer_link": "https://slashay.itch.io/",
 		"game_list_sorted": [
@@ -1859,7 +1886,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Catortionist",
 				"title_link": "https://lopar.itch.io/catortionist",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346928",
@@ -1872,7 +1899,7 @@
 				"rank": 43,
 				"ratings": 19,
 				"score": 3.079,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -1996000
 			},
 			{
@@ -5031,33 +5058,6 @@
 				"score": 3.578,
 				"ilscore": 84,
 				"submission_time_diff": -22913000
-			}
-		]
-	},
-	{
-		"jammer": "Stefano Galligani",
-		"jammer_link": "https://ostrich-dog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "All the colored people",
-				"title_link": "https://ostrich-dog.itch.io/all-the-colored-people",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751833",
-				"by_list": [
-					"Stefano Galligani"
-				],
-				"by_link_list": [
-					"https://ostrich-dog.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 7,
-				"score": 3.571,
-				"ilscore": 83,
-				"submission_time_diff": -21918000
 			}
 		]
 	}

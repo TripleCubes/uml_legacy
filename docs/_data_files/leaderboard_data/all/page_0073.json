@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Redd909r",
-		"jammer_link": "https://redd909r.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Colors2 game",
-				"title_link": "https://redd909r.itch.io/lost-in-space",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634983",
-				"by_list": [
-					"Redd909r"
-				],
-				"by_link_list": [
-					"https://redd909r.itch.io/"
-				],
-				"rank": 405,
-				"ratings": 1,
-				"score": 0.53,
-				"ilscore": 17,
-				"submission_time_diff": -609000
-			}
-		]
-	},
-	{
-		"jammer": "tmationsreal",
-		"jammer_link": "https://tmationsreal.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "TASTE THE RAINBOW",
-				"title_link": "https://tmationsreal.itch.io/taste-the-rainbow",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632425",
-				"by_list": [
-					"tmationsreal"
-				],
-				"by_link_list": [
-					"https://tmationsreal.itch.io/"
-				],
-				"rank": 406,
-				"ratings": 2,
-				"score": 0.5,
-				"ilscore": 16,
-				"submission_time_diff": -160118000
-			}
-		]
-	},
-	{
 		"jammer": "karasikrus",
 		"jammer_link": "https://karasikrus.itch.io/",
 		"game_list_sorted": [
@@ -4023,6 +3969,60 @@
 				"score": 3.641,
 				"ilscore": 74,
 				"submission_time_diff": 1007000
+			}
+		]
+	},
+	{
+		"jammer": "redsol",
+		"jammer_link": "https://redsol.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 104,
+				"title": "Loop Launch",
+				"title_link": "https://redsol.itch.io/loop-launch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673196",
+				"by_list": [
+					"redsol"
+				],
+				"by_link_list": [
+					"https://redsol.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 3.639,
+				"ilscore": 74,
+				"submission_time_diff": 1770000
+			}
+		]
+	},
+	{
+		"jammer": "Stopshut",
+		"jammer_link": "https://stopshutgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 104,
+				"title": "Dungeon Doors",
+				"title_link": "https://stopshutgames.itch.io/dungeondoors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1671242",
+				"by_list": [
+					"Stopshut"
+				],
+				"by_link_list": [
+					"https://stopshutgames.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 15,
+				"score": 3.583,
+				"ilscore": 73,
+				"submission_time_diff": -85287000
 			}
 		]
 	}

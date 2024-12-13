@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "kezbob",
+		"jammer_link": "https://kezbob.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 70,
+				"jam_name": "Heaven",
+				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
+				"jam_vs": 63,
+				"title": "Cloudy Bois",
+				"title_link": "https://kezbob.itch.io/cloudy-bois",
+				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867728",
+				"by_list": [
+					"kezbob"
+				],
+				"by_link_list": [
+					"https://kezbob.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 17,
+				"score": 3.029,
+				"ilscore": 49,
+				"submission_time_diff": -36332000
+			}
+		]
+	},
+	{
 		"jammer": "vurtual",
 		"jammer_link": "https://vurtual.itch.io/",
 		"game_list_sorted": [
@@ -809,7 +836,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Forest",
 				"title_link": "https://kouvei.itch.io/frog-forest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532424",
@@ -1044,7 +1071,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Pub Simulator",
 				"title_link": "https://zactarzero.itch.io/pub-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347789",
@@ -1348,7 +1375,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Dodgeball Simulator",
 				"title_link": "https://xenvex.itch.io/dodgeball-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1346978",
@@ -2867,7 +2894,7 @@
 				"jam_id": 95,
 				"jam_name": "Chance",
 				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "PROBABILITY CLONES",
 				"title_link": "https://foundtexas.itch.io/probab",
 				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316088",
@@ -3816,33 +3843,6 @@
 				"score": 1.679,
 				"ilscore": 32,
 				"submission_time_diff": -2136000
-			}
-		]
-	},
-	{
-		"jammer": "Chris Antem",
-		"jammer_link": "https://chrisantem.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 71,
-				"jam_name": "Puzzles",
-				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
-				"jam_vs": 91,
-				"title": "Nova Race Puzzle",
-				"title_link": "https://chrisantem.itch.io/nova-race-puzzle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880253",
-				"by_list": [
-					"Chris Antem"
-				],
-				"by_link_list": [
-					"https://chrisantem.itch.io/"
-				],
-				"rank": 89,
-				"ratings": 1,
-				"score": 1.591,
-				"ilscore": 30,
-				"submission_time_diff": -23972000
 			}
 		]
 	}

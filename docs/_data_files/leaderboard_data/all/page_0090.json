@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "ChillyCider",
-		"jammer_link": "https://chillycider.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 133,
-				"jam_name": "Fusion",
-				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
-				"jam_vs": 132,
-				"title": "Blind as a Bat",
-				"title_link": "https://chillycider.itch.io/blind-as-a-bat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2091816",
-				"by_list": [
-					"ChillyCider"
-				],
-				"by_link_list": [
-					"https://chillycider.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 12,
-				"score": 3.625,
-				"ilscore": 81,
-				"submission_time_diff": -23520000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Rescue",
-				"title_link": "https://chillycider.itch.io/rescue",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134633",
-				"by_list": [
-					"ChillyCider"
-				],
-				"by_link_list": [
-					"https://chillycider.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 7,
-				"score": 2.75,
-				"ilscore": 48,
-				"submission_time_diff": -11299000
-			}
-		]
-	},
-	{
 		"jammer": "KandiStar",
 		"jammer_link": "https://kandistar.itch.io/",
 		"game_list_sorted": [
@@ -1188,7 +1140,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Sigilum",
 				"title_link": "https://burningicicles.itch.io/sigilum",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3101505",
@@ -1201,7 +1153,7 @@
 				"rank": 27,
 				"ratings": 5,
 				"score": 2.916,
-				"ilscore": 46,
+				"ilscore": 45,
 				"submission_time_diff": 33159000
 			},
 			{
@@ -1656,7 +1608,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Connection Control",
 				"title_link": "https://robbie-wagner.itch.io/connection-control",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440712",
@@ -2126,7 +2078,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 36,
+				"jam_vs": 35,
 				"title": "Card Traveler",
 				"title_link": "https://kauar.itch.io/card-traveler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069220",
@@ -2139,7 +2091,7 @@
 				"rank": 28,
 				"ratings": 6,
 				"score": 2.462,
-				"ilscore": 30,
+				"ilscore": 29,
 				"submission_time_diff": -61000
 			},
 			{
@@ -3427,6 +3379,37 @@
 				"score": 4,
 				"ilscore": 83,
 				"submission_time_diff": -18773000
+			}
+		]
+	},
+	{
+		"jammer": "jake2theizzo",
+		"jammer_link": "https://jake2theizzo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 134,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
+				"jam_vs": 110,
+				"title": "Wreckipeligo",
+				"title_link": "https://kandistar.itch.io/wreckipeligo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113954",
+				"by_list": [
+					"KandiStar",
+					"HaywireJo",
+					"jake2theizzo"
+				],
+				"by_link_list": [
+					"https://kandistar.itch.io/",
+					"https://haywirejo.itch.io/",
+					"https://jake2theizzo.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 18,
+				"score": 3.917,
+				"ilscore": 81,
+				"submission_time_diff": -759000
 			}
 		]
 	}

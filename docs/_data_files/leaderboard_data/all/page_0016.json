@@ -1,5 +1,40 @@
 [
 	{
+		"jammer": "NormandErwan",
+		"jammer_link": "https://normanderwan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Captain Wilson",
+				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
+				"by_list": [
+					"Joan Sol ROO",
+					"Titwin",
+					"Saltadrow",
+					"clerg0",
+					"NormandErwan"
+				],
+				"by_link_list": [
+					"https://solroo.itch.io/",
+					"https://titwin.itch.io/",
+					"https://saltadrow.itch.io/",
+					"https://clerg0.itch.io/",
+					"https://normanderwan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.229,
+				"ilscore": 94,
+				"submission_time_diff": -30822000
+			}
+		]
+	},
+	{
 		"jammer": "Goori",
 		"jammer_link": "https://goori.itch.io/",
 		"game_list_sorted": [
@@ -481,7 +516,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Froglins",
 				"title_link": "https://ilprinni.itch.io/froglins",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1529437",
@@ -552,7 +587,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 59,
+				"jam_vs": 58,
 				"title": "Midnight Duel",
 				"title_link": "https://ilprinni.itch.io/midnight-duel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100326",
@@ -565,7 +600,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.688,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": -20746000
 			},
 			{
@@ -2233,7 +2268,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "The sun and Skye",
 				"title_link": "https://allerises.itch.io/the-sun-and-skye",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045691",
@@ -2250,7 +2285,7 @@
 				"rank": 45,
 				"ratings": 7,
 				"score": 2.047,
-				"ilscore": 31,
+				"ilscore": 32,
 				"submission_time_diff": -372000
 			},
 			{
@@ -3781,33 +3816,6 @@
 				"score": 1.133,
 				"ilscore": 25,
 				"submission_time_diff": -5713000
-			}
-		]
-	},
-	{
-		"jammer": "Eliot LE GALL",
-		"jammer_link": "https://eliot-le-gall.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Auguste Alexandre - Eliot Le Gall",
-				"title_link": "https://eliot-le-gall.itch.io/game-jam-epitech",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592595",
-				"by_list": [
-					"Eliot LE GALL"
-				],
-				"by_link_list": [
-					"https://eliot-le-gall.itch.io/"
-				],
-				"rank": 132,
-				"ratings": 1,
-				"score": 1.131,
-				"ilscore": 25,
-				"submission_time_diff": -19638000
 			}
 		]
 	}

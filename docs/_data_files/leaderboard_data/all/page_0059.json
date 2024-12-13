@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "eFoxGaming",
-		"jammer_link": "https://efoxgaming.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Moon escape",
-				"title_link": "https://efoxgaming.itch.io/moon-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017804",
-				"by_list": [
-					"eFoxGaming"
-				],
-				"by_link_list": [
-					"https://efoxgaming.itch.io/"
-				],
-				"rank": 77,
-				"ratings": 8,
-				"score": 3.125,
-				"ilscore": 85,
-				"submission_time_diff": -8126000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Devil Killer",
-				"title_link": "https://efoxgaming.itch.io/devil-killer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469496",
-				"by_list": [
-					"eFoxGaming"
-				],
-				"by_link_list": [
-					"https://efoxgaming.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 11,
-				"score": 2.659,
-				"ilscore": 62,
-				"submission_time_diff": -16257000
-			}
-		]
-	},
-	{
 		"jammer": "zuzle",
 		"jammer_link": "https://zuzle.itch.io/",
 		"game_list_sorted": [
@@ -293,7 +245,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "solar opposits",
 				"title_link": "https://doctored-studios.itch.io/solar-opposits",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041261",
@@ -746,7 +698,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Game and Alex",
 				"title_link": "https://a1exjp.itch.io/game-and-alex",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045649",
@@ -1442,7 +1394,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "FROGGY",
 				"title_link": "https://sharkdaw.itch.io/froggy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532416",
@@ -3085,7 +3037,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Froggy Familiars",
 				"title_link": "https://gladysglitch.itch.io/froggy-familiars",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1528185",
@@ -3870,6 +3822,37 @@
 				"score": 2.661,
 				"ilscore": 54,
 				"submission_time_diff": 30988000
+			}
+		]
+	},
+	{
+		"jammer": "CapnClown",
+		"jammer_link": "https://capnclown.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Cascade Clog",
+				"title_link": "https://capnclown.itch.io/cascade-clog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490615",
+				"by_list": [
+					"CapnClown",
+					"CDplaya",
+					"emulation studios"
+				],
+				"by_link_list": [
+					"https://capnclown.itch.io/",
+					"https://cdplaya.itch.io/",
+					"https://michaeldevlee.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 23,
+				"score": 2.652,
+				"ilscore": 53,
+				"submission_time_diff": -34103000
 			}
 		]
 	}

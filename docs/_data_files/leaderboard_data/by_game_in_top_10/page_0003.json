@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Maui",
+		"jammer_link": "https://maui-101.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 122,
+				"jam_name": "Intermission",
+				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
+				"jam_vs": 50,
+				"title": "Droid Battle",
+				"title_link": "https://maui-101.itch.io/droid-battle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851947",
+				"by_list": [
+					"Maui"
+				],
+				"by_link_list": [
+					"https://maui-101.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 9,
+				"score": 3.528,
+				"ilscore": 51,
+				"submission_time_diff": -520000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 67,
+				"jam_name": "Void",
+				"jam_link": "https://itch.io/jam/mini-jam-67-void",
+				"jam_vs": 59,
+				"title": "Safe Course 2020",
+				"title_link": "https://maui-101.itch.io/safe-course-old",
+				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823120",
+				"by_list": [
+					"Maui"
+				],
+				"by_link_list": [
+					"https://maui-101.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.827,
+				"ilscore": 60,
+				"submission_time_diff": -2644000
+			}
+		]
+	},
+	{
 		"jammer": "Burnadet",
 		"jammer_link": "https://burnadet.itch.io/",
 		"game_list_sorted": [
@@ -127,7 +175,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Office Ordeal",
 				"title_link": "https://flyguy4247.itch.io/office-ordeal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2439518",
@@ -781,7 +829,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "No Pain, No Gain",
 				"title_link": "https://dancar.itch.io/no-pain-no-gain",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347527",
@@ -958,7 +1006,7 @@
 				"jam_id": 148,
 				"jam_name": "Connections",
 				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 54,
+				"jam_vs": 53,
 				"title": "Tiny Conflict",
 				"title_link": "https://britwaldo.itch.io/tiny-conflict",
 				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2440071",
@@ -971,7 +1019,7 @@
 				"rank": 8,
 				"ratings": 22,
 				"score": 3.58,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -43240000
 			},
 			{
@@ -1950,7 +1998,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Daddy's Dash",
 				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
@@ -1981,7 +2029,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 284,
+				"jam_vs": 283,
 				"title": "Frog Daddy's Dash",
 				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
@@ -3453,33 +3501,6 @@
 				"score": 4.25,
 				"ilscore": 45,
 				"submission_time_diff": -41860000
-			}
-		]
-	},
-	{
-		"jammer": "AndreRM",
-		"jammer_link": "https://andrerm.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 60,
-				"jam_name": "Crime",
-				"jam_link": "https://itch.io/jam/mini-jam-60",
-				"jam_vs": 64,
-				"title": "Perfect Crime",
-				"title_link": "https://andrerm.itch.io/perfect-crime",
-				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/726806",
-				"by_list": [
-					"AndreRM"
-				],
-				"by_link_list": [
-					"https://andrerm.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 8,
-				"score": 4.25,
-				"ilscore": 69,
-				"submission_time_diff": -1150000
 			}
 		]
 	}

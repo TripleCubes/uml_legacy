@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "juteh",
-		"jammer_link": "https://juteh.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 120,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-120-hell",
-				"jam_vs": 55,
-				"title": "HellCultIvator",
-				"title_link": "https://juteh.itch.io/hellcultivator",
-				"submission_page_link": "https://itch.io/jam/mini-jam-120-hell/rate/1810519",
-				"by_list": [
-					"juteh"
-				],
-				"by_link_list": [
-					"https://juteh.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 4,
-				"score": 1.591,
-				"ilscore": 24,
-				"submission_time_diff": -24446000
-			}
-		]
-	},
-	{
-		"jammer": "ethonk",
-		"jammer_link": "https://ethonk.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 121,
-				"jam_name": "Reflection",
-				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
-				"title": "Hillbilly Highway",
-				"title_link": "https://ethonk.itch.io/hillbilly-highway",
-				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831355",
-				"by_list": [
-					"ethonk",
-					"ethan_322",
-					"Christian_03",
-					"🦖Deerex",
-					"mrsoda71"
-				],
-				"by_link_list": [
-					"https://ethonk.itch.io/",
-					"https://ethan-322.itch.io/",
-					"https://christian-03.itch.io/",
-					"https://darrencontreras.itch.io/",
-					"https://mrsoda71.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 29,
-				"score": 4.121,
-				"ilscore": 88,
-				"submission_time_diff": -30520000
-			}
-		]
-	},
-	{
 		"jammer": "ethan_322",
 		"jammer_link": "https://ethan-322.itch.io/",
 		"game_list_sorted": [
@@ -1560,7 +1498,7 @@
 				"jam_id": 170,
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
-				"jam_vs": 36,
+				"jam_vs": 35,
 				"title": "A Witch's Cure",
 				"title_link": "https://melliomusic.itch.io/a-witchs-cure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069192",
@@ -1573,7 +1511,7 @@
 				"rank": 5,
 				"ratings": 15,
 				"score": 3.583,
-				"ilscore": 44,
+				"ilscore": 43,
 				"submission_time_diff": -1332000
 			},
 			{
@@ -2951,7 +2889,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Polyorbit",
 				"title_link": "https://fury1012.itch.io/polyorbit",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045652",
@@ -3007,7 +2945,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Polyorbit",
 				"title_link": "https://fury1012.itch.io/polyorbit",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045652",
@@ -3063,7 +3001,7 @@
 				"jam_id": 131,
 				"jam_name": "Solar",
 				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 57,
+				"jam_vs": 58,
 				"title": "Polyorbit",
 				"title_link": "https://fury1012.itch.io/polyorbit",
 				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2045652",
@@ -3604,6 +3542,60 @@
 				"score": 0.95,
 				"ilscore": 20,
 				"submission_time_diff": -128040000
+			}
+		]
+	},
+	{
+		"jammer": "Cloud Coast",
+		"jammer_link": "https://cloud-coast.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Sweet &amp; Sour",
+				"title_link": "https://cloud-coast.itch.io/sweet-sour",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1833352",
+				"by_list": [
+					"Cloud Coast"
+				],
+				"by_link_list": [
+					"https://cloud-coast.itch.io/"
+				],
+				"rank": 119,
+				"ratings": 1,
+				"score": 0.949,
+				"ilscore": 20,
+				"submission_time_diff": 302269000
+			}
+		]
+	},
+	{
+		"jammer": "TTerry",
+		"jammer_link": "https://tterry.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "The Memory",
+				"title_link": "https://tterry.itch.io/the-memory",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1836927",
+				"by_list": [
+					"TTerry"
+				],
+				"by_link_list": [
+					"https://tterry.itch.io/"
+				],
+				"rank": 119,
+				"ratings": 1,
+				"score": 0.949,
+				"ilscore": 20,
+				"submission_time_diff": 240668000
 			}
 		]
 	}
