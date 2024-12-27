@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "derefepo",
+		"jammer_link": "https://derefepo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Stickman Part 2",
+				"title_link": "https://derefepo.itch.io/stickman-part-2",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868515",
+				"by_list": [
+					"derefepo"
+				],
+				"by_link_list": [
+					"https://derefepo.itch.io/"
+				],
+				"rank": 215,
+				"ratings": 3,
+				"score": 1.05,
+				"ilscore": 28,
+				"submission_time_diff": -30009000
+			}
+		]
+	},
+	{
 		"jammer": "12 Pancakes Studio",
 		"jammer_link": "https://12-pancakes-studio.itch.io/",
 		"game_list_sorted": [
@@ -56,7 +83,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Light The Way",
 				"title_link": "https://rem23.itch.io/light-the-way",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483069",
@@ -2075,7 +2102,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "TheMagicAnswer",
 				"title_link": "https://tomanus.itch.io/themagicanswer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482296",
@@ -2123,7 +2150,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Slice demolition| mini-jam-164-destruction gdd",
 				"title_link": "https://sappirgames.itch.io/cut-the-heavens-mini-jam-164-destruction-gdd",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874423",
@@ -2207,7 +2234,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "SmackTargetForFish",
 				"title_link": "https://sappirgames.itch.io/smacktargetforfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564278",
@@ -2780,7 +2807,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Brevipingui's Odyssey",
 				"title_link": "https://beenomakesgames.itch.io/brevipinguis-odyssey",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733501",
@@ -2793,7 +2820,7 @@
 				"rank": 77,
 				"ratings": 12,
 				"score": 2.729,
-				"ilscore": 60,
+				"ilscore": 59,
 				"submission_time_diff": -30426000
 			},
 			{
@@ -3436,7 +3463,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Lunar Defender",
 				"title_link": "https://ccerisegd.itch.io/lunardefender",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017411",
@@ -3451,33 +3478,6 @@
 				"score": 2.821,
 				"ilscore": 76,
 				"submission_time_diff": -127854000
-			}
-		]
-	},
-	{
-		"jammer": "RoxGible_1400",
-		"jammer_link": "https://roxgible-1400.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "Arcade : BeatRusher Pixel",
-				"title_link": "https://roxgible-1400.itch.io/arcade-beatrusher-pixel",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1906353",
-				"by_list": [
-					"RoxGible_1400"
-				],
-				"by_link_list": [
-					"https://roxgible-1400.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 10,
-				"score": 3.575,
-				"ilscore": 62,
-				"submission_time_diff": -226369000
 			}
 		]
 	}

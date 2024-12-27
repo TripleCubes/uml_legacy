@@ -1,5 +1,57 @@
 [
 	{
+		"jammer": "Popstuff",
+		"jammer_link": "https://popstuff.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "Gun-Die",
+				"title_link": "https://extracraftx.itch.io/gun-die",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259310",
+				"by_list": [
+					"ExtraCrafTX",
+					"Popstuff"
+				],
+				"by_link_list": [
+					"https://extracraftx.itch.io/",
+					"https://popstuff.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 15,
+				"score": 3.55,
+				"ilscore": 74,
+				"submission_time_diff": -4234000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 204,
+				"title": "Hortus: The Seeds of Adventure",
+				"title_link": "https://popstuff.itch.io/hortus",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943132",
+				"by_list": [
+					"Popstuff",
+					"jolenekhor_music"
+				],
+				"by_link_list": [
+					"https://popstuff.itch.io/",
+					"https://jolenekhor-music.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 37,
+				"score": 3.189,
+				"ilscore": 85,
+				"submission_time_diff": -21194000
+			}
+		]
+	},
+	{
 		"jammer": "polychrombo",
 		"jammer_link": "https://polychrombo.itch.io/",
 		"game_list_sorted": [
@@ -2311,7 +2363,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "LunarRescue",
 				"title_link": "https://ultraint.itch.io/lunar-rescue",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021443",
@@ -2633,7 +2685,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Reformat().escape()",
 				"title_link": "https://none-yaroslav.itch.io/reformatescape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877974",
@@ -2646,7 +2698,7 @@
 				"rank": 51,
 				"ratings": 4,
 				"score": 2.696,
-				"ilscore": 47,
+				"ilscore": 46,
 				"submission_time_diff": -18812000
 			},
 			{
@@ -3947,33 +3999,6 @@
 				"score": 2.861,
 				"ilscore": 39,
 				"submission_time_diff": -113378000
-			}
-		]
-	},
-	{
-		"jammer": "Chaud7",
-		"jammer_link": "https://chaud7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"jam_vs": 45,
-				"title": "DrunK",
-				"title_link": "https://chaud7.itch.io/drunk",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278641",
-				"by_list": [
-					"Chaud7"
-				],
-				"by_link_list": [
-					"https://chaud7.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 6,
-				"score": 2.79,
-				"ilscore": 38,
-				"submission_time_diff": -15000
 			}
 		]
 	}

@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Stopshut",
+		"jammer_link": "https://stopshutgames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 104,
+				"title": "Dungeon Doors",
+				"title_link": "https://stopshutgames.itch.io/dungeondoors",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1671242",
+				"by_list": [
+					"Stopshut"
+				],
+				"by_link_list": [
+					"https://stopshutgames.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 15,
+				"score": 3.583,
+				"ilscore": 73,
+				"submission_time_diff": -85287000
+			}
+		]
+	},
+	{
 		"jammer": "Frizuo",
 		"jammer_link": "https://frizuo.itch.io/",
 		"game_list_sorted": [
@@ -3363,54 +3390,6 @@
 				"score": 2.75,
 				"ilscore": 49,
 				"submission_time_diff": -33057000
-			}
-		]
-	},
-	{
-		"jammer": "Octartis",
-		"jammer_link": "https://octartis.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 114,
-				"jam_name": "Anime",
-				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
-				"jam_vs": 57,
-				"title": "Dino Spin",
-				"title_link": "https://octartis.itch.io/dinospin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691627",
-				"by_list": [
-					"Octartis"
-				],
-				"by_link_list": [
-					"https://octartis.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 14,
-				"score": 3.179,
-				"ilscore": 49,
-				"submission_time_diff": -8355000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Pibooh!",
-				"title_link": "https://octartis.itch.io/pibooh",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749547",
-				"by_list": [
-					"Octartis"
-				],
-				"by_link_list": [
-					"https://octartis.itch.io/"
-				],
-				"rank": 116,
-				"ratings": 11,
-				"score": 2.432,
-				"ilscore": 62,
-				"submission_time_diff": -14604000
 			}
 		]
 	}

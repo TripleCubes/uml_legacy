@@ -1,5 +1,78 @@
 [
 	{
+		"jammer": "k0cc4",
+		"jammer_link": "https://k0cc4.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 46,
+				"jam_name": "Justice",
+				"jam_link": "https://itch.io/jam/mini-jam-46-justice",
+				"jam_vs": 42,
+				"title": "Color5",
+				"title_link": "https://alfenhose.itch.io/color5",
+				"submission_page_link": "https://itch.io/jam/mini-jam-46-justice/rate/556670",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.586,
+				"ilscore": 47,
+				"submission_time_diff": -11362000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 33,
+				"jam_name": "Underwater",
+				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
+				"jam_vs": 45,
+				"title": "Janky's Underwater Adventure",
+				"title_link": "https://alfenhose.itch.io/jankys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457483",
+				"by_list": [
+					"Alfenhose",
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://alfenhose.itch.io/",
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.452,
+				"ilscore": 47,
+				"submission_time_diff": -2014000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 39,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
+				"jam_vs": 24,
+				"title": "Monster Hunter Land",
+				"title_link": "https://k0cc4.itch.io/monster-hunter-land",
+				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/502941",
+				"by_list": [
+					"k0cc4"
+				],
+				"by_link_list": [
+					"https://k0cc4.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 9,
+				"score": 2.417,
+				"ilscore": 23,
+				"submission_time_diff": -19755000
+			}
+		]
+	},
+	{
 		"jammer": "Eaz_games",
 		"jammer_link": "https://eaz-games.itch.io/",
 		"game_list_sorted": [
@@ -65,6 +138,87 @@
 				"score": 2.821,
 				"ilscore": 28,
 				"submission_time_diff": -41652000
+			}
+		]
+	},
+	{
+		"jammer": "Denis The Menace",
+		"jammer_link": "https://denis002.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 172,
+				"jam_name": "Security",
+				"jam_link": "https://itch.io/jam/mini-jam-172-security",
+				"jam_vs": 38,
+				"title": "Desktop Security",
+				"title_link": "https://samerj.itch.io/desktop-security",
+				"submission_page_link": "https://itch.io/jam/mini-jam-172-security/rate/3133162",
+				"by_list": [
+					"SJ",
+					"ozzelozzel",
+					"ppaterlini",
+					"Kip LaVie",
+					"Denis The Menace"
+				],
+				"by_link_list": [
+					"https://samerj.itch.io/",
+					"https://ozzelozzel.itch.io/",
+					"https://ppaterlini.itch.io/",
+					"https://kiplavie.itch.io/",
+					"https://denis002.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 13,
+				"score": 3.327,
+				"ilscore": 42,
+				"submission_time_diff": -1623000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Solar Bound",
+				"title_link": "https://ethandalecreative.itch.io/solar-bound",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
+				"by_list": [
+					"EthanDev",
+					"CDplaya",
+					"Denis The Menace"
+				],
+				"by_link_list": [
+					"https://ethandalecreative.itch.io/",
+					"https://cdplaya.itch.io/",
+					"https://denis002.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 16,
+				"score": 3.719,
+				"ilscore": 64,
+				"submission_time_diff": -248000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "SnakeOnlyLikesOil",
+				"title_link": "https://denis002.itch.io/snakeonlylikesoil",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199373",
+				"by_list": [
+					"Denis The Menace"
+				],
+				"by_link_list": [
+					"https://denis002.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 7,
+				"score": 3.641,
+				"ilscore": 73,
+				"submission_time_diff": -2679000
 			}
 		]
 	},
@@ -138,8 +292,8 @@
 		]
 	},
 	{
-		"jammer": "RabidTunes",
-		"jammer_link": "https://rabidtunes.itch.io/",
+		"jammer": "Rabid",
+		"jammer_link": "https://rabidrabid.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -152,12 +306,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671853",
 				"by_list": [
 					"Patricia Lazaro",
-					"RabidTunes",
+					"Rabid",
 					"Alejandro Royo"
 				],
 				"by_link_list": [
 					"https://plazaro.itch.io/",
-					"https://rabidtunes.itch.io/",
+					"https://rabidrabid.itch.io/",
 					"https://alroyo.itch.io/"
 				],
 				"rank": 3,
@@ -171,26 +325,26 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Hack 'n' solve",
 				"title_link": "https://foxgamedev.itch.io/hacknsolve",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021963",
 				"by_list": [
 					"Fox Game Dev",
-					"RabidTunes",
+					"Rabid",
 					"Patricia Lazaro",
 					"Alejandro Royo"
 				],
 				"by_link_list": [
 					"https://foxgamedev.itch.io/",
-					"https://rabidtunes.itch.io/",
+					"https://rabidrabid.itch.io/",
 					"https://plazaro.itch.io/",
 					"https://alroyo.itch.io/"
 				],
 				"rank": 16,
 				"ratings": 9,
 				"score": 3.778,
-				"ilscore": 103,
+				"ilscore": 102,
 				"submission_time_diff": 154633000
 			},
 			{
@@ -200,13 +354,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
 				"jam_vs": 79,
 				"title": "Summit Hotel",
-				"title_link": "https://rabidtunes.itch.io/summit-hotel",
+				"title_link": "https://rabidrabid.itch.io/summit-hotel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/616425",
 				"by_list": [
-					"RabidTunes"
+					"Rabid"
 				],
 				"by_link_list": [
-					"https://rabidtunes.itch.io/"
+					"https://rabidrabid.itch.io/"
 				],
 				"rank": 16,
 				"ratings": 13,
@@ -250,7 +404,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Becoming One",
 				"title_link": "https://waynemadeagame.itch.io/becoming-one",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732547",
@@ -265,7 +419,7 @@
 				"rank": 10,
 				"ratings": 13,
 				"score": 3.904,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": -57137000
 			},
 			{
@@ -3512,6 +3666,54 @@
 		]
 	},
 	{
+		"jammer": "Anogrm",
+		"jammer_link": "https://anogrm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "No Internet?",
+				"title_link": "https://anogrm.itch.io/no-internet",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869255",
+				"by_list": [
+					"Anogrm"
+				],
+				"by_link_list": [
+					"https://anogrm.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 23,
+				"score": 4.163,
+				"ilscore": 112,
+				"submission_time_diff": -4737000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Orbital Defense",
+				"title_link": "https://anogrm.itch.io/orbital-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3197643",
+				"by_list": [
+					"Anogrm"
+				],
+				"by_link_list": [
+					"https://anogrm.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 18,
+				"score": 4.125,
+				"ilscore": 83,
+				"submission_time_diff": -18068000
+			}
+		]
+	},
+	{
 		"jammer": "Trent",
 		"jammer_link": "https://trentii.itch.io/",
 		"game_list_sorted": [
@@ -3543,7 +3745,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Space Fishin'",
 				"title_link": "https://trentii.itch.io/space-fishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563843",
@@ -3757,7 +3959,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -3776,7 +3978,7 @@
 				"rank": 5,
 				"ratings": 23,
 				"score": 4.054,
-				"ilscore": 108,
+				"ilscore": 107,
 				"submission_time_diff": -21006000
 			}
 		]
@@ -3819,7 +4021,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -3838,7 +4040,7 @@
 				"rank": 5,
 				"ratings": 23,
 				"score": 4.054,
-				"ilscore": 108,
+				"ilscore": 107,
 				"submission_time_diff": -21006000
 			}
 		]
@@ -3881,7 +4083,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Cosmic Piscary",
 				"title_link": "https://erebrus.itch.io/cosmic-piscary",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
@@ -3900,7 +4102,7 @@
 				"rank": 5,
 				"ratings": 23,
 				"score": 4.054,
-				"ilscore": 108,
+				"ilscore": 107,
 				"submission_time_diff": -21006000
 			}
 		]
@@ -4293,7 +4495,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "U-235",
 				"title_link": "https://arzza.itch.io/u-235",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2875047",
@@ -4827,7 +5029,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "You Got Promoted!",
 				"title_link": "https://goloob.itch.io/you-got-promoted",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878655",
@@ -5622,154 +5824,6 @@
 				"score": 3.16,
 				"ilscore": 11,
 				"submission_time_diff": -3268000
-			}
-		]
-	},
-	{
-		"jammer": "captain_breadbeard",
-		"jammer_link": "https://captain-breadbeard.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 41,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-41-magic",
-				"jam_vs": 28,
-				"title": "Magical Match-3",
-				"title_link": "https://captain-breadbeard.itch.io/magical-match-3",
-				"submission_page_link": "https://itch.io/jam/mini-jam-41-magic/rate/517829",
-				"by_list": [
-					"captain_breadbeard"
-				],
-				"by_link_list": [
-					"https://captain-breadbeard.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 9,
-				"score": 3.667,
-				"ilscore": 39,
-				"submission_time_diff": -50146000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 42,
-				"jam_name": "Snow",
-				"jam_link": "https://itch.io/jam/mini-jam-42-snow",
-				"jam_vs": 28,
-				"title": "Snow-bo With a Shotgun",
-				"title_link": "https://captain-breadbeard.itch.io/snow-bo-with-a-shotgun",
-				"submission_page_link": "https://itch.io/jam/mini-jam-42-snow/rate/526828",
-				"by_list": [
-					"captain_breadbeard"
-				],
-				"by_link_list": [
-					"https://captain-breadbeard.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 7,
-				"score": 3.536,
-				"ilscore": 37,
-				"submission_time_diff": -49969000
-			}
-		]
-	},
-	{
-		"jammer": "Jesse Eisenbart",
-		"jammer_link": "https://jesseeisenbart.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 49,
-				"jam_name": "Seasons",
-				"jam_link": "https://itch.io/jam/mini-jam-49-seasons",
-				"jam_vs": 18,
-				"title": "4 Seasons Journey",
-				"title_link": "https://jesseeisenbart.itch.io/4-seasons-journey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-49-seasons/rate/584362",
-				"by_list": [
-					"Jesse Eisenbart"
-				],
-				"by_link_list": [
-					"https://jesseeisenbart.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 3.642,
-				"ilscore": 29,
-				"submission_time_diff": -397000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 33,
-				"jam_name": "Underwater",
-				"jam_link": "https://itch.io/jam/mini-jam-33-underwater",
-				"jam_vs": 45,
-				"title": "Little Pink Submarine (Jam Version)",
-				"title_link": "https://jesseeisenbart.itch.io/little-pink-submarine-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-33-underwater/rate/457495",
-				"by_list": [
-					"Jesse Eisenbart"
-				],
-				"by_link_list": [
-					"https://jesseeisenbart.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 7,
-				"score": 3.466,
-				"ilscore": 47,
-				"submission_time_diff": -289000
-			}
-		]
-	},
-	{
-		"jammer": "Planta",
-		"jammer_link": "https://plantaro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "Ishihara",
-				"title_link": "https://plantaro.itch.io/ishihara",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752265",
-				"by_list": [
-					"Planta",
-					"Bad_B0y",
-					"treebee63"
-				],
-				"by_link_list": [
-					"https://plantaro.itch.io/",
-					"https://bad-b0y.itch.io/",
-					"https://treebee63.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 10,
-				"score": 4.4,
-				"ilscore": 103,
-				"submission_time_diff": 3672000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 67,
-				"jam_name": "Void",
-				"jam_link": "https://itch.io/jam/mini-jam-67-void",
-				"jam_vs": 59,
-				"title": "FEED ME",
-				"title_link": "https://plantaro.itch.io/feed-me",
-				"submission_page_link": "https://itch.io/jam/mini-jam-67-void/rate/823079",
-				"by_list": [
-					"Planta"
-				],
-				"by_link_list": [
-					"https://plantaro.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 18,
-				"score": 3.986,
-				"ilscore": 63,
-				"submission_time_diff": 126836000
 			}
 		]
 	}

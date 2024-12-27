@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "CapnClown",
+		"jammer_link": "https://capnclown.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Cascade Clog",
+				"title_link": "https://capnclown.itch.io/cascade-clog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1490615",
+				"by_list": [
+					"CapnClown",
+					"CDplaya",
+					"emulation studios"
+				],
+				"by_link_list": [
+					"https://capnclown.itch.io/",
+					"https://cdplaya.itch.io/",
+					"https://michaeldevlee.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 23,
+				"score": 2.652,
+				"ilscore": 53,
+				"submission_time_diff": -34103000
+			}
+		]
+	},
+	{
 		"jammer": "Botanical Games",
 		"jammer_link": "https://botanical-games.itch.io/",
 		"game_list_sorted": [
@@ -1017,7 +1048,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Sleeping Fishers",
 				"title_link": "https://titlechanqwerty.itch.io/sleeping-fishers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563013",
@@ -1030,7 +1061,7 @@
 				"rank": 121,
 				"ratings": 12,
 				"score": 2.479,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -24256000
 			}
 		]
@@ -2356,7 +2387,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Vignette of the ocean",
 				"title_link": "https://jsmonzani.itch.io/vignette-of-the-ocean",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732968",
@@ -2533,6 +2564,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Battery Powered",
+				"title_link": "https://philipnewsham.itch.io/battery-powered",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3197475",
+				"by_list": [
+					"Philip Newsham"
+				],
+				"by_link_list": [
+					"https://philipnewsham.itch.io/"
+				],
+				"rank": 25,
+				"ratings": 10,
+				"score": 3.5,
+				"ilscore": 70,
+				"submission_time_diff": -35008000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
@@ -2578,7 +2630,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Lunar Trap",
 				"title_link": "https://philipnewsham.itch.io/lunar-trap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021194",
@@ -3087,7 +3139,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Drill Witch",
 				"title_link": "https://lesliellama.itch.io/drill-witch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2479266",
@@ -3100,7 +3152,7 @@
 				"rank": 53,
 				"ratings": 14,
 				"score": 2.946,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -893000
 			}
 		]
@@ -4312,33 +4364,6 @@
 				"score": 2.711,
 				"ilscore": 61,
 				"submission_time_diff": -150135000
-			}
-		]
-	},
-	{
-		"jammer": "republicofdave",
-		"jammer_link": "https://republicofdave.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
-				"title": "Issac's Dream",
-				"title_link": "https://republicofdave.itch.io/issacs-dream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511098",
-				"by_list": [
-					"republicofdave"
-				],
-				"by_link_list": [
-					"https://republicofdave.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 5,
-				"score": 2.683,
-				"ilscore": 61,
-				"submission_time_diff": -27881000
 			}
 		]
 	}

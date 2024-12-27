@@ -1,5 +1,59 @@
 [
 	{
+		"jammer": "Splattie",
+		"jammer_link": "https://splattie.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 115,
+				"jam_name": "Noir",
+				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
+				"jam_vs": 37,
+				"title": "Mayfly PI",
+				"title_link": "https://nothing-d.itch.io/mayfly-pi",
+				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1705879",
+				"by_list": [
+					"Nothing",
+					"Splattie",
+					"unseconds"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/",
+					"https://unseconds.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 15,
+				"score": 4.217,
+				"ilscore": 52,
+				"submission_time_diff": 346000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 101,
+				"jam_name": "Limit",
+				"jam_link": "https://itch.io/jam/mini-jam-101-limit",
+				"jam_vs": 142,
+				"title": "Lush Rush",
+				"title_link": "https://nothing-d.itch.io/lush-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-101-limit/rate/1431567",
+				"by_list": [
+					"Nothing",
+					"Splattie"
+				],
+				"by_link_list": [
+					"https://nothing-d.itch.io/",
+					"https://splattie.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 19,
+				"score": 3.566,
+				"ilscore": 82,
+				"submission_time_diff": -1071000
+			}
+		]
+	},
+	{
 		"jammer": "PhantomHistory",
 		"jammer_link": "https://phantomhistory.itch.io/",
 		"game_list_sorted": [
@@ -428,7 +482,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Solar Bound",
 				"title_link": "https://ethandalecreative.itch.io/solar-bound",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
@@ -2409,7 +2463,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Ocean Builder",
 				"title_link": "https://z53-incoming.itch.io/ocean-builder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734348",
@@ -3707,54 +3761,6 @@
 				"score": 3.664,
 				"ilscore": 52,
 				"submission_time_diff": -19631000
-			}
-		]
-	},
-	{
-		"jammer": "dindotjs",
-		"jammer_link": "https://dindotjs.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Living Steam Machine",
-				"title_link": "https://dindotjs.itch.io/living-steam-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449563",
-				"by_list": [
-					"dindotjs"
-				],
-				"by_link_list": [
-					"https://dindotjs.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 26,
-				"score": 3.663,
-				"ilscore": 52,
-				"submission_time_diff": -20986000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
-				"title": "Drag &amp; Lollipop",
-				"title_link": "https://dindotjs.itch.io/drag-and-lolipop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491261",
-				"by_list": [
-					"dindotjs"
-				],
-				"by_link_list": [
-					"https://dindotjs.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.908,
-				"ilscore": 79,
-				"submission_time_diff": -5621000
 			}
 		]
 	}

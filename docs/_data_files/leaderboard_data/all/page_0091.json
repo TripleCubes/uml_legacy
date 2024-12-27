@@ -1357,7 +1357,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Lunchbox",
 				"title_link": "https://sealnf.itch.io/lunchbox",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562279",
@@ -1409,7 +1409,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Follow the Spark",
 				"title_link": "https://sealnf.itch.io/followthespark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481453",
@@ -2993,7 +2993,7 @@
 				"jam_name": "Deception",
 				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
 				"jam_vs": 73,
-				"title": "Moonstar Keep",
+				"title": "Moonstar Keep (MJ135)",
 				"title_link": "https://team-dreamrot.itch.io/moonstar-keep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2136415",
 				"by_list": [
@@ -3022,7 +3022,7 @@
 				"jam_name": "Deception",
 				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
 				"jam_vs": 73,
-				"title": "Moonstar Keep",
+				"title": "Moonstar Keep (MJ135)",
 				"title_link": "https://team-dreamrot.itch.io/moonstar-keep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2136415",
 				"by_list": [
@@ -3081,7 +3081,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3007127",
 				"by_list": [
 					"DevilishAndEvilMiscreant",
-					"KlausKingsman"
+					"Klausmaus"
 				],
 				"by_link_list": [
 					"https://devilishandevilmiscreant.itch.io/",
@@ -3215,10 +3215,41 @@
 				"title_link": "https://paperhatlizard.itch.io/gerards-love-story",
 				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2135016",
 				"by_list": [
-					"PaperHatLizard"
+					"PaperHatLizard",
+					"Max Desarrollar"
 				],
 				"by_link_list": [
-					"https://paperhatlizard.itch.io/"
+					"https://paperhatlizard.itch.io/",
+					"https://maxdesarrollar.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 7,
+				"score": 3.071,
+				"ilscore": 53,
+				"submission_time_diff": 45007000
+			}
+		]
+	},
+	{
+		"jammer": "Max Desarrollar",
+		"jammer_link": "https://maxdesarrollar.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "Gerard's Love Story",
+				"title_link": "https://paperhatlizard.itch.io/gerards-love-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2135016",
+				"by_list": [
+					"PaperHatLizard",
+					"Max Desarrollar"
+				],
+				"by_link_list": [
+					"https://paperhatlizard.itch.io/",
+					"https://maxdesarrollar.itch.io/"
 				],
 				"rank": 24,
 				"ratings": 7,
@@ -3422,54 +3453,6 @@
 				"score": 2.875,
 				"ilscore": 50,
 				"submission_time_diff": -20495000
-			}
-		]
-	},
-	{
-		"jammer": "SnoopSnoopNacho",
-		"jammer_link": "https://snoopsnoopnacho.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "BudWest",
-				"title_link": "https://snoopsnoopnacho.itch.io/budwest",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792076",
-				"by_list": [
-					"SnoopSnoopNacho"
-				],
-				"by_link_list": [
-					"https://snoopsnoopnacho.itch.io/"
-				],
-				"rank": 27,
-				"ratings": 7,
-				"score": 2.821,
-				"ilscore": 42,
-				"submission_time_diff": -1025000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "DeceptionKnight",
-				"title_link": "https://snoopsnoopnacho.itch.io/deceptionknight",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134082",
-				"by_list": [
-					"SnoopSnoopNacho"
-				],
-				"by_link_list": [
-					"https://snoopsnoopnacho.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 7,
-				"score": 2.75,
-				"ilscore": 48,
-				"submission_time_diff": -36230000
 			}
 		]
 	}

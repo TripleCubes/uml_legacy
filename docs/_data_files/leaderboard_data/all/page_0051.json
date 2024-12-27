@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "lesserfish",
+		"jammer_link": "https://lesserfish.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 95,
+				"jam_name": "Chance",
+				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
+				"jam_vs": 64,
+				"title": "KMPA 89.1",
+				"title_link": "https://lesserfish.itch.io/kmpa-891",
+				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316094",
+				"by_list": [
+					"lesserfish"
+				],
+				"by_link_list": [
+					"https://lesserfish.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 6,
+				"score": 2.994,
+				"ilscore": 49,
+				"submission_time_diff": -39000
+			}
+		]
+	},
+	{
 		"jammer": "niknaksoul",
 		"jammer_link": "https://niknaksoul.itch.io/",
 		"game_list_sorted": [
@@ -671,7 +698,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Deep Dive",
 				"title_link": "https://anaghsworld.itch.io/deep-dive",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877828",
@@ -4133,37 +4160,6 @@
 				"score": 3.154,
 				"ilscore": 64,
 				"submission_time_diff": 39841000
-			}
-		]
-	},
-	{
-		"jammer": "novial",
-		"jammer_link": "https://novial.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
-				"title": "BiomeSwitch",
-				"title_link": "https://novial.itch.io/biomeswitch",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347530",
-				"by_list": [
-					"novial",
-					"Cyber Squib",
-					"Arix"
-				],
-				"by_link_list": [
-					"https://novial.itch.io/",
-					"https://cyber-squib.itch.io/",
-					"https://arix-furette.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 33,
-				"score": 3.144,
-				"ilscore": 64,
-				"submission_time_diff": -10374000
 			}
 		]
 	}

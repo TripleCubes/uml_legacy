@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "republicofdave",
+		"jammer_link": "https://republicofdave.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 136,
+				"title": "Issac's Dream",
+				"title_link": "https://republicofdave.itch.io/issacs-dream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511098",
+				"by_list": [
+					"republicofdave"
+				],
+				"by_link_list": [
+					"https://republicofdave.itch.io/"
+				],
+				"rank": 92,
+				"ratings": 5,
+				"score": 2.683,
+				"ilscore": 61,
+				"submission_time_diff": -27881000
+			}
+		]
+	},
+	{
 		"jammer": "PanKrolik",
 		"jammer_link": "https://pankrolik.itch.io/",
 		"game_list_sorted": [
@@ -401,7 +428,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Desert Fisher",
 				"title_link": "https://jokatin.itch.io/desert-fisher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563820",
@@ -414,7 +441,7 @@
 				"rank": 133,
 				"ratings": 8,
 				"score": 2.328,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": -5312000
 			},
 			{
@@ -3587,7 +3614,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Fishland",
 				"title_link": "https://murgn.itch.io/fishland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2566054",
@@ -4261,117 +4288,6 @@
 				"score": 3.485,
 				"ilscore": 104,
 				"submission_time_diff": -682000
-			}
-		]
-	},
-	{
-		"jammer": "dotPixel",
-		"jammer_link": "https://dotpixelx.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
-				"title": "ExploRobots",
-				"title_link": "https://dotpixelx.itch.io/explorobots",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1588313",
-				"by_list": [
-					"dotPixel"
-				],
-				"by_link_list": [
-					"https://dotpixelx.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 18,
-				"score": 3.875,
-				"ilscore": 88,
-				"submission_time_diff": -46527000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Ghost Hunter",
-				"title_link": "https://dotpixelx.itch.io/ghost-hunter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749712",
-				"by_list": [
-					"dotPixel"
-				],
-				"by_link_list": [
-					"https://dotpixelx.itch.io/"
-				],
-				"rank": 44,
-				"ratings": 8,
-				"score": 3.438,
-				"ilscore": 88,
-				"submission_time_diff": -4119000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Maximum Groove",
-				"title_link": "https://dotpixelx.itch.io/maximum-groove",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1548609",
-				"by_list": [
-					"dotPixel"
-				],
-				"by_link_list": [
-					"https://dotpixelx.itch.io/"
-				],
-				"rank": 47,
-				"ratings": 12,
-				"score": 2.896,
-				"ilscore": 56,
-				"submission_time_diff": -57646000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Don't Get Hooked!",
-				"title_link": "https://dotpixelx.itch.io/dont-get-hooked",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1569419",
-				"by_list": [
-					"dotPixel"
-				],
-				"by_link_list": [
-					"https://dotpixelx.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 11,
-				"score": 3.25,
-				"ilscore": 87,
-				"submission_time_diff": -29934000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 283,
-				"title": "Jump Frog",
-				"title_link": "https://dotpixelx.itch.io/jump-frog",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532018",
-				"by_list": [
-					"dotPixel"
-				],
-				"by_link_list": [
-					"https://dotpixelx.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 10,
-				"score": 3.475,
-				"ilscore": 104,
-				"submission_time_diff": -2972000
 			}
 		]
 	}

@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Artem Shustov",
+		"jammer_link": "https://artemshustov.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 138,
+				"title": "Cats and mouses",
+				"title_link": "https://artemshustov.itch.io/cats-and-mouses",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044116",
+				"by_list": [
+					"Artem Shustov"
+				],
+				"by_link_list": [
+					"https://artemshustov.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 5,
+				"score": 1.697,
+				"ilscore": 38,
+				"submission_time_diff": -42039000
+			}
+		]
+	},
+	{
 		"jammer": "JoeyMakesGames",
 		"jammer_link": "https://joeymakesgames.itch.io/",
 		"game_list_sorted": [
@@ -2980,7 +3007,7 @@
 		]
 	},
 	{
-		"jammer": "Kelly Betty",
+		"jammer": "kelly betty",
 		"jammer_link": "https://kbmackenzie.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2993,7 +3020,7 @@
 				"title_link": "https://kbmackenzie.itch.io/remembrancedoodle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1088292",
 				"by_list": [
-					"Kelly Betty"
+					"kelly betty"
 				],
 				"by_link_list": [
 					"https://kbmackenzie.itch.io/"
@@ -3014,7 +3041,7 @@
 				"title_link": "https://kbmackenzie.itch.io/goldscale",
 				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572517",
 				"by_list": [
-					"Kelly Betty"
+					"kelly betty"
 				],
 				"by_link_list": [
 					"https://kbmackenzie.itch.io/"
@@ -3381,7 +3408,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Moon Defender",
 				"title_link": "https://unafordable.itch.io/moon-defender",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020514",
@@ -4145,33 +4172,6 @@
 				"score": 2.74,
 				"ilscore": 45,
 				"submission_time_diff": -7793000
-			}
-		]
-	},
-	{
-		"jammer": "TheDarkBear",
-		"jammer_link": "https://thedarkbear.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 82,
-				"jam_name": "Doodle",
-				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
-				"jam_vs": 65,
-				"title": "OneCircle",
-				"title_link": "https://thedarkbear.itch.io/onecircle",
-				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1079105",
-				"by_list": [
-					"TheDarkBear"
-				],
-				"by_link_list": [
-					"https://thedarkbear.itch.io/"
-				],
-				"rank": 39,
-				"ratings": 6,
-				"score": 2.688,
-				"ilscore": 44,
-				"submission_time_diff": -189394000
 			}
 		]
 	}

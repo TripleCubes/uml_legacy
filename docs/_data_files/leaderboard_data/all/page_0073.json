@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "tmationsreal",
+		"jammer_link": "https://tmationsreal.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "TASTE THE RAINBOW",
+				"title_link": "https://tmationsreal.itch.io/taste-the-rainbow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632425",
+				"by_list": [
+					"tmationsreal"
+				],
+				"by_link_list": [
+					"https://tmationsreal.itch.io/"
+				],
+				"rank": 406,
+				"ratings": 2,
+				"score": 0.5,
+				"ilscore": 16,
+				"submission_time_diff": -160118000
+			}
+		]
+	},
+	{
 		"jammer": "karasikrus",
 		"jammer_link": "https://karasikrus.itch.io/",
 		"game_list_sorted": [
@@ -3143,7 +3170,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Ring Splash",
 				"title_link": "https://quabmara.itch.io/ring-splash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733589",
@@ -3156,7 +3183,7 @@
 				"rank": 84,
 				"ratings": 6,
 				"score": 2.623,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": -29698000
 			},
 			{
@@ -3795,7 +3822,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Phoebe Sunbeam VS Captain Twice",
 				"title_link": "https://inkspinner.itch.io/phoebe-sunbeam-vs-captain-twice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483114",
@@ -3996,33 +4023,6 @@
 				"score": 3.639,
 				"ilscore": 74,
 				"submission_time_diff": 1770000
-			}
-		]
-	},
-	{
-		"jammer": "Stopshut",
-		"jammer_link": "https://stopshutgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 104,
-				"title": "Dungeon Doors",
-				"title_link": "https://stopshutgames.itch.io/dungeondoors",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1671242",
-				"by_list": [
-					"Stopshut"
-				],
-				"by_link_list": [
-					"https://stopshutgames.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 15,
-				"score": 3.583,
-				"ilscore": 73,
-				"submission_time_diff": -85287000
 			}
 		]
 	}

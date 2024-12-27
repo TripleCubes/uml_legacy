@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "MechanicalRaven",
+		"jammer_link": "https://mechanicalraven.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Mare Enter Into Knight",
+				"title_link": "https://heftybandicoot.itch.io/mare-enter-into-knight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341303",
+				"by_list": [
+					"HeftyBandicoot",
+					"MechanicalRaven"
+				],
+				"by_link_list": [
+					"https://heftybandicoot.itch.io/",
+					"https://mechanicalraven.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 8,
+				"score": 2,
+				"ilscore": 33,
+				"submission_time_diff": 1732000
+			}
+		]
+	},
+	{
 		"jammer": "Vladeko_CZ",
 		"jammer_link": "https://vladeko-cz.itch.io/",
 		"game_list_sorted": [
@@ -191,14 +220,14 @@
 				"jam_link": "https://itch.io/jam/mini-jam-173-action",
 				"jam_vs": 67,
 				"title": "Energizer (read desc for tutorial)",
-				"title_link": "https://jaspermoerland.itch.io/energizer",
+				"title_link": "https://udm1130.itch.io/energizer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3165865",
 				"by_list": [
-					"Jaspermoerland",
+					"UDM1130",
 					"boogerboy12"
 				],
 				"by_link_list": [
-					"https://jaspermoerland.itch.io/",
+					"https://udm1130.itch.io/",
 					"https://boogerboy12.itch.io/"
 				],
 				"rank": 49,
@@ -609,7 +638,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Abyssal Catch",
 				"title_link": "https://static-gamin.itch.io/abyssal-catch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563697",
@@ -622,7 +651,7 @@
 				"rank": 12,
 				"ratings": 8,
 				"score": 3.83,
-				"ilscore": 102,
+				"ilscore": 101,
 				"submission_time_diff": -20239000
 			},
 			{
@@ -1546,7 +1575,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Gold Fisherman",
 				"title_link": "https://stefan-andjelkovic.itch.io/gold-fisherman",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564261",
@@ -1623,7 +1652,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Neon Impaler",
 				"title_link": "https://xmoby.itch.io/neon-impaler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560920",
@@ -1675,7 +1704,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Neon Impaler",
 				"title_link": "https://xmoby.itch.io/neon-impaler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560920",
@@ -2775,7 +2804,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "The Endgame",
 				"title_link": "https://crazedmonkey231.itch.io/the-endgame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878363",
@@ -2982,6 +3011,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Pinball Wizards",
+				"title_link": "https://crazedmonkey231.itch.io/pinball-wizards",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199390",
+				"by_list": [
+					"crazedmonkey231"
+				],
+				"by_link_list": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 11,
+				"score": 2.614,
+				"ilscore": 52,
+				"submission_time_diff": -2532000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
@@ -3090,7 +3140,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Guardian Of Light",
 				"title_link": "https://crazedmonkey231.itch.io/guardianoflight",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483055",
@@ -3103,7 +3153,7 @@
 				"rank": 123,
 				"ratings": 3,
 				"score": 1.582,
-				"ilscore": 35,
+				"ilscore": 34,
 				"submission_time_diff": -7573000
 			},
 			{
@@ -3132,7 +3182,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Robo Reclaimer",
 				"title_link": "https://crazedmonkey231.itch.io/robo-reclaimer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563835",
@@ -3145,7 +3195,7 @@
 				"rank": 204,
 				"ratings": 1,
 				"score": 0.75,
-				"ilscore": 20,
+				"ilscore": 19,
 				"submission_time_diff": -14741000
 			}
 		]
@@ -3363,7 +3413,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Bastions",
 				"title_link": "https://suavessence.itch.io/bastions",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484953",
@@ -3534,7 +3584,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Shadow Trials",
 				"title_link": "https://0aml.itch.io/shadow-trials",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483221",
@@ -3910,81 +3960,6 @@
 				"score": 3.6,
 				"ilscore": 55,
 				"submission_time_diff": -4460000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 147,
-				"jam_name": "Cinema",
-				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
-				"jam_vs": 40,
-				"title": "Wizard of NOS",
-				"title_link": "https://flyguy4247.itch.io/wizard-of-nos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2410557",
-				"by_list": [
-					"flyguy4247",
-					"Echofiend",
-					"CraZyBRITT37"
-				],
-				"by_link_list": [
-					"https://flyguy4247.itch.io/",
-					"https://echofiend.itch.io/",
-					"https://crazybritt37.itch.io/"
-				],
-				"rank": 24,
-				"ratings": 7,
-				"score": 2.857,
-				"ilscore": 37,
-				"submission_time_diff": -990000
-			}
-		]
-	},
-	{
-		"jammer": "flyguy4247",
-		"jammer_link": "https://flyguy4247.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 146,
-				"jam_name": "Windows",
-				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
-				"jam_vs": 57,
-				"title": "UnderCutter's Glass, Inc",
-				"title_link": "https://echofiend.itch.io/undercutters-glass",
-				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389010",
-				"by_list": [
-					"Echofiend",
-					"flyguy4247"
-				],
-				"by_link_list": [
-					"https://echofiend.itch.io/",
-					"https://flyguy4247.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 10,
-				"score": 3.6,
-				"ilscore": 55,
-				"submission_time_diff": -4460000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 148,
-				"jam_name": "Connections",
-				"jam_link": "https://itch.io/jam/mini-jam-148-connections",
-				"jam_vs": 53,
-				"title": "Office Ordeal",
-				"title_link": "https://flyguy4247.itch.io/office-ordeal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-148-connections/rate/2439518",
-				"by_list": [
-					"flyguy4247"
-				],
-				"by_link_list": [
-					"https://flyguy4247.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 16,
-				"score": 3.563,
-				"ilscore": 53,
-				"submission_time_diff": -10698000
 			},
 			{
 				"jam_type": "mini_jam",

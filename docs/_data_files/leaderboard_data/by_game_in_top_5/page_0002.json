@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Super8BitRafa",
+		"jammer_link": "https://super8bitrafa.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 19,
+				"jam_name": "Mysteries",
+				"jam_link": "https://itch.io/jam/mini-jam-19-mysteries",
+				"jam_vs": 25,
+				"title": "do robots dream?",
+				"title_link": "https://super8bitrafa.itch.io/m",
+				"submission_page_link": "https://itch.io/jam/mini-jam-19-mysteries/rate/356092",
+				"by_list": [
+					"Super8BitRafa"
+				],
+				"by_link_list": [
+					"https://super8bitrafa.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 7,
+				"score": 4.381,
+				"ilscore": 43,
+				"submission_time_diff": -31000
+			}
+		]
+	},
+	{
 		"jammer": "jfoe",
 		"jammer_link": "https://jfoe.itch.io/",
 		"game_list_sorted": [
@@ -381,7 +408,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -412,7 +439,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -497,7 +524,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "DemoDemo",
 				"title_link": "https://mudziok.itch.io/demodemo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878091",
@@ -512,8 +539,140 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.306,
-				"ilscore": 75,
+				"ilscore": 74,
 				"submission_time_diff": -22426000
+			}
+		]
+	},
+	{
+		"jammer": "snoodle",
+		"jammer_link": "https://snoodlegames.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Fathomless",
+				"title_link": "https://snoodlegames.itch.io/fathomless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
+				"by_list": [
+					"snoodle",
+					"Dave",
+					"bigwomp",
+					"Rexotec"
+				],
+				"by_link_list": [
+					"https://snoodlegames.itch.io/",
+					"https://davit-g.itch.io/",
+					"https://bigwomp.itch.io/",
+					"https://rexotec.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.295,
+				"ilscore": 86,
+				"submission_time_diff": -515000
+			}
+		]
+	},
+	{
+		"jammer": "Dave",
+		"jammer_link": "https://davit-g.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Fathomless",
+				"title_link": "https://snoodlegames.itch.io/fathomless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
+				"by_list": [
+					"snoodle",
+					"Dave",
+					"bigwomp",
+					"Rexotec"
+				],
+				"by_link_list": [
+					"https://snoodlegames.itch.io/",
+					"https://davit-g.itch.io/",
+					"https://bigwomp.itch.io/",
+					"https://rexotec.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.295,
+				"ilscore": 86,
+				"submission_time_diff": -515000
+			}
+		]
+	},
+	{
+		"jammer": "bigwomp",
+		"jammer_link": "https://bigwomp.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Fathomless",
+				"title_link": "https://snoodlegames.itch.io/fathomless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
+				"by_list": [
+					"snoodle",
+					"Dave",
+					"bigwomp",
+					"Rexotec"
+				],
+				"by_link_list": [
+					"https://snoodlegames.itch.io/",
+					"https://davit-g.itch.io/",
+					"https://bigwomp.itch.io/",
+					"https://rexotec.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.295,
+				"ilscore": 86,
+				"submission_time_diff": -515000
+			}
+		]
+	},
+	{
+		"jammer": "Rexotec",
+		"jammer_link": "https://rexotec.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Fathomless",
+				"title_link": "https://snoodlegames.itch.io/fathomless",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
+				"by_list": [
+					"snoodle",
+					"Dave",
+					"bigwomp",
+					"Rexotec"
+				],
+				"by_link_list": [
+					"https://snoodlegames.itch.io/",
+					"https://davit-g.itch.io/",
+					"https://bigwomp.itch.io/",
+					"https://rexotec.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.295,
+				"ilscore": 86,
+				"submission_time_diff": -515000
 			}
 		]
 	},
@@ -2775,149 +2934,6 @@
 				"score": 3.855,
 				"ilscore": 64,
 				"submission_time_diff": -366000
-			}
-		]
-	},
-	{
-		"jammer": "Francisco Leites",
-		"jammer_link": "https://rhaelzo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 96,
-				"jam_name": "Fate",
-				"jam_link": "https://itch.io/jam/mini-jam-96-fate",
-				"jam_vs": 58,
-				"title": "Adventuring Pixx",
-				"title_link": "https://rhaelzo.itch.io/adventuring-pixx",
-				"submission_page_link": "https://itch.io/jam/mini-jam-96-fate/rate/1332664",
-				"by_list": [
-					"Francisco Leites"
-				],
-				"by_link_list": [
-					"https://rhaelzo.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 15,
-				"score": 3.833,
-				"ilscore": 60,
-				"submission_time_diff": -1259000
-			}
-		]
-	},
-	{
-		"jammer": "AMIDev",
-		"jammer_link": "https://amidev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 59,
-				"jam_name": "Fortress",
-				"jam_link": "https://itch.io/jam/mini-jam-59",
-				"jam_vs": 24,
-				"title": "Gravitile",
-				"title_link": "https://amidev.itch.io/gravitile",
-				"submission_page_link": "https://itch.io/jam/mini-jam-59/rate/712185",
-				"by_list": [
-					"AMIDev"
-				],
-				"by_link_list": [
-					"https://amidev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 9,
-				"score": 3.778,
-				"ilscore": 36,
-				"submission_time_diff": -40557000
-			}
-		]
-	},
-	{
-		"jammer": "Flalcon",
-		"jammer_link": "https://flalcon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "DeRailed",
-				"title_link": "https://flalcon.itch.io/derailed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536469",
-				"by_list": [
-					"Flalcon",
-					"Hawkigamer1",
-					"kajdev"
-				],
-				"by_link_list": [
-					"https://flalcon.itch.io/",
-					"https://hawkigamer1.itch.io/",
-					"https://kajdev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": -54000
-			}
-		]
-	},
-	{
-		"jammer": "Hawkigamer1",
-		"jammer_link": "https://hawkigamer1.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "DeRailed",
-				"title_link": "https://flalcon.itch.io/derailed",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536469",
-				"by_list": [
-					"Flalcon",
-					"Hawkigamer1",
-					"kajdev"
-				],
-				"by_link_list": [
-					"https://flalcon.itch.io/",
-					"https://hawkigamer1.itch.io/",
-					"https://kajdev.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": -54000
-			}
-		]
-	},
-	{
-		"jammer": "Saturnaut",
-		"jammer_link": "https://saturnaut.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 43,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-43-travel",
-				"jam_vs": 14,
-				"title": "9 Lives",
-				"title_link": "https://saturnaut.itch.io/9lives",
-				"submission_page_link": "https://itch.io/jam/mini-jam-43-travel/rate/536512",
-				"by_list": [
-					"Saturnaut"
-				],
-				"by_link_list": [
-					"https://saturnaut.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 7,
-				"score": 3.643,
-				"ilscore": 25,
-				"submission_time_diff": 253000
 			}
 		]
 	}

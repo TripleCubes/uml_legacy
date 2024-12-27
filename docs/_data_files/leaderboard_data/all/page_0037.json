@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "mehehehe",
+		"jammer_link": "https://mehehehe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 79,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
+				"jam_vs": 182,
+				"title": "Forest Jump",
+				"title_link": "https://malaimo.itch.io/forest-jump",
+				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1024766",
+				"by_list": [
+					"malaimo",
+					"mehehehe"
+				],
+				"by_link_list": [
+					"https://malaimo.itch.io/",
+					"https://mehehehe.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 20,
+				"score": 3.538,
+				"ilscore": 90,
+				"submission_time_diff": -24535000
+			}
+		]
+	},
+	{
 		"jammer": "tonx",
 		"jammer_link": "https://tonx.itch.io/",
 		"game_list_sorted": [
@@ -1994,7 +2023,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "The Cleaner",
 				"title_link": "https://corrafiniuminc.itch.io/the-cleaner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564181",
@@ -3698,33 +3727,6 @@
 				"score": 1.621,
 				"ilscore": 41,
 				"submission_time_diff": 3971000
-			}
-		]
-	},
-	{
-		"jammer": "Tuke_31",
-		"jammer_link": "https://tuke-31.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Frog Game Thing",
-				"title_link": "https://tuke-31.itch.io/frog-game-thing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025454",
-				"by_list": [
-					"Tuke_31"
-				],
-				"by_link_list": [
-					"https://tuke-31.itch.io/"
-				],
-				"rank": 184,
-				"ratings": 7,
-				"score": 1.614,
-				"ilscore": 41,
-				"submission_time_diff": -26719000
 			}
 		]
 	}

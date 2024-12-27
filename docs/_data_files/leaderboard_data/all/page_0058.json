@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "dindotjs",
+		"jammer_link": "https://dindotjs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 102,
+				"jam_name": "Steam",
+				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
+				"jam_vs": 48,
+				"title": "Living Steam Machine",
+				"title_link": "https://dindotjs.itch.io/living-steam-machine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449563",
+				"by_list": [
+					"dindotjs"
+				],
+				"by_link_list": [
+					"https://dindotjs.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 26,
+				"score": 3.663,
+				"ilscore": 52,
+				"submission_time_diff": -20986000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 104,
+				"jam_name": "Cascade",
+				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
+				"jam_vs": 103,
+				"title": "Drag &amp; Lollipop",
+				"title_link": "https://dindotjs.itch.io/drag-and-lolipop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491261",
+				"by_list": [
+					"dindotjs"
+				],
+				"by_link_list": [
+					"https://dindotjs.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 19,
+				"score": 3.908,
+				"ilscore": 79,
+				"submission_time_diff": -5621000
+			}
+		]
+	},
+	{
 		"jammer": "Yumeji",
 		"jammer_link": "https://yumejiart.itch.io/",
 		"game_list_sorted": [
@@ -450,8 +498,8 @@
 		]
 	},
 	{
-		"jammer": "Team SunForge",
-		"jammer_link": "https://team-sunforge.itch.io/",
+		"jammer": "SunForge",
+		"jammer_link": "https://sunforge.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -460,13 +508,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
 				"jam_vs": 74,
 				"title": "Mushroom Melody",
-				"title_link": "https://team-sunforge.itch.io/mushroom-melody",
+				"title_link": "https://sunforge.itch.io/mushroom-melody",
 				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913200",
 				"by_list": [
-					"Team SunForge"
+					"SunForge"
 				],
 				"by_link_list": [
-					"https://team-sunforge.itch.io/"
+					"https://sunforge.itch.io/"
 				],
 				"rank": 18,
 				"ratings": 6,
@@ -481,13 +529,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
 				"jam_vs": 57,
 				"title": "A Fruitful Life",
-				"title_link": "https://team-sunforge.itch.io/fruitful-life",
+				"title_link": "https://sunforge.itch.io/fruitful-life",
 				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389649",
 				"by_list": [
-					"Team SunForge"
+					"SunForge"
 				],
 				"by_link_list": [
-					"https://team-sunforge.itch.io/"
+					"https://sunforge.itch.io/"
 				],
 				"rank": 18,
 				"ratings": 5,
@@ -501,14 +549,14 @@
 				"jam_name": "Steam",
 				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
 				"jam_vs": 48,
-				"title": "Spectral Express",
-				"title_link": "https://team-sunforge.itch.io/spectral-express",
+				"title": "Spectral Express - Jam Version",
+				"title_link": "https://sunforge.itch.io/spectral-express-jam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449981",
 				"by_list": [
-					"Team SunForge"
+					"SunForge"
 				],
 				"by_link_list": [
-					"https://team-sunforge.itch.io/"
+					"https://sunforge.itch.io/"
 				],
 				"rank": 22,
 				"ratings": 6,
@@ -523,13 +571,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
 				"jam_vs": 136,
 				"title": "MindSweep",
-				"title_link": "https://team-sunforge.itch.io/mindsweep",
+				"title_link": "https://sunforge.itch.io/mindsweep",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591036",
 				"by_list": [
-					"Team SunForge"
+					"SunForge"
 				],
 				"by_link_list": [
-					"https://team-sunforge.itch.io/"
+					"https://sunforge.itch.io/"
 				],
 				"rank": 51,
 				"ratings": 6,
@@ -2767,7 +2815,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Chop N' Eat",
 				"title_link": "https://liolemoto.itch.io/chop-n-eat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021582",
@@ -3148,7 +3196,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Wherewolf",
 				"title_link": "https://eljacko1.itch.io/wherewolf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020017",
@@ -3938,54 +3986,6 @@
 				"score": 2.67,
 				"ilscore": 63,
 				"submission_time_diff": -9076000
-			}
-		]
-	},
-	{
-		"jammer": "eFoxGaming",
-		"jammer_link": "https://efoxgaming.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
-				"title": "Moon escape",
-				"title_link": "https://efoxgaming.itch.io/moon-escape",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017804",
-				"by_list": [
-					"eFoxGaming"
-				],
-				"by_link_list": [
-					"https://efoxgaming.itch.io/"
-				],
-				"rank": 77,
-				"ratings": 8,
-				"score": 3.125,
-				"ilscore": 85,
-				"submission_time_diff": -8126000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Devil Killer",
-				"title_link": "https://efoxgaming.itch.io/devil-killer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469496",
-				"by_list": [
-					"eFoxGaming"
-				],
-				"by_link_list": [
-					"https://efoxgaming.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 11,
-				"score": 2.659,
-				"ilscore": 62,
-				"submission_time_diff": -16257000
 			}
 		]
 	}

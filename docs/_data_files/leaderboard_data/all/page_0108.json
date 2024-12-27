@@ -1,92 +1,5 @@
 [
 	{
-		"jammer": "Eliot Floor",
-		"jammer_link": "https://eliot-floor.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "A Light Jump",
-				"title_link": "https://eliot-floor.itch.io/a-light-jump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763789",
-				"by_list": [
-					"Eliot Floor"
-				],
-				"by_link_list": [
-					"https://eliot-floor.itch.io/"
-				],
-				"rank": 54,
-				"ratings": 7,
-				"score": 2.973,
-				"ilscore": 64,
-				"submission_time_diff": -25211000
-			}
-		]
-	},
-	{
-		"jammer": "FruitToast",
-		"jammer_link": "https://fruittoast.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Light Run",
-				"title_link": "https://fruittoast.itch.io/light-run",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764562",
-				"by_list": [
-					"FruitToast"
-				],
-				"by_link_list": [
-					"https://fruittoast.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 6,
-				"score": 2.959,
-				"ilscore": 64,
-				"submission_time_diff": -706000
-			}
-		]
-	},
-	{
-		"jammer": "Magus",
-		"jammer_link": "https://bizzybeecreator.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Crops and Chaos",
-				"title_link": "https://squashyheemo.itch.io/crops-and-chaos",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763289",
-				"by_list": [
-					"SquashyHeemo",
-					"Magus",
-					"loveOS by @cookiielove_",
-					"Mesio Saki"
-				],
-				"by_link_list": [
-					"https://squashyheemo.itch.io/",
-					"https://bizzybeecreator.itch.io/",
-					"https://loveos.itch.io/",
-					"https://mesio-saki.itch.io/"
-				],
-				"rank": 56,
-				"ratings": 18,
-				"score": 2.931,
-				"ilscore": 64,
-				"submission_time_diff": -5985000
-			}
-		]
-	},
-	{
 		"jammer": "loveOS by @cookiielove_",
 		"jammer_link": "https://loveos.itch.io/",
 		"game_list_sorted": [
@@ -847,7 +760,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Ruthless Grug: World Eater 4000",
 				"title_link": "https://doctorstupid.itch.io/ruthless-grug-future-world-eater-4000",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878690",
@@ -1195,6 +1108,27 @@
 		"jammer": "Igroman_play",
 		"jammer_link": "https://igroman-play324.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "game43",
+				"title_link": "https://igroman-play324.itch.io/game343",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3198372",
+				"by_list": [
+					"Igroman_play"
+				],
+				"by_link_list": [
+					"https://igroman-play324.itch.io/"
+				],
+				"rank": 101,
+				"ratings": 1,
+				"score": 0.442,
+				"ilscore": 8,
+				"submission_time_diff": -34613000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 160,
@@ -2210,7 +2144,7 @@
 		]
 	},
 	{
-		"jammer": "PixelPulse",
+		"jammer": "Goodgis",
 		"jammer_link": "https://pixelpulse283.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2223,7 +2157,7 @@
 				"title_link": "https://pixelpulse283.itch.io/turn-a-lot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789911",
 				"by_list": [
-					"PixelPulse"
+					"Goodgis"
 				],
 				"by_link_list": [
 					"https://pixelpulse283.itch.io/"
@@ -3018,6 +2952,95 @@
 				"score": 3.977,
 				"ilscore": 90,
 				"submission_time_diff": -3349000
+			}
+		]
+	},
+	{
+		"jammer": "Rowlof",
+		"jammer_link": "https://rowlof.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Brakeaway Blast",
+				"title_link": "https://rowlof.itch.io/brakeaway-blast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818923",
+				"by_list": [
+					"Rowlof",
+					"ArtB2003"
+				],
+				"by_link_list": [
+					"https://rowlof.itch.io/",
+					"https://artb2003.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 26,
+				"score": 3.875,
+				"ilscore": 88,
+				"submission_time_diff": -22070000
+			}
+		]
+	},
+	{
+		"jammer": "ArtB2003",
+		"jammer_link": "https://artb2003.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Brakeaway Blast",
+				"title_link": "https://rowlof.itch.io/brakeaway-blast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818923",
+				"by_list": [
+					"Rowlof",
+					"ArtB2003"
+				],
+				"by_link_list": [
+					"https://rowlof.itch.io/",
+					"https://artb2003.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 26,
+				"score": 3.875,
+				"ilscore": 88,
+				"submission_time_diff": -22070000
+			}
+		]
+	},
+	{
+		"jammer": "PicoDev",
+		"jammer_link": "https://impicodev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "TOADal Flow",
+				"title_link": "https://impicodev.itch.io/toadal-flow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818501",
+				"by_list": [
+					"PicoDev",
+					"Ricky Balboa",
+					"Blobble"
+				],
+				"by_link_list": [
+					"https://impicodev.itch.io/",
+					"https://ricky-balboa.itch.io/",
+					"https://blobblee.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 29,
+				"score": 3.871,
+				"ilscore": 88,
+				"submission_time_diff": 37234000
 			}
 		]
 	}

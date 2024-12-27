@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "Octartis",
+		"jammer_link": "https://octartis.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"jam_vs": 57,
+				"title": "Dino Spin",
+				"title_link": "https://octartis.itch.io/dinospin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691627",
+				"by_list": [
+					"Octartis"
+				],
+				"by_link_list": [
+					"https://octartis.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 14,
+				"score": 3.179,
+				"ilscore": 49,
+				"submission_time_diff": -8355000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Pibooh!",
+				"title_link": "https://octartis.itch.io/pibooh",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749547",
+				"by_list": [
+					"Octartis"
+				],
+				"by_link_list": [
+					"https://octartis.itch.io/"
+				],
+				"rank": 116,
+				"ratings": 11,
+				"score": 2.432,
+				"ilscore": 62,
+				"submission_time_diff": -14604000
+			}
+		]
+	},
+	{
 		"jammer": "necrocultist",
 		"jammer_link": "https://necrocultist.itch.io/",
 		"game_list_sorted": [
@@ -271,7 +319,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Cat Escape Maze Run",
 				"title_link": "https://crackeddome.itch.io/catescape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017971",
@@ -292,7 +340,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Fishing Ship Parts",
 				"title_link": "https://crackeddome.itch.io/fishing-ship-parts",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561947",
@@ -1456,7 +1504,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "10 seconds Mayhem",
 				"title_link": "https://drewmanfu.itch.io/10-second-mayhem",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021123",
@@ -1488,10 +1536,12 @@
 				"title_link": "https://themkdev.itch.io/spell-evator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100859",
 				"by_list": [
-					"TheMKDev"
+					"TheMKDev",
+					"Detective Nuts"
 				],
 				"by_link_list": [
-					"https://themkdev.itch.io/"
+					"https://themkdev.itch.io/",
+					"https://detective-nuts.itch.io/"
 				],
 				"rank": 7,
 				"ratings": 10,
@@ -1510,11 +1560,13 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006857",
 				"by_list": [
 					"TheMKDev2",
-					"TheMKDev"
+					"TheMKDev",
+					"Detective Nuts"
 				],
 				"by_link_list": [
 					"https://themkdev2.itch.io/",
-					"https://themkdev.itch.io/"
+					"https://themkdev.itch.io/",
+					"https://detective-nuts.itch.io/"
 				],
 				"rank": 11,
 				"ratings": 9,
@@ -1532,10 +1584,12 @@
 				"title_link": "https://themkdev.itch.io/raindropdrop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166226",
 				"by_list": [
-					"TheMKDev"
+					"TheMKDev",
+					"Detective Nuts"
 				],
 				"by_link_list": [
-					"https://themkdev.itch.io/"
+					"https://themkdev.itch.io/",
+					"https://detective-nuts.itch.io/"
 				],
 				"rank": 18,
 				"ratings": 14,
@@ -3096,7 +3150,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Ryoiki Tenkai",
 				"title_link": "https://psemo.itch.io/you-may-survive",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483586",
@@ -3820,35 +3874,6 @@
 				"score": 3.708,
 				"ilscore": 95,
 				"submission_time_diff": -13641000
-			}
-		]
-	},
-	{
-		"jammer": "Brinjaw",
-		"jammer_link": "https://brinjaw.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Spookfestation",
-				"title_link": "https://brinjaw.itch.io/spookfestation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1750000",
-				"by_list": [
-					"Brinjaw",
-					"daggerKN19HT"
-				],
-				"by_link_list": [
-					"https://brinjaw.itch.io/",
-					"https://daggerkn19ht.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 14,
-				"score": 3.696,
-				"ilscore": 95,
-				"submission_time_diff": -2738000
 			}
 		]
 	}

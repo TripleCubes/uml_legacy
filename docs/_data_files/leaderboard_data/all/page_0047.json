@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Haukrr",
+		"jammer_link": "https://haukrr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 89,
+				"jam_name": "Pumpkin",
+				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
+				"jam_vs": 83,
+				"title": "Pumpkin Keeper (MiniJam 89)",
+				"title_link": "https://haukrr.itch.io/pumpkin-keeper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203452",
+				"by_list": [
+					"Haukrr"
+				],
+				"by_link_list": [
+					"https://haukrr.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 3,
+				"score": 1.925,
+				"ilscore": 35,
+				"submission_time_diff": -23171000
+			}
+		]
+	},
+	{
 		"jammer": "himzanijabakir",
 		"jammer_link": "https://himzanijabakir.itch.io/",
 		"game_list_sorted": [
@@ -3106,7 +3133,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "SANITIZE THE DARK",
 				"title_link": "https://breadroll.itch.io/sanitize-the-dark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483444",
@@ -3119,7 +3146,7 @@
 				"rank": 2,
 				"ratings": 26,
 				"score": 4.26,
-				"ilscore": 94,
+				"ilscore": 93,
 				"submission_time_diff": 49051000
 			},
 			{
@@ -3692,7 +3719,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "BallBoy Destruction Co.",
 				"title_link": "https://tr33-gam3-studios.itch.io/ballboy-destruction-co",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878281",
@@ -3707,6 +3734,27 @@
 				"score": 3.308,
 				"ilscore": 57,
 				"submission_time_diff": -18819000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 101,
+				"title": "Rushed Night at Jammy's",
+				"title_link": "https://tr33-gam3-studios.itch.io/rushed-night-at-jammys",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3196517",
+				"by_list": [
+					"Tr33 Gam3 Studios"
+				],
+				"by_link_list": [
+					"https://tr33-gam3-studios.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 12,
+				"score": 3.375,
+				"ilscore": 68,
+				"submission_time_diff": -108915000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -3870,7 +3918,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Moon Worm",
 				"title_link": "https://phlp.itch.io/moon-worm",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021176",
@@ -4470,35 +4518,6 @@
 				"score": 3.344,
 				"ilscore": 70,
 				"submission_time_diff": 123036000
-			}
-		]
-	},
-	{
-		"jammer": "noskro",
-		"jammer_link": "https://noskro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 127,
-				"title": "UFO Fishing",
-				"title_link": "https://noskro.itch.io/ufo-fishing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1239280",
-				"by_list": [
-					"noskro",
-					"bitmedic"
-				],
-				"by_link_list": [
-					"https://noskro.itch.io/",
-					"https://bitmedic.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 11,
-				"score": 3.409,
-				"ilscore": 75,
-				"submission_time_diff": -27659000
 			}
 		]
 	}

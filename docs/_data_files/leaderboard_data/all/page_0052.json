@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "novial",
+		"jammer_link": "https://novial.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 104,
+				"title": "BiomeSwitch",
+				"title_link": "https://novial.itch.io/biomeswitch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347530",
+				"by_list": [
+					"novial",
+					"Cyber Squib",
+					"Arix"
+				],
+				"by_link_list": [
+					"https://novial.itch.io/",
+					"https://cyber-squib.itch.io/",
+					"https://arix-furette.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 33,
+				"score": 3.144,
+				"ilscore": 64,
+				"submission_time_diff": -10374000
+			}
+		]
+	},
+	{
 		"jammer": "Cyber Squib",
 		"jammer_link": "https://cyber-squib.itch.io/",
 		"game_list_sorted": [
@@ -222,7 +253,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "Super Rush",
 				"title_link": "https://cyber-squib.itch.io/super-rush",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562966",
@@ -3765,7 +3796,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 216,
+				"jam_vs": 215,
 				"title": "Lunar Odyssey - A Rabbit's Tale",
 				"title_link": "https://dannyvsh.itch.io/lunar-odyssey-a-rabbits-tale",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020711",
@@ -3910,7 +3941,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 203,
+				"jam_vs": 202,
 				"title": "The Famous Jack Ronald And The Acid Lakes",
 				"title_link": "https://underthree.itch.io/the-famous-jack-ronald-and-acidic-lakes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564111",
@@ -3923,7 +3954,7 @@
 				"rank": 61,
 				"ratings": 11,
 				"score": 3.227,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": -4482000
 			},
 			{
@@ -4252,54 +4283,6 @@
 				"score": 2.908,
 				"ilscore": 62,
 				"submission_time_diff": -11490000
-			}
-		]
-	},
-	{
-		"jammer": "Aizeir",
-		"jammer_link": "https://aizeir.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "Square Tokens",
-				"title_link": "https://aizeir.itch.io/square-tokens",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1365517",
-				"by_list": [
-					"Aizeir"
-				],
-				"by_link_list": [
-					"https://aizeir.itch.io/"
-				],
-				"rank": 60,
-				"ratings": 5,
-				"score": 2.899,
-				"ilscore": 62,
-				"submission_time_diff": -32184000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
-				"title": "Below Rooms",
-				"title_link": "https://aizeir.itch.io/below-rooms",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482360",
-				"by_list": [
-					"Aizeir"
-				],
-				"by_link_list": [
-					"https://aizeir.itch.io/"
-				],
-				"rank": 121,
-				"ratings": 2,
-				"score": 1.737,
-				"ilscore": 38,
-				"submission_time_diff": -29467000
 			}
 		]
 	}

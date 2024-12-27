@@ -1,5 +1,80 @@
 [
 	{
+		"jammer": "Mein-kun",
+		"jammer_link": "https://mein-kun.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "Control Your Luck",
+				"title_link": "https://kingelaim.itch.io/controlyourluck",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2291526",
+				"by_list": [
+					"KinGelaim",
+					"Mein-kun"
+				],
+				"by_link_list": [
+					"https://kingelaim.itch.io/",
+					"https://mein-kun.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 7,
+				"score": 2.222,
+				"ilscore": 29,
+				"submission_time_diff": -40129000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Do zombies dream of ropes?",
+				"title_link": "https://kingelaim.itch.io/do-zombies-dream-of-ropes",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2339604",
+				"by_list": [
+					"KinGelaim",
+					"Mein-kun"
+				],
+				"by_link_list": [
+					"https://kingelaim.itch.io/",
+					"https://mein-kun.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 11,
+				"score": 2.795,
+				"ilscore": 46,
+				"submission_time_diff": -41200000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 155,
+				"jam_name": "Wind",
+				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
+				"jam_vs": 110,
+				"title": "Paper Airplane",
+				"title_link": "https://kingelaim.itch.io/paper-airplane",
+				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617043",
+				"by_list": [
+					"KinGelaim",
+					"Mein-kun"
+				],
+				"by_link_list": [
+					"https://kingelaim.itch.io/",
+					"https://mein-kun.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 16,
+				"score": 2.703,
+				"ilscore": 56,
+				"submission_time_diff": -63768000
+			}
+		]
+	},
+	{
 		"jammer": "Solicey",
 		"jammer_link": "https://solicey.itch.io/",
 		"game_list_sorted": [
@@ -56,7 +131,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Mystic Leap",
 				"title_link": "https://lightningpickle.itch.io/mystic-leap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
@@ -131,7 +206,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Mystic Leap",
 				"title_link": "https://lightningpickle.itch.io/mystic-leap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
@@ -2319,7 +2394,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Shell Shuffle",
 				"title_link": "https://mvs-music.itch.io/shellshuffle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2730621",
@@ -3299,35 +3374,6 @@
 				"score": 2.033,
 				"ilscore": 33,
 				"submission_time_diff": 1803000
-			}
-		]
-	},
-	{
-		"jammer": "MechanicalRaven",
-		"jammer_link": "https://mechanicalraven.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Mare Enter Into Knight",
-				"title_link": "https://heftybandicoot.itch.io/mare-enter-into-knight",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341303",
-				"by_list": [
-					"HeftyBandicoot",
-					"MechanicalRaven"
-				],
-				"by_link_list": [
-					"https://heftybandicoot.itch.io/",
-					"https://mechanicalraven.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 8,
-				"score": 2,
-				"ilscore": 33,
-				"submission_time_diff": 1732000
 			}
 		]
 	}

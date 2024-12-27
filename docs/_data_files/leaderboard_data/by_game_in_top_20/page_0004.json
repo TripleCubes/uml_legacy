@@ -1,5 +1,149 @@
 [
 	{
+		"jammer": "Josh McMillan",
+		"jammer_link": "https://josh-mcmillan.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 30,
+				"jam_name": "GBStudio",
+				"jam_link": "https://itch.io/jam/mini-jam-30-gameboy",
+				"jam_vs": 34,
+				"title": "Nightfall",
+				"title_link": "https://josh-mcmillan.itch.io/nightfall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-30-gameboy/rate/438656",
+				"by_list": [
+					"Josh McMillan"
+				],
+				"by_link_list": [
+					"https://josh-mcmillan.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 17,
+				"score": 4.176,
+				"ilscore": 49,
+				"submission_time_diff": -338000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 26,
+				"jam_name": "Storms",
+				"jam_link": "https://itch.io/jam/mini-jam-26-storms",
+				"jam_vs": 21,
+				"title": "Farm Stormer",
+				"title_link": "https://josh-mcmillan.itch.io/farm-stormer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-26-storms/rate/409616",
+				"by_list": [
+					"Josh McMillan"
+				],
+				"by_link_list": [
+					"https://josh-mcmillan.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 6,
+				"score": 2.5,
+				"ilscore": 22,
+				"submission_time_diff": 38482000
+			}
+		]
+	},
+	{
+		"jammer": "NickTheSic",
+		"jammer_link": "https://nickthesic.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 6,
+				"jam_name": "Boss Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-6th-edition",
+				"jam_vs": 20,
+				"title": "Paper Stamping Factory",
+				"title_link": "https://nickthesic.itch.io/paper-stamping-factory",
+				"submission_page_link": "https://itch.io/jam/mini-jam-6th-edition/rate/279717",
+				"by_list": [
+					"NickTheSic"
+				],
+				"by_link_list": [
+					"https://nickthesic.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 7,
+				"score": 3.878,
+				"ilscore": 33,
+				"submission_time_diff": -23955000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 3,
+				"jam_name": "Salvage, Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam3rdedition",
+				"jam_vs": 15,
+				"title": "Please the Consuming Darkness",
+				"title_link": "https://nickthesic.itch.io/please-the-consuming-darkness",
+				"submission_page_link": "https://itch.io/jam/mini-jam3rdedition/rate/264636",
+				"by_list": [
+					"NickTheSic"
+				],
+				"by_link_list": [
+					"https://nickthesic.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 6,
+				"score": 0.331,
+				"ilscore": 2,
+				"submission_time_diff": -25745000
+			}
+		]
+	},
+	{
+		"jammer": "Quasari",
+		"jammer_link": "https://quasari.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Inflamed Breath",
+				"title_link": "https://quasari.itch.io/inflamed-breath",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764078",
+				"by_list": [
+					"Quasari"
+				],
+				"by_link_list": [
+					"https://quasari.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 16,
+				"score": 4.031,
+				"ilscore": 88,
+				"submission_time_diff": -4343000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Where is Teddy? &lt;127.0.0.1&gt;",
+				"title_link": "https://quasari.itch.io/where-is-teddy-127001",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831943",
+				"by_list": [
+					"Quasari"
+				],
+				"by_link_list": [
+					"https://quasari.itch.io/"
+				],
+				"rank": 13,
+				"ratings": 19,
+				"score": 3.895,
+				"ilscore": 83,
+				"submission_time_diff": -10087000
+			}
+		]
+	},
+	{
 		"jammer": "Purple Clam",
 		"jammer_link": "https://purple-clam.itch.io/",
 		"game_list_sorted": [
@@ -471,7 +615,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "Wave Wall",
 				"title_link": "https://mi111.itch.io/wave-wall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2728612",
@@ -484,7 +628,7 @@
 				"rank": 15,
 				"ratings": 11,
 				"score": 3.864,
-				"ilscore": 85,
+				"ilscore": 84,
 				"submission_time_diff": -10946000
 			}
 		]
@@ -807,7 +951,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
+				"jam_vs": 72,
 				"title": "Return to Sender",
 				"title_link": "https://aaaahron.itch.io/return-to-sender",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874833",
@@ -909,7 +1053,7 @@
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 126,
+				"jam_vs": 124,
 				"title": "The Bucket",
 				"title_link": "https://youle.itch.io/the-bucket",
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732533",
@@ -2776,66 +2920,6 @@
 				"score": 3.767,
 				"ilscore": 84,
 				"submission_time_diff": -17791000
-			}
-		]
-	},
-	{
-		"jammer": "Denis The Menace",
-		"jammer_link": "https://denis002.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 172,
-				"jam_name": "Security",
-				"jam_link": "https://itch.io/jam/mini-jam-172-security",
-				"jam_vs": 38,
-				"title": "Desktop Security",
-				"title_link": "https://samerj.itch.io/desktop-security",
-				"submission_page_link": "https://itch.io/jam/mini-jam-172-security/rate/3133162",
-				"by_list": [
-					"SJ",
-					"ozzelozzel",
-					"ppaterlini",
-					"Kip LaVie",
-					"Denis The Menace"
-				],
-				"by_link_list": [
-					"https://samerj.itch.io/",
-					"https://ozzelozzel.itch.io/",
-					"https://ppaterlini.itch.io/",
-					"https://kiplavie.itch.io/",
-					"https://denis002.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 13,
-				"score": 3.327,
-				"ilscore": 42,
-				"submission_time_diff": -1623000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 73,
-				"title": "Solar Bound",
-				"title_link": "https://ethandalecreative.itch.io/solar-bound",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
-				"by_list": [
-					"EthanDev",
-					"CDplaya",
-					"Denis The Menace"
-				],
-				"by_link_list": [
-					"https://ethandalecreative.itch.io/",
-					"https://cdplaya.itch.io/",
-					"https://denis002.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 16,
-				"score": 3.719,
-				"ilscore": 64,
-				"submission_time_diff": -248000
 			}
 		]
 	},
@@ -4978,104 +5062,6 @@
 				"score": 3.518,
 				"ilscore": 71,
 				"submission_time_diff": -160324000
-			}
-		]
-	},
-	{
-		"jammer": "Aviv Youker Harel",
-		"jammer_link": "https://aviv-youker-harel.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Genesis",
-				"title_link": "https://aviv-youker-harel.itch.io/genesis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867837",
-				"by_list": [
-					"Aviv Youker Harel"
-				],
-				"by_link_list": [
-					"https://aviv-youker-harel.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 17,
-				"score": 3.75,
-				"ilscore": 61,
-				"submission_time_diff": -26971000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 69,
-				"jam_name": "Hell",
-				"jam_link": "https://itch.io/jam/mini-jam-69-hell",
-				"jam_vs": 98,
-				"title": "Devil's Game.",
-				"title_link": "https://aviv-youker-harel.itch.io/devils-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-69-hell/rate/854758",
-				"by_list": [
-					"Aviv Youker Harel"
-				],
-				"by_link_list": [
-					"https://aviv-youker-harel.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 8,
-				"score": 3.594,
-				"ilscore": 71,
-				"submission_time_diff": -7299000
-			}
-		]
-	},
-	{
-		"jammer": "Jiji200",
-		"jammer_link": "https://jiji200.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "PUPUMP",
-				"title_link": "https://jiji200.itch.io/pupump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913586",
-				"by_list": [
-					"Jiji200"
-				],
-				"by_link_list": [
-					"https://jiji200.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 10,
-				"score": 3.7,
-				"ilscore": 65,
-				"submission_time_diff": -690000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 72,
-				"jam_name": "Adventure",
-				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
-				"jam_vs": 73,
-				"title": "New Home",
-				"title_link": "https://jiji200.itch.io/new-home",
-				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/894195",
-				"by_list": [
-					"Jiji200",
-					"Naradoxy"
-				],
-				"by_link_list": [
-					"https://jiji200.itch.io/",
-					"https://naradoxy.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 24,
-				"score": 3.583,
-				"ilscore": 62,
-				"submission_time_diff": -1074000
 			}
 		]
 	}
