@@ -1,5 +1,59 @@
 [
 	{
+		"jammer": "Thinker",
+		"jammer_link": "https://lunicosm.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 136,
+				"title": "Platformia Dreamin'",
+				"title_link": "https://lunicosm.itch.io/platformia-dreamin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511861",
+				"by_list": [
+					"Thinker"
+				],
+				"by_link_list": [
+					"https://lunicosm.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 23,
+				"score": 4.011,
+				"ilscore": 91,
+				"submission_time_diff": 26396000
+			}
+		]
+	},
+	{
+		"jammer": "Frog",
+		"jammer_link": "https://froghood.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 5,
+				"jam_name": "Major Jam 5: Legends",
+				"jam_link": "https://itch.io/jam/major-jam-5",
+				"jam_vs": 17,
+				"title": "Window Warfare",
+				"title_link": "https://froghood.itch.io/window-warfare",
+				"submission_page_link": "https://itch.io/jam/major-jam-5/rate/1682781",
+				"by_list": [
+					"Frog"
+				],
+				"by_link_list": [
+					"https://froghood.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 6,
+				"score": 4,
+				"ilscore": 31,
+				"submission_time_diff": -3575000
+			}
+		]
+	},
+	{
 		"jammer": "Goori",
 		"jammer_link": "https://goori.itch.io/",
 		"game_list_sorted": [
@@ -2335,7 +2389,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "NO GREEN",
 				"title_link": "https://ducklingknight.itch.io/no-green",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943338",
@@ -2866,60 +2920,6 @@
 				"score": 4.25,
 				"ilscore": 56,
 				"submission_time_diff": -21682000
-			}
-		]
-	},
-	{
-		"jammer": "Aspect - Psi",
-		"jammer_link": "https://probablyadev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "Conjuring &amp; Curating (Game Jam Edition)",
-				"title_link": "https://probablyadev.itch.io/conjuring-curating",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/948608",
-				"by_list": [
-					"Aspect - Psi"
-				],
-				"by_link_list": [
-					"https://probablyadev.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 27,
-				"score": 4.241,
-				"ilscore": 85,
-				"submission_time_diff": -4955000
-			}
-		]
-	},
-	{
-		"jammer": "Matt Kimball",
-		"jammer_link": "https://mkimball.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"jam_vs": 48,
-				"title": "Undercrypt",
-				"title_link": "https://mkimball.itch.io/undercrypt",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683641",
-				"by_list": [
-					"Matt Kimball"
-				],
-				"by_link_list": [
-					"https://mkimball.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 20,
-				"score": 4.225,
-				"ilscore": 60,
-				"submission_time_diff": -16838000
 			}
 		]
 	}

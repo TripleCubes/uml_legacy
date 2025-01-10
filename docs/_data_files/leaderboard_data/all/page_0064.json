@@ -454,7 +454,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 210,
 				"title": "Electrical Ground",
 				"title_link": "https://blodyx.itch.io/electrical-ground",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868978",
@@ -496,7 +496,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 125,
+				"jam_vs": 126,
 				"title": "Solar Sorcerer",
 				"title_link": "https://blodyx.itch.io/solar-sorcerer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482796",
@@ -566,6 +566,27 @@
 		"jammer": "PAPERMOON_SO",
 		"jammer_link": "https://papermoon-so.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Faulty Overdrive",
+				"title_link": "https://papermoon-so.itch.io/faulty-overdrive",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225600",
+				"by_list": [
+					"PAPERMOON_SO"
+				],
+				"by_link_list": [
+					"https://papermoon-so.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 16,
+				"score": 4.203,
+				"ilscore": 97,
+				"submission_time_diff": -9865000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 107,
@@ -1124,7 +1145,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "A Boy and his Bike",
 				"title_link": "https://metaarcade.itch.io/a-boy-and-his-bike",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944575",
@@ -3304,7 +3325,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 210,
 				"title": "Super Paper Spider",
 				"title_link": "https://rki3000.itch.io/super-paper-spider",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867521",

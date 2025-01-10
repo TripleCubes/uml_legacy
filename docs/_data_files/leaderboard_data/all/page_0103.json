@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "kaidash",
+		"jammer_link": "https://kaidash123.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "All in a Box",
+				"title_link": "https://jnwjchannel.itch.io/all-in-a-box",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2587656",
+				"by_list": [
+					"Joco",
+					"kaidash"
+				],
+				"by_link_list": [
+					"https://jnwjchannel.itch.io/",
+					"https://kaidash123.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 32,
+				"score": 3.469,
+				"ilscore": 62,
+				"submission_time_diff": -314000
+			}
+		]
+	},
+	{
 		"jammer": "reo",
 		"jammer_link": "https://reodev.itch.io/",
 		"game_list_sorted": [
@@ -302,6 +331,33 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Mountain Momentum",
+				"title_link": "https://twads9816.itch.io/mountain-momentum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3224660",
+				"by_list": [
+					"Tom",
+					"YaYa",
+					"rslezas",
+					"Benji.3DArt"
+				],
+				"by_link_list": [
+					"https://twads9816.itch.io/",
+					"https://yayamb.itch.io/",
+					"https://rslezas.itch.io/",
+					"https://benji3dart.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 18,
+				"score": 3.403,
+				"ilscore": 78,
+				"submission_time_diff": -69000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 154,
 				"jam_name": "Travel",
 				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
@@ -311,7 +367,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591547",
 				"by_list": [
 					"Tom",
-					"yayamb"
+					"YaYa"
 				],
 				"by_link_list": [
 					"https://twads9816.itch.io/",
@@ -326,9 +382,36 @@
 		]
 	},
 	{
-		"jammer": "yayamb",
+		"jammer": "YaYa",
 		"jammer_link": "https://yayamb.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Mountain Momentum",
+				"title_link": "https://twads9816.itch.io/mountain-momentum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3224660",
+				"by_list": [
+					"Tom",
+					"YaYa",
+					"rslezas",
+					"Benji.3DArt"
+				],
+				"by_link_list": [
+					"https://twads9816.itch.io/",
+					"https://yayamb.itch.io/",
+					"https://rslezas.itch.io/",
+					"https://benji3dart.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 18,
+				"score": 3.403,
+				"ilscore": 78,
+				"submission_time_diff": -69000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 154,
@@ -340,7 +423,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591547",
 				"by_list": [
 					"Tom",
-					"yayamb"
+					"YaYa"
 				],
 				"by_link_list": [
 					"https://twads9816.itch.io/",
@@ -2456,6 +2539,27 @@
 				"score": 3.097,
 				"ilscore": 64,
 				"submission_time_diff": -28203000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Gravity Glitch",
+				"title_link": "https://splatrika.itch.io/gravity-glitch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225693",
+				"by_list": [
+					"Splatrika"
+				],
+				"by_link_list": [
+					"https://splatrika.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 6,
+				"score": 2.969,
+				"ilscore": 68,
+				"submission_time_diff": -3137000
 			}
 		]
 	},
@@ -2695,7 +2799,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "It was a Rainy Day",
 				"title_link": "https://cristian-nastase.itch.io/it-was-a-rainy-day",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944626",
@@ -3177,39 +3281,6 @@
 	{
 		"jammer": "Redepty",
 		"jammer_link": "https://redepty.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 155,
-				"jam_name": "Wind",
-				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
-				"title": "Dungeons And Winds",
-				"title_link": "https://redepty.itch.io/dungeonsandwinds",
-				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618388",
-				"by_list": [
-					"Redepty",
-					"GriBOK5K",
-					"Lemonyrain",
-					"homjakjuzer"
-				],
-				"by_link_list": [
-					"https://redepty.itch.io/",
-					"https://gribok5k.itch.io/",
-					"https://lemonyrain.itch.io/",
-					"https://homjakjuzer.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 4,
-				"score": 2.474,
-				"ilscore": 51,
-				"submission_time_diff": -17155000
-			}
-		]
-	},
-	{
-		"jammer": "GriBOK5K",
-		"jammer_link": "https://gribok5k.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

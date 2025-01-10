@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "Stray_Vince",
+		"jammer_link": "https://stray-vince.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 94,
+				"title": "Draconomnomnomicon",
+				"title_link": "https://thoozee.itch.io/draconomnomnomicon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512296",
+				"by_list": [
+					"Thoozee",
+					"cat.astro",
+					"Stray_Vince"
+				],
+				"by_link_list": [
+					"https://thoozee.itch.io/",
+					"https://catastro.itch.io/",
+					"https://stray-vince.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 13,
+				"score": 3.346,
+				"ilscore": 65,
+				"submission_time_diff": -13251000
+			}
+		]
+	},
+	{
 		"jammer": "hologamer",
 		"jammer_link": "https://hologamer.itch.io/",
 		"game_list_sorted": [
@@ -29,7 +60,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Light up",
 				"title_link": "https://hologamer.itch.io/lightup",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2941127",
@@ -541,7 +572,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Darwin's Ark",
 				"title_link": "https://allegrak.itch.io/darwins-ark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943558",
@@ -3652,33 +3683,6 @@
 				"score": 0.938,
 				"ilscore": 12,
 				"submission_time_diff": -11186000
-			}
-		]
-	},
-	{
-		"jammer": "Bouncing Dragon Games",
-		"jammer_link": "https://bouncing-dragon-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 152,
-				"jam_name": "Heroes",
-				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
-				"jam_vs": 45,
-				"title": "RATAWAY",
-				"title_link": "https://bouncing-dragon-games.itch.io/rataway",
-				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537797",
-				"by_list": [
-					"Bouncing Dragon Games"
-				],
-				"by_link_list": [
-					"https://bouncing-dragon-games.itch.io/"
-				],
-				"rank": 47,
-				"ratings": 1,
-				"score": 0.354,
-				"ilscore": 4,
-				"submission_time_diff": -4632000
 			}
 		]
 	}

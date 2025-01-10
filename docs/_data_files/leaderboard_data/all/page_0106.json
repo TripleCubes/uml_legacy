@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "FilthyMinx",
+		"jammer_link": "https://filthyminx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 124,
+				"title": "Ocean Overload",
+				"title_link": "https://filthyminx.itch.io/ocean-overload",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2730572",
+				"by_list": [
+					"FilthyMinx"
+				],
+				"by_link_list": [
+					"https://filthyminx.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 5,
+				"score": 2.916,
+				"ilscore": 64,
+				"submission_time_diff": -60080000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Spark of Urgency",
+				"title_link": "https://filthyminx.itch.io/spark-of-urgency",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673764",
+				"by_list": [
+					"FilthyMinx"
+				],
+				"by_link_list": [
+					"https://filthyminx.itch.io/"
+				],
+				"rank": 95,
+				"ratings": 6,
+				"score": 2.237,
+				"ilscore": 47,
+				"submission_time_diff": -64065000
+			}
+		]
+	},
+	{
 		"jammer": "en0by",
 		"jammer_link": "https://en0by.itch.io/",
 		"game_list_sorted": [
@@ -557,7 +605,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Element Invaders",
 				"title_link": "https://lyricsz.itch.io/element-invaders",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944127",
@@ -1499,6 +1547,27 @@
 				"score": 1.691,
 				"ilscore": 25,
 				"submission_time_diff": 255194000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "The Awakening",
+				"title_link": "https://eckardt-studios.itch.io/the-awakening",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3228204",
+				"by_list": [
+					"EckardtStudios"
+				],
+				"by_link_list": [
+					"https://eckardt-studios.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 2,
+				"score": 1.398,
+				"ilscore": 32,
+				"submission_time_diff": 153647000
 			}
 		]
 	},
@@ -2278,7 +2347,7 @@
 					"MVS",
 					"Copper76",
 					"mjmaciver",
-					"LavenBolt Studios"
+					"W-IIV"
 				],
 				"by_link_list": [
 					"https://mvs-music.itch.io/",
@@ -2311,7 +2380,7 @@
 					"MVS",
 					"Copper76",
 					"mjmaciver",
-					"LavenBolt Studios"
+					"W-IIV"
 				],
 				"by_link_list": [
 					"https://mvs-music.itch.io/",
@@ -2328,7 +2397,7 @@
 		]
 	},
 	{
-		"jammer": "LavenBolt Studios",
+		"jammer": "W-IIV",
 		"jammer_link": "https://w-iiv.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2344,7 +2413,7 @@
 					"MVS",
 					"Copper76",
 					"mjmaciver",
-					"LavenBolt Studios"
+					"W-IIV"
 				],
 				"by_link_list": [
 					"https://mvs-music.itch.io/",
@@ -3378,33 +3447,6 @@
 				"score": 3.188,
 				"ilscore": 70,
 				"submission_time_diff": -54455000
-			}
-		]
-	},
-	{
-		"jammer": "ashnin10",
-		"jammer_link": "https://ashnin10.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 124,
-				"title": "Offshore Exchange: A Mini Visual Novel",
-				"title_link": "https://ashnin10.itch.io/offshore-exchange",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2732859",
-				"by_list": [
-					"ashnin10"
-				],
-				"by_link_list": [
-					"https://ashnin10.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 8,
-				"score": 3.188,
-				"ilscore": 70,
-				"submission_time_diff": -47033000
 			}
 		]
 	}

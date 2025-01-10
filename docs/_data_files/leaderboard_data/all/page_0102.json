@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "fingers87",
+		"jammer_link": "https://fingers87.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 202,
+				"title": "Game Jam 153 Fishing: Where the Fish Live",
+				"title_link": "https://fingers87.itch.io/game-jam-153-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557807",
+				"by_list": [
+					"fingers87"
+				],
+				"by_link_list": [
+					"https://fingers87.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 16,
+				"score": 2.813,
+				"ilscore": 74,
+				"submission_time_diff": -85147000
+			}
+		]
+	},
+	{
 		"jammer": "William The Wicked",
 		"jammer_link": "https://williamthewicked.itch.io/",
 		"game_list_sorted": [
@@ -1404,7 +1431,7 @@
 		]
 	},
 	{
-		"jammer": "Unstable",
+		"jammer": "Daredevil",
 		"jammer_link": "https://unstable7.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1417,7 +1444,7 @@
 				"title_link": "https://unstable7.itch.io/fish-story",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562293",
 				"by_list": [
-					"Unstable"
+					"Daredevil"
 				],
 				"by_link_list": [
 					"https://unstable7.itch.io/"
@@ -1985,12 +2012,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562986",
 				"by_list": [
 					"UpForDebate",
-					"Joel Salvador",
+					"JoSal",
 					"Edgarra"
 				],
 				"by_link_list": [
 					"https://upfordebate.itch.io/",
-					"https://joel-salvador.itch.io/",
+					"https://josal.itch.io/",
 					"https://edgarra19.itch.io/"
 				],
 				"rank": 181,
@@ -2002,8 +2029,8 @@
 		]
 	},
 	{
-		"jammer": "Joel Salvador",
-		"jammer_link": "https://joel-salvador.itch.io/",
+		"jammer": "JoSal",
+		"jammer_link": "https://josal.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2016,12 +2043,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562986",
 				"by_list": [
 					"UpForDebate",
-					"Joel Salvador",
+					"JoSal",
 					"Edgarra"
 				],
 				"by_link_list": [
 					"https://upfordebate.itch.io/",
-					"https://joel-salvador.itch.io/",
+					"https://josal.itch.io/",
 					"https://edgarra19.itch.io/"
 				],
 				"rank": 181,
@@ -2047,12 +2074,12 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562986",
 				"by_list": [
 					"UpForDebate",
-					"Joel Salvador",
+					"JoSal",
 					"Edgarra"
 				],
 				"by_link_list": [
 					"https://upfordebate.itch.io/",
-					"https://joel-salvador.itch.io/",
+					"https://josal.itch.io/",
 					"https://edgarra19.itch.io/"
 				],
 				"rank": 181,
@@ -2099,7 +2126,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Sneaky Weeds",
 				"title_link": "https://rhumarb.itch.io/sneaky-weeds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944094",
@@ -2816,6 +2843,31 @@
 				"score": 3.825,
 				"ilscore": 69,
 				"submission_time_diff": -104000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Downward Spiral",
+				"title_link": "https://t-spawn.itch.io/downward-spiral",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225755",
+				"by_list": [
+					"T-Spawn",
+					"Raddic",
+					"Sperkins"
+				],
+				"by_link_list": [
+					"https://t-spawn.itch.io/",
+					"https://raddic.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 23,
+				"score": 3.859,
+				"ilscore": 89,
+				"submission_time_diff": -674000
 			}
 		]
 	},
@@ -3176,7 +3228,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Earth Ranger",
 				"title_link": "https://duffuswafflebutt.itch.io/earth-ranger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2938784",
@@ -3218,35 +3270,6 @@
 				"score": 3.544,
 				"ilscore": 64,
 				"submission_time_diff": -199810000
-			}
-		]
-	},
-	{
-		"jammer": "kaidash",
-		"jammer_link": "https://kaidash123.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 79,
-				"title": "All in a Box",
-				"title_link": "https://jnwjchannel.itch.io/all-in-a-box",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2587656",
-				"by_list": [
-					"Jax",
-					"kaidash"
-				],
-				"by_link_list": [
-					"https://jnwjchannel.itch.io/",
-					"https://kaidash123.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 32,
-				"score": 3.469,
-				"ilscore": 62,
-				"submission_time_diff": -314000
 			}
 		]
 	}

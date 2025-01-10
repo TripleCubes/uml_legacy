@@ -1,5 +1,69 @@
 [
 	{
+		"jammer": "Gerolmed",
+		"jammer_link": "https://gerolmed.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 116,
+				"title": "SplatCat",
+				"title_link": "https://gerolmed.itch.io/splatcat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955777",
+				"by_list": [
+					"Gerolmed",
+					"Olof Music",
+					"CreepyPvP",
+					"Panpukin",
+					"PsychoSkylla"
+				],
+				"by_link_list": [
+					"https://gerolmed.itch.io/",
+					"https://olofmusic.itch.io/",
+					"https://creepypvp.itch.io/",
+					"https://panpukin.itch.io/",
+					"https://psychoskylla.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.092,
+				"ilscore": 87,
+				"submission_time_diff": 28086000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 169,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-169-future",
+				"jam_vs": 45,
+				"title": "Time Portal Paradox",
+				"title_link": "https://gerolmed.itch.io/time-portal-paradox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3032475",
+				"by_list": [
+					"Gerolmed",
+					"passivedragon",
+					"CreepyPvP",
+					"Myren Eario",
+					"lolli42"
+				],
+				"by_link_list": [
+					"https://gerolmed.itch.io/",
+					"https://passivedragon.itch.io/",
+					"https://creepypvp.itch.io/",
+					"https://myren-eario.itch.io/",
+					"https://lolli42.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 12,
+				"score": 3.417,
+				"ilscore": 47,
+				"submission_time_diff": -3169000
+			}
+		]
+	},
+	{
 		"jammer": "Olof Music",
 		"jammer_link": "https://olofmusic.itch.io/",
 		"game_list_sorted": [
@@ -825,7 +889,7 @@
 				"jam_id": 132,
 				"jam_name": "Severed",
 				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"jam_vs": 55,
+				"jam_vs": 54,
 				"title": "Professional Crypt Explorer",
 				"title_link": "https://c4lico.itch.io/professional-crypt-explorer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2070390",
@@ -838,7 +902,7 @@
 				"rank": 36,
 				"ratings": 4,
 				"score": 2.501,
-				"ilscore": 38,
+				"ilscore": 37,
 				"submission_time_diff": -1196000
 			},
 			{
@@ -1475,7 +1539,7 @@
 				"jam_id": 132,
 				"jam_name": "Severed",
 				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"jam_vs": 55,
+				"jam_vs": 54,
 				"title": "Telephone Switchboard Operator",
 				"title_link": "https://tuluk.itch.io/telephone-switchboard-operator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2066888",
@@ -1640,7 +1704,7 @@
 				"jam_id": 140,
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 39,
+				"jam_vs": 40,
 				"title": "Strawberry Boy's Birthday Party",
 				"title_link": "https://romeosdaydream.itch.io/strawberry-boys-birthday-party",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247802",
@@ -3325,7 +3389,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 204,
+				"jam_vs": 203,
 				"title": "Quick! Hide the green",
 				"title_link": "https://falcon89.itch.io/quick-hide-the-green",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2940612",
@@ -3709,35 +3773,6 @@
 				"score": 3.521,
 				"ilscore": 79,
 				"submission_time_diff": -53722000
-			}
-		]
-	},
-	{
-		"jammer": "DannyIsYog",
-		"jammer_link": "https://dannyisyog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "Allergic to Repetition",
-				"title_link": "https://dannyisyog.itch.io/allergic-to-repetition",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977195",
-				"by_list": [
-					"DannyIsYog",
-					"ReallyOkeyFruit"
-				],
-				"by_link_list": [
-					"https://dannyisyog.itch.io/",
-					"https://reallyokeyfruit.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 12,
-				"score": 3.5,
-				"ilscore": 79,
-				"submission_time_diff": -21156000
 			}
 		]
 	}

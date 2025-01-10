@@ -659,8 +659,8 @@
 		]
 	},
 	{
-		"jammer": "SHIRO_No1",
-		"jammer_link": "https://shiro-no1.itch.io/",
+		"jammer": "Searaw",
+		"jammer_link": "https://searaw.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -669,16 +669,16 @@
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
 				"jam_vs": 103,
 				"title": "Relapse",
-				"title_link": "https://shiro-no1.itch.io/relapse",
+				"title_link": "https://searaw.itch.io/relapse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169608",
 				"by_list": [
-					"SHIRO_No1",
+					"Searaw",
 					"BazTodon",
 					"Steii",
 					"Nagispace"
 				],
 				"by_link_list": [
-					"https://shiro-no1.itch.io/",
+					"https://searaw.itch.io/",
 					"https://baztodon.itch.io/",
 					"https://steii.itch.io/",
 					"https://nagispace.itch.io/"
@@ -702,16 +702,16 @@
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
 				"jam_vs": 103,
 				"title": "Relapse",
-				"title_link": "https://shiro-no1.itch.io/relapse",
+				"title_link": "https://searaw.itch.io/relapse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169608",
 				"by_list": [
-					"SHIRO_No1",
+					"Searaw",
 					"BazTodon",
 					"Steii",
 					"Nagispace"
 				],
 				"by_link_list": [
-					"https://shiro-no1.itch.io/",
+					"https://searaw.itch.io/",
 					"https://baztodon.itch.io/",
 					"https://steii.itch.io/",
 					"https://nagispace.itch.io/"
@@ -735,16 +735,16 @@
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
 				"jam_vs": 103,
 				"title": "Relapse",
-				"title_link": "https://shiro-no1.itch.io/relapse",
+				"title_link": "https://searaw.itch.io/relapse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169608",
 				"by_list": [
-					"SHIRO_No1",
+					"Searaw",
 					"BazTodon",
 					"Steii",
 					"Nagispace"
 				],
 				"by_link_list": [
-					"https://shiro-no1.itch.io/",
+					"https://searaw.itch.io/",
 					"https://baztodon.itch.io/",
 					"https://steii.itch.io/",
 					"https://nagispace.itch.io/"
@@ -768,16 +768,16 @@
 				"jam_link": "https://itch.io/jam/mini-jam-87-break",
 				"jam_vs": 103,
 				"title": "Relapse",
-				"title_link": "https://shiro-no1.itch.io/relapse",
+				"title_link": "https://searaw.itch.io/relapse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169608",
 				"by_list": [
-					"SHIRO_No1",
+					"Searaw",
 					"BazTodon",
 					"Steii",
 					"Nagispace"
 				],
 				"by_link_list": [
-					"https://shiro-no1.itch.io/",
+					"https://searaw.itch.io/",
 					"https://baztodon.itch.io/",
 					"https://steii.itch.io/",
 					"https://nagispace.itch.io/"
@@ -1531,7 +1531,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 210,
 				"title": "Deep in the web",
 				"title_link": "https://crack-cat.itch.io/deep-in-the-web",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1865331",
@@ -1573,6 +1573,27 @@
 				"score": 3.75,
 				"ilscore": 88,
 				"submission_time_diff": -37929000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 140,
+				"title": "Time + Grav",
+				"title_link": "https://doctorleaf.itch.io/time-grav",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3223837",
+				"by_list": [
+					"DoctorLeaf"
+				],
+				"by_link_list": [
+					"https://doctorleaf.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 16,
+				"score": 3.625,
+				"ilscore": 83,
+				"submission_time_diff": -8643000
 			},
 			{
 				"jam_type": "mini_jam",

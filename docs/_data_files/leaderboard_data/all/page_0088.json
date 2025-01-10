@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "ChocapicGame",
+		"jammer_link": "https://chocapicgame.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 215,
+				"title": "No sleep farmer",
+				"title_link": "https://chocapicgame.itch.io/nosleepfarmer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021045",
+				"by_list": [
+					"ChocapicGame",
+					"drimlick"
+				],
+				"by_link_list": [
+					"https://chocapicgame.itch.io/",
+					"https://drimlick.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 18,
+				"score": 3.181,
+				"ilscore": 86,
+				"submission_time_diff": -15436000
+			}
+		]
+	},
+	{
 		"jammer": "drimlick",
 		"jammer_link": "https://drimlick.itch.io/",
 		"game_list_sorted": [
@@ -2673,7 +2702,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 155,
+				"jam_vs": 154,
 				"title": "Alien Labyrinth Decipherer",
 				"title_link": "https://tdgperson.itch.io/alien-labyrinth-decipherer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459964",
@@ -2686,7 +2715,7 @@
 				"rank": 68,
 				"ratings": 7,
 				"score": 3,
-				"ilscore": 72,
+				"ilscore": 71,
 				"submission_time_diff": -1602000
 			},
 			{
@@ -3137,7 +3166,7 @@
 				"jam_id": 140,
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 39,
+				"jam_vs": 40,
 				"title": "Whacky Weapons",
 				"title_link": "https://silvyger.itch.io/whackyweapons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2243808",
@@ -3154,7 +3183,7 @@
 				"rank": 3,
 				"ratings": 15,
 				"score": 4.017,
-				"ilscore": 51,
+				"ilscore": 52,
 				"submission_time_diff": -4345000
 			},
 			{
@@ -3493,33 +3522,6 @@
 				"score": 1.733,
 				"ilscore": 47,
 				"submission_time_diff": 35721000
-			}
-		]
-	},
-	{
-		"jammer": "Nebulux",
-		"jammer_link": "https://nebulux.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
-				"title": "Space Invaders",
-				"title_link": "https://nebulux.itch.io/space-invaders",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2022096",
-				"by_list": [
-					"Nebulux"
-				],
-				"by_link_list": [
-					"https://nebulux.itch.io/"
-				],
-				"rank": 189,
-				"ratings": 3,
-				"score": 1.691,
-				"ilscore": 46,
-				"submission_time_diff": 50951000
 			}
 		]
 	}
