@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "WonderBug",
-		"jammer_link": "https://wonderbug.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Ghost And Graves",
-				"title_link": "https://wonderbug.itch.io/ghost-and-graves",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749036",
-				"by_list": [
-					"WonderBug"
-				],
-				"by_link_list": [
-					"https://wonderbug.itch.io/"
-				],
-				"rank": 144,
-				"ratings": 5,
-				"score": 1.837,
-				"ilscore": 47,
-				"submission_time_diff": -37353000
-			}
-		]
-	},
-	{
 		"jammer": "OKΛMI",
 		"jammer_link": "https://okmi.itch.io/",
 		"game_list_sorted": [
@@ -2771,7 +2744,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Spider Fall",
 				"title_link": "https://kayfall9.itch.io/spider-fall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868082",
@@ -2784,7 +2757,7 @@
 				"rank": 29,
 				"ratings": 12,
 				"score": 3.521,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -43296000
 			},
 			{
@@ -3612,6 +3585,33 @@
 				"score": 2.706,
 				"ilscore": 57,
 				"submission_time_diff": -18238000
+			}
+		]
+	},
+	{
+		"jammer": "TheBlueRuby",
+		"jammer_link": "https://blueruby.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Vampirat",
+				"title_link": "https://blueruby.itch.io/vampirat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769408",
+				"by_list": [
+					"TheBlueRuby"
+				],
+				"by_link_list": [
+					"https://blueruby.itch.io/"
+				],
+				"rank": 69,
+				"ratings": 6,
+				"score": 2.917,
+				"ilscore": 66,
+				"submission_time_diff": -25741000
 			}
 		]
 	}

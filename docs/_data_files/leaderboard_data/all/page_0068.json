@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "ASillyVole",
-		"jammer_link": "https://asillyvole.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
-				"title": "Pablo: A Goopy Goopers Journey",
-				"title_link": "https://deltaneverused.itch.io/pablo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609264",
-				"by_list": [
-					"DeltaNeverUsed",
-					"ASillyVole",
-					"Osun"
-				],
-				"by_link_list": [
-					"https://deltaneverused.itch.io/",
-					"https://asillyvole.itch.io/",
-					"https://osun.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 12,
-				"score": 3.229,
-				"ilscore": 87,
-				"submission_time_diff": -12831000
-			}
-		]
-	},
-	{
-		"jammer": "Osun",
-		"jammer_link": "https://osun.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
-				"title": "Pablo: A Goopy Goopers Journey",
-				"title_link": "https://deltaneverused.itch.io/pablo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609264",
-				"by_list": [
-					"DeltaNeverUsed",
-					"ASillyVole",
-					"Osun"
-				],
-				"by_link_list": [
-					"https://deltaneverused.itch.io/",
-					"https://asillyvole.itch.io/",
-					"https://osun.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 12,
-				"score": 3.229,
-				"ilscore": 87,
-				"submission_time_diff": -12831000
-			}
-		]
-	},
-	{
 		"jammer": "CIOSAI",
 		"jammer_link": "https://ciosai.itch.io/",
 		"game_list_sorted": [
@@ -1561,7 +1499,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
+				"jam_vs": 87,
 				"title": "Man and Mushrooms",
 				"title_link": "https://andrey231.itch.io/man-and-mushrooms",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2642610",
@@ -3401,6 +3339,64 @@
 				"score": 1.559,
 				"ilscore": 42,
 				"submission_time_diff": -339000
+			}
+		]
+	},
+	{
+		"jammer": "maruda",
+		"jammer_link": "https://marud.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 213,
+				"title": "satanic duck",
+				"title_link": "https://marud.itch.io/satanic-duck",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608631",
+				"by_list": [
+					"maruda",
+					"Sileanth"
+				],
+				"by_link_list": [
+					"https://marud.itch.io/",
+					"https://sileanth.itch.io/"
+				],
+				"rank": 194,
+				"ratings": 2,
+				"score": 1.537,
+				"ilscore": 41,
+				"submission_time_diff": -55107000
+			}
+		]
+	},
+	{
+		"jammer": "Sileanth",
+		"jammer_link": "https://sileanth.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 213,
+				"title": "satanic duck",
+				"title_link": "https://marud.itch.io/satanic-duck",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608631",
+				"by_list": [
+					"maruda",
+					"Sileanth"
+				],
+				"by_link_list": [
+					"https://marud.itch.io/",
+					"https://sileanth.itch.io/"
+				],
+				"rank": 194,
+				"ratings": 2,
+				"score": 1.537,
+				"ilscore": 41,
+				"submission_time_diff": -55107000
 			}
 		]
 	}

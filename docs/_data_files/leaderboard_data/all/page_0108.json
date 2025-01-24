@@ -1,5 +1,107 @@
 [
 	{
+		"jammer": "kaikkeus",
+		"jammer_link": "https://kaikkeus.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 53,
+				"title": "random runway",
+				"title_link": "https://kaikkeus.itch.io/random-runway",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792110",
+				"by_list": [
+					"kaikkeus"
+				],
+				"by_link_list": [
+					"https://kaikkeus.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 5,
+				"score": 2.324,
+				"ilscore": 34,
+				"submission_time_diff": -306000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Peili the tabledog",
+				"title_link": "https://kaikkeus.itch.io/tabledog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764581",
+				"by_list": [
+					"kaikkeus"
+				],
+				"by_link_list": [
+					"https://kaikkeus.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 17,
+				"score": 3.015,
+				"ilscore": 65,
+				"submission_time_diff": 2348000
+			}
+		]
+	},
+	{
+		"jammer": "Eliot Floor",
+		"jammer_link": "https://eliot-floor.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "A Light Jump",
+				"title_link": "https://eliot-floor.itch.io/a-light-jump",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763789",
+				"by_list": [
+					"Eliot Floor"
+				],
+				"by_link_list": [
+					"https://eliot-floor.itch.io/"
+				],
+				"rank": 54,
+				"ratings": 7,
+				"score": 2.973,
+				"ilscore": 64,
+				"submission_time_diff": -25211000
+			}
+		]
+	},
+	{
+		"jammer": "FruitToast",
+		"jammer_link": "https://fruittoast.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Light Run",
+				"title_link": "https://fruittoast.itch.io/light-run",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764562",
+				"by_list": [
+					"FruitToast"
+				],
+				"by_link_list": [
+					"https://fruittoast.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 6,
+				"score": 2.959,
+				"ilscore": 64,
+				"submission_time_diff": -706000
+			}
+		]
+	},
+	{
 		"jammer": "Magus",
 		"jammer_link": "https://bizzybeecreator.itch.io/",
 		"game_list_sorted": [
@@ -1146,7 +1248,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 98,
+				"jam_vs": 97,
 				"title": "game43",
 				"title_link": "https://igroman-play324.itch.io/game343",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3198372",
@@ -1387,7 +1489,7 @@
 				"jam_id": 169,
 				"jam_name": "Future",
 				"jam_link": "https://itch.io/jam/mini-jam-169-future",
-				"jam_vs": 45,
+				"jam_vs": 44,
 				"title": "Space Spenditure",
 				"title_link": "https://eitamneta1.itch.io/space-d",
 				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3037331",
@@ -1400,7 +1502,7 @@
 				"rank": 22,
 				"ratings": 11,
 				"score": 2.682,
-				"ilscore": 37,
+				"ilscore": 36,
 				"submission_time_diff": -18251000
 			},
 			{
@@ -1657,7 +1759,7 @@
 				"jam_id": 163,
 				"jam_name": "Dessert",
 				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
-				"jam_vs": 52,
+				"jam_vs": 51,
 				"title": "Caramel and the Sweet Academy",
 				"title_link": "https://rgremxyz.itch.io/caramel-and-the-sweet-academy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848479",
@@ -1670,7 +1772,7 @@
 				"rank": 10,
 				"ratings": 8,
 				"score": 3.438,
-				"ilscore": 51,
+				"ilscore": 50,
 				"submission_time_diff": -6175000
 			}
 		]
@@ -2958,91 +3060,6 @@
 				"score": 4.038,
 				"ilscore": 91,
 				"submission_time_diff": -12280000
-			}
-		]
-	},
-	{
-		"jammer": "Passivist",
-		"jammer_link": "https://passivistefforts.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Solar Flare-Up",
-				"title_link": "https://passivistefforts.itch.io/solar-flare-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819339",
-				"by_list": [
-					"Passivist"
-				],
-				"by_link_list": [
-					"https://passivistefforts.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 11,
-				"score": 3.977,
-				"ilscore": 90,
-				"submission_time_diff": -3349000
-			}
-		]
-	},
-	{
-		"jammer": "Rowlof",
-		"jammer_link": "https://rowlof.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Brakeaway Blast",
-				"title_link": "https://rowlof.itch.io/brakeaway-blast",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818923",
-				"by_list": [
-					"Rowlof",
-					"ArtB2003"
-				],
-				"by_link_list": [
-					"https://rowlof.itch.io/",
-					"https://artb2003.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 26,
-				"score": 3.875,
-				"ilscore": 88,
-				"submission_time_diff": -22070000
-			}
-		]
-	},
-	{
-		"jammer": "ArtB2003",
-		"jammer_link": "https://artb2003.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Brakeaway Blast",
-				"title_link": "https://rowlof.itch.io/brakeaway-blast",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818923",
-				"by_list": [
-					"Rowlof",
-					"ArtB2003"
-				],
-				"by_link_list": [
-					"https://rowlof.itch.io/",
-					"https://artb2003.itch.io/"
-				],
-				"rank": 14,
-				"ratings": 26,
-				"score": 3.875,
-				"ilscore": 88,
-				"submission_time_diff": -22070000
 			}
 		]
 	}

@@ -1,5 +1,140 @@
 [
 	{
+		"jammer": "Cat Jug",
+		"jammer_link": "https://cat-jug.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 176,
+				"jam_name": "Foxes",
+				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
+				"jam_vs": 94,
+				"title": "TT Slime Hunters",
+				"title_link": "https://ilprinni.itch.io/tt-slime-hunters",
+				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3257333",
+				"by_list": [
+					"ilPrinni",
+					"Pineberry Fox",
+					"TripleCubes",
+					"ReadyMajor",
+					"30fps",
+					"Murgn",
+					"Derpyzza",
+					"TLAlice",
+					"Cat Jug",
+					"Hot Noggin Studios"
+				],
+				"by_link_list": [
+					"https://ilprinni.itch.io/",
+					"https://vvulpes0.itch.io/",
+					"https://triplecubes.itch.io/",
+					"https://readymajor.itch.io/",
+					"https://30fps.itch.io/",
+					"https://murgn.itch.io/",
+					"https://derpyzza.itch.io/",
+					"https://tlalice.itch.io/",
+					"https://cat-jug.itch.io/",
+					"https://hotnoggin.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 11,
+				"score": 3.75,
+				"ilscore": 73,
+				"submission_time_diff": 59963000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 173,
+				"jam_name": "Action",
+				"jam_link": "https://itch.io/jam/mini-jam-173-action",
+				"jam_vs": 67,
+				"title": "Rat vs Rat",
+				"title_link": "https://cat-jug.itch.io/rat-vs-rat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166919",
+				"by_list": [
+					"Cat Jug"
+				],
+				"by_link_list": [
+					"https://cat-jug.itch.io/"
+				],
+				"rank": 36,
+				"ratings": 8,
+				"score": 2.75,
+				"ilscore": 46,
+				"submission_time_diff": -8600000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Dragon Blast",
+				"title_link": "https://cat-jug.itch.io/dragon-blast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878765",
+				"by_list": [
+					"Cat Jug"
+				],
+				"by_link_list": [
+					"https://cat-jug.itch.io/"
+				],
+				"rank": 52,
+				"ratings": 11,
+				"score": 2.659,
+				"ilscore": 46,
+				"submission_time_diff": 1175000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 97,
+				"title": "Mars Defence",
+				"title_link": "https://cat-jug.itch.io/mars-defence",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199421",
+				"by_list": [
+					"Cat Jug"
+				],
+				"by_link_list": [
+					"https://cat-jug.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 11,
+				"score": 2.841,
+				"ilscore": 56,
+				"submission_time_diff": -1253000
+			}
+		]
+	},
+	{
+		"jammer": "Fraczek",
+		"jammer_link": "https://fraczek.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Crazy Lumberjack",
+				"title_link": "https://fraczek.itch.io/crazy-lumberjack",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878077",
+				"by_list": [
+					"Fraczek"
+				],
+				"by_link_list": [
+					"https://fraczek.itch.io/"
+				],
+				"rank": 53,
+				"ratings": 5,
+				"score": 2.53,
+				"ilscore": 43,
+				"submission_time_diff": -26238000
+			}
+		]
+	},
+	{
 		"jammer": "Kenandev",
 		"jammer_link": "https://kenandev.itch.io/",
 		"game_list_sorted": [
@@ -480,7 +615,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 98,
+				"jam_vs": 97,
 				"title": "Escape from Sector X",
 				"title_link": "https://macrowdev.itch.io/escape-from-sector-x",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3196675",
@@ -499,8 +634,29 @@
 				"rank": 21,
 				"ratings": 13,
 				"score": 3.519,
-				"ilscore": 70,
+				"ilscore": 69,
 				"submission_time_diff": -5862000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 176,
+				"jam_name": "Foxes",
+				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
+				"jam_vs": 94,
+				"title": "Fox . Coin . Flipper",
+				"title_link": "https://macrowdev.itch.io/fox-coin-flipper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256949",
+				"by_list": [
+					"Macrow"
+				],
+				"by_link_list": [
+					"https://macrowdev.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 11,
+				"score": 3.068,
+				"ilscore": 60,
+				"submission_time_diff": -4906000
 			}
 		]
 	},
@@ -1323,7 +1479,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 98,
+				"jam_vs": 97,
 				"title": "Escape from Sector X",
 				"title_link": "https://macrowdev.itch.io/escape-from-sector-x",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3196675",
@@ -1342,7 +1498,7 @@
 				"rank": 21,
 				"ratings": 13,
 				"score": 3.519,
-				"ilscore": 70,
+				"ilscore": 69,
 				"submission_time_diff": -5862000
 			},
 			{
@@ -3043,60 +3199,6 @@
 				"score": 3.3,
 				"ilscore": 88,
 				"submission_time_diff": -204000
-			}
-		]
-	},
-	{
-		"jammer": "kolco",
-		"jammer_link": "https://kolco.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
-				"title": "SPREY",
-				"title_link": "https://kolco.itch.io/sprey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944071",
-				"by_list": [
-					"kolco"
-				],
-				"by_link_list": [
-					"https://kolco.itch.io/"
-				],
-				"rank": 58,
-				"ratings": 11,
-				"score": 3.295,
-				"ilscore": 87,
-				"submission_time_diff": -19162000
-			}
-		]
-	},
-	{
-		"jammer": "goodguykuma",
-		"jammer_link": "https://goodguykuma.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
-				"title": "SUPER FROG FIGHTER",
-				"title_link": "https://goodguykuma.itch.io/superfrogfighter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942271",
-				"by_list": [
-					"goodguykuma"
-				],
-				"by_link_list": [
-					"https://goodguykuma.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 32,
-				"score": 3.289,
-				"ilscore": 87,
-				"submission_time_diff": -43006000
 			}
 		]
 	}

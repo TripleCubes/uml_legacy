@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "GTA5AW",
-		"jammer_link": "https://gta5aw.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "A story of An robot",
-				"title_link": "https://gta5aw.itch.io/a-story-of-an-robot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633880",
-				"by_list": [
-					"GTA5AW"
-				],
-				"by_link_list": [
-					"https://gta5aw.itch.io/"
-				],
-				"rank": 296,
-				"ratings": 5,
-				"score": 2.016,
-				"ilscore": 67,
-				"submission_time_diff": -53503000
-			}
-		]
-	},
-	{
-		"jammer": "RollAdvantage",
-		"jammer_link": "https://rolladvantage.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Colour Me Stupid",
-				"title_link": "https://rolladvantage.itch.io/colour-me-stupid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632122",
-				"by_list": [
-					"RollAdvantage"
-				],
-				"by_link_list": [
-					"https://rolladvantage.itch.io/"
-				],
-				"rank": 297,
-				"ratings": 5,
-				"score": 1.976,
-				"ilscore": 66,
-				"submission_time_diff": -27199000
-			}
-		]
-	},
-	{
 		"jammer": "D13VIMBRONE",
 		"jammer_link": "https://d13vimbrone.itch.io/",
 		"game_list_sorted": [
@@ -1882,7 +1828,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Dungeon&amp;Web",
 				"title_link": "https://aliquidgames.itch.io/dungeon-n-web",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869424",
@@ -3469,6 +3415,93 @@
 				"score": 0.53,
 				"ilscore": 17,
 				"submission_time_diff": -609000
+			}
+		]
+	},
+	{
+		"jammer": "tmationsreal",
+		"jammer_link": "https://tmationsreal.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "TASTE THE RAINBOW",
+				"title_link": "https://tmationsreal.itch.io/taste-the-rainbow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1632425",
+				"by_list": [
+					"tmationsreal"
+				],
+				"by_link_list": [
+					"https://tmationsreal.itch.io/"
+				],
+				"rank": 406,
+				"ratings": 2,
+				"score": 0.5,
+				"ilscore": 16,
+				"submission_time_diff": -160118000
+			}
+		]
+	},
+	{
+		"jammer": "karasikrus",
+		"jammer_link": "https://karasikrus.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "RoboQ",
+				"title_link": "https://karasikrus.itch.io/roboq",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653732",
+				"by_list": [
+					"karasikrus",
+					"HiGi98",
+					"dodekayder",
+					"Hios"
+				],
+				"by_link_list": [
+					"https://karasikrus.itch.io/",
+					"https://higi98.itch.io/",
+					"https://dodekayder.itch.io/",
+					"https://hios.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 10,
+				"score": 4.225,
+				"ilscore": 82,
+				"submission_time_diff": -314000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Shotgun Ghost Rider",
+				"title_link": "https://karasikrus.itch.io/shotgun-ghost-rider",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1746716",
+				"by_list": [
+					"karasikrus",
+					"HiGi98",
+					"RoundedGlint585",
+					"Hios"
+				],
+				"by_link_list": [
+					"https://karasikrus.itch.io/",
+					"https://higi98.itch.io/",
+					"https://roundedglint585.itch.io/",
+					"https://hios.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 12,
+				"score": 3.542,
+				"ilscore": 91,
+				"submission_time_diff": 33516000
 			}
 		]
 	}

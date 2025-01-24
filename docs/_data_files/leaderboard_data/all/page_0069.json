@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "maruda",
-		"jammer_link": "https://marud.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
-				"title": "satanic duck",
-				"title_link": "https://marud.itch.io/satanic-duck",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608631",
-				"by_list": [
-					"maruda",
-					"Sileanth"
-				],
-				"by_link_list": [
-					"https://marud.itch.io/",
-					"https://sileanth.itch.io/"
-				],
-				"rank": 194,
-				"ratings": 2,
-				"score": 1.537,
-				"ilscore": 41,
-				"submission_time_diff": -55107000
-			}
-		]
-	},
-	{
-		"jammer": "Sileanth",
-		"jammer_link": "https://sileanth.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
-				"title": "satanic duck",
-				"title_link": "https://marud.itch.io/satanic-duck",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608631",
-				"by_list": [
-					"maruda",
-					"Sileanth"
-				],
-				"by_link_list": [
-					"https://marud.itch.io/",
-					"https://sileanth.itch.io/"
-				],
-				"rank": 194,
-				"ratings": 2,
-				"score": 1.537,
-				"ilscore": 41,
-				"submission_time_diff": -55107000
-			}
-		]
-	},
-	{
 		"jammer": "Zlodiy",
 		"jammer_link": "https://zlodiy.itch.io/",
 		"game_list_sorted": [
@@ -1408,7 +1350,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 127,
 				"title": "Hat Escape",
 				"title_link": "https://beetrootpaul.itch.io/hat-escape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2480365",
@@ -1421,7 +1363,7 @@
 				"rank": 25,
 				"ratings": 12,
 				"score": 3.563,
-				"ilscore": 78,
+				"ilscore": 79,
 				"submission_time_diff": -286000
 			}
 		]
@@ -2066,7 +2008,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Webby's Jump",
 				"title_link": "https://aaaahron.itch.io/webbys-jump",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867301",
@@ -2238,7 +2180,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 98,
+				"jam_vs": 97,
 				"title": "Fathomless",
 				"title_link": "https://snoodlegames.itch.io/fathomless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
@@ -3484,6 +3426,29 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 176,
+				"jam_name": "Foxes",
+				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
+				"jam_vs": 94,
+				"title": "The Fox Hunt",
+				"title_link": "https://feraswheel.itch.io/thefoxhunt",
+				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3252277",
+				"by_list": [
+					"feraswheel",
+					"mental3122"
+				],
+				"by_link_list": [
+					"https://feraswheel.itch.io/",
+					"https://mental3122.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 22,
+				"score": 3.295,
+				"ilscore": 64,
+				"submission_time_diff": -58977000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 147,
 				"jam_name": "Cinema",
 				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
@@ -3573,6 +3538,60 @@
 				"score": 3.574,
 				"ilscore": 119,
 				"submission_time_diff": -9111000
+			}
+		]
+	},
+	{
+		"jammer": "Moholty",
+		"jammer_link": "https://moholty.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Color Cannons TD",
+				"title_link": "https://moholty.itch.io/color-cannons-td",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634868",
+				"by_list": [
+					"Moholty"
+				],
+				"by_link_list": [
+					"https://moholty.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 43,
+				"score": 3.558,
+				"ilscore": 119,
+				"submission_time_diff": -4152000
+			}
+		]
+	},
+	{
+		"jammer": "EsKei",
+		"jammer_link": "https://esskei.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Ricochet",
+				"title_link": "https://esskei.itch.io/ricochet-mini-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634899",
+				"by_list": [
+					"EsKei"
+				],
+				"by_link_list": [
+					"https://esskei.itch.io/"
+				],
+				"rank": 82,
+				"ratings": 14,
+				"score": 3.554,
+				"ilscore": 118,
+				"submission_time_diff": -4295000
 			}
 		]
 	}

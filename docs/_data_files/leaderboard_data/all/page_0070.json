@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Moholty",
-		"jammer_link": "https://moholty.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Color Cannons TD",
-				"title_link": "https://moholty.itch.io/color-cannons-td",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634868",
-				"by_list": [
-					"Moholty"
-				],
-				"by_link_list": [
-					"https://moholty.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 43,
-				"score": 3.558,
-				"ilscore": 119,
-				"submission_time_diff": -4152000
-			}
-		]
-	},
-	{
-		"jammer": "EsKei",
-		"jammer_link": "https://esskei.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
-				"title": "Ricochet",
-				"title_link": "https://esskei.itch.io/ricochet-mini-jam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634899",
-				"by_list": [
-					"EsKei"
-				],
-				"by_link_list": [
-					"https://esskei.itch.io/"
-				],
-				"rank": 82,
-				"ratings": 14,
-				"score": 3.554,
-				"ilscore": 118,
-				"submission_time_diff": -4295000
-			}
-		]
-	},
-	{
 		"jammer": "PhnixDev",
 		"jammer_link": "https://phnixdev.itch.io/",
 		"game_list_sorted": [
@@ -1041,7 +987,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Galactic Arachnids",
 				"title_link": "https://mafesto87.itch.io/galactic-arachnids",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869359",
@@ -1117,6 +1063,29 @@
 		"jammer": "louis.cook.music",
 		"jammer_link": "https://louiscookmusic.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 176,
+				"jam_name": "Foxes",
+				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
+				"jam_vs": 94,
+				"title": "Ship at the End of the World",
+				"title_link": "https://louiscookmusic.itch.io/ship-at-the-end-of-the-world",
+				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256360",
+				"by_list": [
+					"louis.cook.music",
+					"ContactBinary"
+				],
+				"by_link_list": [
+					"https://louiscookmusic.itch.io/",
+					"https://contactbinary.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 7,
+				"score": 1.567,
+				"ilscore": 30,
+				"submission_time_diff": -22379000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 111,
@@ -2868,7 +2837,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "A Web Too Far",
 				"title_link": "https://pseudodev.itch.io/a-web-too-far",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869634",
@@ -3385,6 +3354,66 @@
 				"score": 2.995,
 				"ilscore": 100,
 				"submission_time_diff": -9895000
+			}
+		]
+	},
+	{
+		"jammer": "Hivernote",
+		"jammer_link": "https://hivernote.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "Mach Speed Painting",
+				"title_link": "https://doncaberu.itch.io/mach-speed-painting",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634243",
+				"by_list": [
+					"DonCaberu",
+					"Hivernote"
+				],
+				"by_link_list": [
+					"https://doncaberu.itch.io/",
+					"https://hivernote.itch.io/"
+				],
+				"rank": 181,
+				"ratings": 6,
+				"score": 2.995,
+				"ilscore": 100,
+				"submission_time_diff": -9895000
+			}
+		]
+	},
+	{
+		"jammer": "AFNarratives",
+		"jammer_link": "https://afnarratives.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 385,
+				"title": "RG-Borg",
+				"title_link": "https://afnarratives.itch.io/rg-borg",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634924",
+				"by_list": [
+					"AFNarratives",
+					"catofPolyphemus",
+					"Gotham-Azathoth"
+				],
+				"by_link_list": [
+					"https://afnarratives.itch.io/",
+					"https://catofpolyphemus.itch.io/",
+					"https://gotham-azathoth.itch.io/"
+				],
+				"rank": 184,
+				"ratings": 8,
+				"score": 2.969,
+				"ilscore": 99,
+				"submission_time_diff": 2116000
 			}
 		]
 	}

@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "slenkerlab",
-		"jammer_link": "https://slenkerlab.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Seaside Shells",
-				"title_link": "https://slenkerlab.itch.io/seaside-shells",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572040",
-				"by_list": [
-					"slenkerlab"
-				],
-				"by_link_list": [
-					"https://slenkerlab.itch.io/"
-				],
-				"rank": 60,
-				"ratings": 19,
-				"score": 3.329,
-				"ilscore": 90,
-				"submission_time_diff": -25653000
-			}
-		]
-	},
-	{
-		"jammer": "IvanM71",
-		"jammer_link": "https://ivanm71.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Seaside cleaning day",
-				"title_link": "https://ivanm71.itch.io/seaside-cleaning-day",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571362",
-				"by_list": [
-					"IvanM71"
-				],
-				"by_link_list": [
-					"https://ivanm71.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 33,
-				"score": 3.288,
-				"ilscore": 88,
-				"submission_time_diff": -57294000
-			}
-		]
-	},
-	{
 		"jammer": "Shvap Games Studio",
 		"jammer_link": "https://shvap.itch.io/",
 		"game_list_sorted": [
@@ -513,7 +459,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 210,
+				"jam_vs": 209,
 				"title": "Webbin' Jeb",
 				"title_link": "https://murdybird.itch.io/webbin-jeb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868589",
@@ -3749,6 +3695,83 @@
 				"score": 2.259,
 				"ilscore": 61,
 				"submission_time_diff": -51318000
+			}
+		]
+	},
+	{
+		"jammer": "MssjjssM",
+		"jammer_link": "https://mssj-ludumdare.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "CrabTheCrap!",
+				"title_link": "https://mssj-ludumdare.itch.io/crabthecrap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572074",
+				"by_list": [
+					"MssjjssM"
+				],
+				"by_link_list": [
+					"https://mssj-ludumdare.itch.io/"
+				],
+				"rank": 172,
+				"ratings": 7,
+				"score": 2.251,
+				"ilscore": 60,
+				"submission_time_diff": -24203000
+			}
+		]
+	},
+	{
+		"jammer": "Tricore",
+		"jammer_link": "https://tricore.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Is God the type to open windows?",
+				"title_link": "https://tricore.itch.io/is-god-the-type-to-open-windows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832093",
+				"by_list": [
+					"Tricore",
+					"LaughingMad"
+				],
+				"by_link_list": [
+					"https://tricore.itch.io/",
+					"https://laughingmad.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 11,
+				"score": 1.591,
+				"ilscore": 34,
+				"submission_time_diff": -15545000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Crab FighterZ",
+				"title_link": "https://tricore.itch.io/crab-fighterz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572202",
+				"by_list": [
+					"Tricore"
+				],
+				"by_link_list": [
+					"https://tricore.itch.io/"
+				],
+				"rank": 173,
+				"ratings": 10,
+				"score": 2.241,
+				"ilscore": 60,
+				"submission_time_diff": -16154000
 			}
 		]
 	}

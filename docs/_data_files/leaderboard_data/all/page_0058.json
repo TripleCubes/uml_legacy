@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "dindotjs",
-		"jammer_link": "https://dindotjs.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "Living Steam Machine",
-				"title_link": "https://dindotjs.itch.io/living-steam-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449563",
-				"by_list": [
-					"dindotjs"
-				],
-				"by_link_list": [
-					"https://dindotjs.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 26,
-				"score": 3.663,
-				"ilscore": 52,
-				"submission_time_diff": -20986000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
-				"title": "Drag &amp; Lollipop",
-				"title_link": "https://dindotjs.itch.io/drag-and-lolipop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491261",
-				"by_list": [
-					"dindotjs"
-				],
-				"by_link_list": [
-					"https://dindotjs.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 19,
-				"score": 3.908,
-				"ilscore": 79,
-				"submission_time_diff": -5621000
-			}
-		]
-	},
-	{
 		"jammer": "Yumeji",
 		"jammer_link": "https://yumejiart.itch.io/",
 		"game_list_sorted": [
@@ -1339,7 +1291,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 283,
+				"jam_vs": 282,
 				"title": "Frog Daddy's Dash",
 				"title_link": "https://gwelkind.itch.io/frog-daddys-dash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532157",
@@ -2081,7 +2033,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 283,
+				"jam_vs": 282,
 				"title": "Fast Frog",
 				"title_link": "https://fasttoad.itch.io/fast-frog",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532704",
@@ -3433,7 +3385,7 @@
 				"jam_id": 156,
 				"jam_name": "Mushroom",
 				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 89,
+				"jam_vs": 87,
 				"title": "Shaderunner",
 				"title_link": "https://pricklypeargames.itch.io/shaderunner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2639858",
@@ -3446,7 +3398,7 @@
 				"rank": 59,
 				"ratings": 6,
 				"score": 2.417,
-				"ilscore": 46,
+				"ilscore": 45,
 				"submission_time_diff": -253309000
 			},
 			{
@@ -3692,7 +3644,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 283,
+				"jam_vs": 282,
 				"title": "Tad Pond",
 				"title_link": "https://phi-dragon.itch.io/tad-pond",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531154",
@@ -3941,6 +3893,29 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 176,
+				"jam_name": "Foxes",
+				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
+				"jam_vs": 94,
+				"title": "Chicken Tender",
+				"title_link": "https://cafedraw.itch.io/chicken-tender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256590",
+				"by_list": [
+					"cafeDraw",
+					"Old Guard Sokol"
+				],
+				"by_link_list": [
+					"https://cafedraw.itch.io/",
+					"https://old-guard-sokol.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 21,
+				"score": 2.845,
+				"ilscore": 55,
+				"submission_time_diff": -1046000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 103,
 				"jam_name": "Darkness",
 				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
@@ -3986,6 +3961,54 @@
 				"score": 2.67,
 				"ilscore": 63,
 				"submission_time_diff": -9076000
+			}
+		]
+	},
+	{
+		"jammer": "eFoxGaming",
+		"jammer_link": "https://efoxgaming.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 215,
+				"title": "Moon escape",
+				"title_link": "https://efoxgaming.itch.io/moon-escape",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2017804",
+				"by_list": [
+					"eFoxGaming"
+				],
+				"by_link_list": [
+					"https://efoxgaming.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 8,
+				"score": 3.125,
+				"ilscore": 85,
+				"submission_time_diff": -8126000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Devil Killer",
+				"title_link": "https://efoxgaming.itch.io/devil-killer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1469496",
+				"by_list": [
+					"eFoxGaming"
+				],
+				"by_link_list": [
+					"https://efoxgaming.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 11,
+				"score": 2.659,
+				"ilscore": 62,
+				"submission_time_diff": -16257000
 			}
 		]
 	}

@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "ChocapicGame",
-		"jammer_link": "https://chocapicgame.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
-				"title": "No sleep farmer",
-				"title_link": "https://chocapicgame.itch.io/nosleepfarmer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021045",
-				"by_list": [
-					"ChocapicGame",
-					"drimlick"
-				],
-				"by_link_list": [
-					"https://chocapicgame.itch.io/",
-					"https://drimlick.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 18,
-				"score": 3.181,
-				"ilscore": 86,
-				"submission_time_diff": -15436000
-			}
-		]
-	},
-	{
-		"jammer": "drimlick",
-		"jammer_link": "https://drimlick.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
-				"title": "No sleep farmer",
-				"title_link": "https://chocapicgame.itch.io/nosleepfarmer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021045",
-				"by_list": [
-					"ChocapicGame",
-					"drimlick"
-				],
-				"by_link_list": [
-					"https://chocapicgame.itch.io/",
-					"https://drimlick.itch.io/"
-				],
-				"rank": 72,
-				"ratings": 18,
-				"score": 3.181,
-				"ilscore": 86,
-				"submission_time_diff": -15436000
-			}
-		]
-	},
-	{
 		"jammer": "listenergames",
 		"jammer_link": "https://listenergames.itch.io/",
 		"game_list_sorted": [
@@ -3522,6 +3464,60 @@
 				"score": 1.733,
 				"ilscore": 47,
 				"submission_time_diff": 35721000
+			}
+		]
+	},
+	{
+		"jammer": "Nebulux",
+		"jammer_link": "https://nebulux.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 215,
+				"title": "Space Invaders",
+				"title_link": "https://nebulux.itch.io/space-invaders",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2022096",
+				"by_list": [
+					"Nebulux"
+				],
+				"by_link_list": [
+					"https://nebulux.itch.io/"
+				],
+				"rank": 189,
+				"ratings": 3,
+				"score": 1.691,
+				"ilscore": 46,
+				"submission_time_diff": 50951000
+			}
+		]
+	},
+	{
+		"jammer": "HaddenBat",
+		"jammer_link": "https://haddenbat.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 215,
+				"title": "Starship Catastrophe",
+				"title_link": "https://haddenbat.itch.io/starship-catastrophe",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020200",
+				"by_list": [
+					"HaddenBat"
+				],
+				"by_link_list": [
+					"https://haddenbat.itch.io/"
+				],
+				"rank": 190,
+				"ratings": 3,
+				"score": 1.637,
+				"ilscore": 44,
+				"submission_time_diff": -48362000
 			}
 		]
 	}

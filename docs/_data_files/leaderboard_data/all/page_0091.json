@@ -1,82 +1,5 @@
 [
 	{
-		"jammer": "JackPrograms",
-		"jammer_link": "https://jackprograms.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Megawatt Island",
-				"title_link": "https://jackprograms.itch.io/megawatt-island",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112953",
-				"by_list": [
-					"JackPrograms"
-				],
-				"by_link_list": [
-					"https://jackprograms.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 15,
-				"score": 3.9,
-				"ilscore": 81,
-				"submission_time_diff": -51000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Space Scribe: Orbital Planner",
-				"title_link": "https://jackprograms.itch.io/space-scribe",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315405",
-				"by_list": [
-					"JackPrograms",
-					"Humane Tiger"
-				],
-				"by_link_list": [
-					"https://jackprograms.itch.io/",
-					"https://humane-tiger.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 10,
-				"score": 3.125,
-				"ilscore": 50,
-				"submission_time_diff": -85000
-			}
-		]
-	},
-	{
-		"jammer": "okayscott",
-		"jammer_link": "https://okayscott.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Crabatouille",
-				"title_link": "https://okayscott.itch.io/crabatouille",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113969",
-				"by_list": [
-					"okayscott"
-				],
-				"by_link_list": [
-					"https://okayscott.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 22,
-				"score": 3.898,
-				"ilscore": 81,
-				"submission_time_diff": -2051000
-			}
-		]
-	},
-	{
 		"jammer": "Andre Bacon",
 		"jammer_link": "https://andrebacon2.itch.io/",
 		"game_list_sorted": [
@@ -1328,7 +1251,7 @@
 				"jam_id": 169,
 				"jam_name": "Future",
 				"jam_link": "https://itch.io/jam/mini-jam-169-future",
-				"jam_vs": 45,
+				"jam_vs": 44,
 				"title": "Fugu Space Trucker",
 				"title_link": "https://sealnf.itch.io/space-trucker",
 				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3033000",
@@ -1409,7 +1332,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 127,
 				"title": "Follow the Spark",
 				"title_link": "https://sealnf.itch.io/followthespark",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2481453",
@@ -3426,7 +3349,7 @@
 				"jam_id": 175,
 				"jam_name": "Gravity",
 				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 140,
+				"jam_vs": 139,
 				"title": "GravTrajectory",
 				"title_link": "https://de0pt.itch.io/gravtrajectory",
 				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225785",
@@ -3474,6 +3397,81 @@
 				"score": 2.875,
 				"ilscore": 50,
 				"submission_time_diff": -20495000
+			}
+		]
+	},
+	{
+		"jammer": "SnoopSnoopNacho",
+		"jammer_link": "https://snoopsnoopnacho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 161,
+				"jam_name": "Style",
+				"jam_link": "https://itch.io/jam/mini-jam-161-style",
+				"jam_vs": 53,
+				"title": "BudWest",
+				"title_link": "https://snoopsnoopnacho.itch.io/budwest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792076",
+				"by_list": [
+					"SnoopSnoopNacho"
+				],
+				"by_link_list": [
+					"https://snoopsnoopnacho.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 7,
+				"score": 2.821,
+				"ilscore": 42,
+				"submission_time_diff": -1025000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "DeceptionKnight",
+				"title_link": "https://snoopsnoopnacho.itch.io/deceptionknight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134082",
+				"by_list": [
+					"SnoopSnoopNacho"
+				],
+				"by_link_list": [
+					"https://snoopsnoopnacho.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 7,
+				"score": 2.75,
+				"ilscore": 48,
+				"submission_time_diff": -36230000
+			}
+		]
+	},
+	{
+		"jammer": "Sleep&amp;Tea",
+		"jammer_link": "https://sleeptea.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "Knight of Dream",
+				"title_link": "https://sleeptea.itch.io/knight-of-dream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134396",
+				"by_list": [
+					"Sleep&amp;Tea"
+				],
+				"by_link_list": [
+					"https://sleeptea.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 6,
+				"score": 2.75,
+				"ilscore": 48,
+				"submission_time_diff": -1359000
 			}
 		]
 	}
