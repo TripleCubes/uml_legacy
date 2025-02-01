@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "ZWT3",
+		"jammer_link": "https://zwt3.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 4,
+				"jam_name": "Major Jam 4: Cosmic",
+				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
+				"jam_vs": 137,
+				"title": "Starlight Overdrive",
+				"title_link": "https://zwt3.itch.io/starlight-overdrive",
+				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160794",
+				"by_list": [
+					"ZWT3"
+				],
+				"by_link_list": [
+					"https://zwt3.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 18,
+				"score": 4.097,
+				"ilscore": 93,
+				"submission_time_diff": -2190000
+			}
+		]
+	},
+	{
 		"jammer": "Critwhale",
 		"jammer_link": "https://critwhale.itch.io/",
 		"game_list_sorted": [
@@ -504,7 +531,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Pale Faced Lightning",
 				"title_link": "https://drew-g.itch.io/pale-faced-lightning",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203415",
@@ -517,7 +544,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 4.016,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -5564000
 			}
 		]
@@ -813,7 +840,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
+				"jam_vs": 105,
 				"title": "Friendly Kaiju Simulator",
 				"title_link": "https://zaukul.itch.io/friendly-kaiju-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347378",
@@ -842,7 +869,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
+				"jam_vs": 105,
 				"title": "Friendly Kaiju Simulator",
 				"title_link": "https://zaukul.itch.io/friendly-kaiju-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347378",
@@ -964,7 +991,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
+				"jam_vs": 137,
 				"title": "Don't Get Catfished!",
 				"title_link": "https://jorddagreatest.itch.io/dont-get-catfished",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511813",
@@ -2077,7 +2104,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Leap into Style",
 				"title_link": "https://rgremxyz.itch.io/leap-into-style",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792009",
@@ -2803,33 +2830,6 @@
 				"score": 3.643,
 				"ilscore": 52,
 				"submission_time_diff": -57451000
-			}
-		]
-	},
-	{
-		"jammer": "bonsaipropaganda",
-		"jammer_link": "https://bonsaipropaganda.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"jam_vs": 37,
-				"title": "Faetal Coins",
-				"title_link": "https://bonsaipropaganda.itch.io/faetal-coins",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228175",
-				"by_list": [
-					"bonsaipropaganda"
-				],
-				"by_link_list": [
-					"https://bonsaipropaganda.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 9,
-				"score": 3.639,
-				"ilscore": 45,
-				"submission_time_diff": -1005000
 			}
 		]
 	}

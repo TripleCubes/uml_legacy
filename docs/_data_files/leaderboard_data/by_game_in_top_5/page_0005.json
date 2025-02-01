@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "yumaikas",
+		"jammer_link": "https://yumaikas.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 116,
+				"jam_name": "Pocket Sized",
+				"jam_link": "https://itch.io/jam/mini-jam-116-pocket-sized",
+				"jam_vs": 42,
+				"title": "Gum Runner",
+				"title_link": "https://yumaikas.itch.io/gum-runner",
+				"submission_page_link": "https://itch.io/jam/mini-jam-116-pocket-sized/rate/1726663",
+				"by_list": [
+					"yumaikas",
+					"Ategon",
+					"Staintocton"
+				],
+				"by_link_list": [
+					"https://yumaikas.itch.io/",
+					"https://ategon.itch.io/",
+					"https://staintocton.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 13,
+				"score": 4.25,
+				"ilscore": 56,
+				"submission_time_diff": -21682000
+			}
+		]
+	},
+	{
 		"jammer": "Ategon",
 		"jammer_link": "https://ategon.itch.io/",
 		"game_list_sorted": [
@@ -360,7 +391,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Problem of wealth",
 				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
@@ -389,7 +420,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Problem of wealth",
 				"title_link": "https://jjfcompany.itch.io/problem-of-wealth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512010",
@@ -472,7 +503,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
+				"jam_vs": 135,
 				"title": "Energy Drifter",
 				"title_link": "https://tommy-lian.itch.io/energy-drifter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590996",
@@ -1886,7 +1917,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Medusa VS Perseus",
 				"title_link": "https://ahmetahaydemir.itch.io/medusa-vs-perseus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203007",
@@ -1915,7 +1946,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Medusa VS Perseus",
 				"title_link": "https://ahmetahaydemir.itch.io/medusa-vs-perseus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203007",
@@ -2985,7 +3016,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "HurdleBot",
 				"title_link": "https://gustavorubo.itch.io/hurdlebot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1150746",
@@ -3027,33 +3058,6 @@
 				"score": 3.894,
 				"ilscore": 86,
 				"submission_time_diff": -11876000
-			}
-		]
-	},
-	{
-		"jammer": "Motor Drive",
-		"jammer_link": "https://motor-drive.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 169,
-				"title": "Parsnip in debt",
-				"title_link": "https://motor-drive.itch.io/parsnip-in-debt",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1135728",
-				"by_list": [
-					"Motor Drive"
-				],
-				"by_link_list": [
-					"https://motor-drive.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 23,
-				"score": 3.891,
-				"ilscore": 96,
-				"submission_time_diff": -32175000
 			}
 		]
 	}

@@ -1,203 +1,5 @@
 [
 	{
-		"jammer": "Solicey",
-		"jammer_link": "https://solicey.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 142,
-				"jam_name": "Fortune",
-				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
-				"title": "Equal Distribution",
-				"title_link": "https://solicey.itch.io/equal-distribution",
-				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292874",
-				"by_list": [
-					"Solicey"
-				],
-				"by_link_list": [
-					"https://solicey.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 9,
-				"score": 2.186,
-				"ilscore": 28,
-				"submission_time_diff": -1267000
-			}
-		]
-	},
-	{
-		"jammer": "devgreb",
-		"jammer_link": "https://devgreb.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Spiders???",
-				"title_link": "https://devgreb.itch.io/mini-jam-144-nightmare",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2341227",
-				"by_list": [
-					"devgreb"
-				],
-				"by_link_list": [
-					"https://devgreb.itch.io/"
-				],
-				"rank": 21,
-				"ratings": 13,
-				"score": 3.077,
-				"ilscore": 51,
-				"submission_time_diff": -2982000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
-				"title": "Mystic Leap",
-				"title_link": "https://lightningpickle.itch.io/mystic-leap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
-				"by_list": [
-					"LightningPickle",
-					"devgreb"
-				],
-				"by_link_list": [
-					"https://lightningpickle.itch.io/",
-					"https://devgreb.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 15,
-				"score": 3.433,
-				"ilscore": 76,
-				"submission_time_diff": -11859000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Ink Platformer",
-				"title_link": "https://lightningpickle.itch.io/mini-jam-143-ink-platformer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2316021",
-				"by_list": [
-					"LightningPickle",
-					"devgreb"
-				],
-				"by_link_list": [
-					"https://lightningpickle.itch.io/",
-					"https://devgreb.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 6,
-				"score": 3.042,
-				"ilscore": 49,
-				"submission_time_diff": -1547000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 142,
-				"jam_name": "Fortune",
-				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
-				"title": "Earth Defense",
-				"title_link": "https://devgreb.itch.io/mini-jam-142-earth-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292777",
-				"by_list": [
-					"devgreb",
-					"LightningPickle"
-				],
-				"by_link_list": [
-					"https://devgreb.itch.io/",
-					"https://lightningpickle.itch.io/"
-				],
-				"rank": 37,
-				"ratings": 12,
-				"score": 1.958,
-				"ilscore": 25,
-				"submission_time_diff": -2696000
-			}
-		]
-	},
-	{
-		"jammer": "LightningPickle",
-		"jammer_link": "https://lightningpickle.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
-				"title": "Mystic Leap",
-				"title_link": "https://lightningpickle.itch.io/mystic-leap",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
-				"by_list": [
-					"LightningPickle",
-					"devgreb"
-				],
-				"by_link_list": [
-					"https://lightningpickle.itch.io/",
-					"https://devgreb.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 15,
-				"score": 3.433,
-				"ilscore": 76,
-				"submission_time_diff": -11859000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Ink Platformer",
-				"title_link": "https://lightningpickle.itch.io/mini-jam-143-ink-platformer",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2316021",
-				"by_list": [
-					"LightningPickle",
-					"devgreb"
-				],
-				"by_link_list": [
-					"https://lightningpickle.itch.io/",
-					"https://devgreb.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 6,
-				"score": 3.042,
-				"ilscore": 49,
-				"submission_time_diff": -1547000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 142,
-				"jam_name": "Fortune",
-				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
-				"title": "Earth Defense",
-				"title_link": "https://devgreb.itch.io/mini-jam-142-earth-defense",
-				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292777",
-				"by_list": [
-					"devgreb",
-					"LightningPickle"
-				],
-				"by_link_list": [
-					"https://devgreb.itch.io/",
-					"https://lightningpickle.itch.io/"
-				],
-				"rank": 37,
-				"ratings": 12,
-				"score": 1.958,
-				"ilscore": 25,
-				"submission_time_diff": -2696000
-			}
-		]
-	},
-	{
 		"jammer": "SuperGoon",
 		"jammer_link": "https://supergoon.itch.io/",
 		"game_list_sorted": [
@@ -692,7 +494,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Style Quiz",
 				"title_link": "https://d14u82.itch.io/style-quiz",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792097",
@@ -2938,7 +2740,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Greedy Dragon",
 				"title_link": "https://deathwalker57.itch.io/greedy-dragon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513087",
@@ -3328,6 +3130,87 @@
 				"score": 2,
 				"ilscore": 33,
 				"submission_time_diff": 1732000
+			}
+		]
+	},
+	{
+		"jammer": "Vladeko_CZ",
+		"jammer_link": "https://vladeko-cz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "The nightmarish homework",
+				"title_link": "https://vladeko-cz.itch.io/the-nightmarish-homework",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340512",
+				"by_list": [
+					"Vladeko_CZ"
+				],
+				"by_link_list": [
+					"https://vladeko-cz.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 3,
+				"score": 1.99,
+				"ilscore": 33,
+				"submission_time_diff": -26213000
+			}
+		]
+	},
+	{
+		"jammer": "mrvalerio",
+		"jammer_link": "https://mrvalerio.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Endless Nightmare",
+				"title_link": "https://mrvalerio.itch.io/endless-nightmare",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2338300",
+				"by_list": [
+					"mrvalerio"
+				],
+				"by_link_list": [
+					"https://mrvalerio.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 4,
+				"score": 1.945,
+				"ilscore": 32,
+				"submission_time_diff": -113356000
+			}
+		]
+	},
+	{
+		"jammer": "freyacantsleep",
+		"jammer_link": "https://freyacantsleep.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 144,
+				"jam_name": "Nightmare",
+				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
+				"jam_vs": 66,
+				"title": "Terror Twilight (Jam Edition)",
+				"title_link": "https://freyacantsleep.itch.io/terror-twilight-jam-edition",
+				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340323",
+				"by_list": [
+					"freyacantsleep"
+				],
+				"by_link_list": [
+					"https://freyacantsleep.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 3,
+				"score": 1.888,
+				"ilscore": 31,
+				"submission_time_diff": -30345000
 			}
 		]
 	}

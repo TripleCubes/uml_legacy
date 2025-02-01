@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "churches",
-		"jammer_link": "https://churches.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 253,
-				"title": "Bird is the Word",
-				"title_link": "https://churches.itch.io/bird-is-the-word",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1386424",
-				"by_list": [
-					"churches"
-				],
-				"by_link_list": [
-					"https://churches.itch.io/"
-				],
-				"rank": 71,
-				"ratings": 15,
-				"score": 3.3,
-				"ilscore": 95,
-				"submission_time_diff": -350000
-			}
-		]
-	},
-	{
 		"jammer": "GameDocs",
 		"jammer_link": "https://gamedocs.itch.io/",
 		"game_list_sorted": [
@@ -56,7 +29,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Fruit Hunting",
 				"title_link": "https://gamedocs.itch.io/fruit-hunting",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2020734",
@@ -118,7 +91,8 @@
 					"Derpyzza",
 					"TLAlice",
 					"Cat Jug",
-					"Hot Noggin Studios"
+					"Hot Noggin Studios",
+					"Blank Slate"
 				],
 				"by_link_list": [
 					"https://ilprinni.itch.io/",
@@ -130,7 +104,8 @@
 					"https://derpyzza.itch.io/",
 					"https://tlalice.itch.io/",
 					"https://cat-jug.itch.io/",
-					"https://hotnoggin.itch.io/"
+					"https://hotnoggin.itch.io/",
+					"https://blankedslate.itch.io/"
 				],
 				"rank": 10,
 				"ratings": 11,
@@ -271,7 +246,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Earth Toy",
 				"title_link": "https://tlalice.itch.io/earth-toy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2945698",
@@ -284,7 +259,7 @@
 				"rank": 151,
 				"ratings": 3,
 				"score": 2.182,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": 45812000
 			}
 		]
@@ -319,7 +294,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "RGB Backfire!",
 				"title_link": "https://chocola-mint.itch.io/rgb-backfire",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633664",
@@ -564,7 +539,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
+				"jam_vs": 137,
 				"title": "Nightmare Chase",
 				"title_link": "https://artemistake.itch.io/nightmare-chase",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511728",
@@ -2666,7 +2641,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "my hectic garden",
 				"title_link": "https://whoppsd.itch.io/my-hectic-garden",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944545",
@@ -2729,7 +2704,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "the (un)invisible Hand",
 				"title_link": "https://whoppsd.itch.io/the-uninvisible-hand",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2514913",
@@ -3858,7 +3833,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Floating Adventure!",
 				"title_link": "https://tiegerator.itch.io/floating-adventure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634141",
@@ -4137,6 +4112,33 @@
 				"score": 2.213,
 				"ilscore": 63,
 				"submission_time_diff": -13580000
+			}
+		]
+	},
+	{
+		"jammer": "jawnston",
+		"jammer_link": "https://jawnston.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 253,
+				"title": "pelicanoid",
+				"title_link": "https://jawnston.itch.io/pelicanoid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1370503",
+				"by_list": [
+					"jawnston"
+				],
+				"by_link_list": [
+					"https://jawnston.itch.io/"
+				],
+				"rank": 196,
+				"ratings": 8,
+				"score": 2.21,
+				"ilscore": 63,
+				"submission_time_diff": -4722000
 			}
 		]
 	}

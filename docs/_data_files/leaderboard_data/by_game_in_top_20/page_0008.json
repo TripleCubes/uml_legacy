@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "AshvinR",
+		"jammer_link": "https://ashvinr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 37,
+				"jam_name": "Engineering",
+				"jam_link": "https://itch.io/jam/mini-jam-37-engineering",
+				"jam_vs": 12,
+				"title": "Channel 1",
+				"title_link": "https://ashvinr.itch.io/channel-1",
+				"submission_page_link": "https://itch.io/jam/mini-jam-37-engineering/rate/486759",
+				"by_list": [
+					"AshvinR"
+				],
+				"by_link_list": [
+					"https://ashvinr.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 5,
+				"score": 3.15,
+				"ilscore": 19,
+				"submission_time_diff": -31477000
+			}
+		]
+	},
+	{
 		"jammer": "keyo",
 		"jammer_link": "https://keyo.itch.io/",
 		"game_list_sorted": [
@@ -89,7 +116,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -102,7 +129,7 @@
 				"rank": 2,
 				"ratings": 28,
 				"score": 4.429,
-				"ilscore": 118,
+				"ilscore": 117,
 				"submission_time_diff": -16416000
 			}
 		]
@@ -443,7 +470,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Dragon Hoarder",
 				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
@@ -1550,7 +1577,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Lunar 10",
 				"title_link": "https://r1gby-games.itch.io/lunar-10",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
@@ -2861,37 +2888,6 @@
 				"score": 3.833,
 				"ilscore": 38,
 				"submission_time_diff": -2884000
-			}
-		]
-	},
-	{
-		"jammer": "OfficialChaser8",
-		"jammer_link": "https://officialchaser8.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
-				"title": "Bob's New Car",
-				"title_link": "https://officialchaser8.itch.io/bobsnewcar",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789406",
-				"by_list": [
-					"OfficialChaser8",
-					"gobbe",
-					"Crazed Pianist"
-				],
-				"by_link_list": [
-					"https://officialchaser8.itch.io/",
-					"https://gobbe57.itch.io/",
-					"https://dj5412.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 18,
-				"score": 3.833,
-				"ilscore": 57,
-				"submission_time_diff": -630000
 			}
 		]
 	}

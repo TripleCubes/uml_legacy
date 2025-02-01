@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Motor Drive",
+		"jammer_link": "https://motor-drive.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 85,
+				"jam_name": "Gold",
+				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
+				"jam_vs": 169,
+				"title": "Parsnip in debt",
+				"title_link": "https://motor-drive.itch.io/parsnip-in-debt",
+				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1135728",
+				"by_list": [
+					"Motor Drive"
+				],
+				"by_link_list": [
+					"https://motor-drive.itch.io/"
+				],
+				"rank": 3,
+				"ratings": 23,
+				"score": 3.891,
+				"ilscore": 96,
+				"submission_time_diff": -32175000
+			}
+		]
+	},
+	{
 		"jammer": "Grigorii Pika",
 		"jammer_link": "https://lockd.itch.io/",
 		"game_list_sorted": [
@@ -564,7 +591,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "I Never Beat Derby Girl",
 				"title_link": "https://royaljudas.itch.io/i-never-beat-derby-girl",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2791659",
@@ -577,7 +604,7 @@
 				"rank": 3,
 				"ratings": 11,
 				"score": 3.818,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -11152000
 			}
 		]
@@ -1790,7 +1817,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Hall of Palettes",
 				"title_link": "https://wer8888.itch.io/hall-of-palettes",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634330",
@@ -1819,7 +1846,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Terra Green",
 				"title_link": "https://keppu.itch.io/terragreen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943827",
@@ -1832,7 +1859,7 @@
 				"rank": 4,
 				"ratings": 51,
 				"score": 4.279,
-				"ilscore": 114,
+				"ilscore": 113,
 				"submission_time_diff": -11582000
 			}
 		]
@@ -2149,7 +2176,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "RB/CB",
 				"title_link": "https://thejohnyfeed.itch.io/rbcb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999796",
@@ -2162,7 +2189,7 @@
 				"rank": 4,
 				"ratings": 10,
 				"score": 4.175,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -13722000
 			}
 		]
@@ -2839,33 +2866,6 @@
 				"score": 4.098,
 				"ilscore": 109,
 				"submission_time_diff": -8862000
-			}
-		]
-	},
-	{
-		"jammer": "ZWT3",
-		"jammer_link": "https://zwt3.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 4,
-				"jam_name": "Major Jam 4: Cosmic",
-				"jam_link": "https://itch.io/jam/major-jam-4-cosmic",
-				"jam_vs": 137,
-				"title": "Starlight Overdrive",
-				"title_link": "https://zwt3.itch.io/starlight-overdrive",
-				"submission_page_link": "https://itch.io/jam/major-jam-4-cosmic/rate/1160794",
-				"by_list": [
-					"ZWT3"
-				],
-				"by_link_list": [
-					"https://zwt3.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 18,
-				"score": 4.097,
-				"ilscore": 93,
-				"submission_time_diff": -2190000
 			}
 		]
 	}

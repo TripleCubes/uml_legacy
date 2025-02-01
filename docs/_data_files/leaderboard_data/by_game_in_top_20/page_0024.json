@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "Snekko",
+		"jammer_link": "https://snekko.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 145,
+				"jam_name": "Frozen",
+				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
+				"jam_vs": 88,
+				"title": "Sp-icy Cursor",
+				"title_link": "https://martimdev.itch.io/spicy-cursor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2363999",
+				"by_list": [
+					"MartimDev",
+					"Snekko",
+					"OrangeAlligator"
+				],
+				"by_link_list": [
+					"https://martimdev.itch.io/",
+					"https://snekko.itch.io/",
+					"https://orangealligator.itch.io/"
+				],
+				"rank": 14,
+				"ratings": 19,
+				"score": 3.671,
+				"ilscore": 69,
+				"submission_time_diff": -18175000
+			}
+		]
+	},
+	{
 		"jammer": "OrangeAlligator",
 		"jammer_link": "https://orangealligator.itch.io/",
 		"game_list_sorted": [
@@ -387,7 +418,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Catch up !",
 				"title_link": "https://poishiche.itch.io/catch-up",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1152994",
@@ -1049,7 +1080,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Vampire Vanity",
 				"title_link": "https://gnoxnahtedev.itch.io/vampirevanity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2786919",
@@ -1080,7 +1111,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Vampire Vanity",
 				"title_link": "https://gnoxnahtedev.itch.io/vampirevanity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2786919",
@@ -1111,7 +1142,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Vampire Vanity",
 				"title_link": "https://gnoxnahtedev.itch.io/vampirevanity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2786919",
@@ -2801,33 +2832,6 @@
 				"score": 4.038,
 				"ilscore": 121,
 				"submission_time_diff": -93676000
-			}
-		]
-	},
-	{
-		"jammer": "DioSanSan",
-		"jammer_link": "https://diosansan.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Ultimate Ninja Dad",
-				"title_link": "https://diosansan.itch.io/ultimate-ninja-dad",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025899",
-				"by_list": [
-					"DioSanSan"
-				],
-				"by_link_list": [
-					"https://diosansan.itch.io/"
-				],
-				"rank": 15,
-				"ratings": 10,
-				"score": 3.975,
-				"ilscore": 101,
-				"submission_time_diff": -8915000
 			}
 		]
 	}

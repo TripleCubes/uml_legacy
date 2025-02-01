@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "DevNugget",
+		"jammer_link": "https://devnugget.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 81,
+				"jam_name": "Kaiju",
+				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
+				"jam_vs": 74,
+				"title": "Gamera's Binding",
+				"title_link": "https://devnugget.itch.io/gameras-binding",
+				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1062447",
+				"by_list": [
+					"DevNugget"
+				],
+				"by_link_list": [
+					"https://devnugget.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 3.857,
+				"ilscore": 67,
+				"submission_time_diff": -43786000
+			}
+		]
+	},
+	{
 		"jammer": "Fava Beans",
 		"jammer_link": "https://fava-beans.itch.io/",
 		"game_list_sorted": [
@@ -421,7 +448,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -434,7 +461,7 @@
 				"rank": 2,
 				"ratings": 28,
 				"score": 4.429,
-				"ilscore": 118,
+				"ilscore": 117,
 				"submission_time_diff": -16416000
 			}
 		]
@@ -922,7 +949,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Dragon Hoarder",
 				"title_link": "https://alejandroaceytunogonzalez.itch.io/dragon-hoarder",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512110",
@@ -2275,7 +2302,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Neon Shadows",
 				"title_link": "https://psonbre.itch.io/neon-shadows",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
@@ -2304,7 +2331,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "Neon Shadows",
 				"title_link": "https://psonbre.itch.io/neon-shadows",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1151564",
@@ -2495,7 +2522,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Lunar 10",
 				"title_link": "https://r1gby-games.itch.io/lunar-10",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
@@ -2549,7 +2576,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "A Patch to Appease",
 				"title_link": "https://curiouscinni.itch.io/a-patch-to-appease",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202201",
@@ -2815,37 +2842,6 @@
 				"score": 4.036,
 				"ilscore": 27,
 				"submission_time_diff": -2724000
-			}
-		]
-	},
-	{
-		"jammer": "Jefferson Toal",
-		"jammer_link": "https://jeffersontoal.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 126,
-				"jam_name": "Lost",
-				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
-				"jam_vs": 78,
-				"title": "NICK OF TIME (jam version)",
-				"title_link": "https://viigames.itch.io/nick-of-time",
-				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1932215",
-				"by_list": [
-					"Gorethumb",
-					"tornado cub",
-					"Jefferson Toal"
-				],
-				"by_link_list": [
-					"https://viigames.itch.io/",
-					"https://tornadocub.itch.io/",
-					"https://jeffersontoal.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 22,
-				"score": 4.034,
-				"ilscore": 72,
-				"submission_time_diff": -1673000
 			}
 		]
 	}

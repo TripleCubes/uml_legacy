@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Tail Clap Games",
+		"jammer_link": "https://tailclap.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 60,
+				"jam_name": "Crime",
+				"jam_link": "https://itch.io/jam/mini-jam-60",
+				"jam_vs": 64,
+				"title": "Cyndicate - Mafia Tycoon (Mobile friendly)",
+				"title_link": "https://tailclap.itch.io/cyndicate-mafia-management",
+				"submission_page_link": "https://itch.io/jam/mini-jam-60/rate/725645",
+				"by_list": [
+					"Tail Clap Games"
+				],
+				"by_link_list": [
+					"https://tailclap.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 25,
+				"score": 4.08,
+				"ilscore": 67,
+				"submission_time_diff": -112099000
+			}
+		]
+	},
+	{
 		"jammer": "A Cup Of Coffee",
 		"jammer_link": "https://a-cup-of-coffee.itch.io/",
 		"game_list_sorted": [
@@ -174,7 +201,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Pale Faced Lightning",
 				"title_link": "https://drew-g.itch.io/pale-faced-lightning",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203415",
@@ -187,7 +214,7 @@
 				"rank": 4,
 				"ratings": 16,
 				"score": 4.016,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -5564000
 			}
 		]
@@ -547,7 +574,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
+				"jam_vs": 137,
 				"title": "Don't Get Catfished!",
 				"title_link": "https://jorddagreatest.itch.io/dont-get-catfished",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511813",
@@ -2421,7 +2448,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Sink",
 				"title_link": "https://jaxstutz.itch.io/sink",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635047",
@@ -2795,37 +2822,6 @@
 				"score": 4.086,
 				"ilscore": 95,
 				"submission_time_diff": -2306000
-			}
-		]
-	},
-	{
-		"jammer": "SavestateCorrupted",
-		"jammer_link": "https://savestatecorrupted.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
-				"title": "Dream of the Machine",
-				"title_link": "https://ilprinni.itch.io/the-dreams-of-machines",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591372",
-				"by_list": [
-					"ilPrinni",
-					"SavestateCorrupted",
-					"Derpyzza"
-				],
-				"by_link_list": [
-					"https://ilprinni.itch.io/",
-					"https://savestatecorrupted.itch.io/",
-					"https://derpyzza.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 15,
-				"score": 4.083,
-				"ilscore": 93,
-				"submission_time_diff": -330000
 			}
 		]
 	}

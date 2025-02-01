@@ -1,5 +1,53 @@
 [
 	{
+		"jammer": "ZapJackson",
+		"jammer_link": "https://zapjackson.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"jam_vs": 48,
+				"title": "Billy Basement",
+				"title_link": "https://zapjackson.itch.io/billy-basement",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/682163",
+				"by_list": [
+					"ZapJackson"
+				],
+				"by_link_list": [
+					"https://zapjackson.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 3.964,
+				"ilscore": 56,
+				"submission_time_diff": -20841000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 52,
+				"jam_name": "Summit",
+				"jam_link": "https://itch.io/jam/mini-jam-52-summit",
+				"jam_vs": 79,
+				"title": "Spooky Mountain",
+				"title_link": "https://zapjackson.itch.io/spooky-mountain",
+				"submission_page_link": "https://itch.io/jam/mini-jam-52-summit/rate/613572",
+				"by_list": [
+					"ZapJackson"
+				],
+				"by_link_list": [
+					"https://zapjackson.itch.io/"
+				],
+				"rank": 8,
+				"ratings": 16,
+				"score": 3.688,
+				"ilscore": 66,
+				"submission_time_diff": -12337000
+			}
+		]
+	},
+	{
 		"jammer": "PepperBoi",
 		"jammer_link": "https://pepperboi.itch.io/",
 		"game_list_sorted": [
@@ -8,7 +56,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Don't Leave Me Hanging",
 				"title_link": "https://pepperboi.itch.io/dont-leave-me-hanging",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2789094",
@@ -25,7 +73,7 @@
 				"rank": 5,
 				"ratings": 7,
 				"score": 3.679,
-				"ilscore": 55,
+				"ilscore": 54,
 				"submission_time_diff": 3210000
 			},
 			{
@@ -876,54 +924,6 @@
 		]
 	},
 	{
-		"jammer": "Blank Slate",
-		"jammer_link": "https://blankedslate.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 176,
-				"jam_name": "Foxes",
-				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
-				"jam_vs": 94,
-				"title": "Dungeon Flipper",
-				"title_link": "https://blankedslate.itch.io/dungeon-flipper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256916",
-				"by_list": [
-					"Blank Slate"
-				],
-				"by_link_list": [
-					"https://blankedslate.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 12,
-				"score": 3.813,
-				"ilscore": 74,
-				"submission_time_diff": -5633000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 132,
-				"jam_name": "Severed",
-				"jam_link": "https://itch.io/jam/mini-jam-132-severed",
-				"jam_vs": 54,
-				"title": "DivinEmu",
-				"title_link": "https://blankedslate.itch.io/divinemu",
-				"submission_page_link": "https://itch.io/jam/mini-jam-132-severed/rate/2069532",
-				"by_list": [
-					"Blank Slate"
-				],
-				"by_link_list": [
-					"https://blankedslate.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 7,
-				"score": 3.321,
-				"ilscore": 50,
-				"submission_time_diff": -38884000
-			}
-		]
-	},
-	{
 		"jammer": "Max Westerlund",
 		"jammer_link": "https://max-westerlund.itch.io/",
 		"game_list_sorted": [
@@ -1105,7 +1105,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
+				"jam_vs": 105,
 				"title": "No Pain, No Gain",
 				"title_link": "https://dancar.itch.io/no-pain-no-gain",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347527",
@@ -1132,7 +1132,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Rumeru's Evil Deeds",
 				"title_link": "https://gatlink.itch.io/rumerus-evil-deeds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999599",
@@ -1228,7 +1228,7 @@
 				"jam_id": 161,
 				"jam_name": "Style",
 				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Thrift Store Fight League",
 				"title_link": "https://waynemadeagame.itch.io/thrift-store-fight-league",
 				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2791729",
@@ -1245,7 +1245,7 @@
 				"rank": 8,
 				"ratings": 8,
 				"score": 3.563,
-				"ilscore": 53,
+				"ilscore": 52,
 				"submission_time_diff": 115094000
 			},
 			{
@@ -1953,7 +1953,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
+				"jam_vs": 137,
 				"title": "New Game Plus",
 				"title_link": "https://1byteuniverse.itch.io/new-game-plus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1512031",
@@ -2576,7 +2576,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "my hectic garden",
 				"title_link": "https://whoppsd.itch.io/my-hectic-garden",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944545",
@@ -2756,11 +2756,13 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889447",
 				"by_list": [
 					"frens who do games",
-					"Fr0oZzFred"
+					"Fr0oZzFred",
+					"ritsu_snow"
 				],
 				"by_link_list": [
 					"https://createam1.itch.io/",
-					"https://fr0ozzfred.itch.io/"
+					"https://fr0ozzfred.itch.io/",
+					"https://ritsu-snow.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 12,
@@ -2785,11 +2787,44 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889447",
 				"by_list": [
 					"frens who do games",
-					"Fr0oZzFred"
+					"Fr0oZzFred",
+					"ritsu_snow"
 				],
 				"by_link_list": [
 					"https://createam1.itch.io/",
-					"https://fr0ozzfred.itch.io/"
+					"https://fr0ozzfred.itch.io/",
+					"https://ritsu-snow.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.396,
+				"ilscore": 93,
+				"submission_time_diff": -487000
+			}
+		]
+	},
+	{
+		"jammer": "ritsu_snow",
+		"jammer_link": "https://ritsu-snow.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Cozy Lullaby",
+				"title_link": "https://createam1.itch.io/sashasmelody",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889447",
+				"by_list": [
+					"frens who do games",
+					"Fr0oZzFred",
+					"ritsu_snow"
+				],
+				"by_link_list": [
+					"https://createam1.itch.io/",
+					"https://fr0ozzfred.itch.io/",
+					"https://ritsu-snow.itch.io/"
 				],
 				"rank": 1,
 				"ratings": 12,
@@ -3065,7 +3100,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Fruithillity",
 				"title_link": "https://atoastedcrumpet.itch.io/fruithillity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203562",
@@ -3462,7 +3497,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "&gt;immutable",
 				"title_link": "https://sha-bits.itch.io/immutable",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999785",
@@ -3477,7 +3512,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.286,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -906000
 			}
 		]
@@ -3566,35 +3601,6 @@
 	{
 		"jammer": "Felipe Gomes",
 		"jammer_link": "https://satsuyafrango.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "Containment Breach",
-				"title_link": "https://satsuyafrango.itch.io/containment-breach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104635",
-				"by_list": [
-					"Felipe Gomes",
-					"Diego Crispim"
-				],
-				"by_link_list": [
-					"https://satsuyafrango.itch.io/",
-					"https://solidfox.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 20,
-				"score": 4.275,
-				"ilscore": 89,
-				"submission_time_diff": -1247000
-			}
-		]
-	},
-	{
-		"jammer": "Diego Crispim",
-		"jammer_link": "https://solidfox.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

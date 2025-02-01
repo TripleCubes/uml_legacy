@@ -1,54 +1,5 @@
 [
 	{
-		"jammer": "Lemoto",
-		"jammer_link": "https://liolemoto.itch.io/",
-		"total_ilscore": 157,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 130,
-				"jam_name": "Lunar",
-				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
-				"title": "Chop N' Eat",
-				"title_link": "https://liolemoto.itch.io/chop-n-eat",
-				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021582",
-				"by_list": [
-					"Lemoto"
-				],
-				"by_link_list": [
-					"https://liolemoto.itch.io/"
-				],
-				"rank": 78,
-				"ratings": 10,
-				"score": 3.125,
-				"ilscore": 85,
-				"submission_time_diff": 6492000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 103,
-				"jam_name": "Darkness",
-				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
-				"jam_vs": 148,
-				"title": "Dark Shots",
-				"title_link": "https://liolemoto.itch.io/dark-shots",
-				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1465724",
-				"by_list": [
-					"Lemoto"
-				],
-				"by_link_list": [
-					"https://liolemoto.itch.io/"
-				],
-				"rank": 51,
-				"ratings": 16,
-				"score": 3.078,
-				"ilscore": 72,
-				"submission_time_diff": -33305000
-			}
-		]
-	},
-	{
 		"jammer": "TwinFlame Interactive",
 		"jammer_link": "https://twinflame-interactive.itch.io/",
 		"total_ilscore": 157,
@@ -151,6 +102,55 @@
 				"score": 3.825,
 				"ilscore": 69,
 				"submission_time_diff": -104000
+			}
+		]
+	},
+	{
+		"jammer": "Lyrical Games",
+		"jammer_link": "https://lyricalgames.itch.io/",
+		"total_ilscore": 157,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Cold Climb",
+				"title_link": "https://lyricalgames.itch.io/coldclimb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819209",
+				"by_list": [
+					"Lyrical Games"
+				],
+				"by_link_list": [
+					"https://lyricalgames.itch.io/"
+				],
+				"rank": 28,
+				"ratings": 19,
+				"score": 3.605,
+				"ilscore": 82,
+				"submission_time_diff": -17681000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 201,
+				"title": "Rockslide Rampage",
+				"title_link": "https://lyricalgames.itch.io/rockslide-rampage",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943374",
+				"by_list": [
+					"Lyrical Games"
+				],
+				"by_link_list": [
+					"https://lyricalgames.itch.io/"
+				],
+				"rank": 100,
+				"ratings": 6,
+				"score": 2.855,
+				"ilscore": 75,
+				"submission_time_diff": -21452000
 			}
 		]
 	},
@@ -632,55 +632,6 @@
 		]
 	},
 	{
-		"jammer": "Gerigx",
-		"jammer_link": "https://gerigx.itch.io/",
-		"total_ilscore": 156,
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
-				"title": "Frog Dash",
-				"title_link": "https://gerigx.itch.io/frog-dash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531803",
-				"by_list": [
-					"Gerigx"
-				],
-				"by_link_list": [
-					"https://gerigx.itch.io/"
-				],
-				"rank": 126,
-				"ratings": 7,
-				"score": 2.929,
-				"ilscore": 88,
-				"submission_time_diff": -22897000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 166,
-				"jam_name": "Earth",
-				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
-				"title": "Earthly",
-				"title_link": "https://gerigx.itch.io/earthly",
-				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2938185",
-				"by_list": [
-					"Gerigx"
-				],
-				"by_link_list": [
-					"https://gerigx.itch.io/"
-				],
-				"rank": 127,
-				"ratings": 10,
-				"score": 2.55,
-				"ilscore": 68,
-				"submission_time_diff": -11304000
-			}
-		]
-	},
-	{
 		"jammer": "cunksley",
 		"jammer_link": "https://cunksley.itch.io/",
 		"total_ilscore": 156,
@@ -948,7 +899,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Puddle vs. Pollution",
 				"title_link": "https://the-tyrant.itch.io/puddle-vs-pollution",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1631567",
@@ -997,7 +948,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Light up",
 				"title_link": "https://hologamer.itch.io/lightup",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2941127",
@@ -1018,7 +969,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Dragon and Treasure",
 				"title_link": "https://hologamer.itch.io/dragon-treasure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511481",
@@ -1258,7 +1209,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
+				"jam_vs": 105,
 				"title": "Burning Out!",
 				"title_link": "https://jksun22.itch.io/burning-out",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347772",
@@ -1307,7 +1258,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Color racer",
 				"title_link": "https://salsama59.itch.io/color-racer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634689",
@@ -1328,7 +1279,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 105,
+				"jam_vs": 104,
 				"title": "The pitfall",
 				"title_link": "https://salsama59.itch.io/the-pitfall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153157",
@@ -1398,7 +1349,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Hard souls",
 				"title_link": "https://neocybercat.itch.io/hard-souls",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1633657",
@@ -1440,7 +1391,7 @@
 				"jam_id": 97,
 				"jam_name": "Simulation",
 				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 104,
+				"jam_vs": 105,
 				"title": "Neo Death",
 				"title_link": "https://neocybercat.itch.io/neo-death",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347188",
@@ -1455,6 +1406,55 @@
 				"score": 1.069,
 				"ilscore": 21,
 				"submission_time_diff": -41044000
+			}
+		]
+	},
+	{
+		"jammer": "Gerigx",
+		"jammer_link": "https://gerigx.itch.io/",
+		"total_ilscore": 155,
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 282,
+				"title": "Frog Dash",
+				"title_link": "https://gerigx.itch.io/frog-dash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531803",
+				"by_list": [
+					"Gerigx"
+				],
+				"by_link_list": [
+					"https://gerigx.itch.io/"
+				],
+				"rank": 126,
+				"ratings": 7,
+				"score": 2.929,
+				"ilscore": 88,
+				"submission_time_diff": -22897000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 201,
+				"title": "Earthly",
+				"title_link": "https://gerigx.itch.io/earthly",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2938185",
+				"by_list": [
+					"Gerigx"
+				],
+				"by_link_list": [
+					"https://gerigx.itch.io/"
+				],
+				"rank": 127,
+				"ratings": 10,
+				"score": 2.55,
+				"ilscore": 67,
+				"submission_time_diff": -11304000
 			}
 		]
 	},
@@ -2381,7 +2381,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Color Switcher (WEB)",
 				"title_link": "https://redredred-studios.itch.io/color-switcher-web",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634173",
@@ -2485,7 +2485,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Firebreath Realtors",
 				"title_link": "https://escada-games.itch.io/firebreath-realtors",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2510690",
@@ -3215,18 +3215,18 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "ColorJam",
-				"title_link": "https://rodasfodas.itch.io/colorjam",
+				"title_link": "https://rodrigorosa.itch.io/colorjam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635846",
 				"by_list": [
-					"rodasFodas",
+					"rodrigoRosa",
 					"Magiron",
 					"Pedro Moreira",
 					"Puppetz75"
 				],
 				"by_link_list": [
-					"https://rodasfodas.itch.io/",
+					"https://rodrigorosa.itch.io/",
 					"https://magiron.itch.io/",
 					"https://rslxsx.itch.io/",
 					"https://puppetz75.itch.io/"
@@ -3242,19 +3242,19 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Triad of Greed",
-				"title_link": "https://rodasfodas.itch.io/triad-of-greed",
+				"title_link": "https://rodrigorosa.itch.io/triad-of-greed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513173",
 				"by_list": [
-					"rodasFodas",
+					"rodrigoRosa",
 					"Magiron",
 					"Puppetz75",
 					"ruivas1",
 					"Paulitchos"
 				],
 				"by_link_list": [
-					"https://rodasfodas.itch.io/",
+					"https://rodrigorosa.itch.io/",
 					"https://magiron.itch.io/",
 					"https://puppetz75.itch.io/",
 					"https://ruivas1.itch.io/",
@@ -3278,18 +3278,18 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "ColorJam",
-				"title_link": "https://rodasfodas.itch.io/colorjam",
+				"title_link": "https://rodrigorosa.itch.io/colorjam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1635846",
 				"by_list": [
-					"rodasFodas",
+					"rodrigoRosa",
 					"Magiron",
 					"Pedro Moreira",
 					"Puppetz75"
 				],
 				"by_link_list": [
-					"https://rodasfodas.itch.io/",
+					"https://rodrigorosa.itch.io/",
 					"https://magiron.itch.io/",
 					"https://rslxsx.itch.io/",
 					"https://puppetz75.itch.io/"
@@ -3305,19 +3305,19 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Triad of Greed",
-				"title_link": "https://rodasfodas.itch.io/triad-of-greed",
+				"title_link": "https://rodrigorosa.itch.io/triad-of-greed",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513173",
 				"by_list": [
-					"rodasFodas",
+					"rodrigoRosa",
 					"Magiron",
 					"Puppetz75",
 					"ruivas1",
 					"Paulitchos"
 				],
 				"by_link_list": [
-					"https://rodasfodas.itch.io/",
+					"https://rodrigorosa.itch.io/",
 					"https://magiron.itch.io/",
 					"https://puppetz75.itch.io/",
 					"https://ruivas1.itch.io/",
@@ -4195,7 +4195,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Sisyphus and the Pumpkin",
 				"title_link": "https://pepotrouille.itch.io/sisyphus-and-the-pumpkin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202902",
@@ -4558,7 +4558,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Death's Dance",
 				"title_link": "https://silvyger.itch.io/deaths-dance",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1973485",
@@ -5740,7 +5740,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Werewolf Mayor",
 				"title_link": "https://the-sleeping-platypus.itch.io/werewolf-mayor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2018898",
@@ -5768,7 +5768,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Boom Moon",
 				"title_link": "https://urbanzero.itch.io/boom-moon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2019693",

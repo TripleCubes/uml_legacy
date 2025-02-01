@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "Skopjie",
+		"jammer_link": "https://skopjie.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Oasisles",
+				"title_link": "https://skopjie.itch.io/oasisles",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592268",
+				"by_list": [
+					"Skopjie",
+					"Maria GameDev",
+					"Alejandro_gamedev"
+				],
+				"by_link_list": [
+					"https://skopjie.itch.io/",
+					"https://maria-gamedev.itch.io/",
+					"https://alejandro-gamedev.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 18,
+				"score": 3.744,
+				"ilscore": 83,
+				"submission_time_diff": -47331000
+			}
+		]
+	},
+	{
 		"jammer": "Maria GameDev",
 		"jammer_link": "https://maria-gamedev.itch.io/",
 		"game_list_sorted": [
@@ -2217,7 +2248,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "feathermancer",
 				"title_link": "https://macrowdev.itch.io/feathermancer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2937723",
@@ -2250,7 +2281,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "feathermancer",
 				"title_link": "https://macrowdev.itch.io/feathermancer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2937723",
@@ -2283,7 +2314,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "feathermancer",
 				"title_link": "https://macrowdev.itch.io/feathermancer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2937723",
@@ -2993,35 +3024,6 @@
 				"score": 4,
 				"ilscore": 83,
 				"submission_time_diff": -880000
-			}
-		]
-	},
-	{
-		"jammer": "Flat White Canvas",
-		"jammer_link": "https://flatwhitecanvas.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Octopus Boutique",
-				"title_link": "https://flatwhitecanvas.itch.io/octopusboutique",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2111616",
-				"by_list": [
-					"Flat White Canvas",
-					"Hugheth"
-				],
-				"by_link_list": [
-					"https://flatwhitecanvas.itch.io/",
-					"https://hugheth.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 12,
-				"score": 4,
-				"ilscore": 83,
-				"submission_time_diff": -18773000
 			}
 		]
 	}

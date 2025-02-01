@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "MAV_DEV",
+		"jammer_link": "https://mav-dev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 152,
+				"jam_name": "Heroes",
+				"jam_link": "https://itch.io/jam/mini-jam-152-heroes",
+				"jam_vs": 45,
+				"title": "Sword and Shield",
+				"title_link": "https://mav-dev.itch.io/sword-and-shield",
+				"submission_page_link": "https://itch.io/jam/mini-jam-152-heroes/rate/2537302",
+				"by_list": [
+					"MAV_DEV"
+				],
+				"by_link_list": [
+					"https://mav-dev.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 8,
+				"score": 3.313,
+				"ilscore": 45,
+				"submission_time_diff": -23376000
+			}
+		]
+	},
+	{
 		"jammer": "Demetri",
 		"jammer_link": "https://dnekos.itch.io/",
 		"game_list_sorted": [
@@ -1583,7 +1610,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Achromatopsia",
 				"title_link": "https://nouhidev.itch.io/achromatopsia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634744",
@@ -1614,7 +1641,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Achromatopsia",
 				"title_link": "https://nouhidev.itch.io/achromatopsia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634744",
@@ -1645,7 +1672,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Achromatopsia",
 				"title_link": "https://nouhidev.itch.io/achromatopsia",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634744",
@@ -1761,7 +1788,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Hue - Eat your veggies",
 				"title_link": "https://shakedlv.itch.io/hue-eat-your-veggies",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943199",
@@ -2004,7 +2031,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
+				"jam_vs": 135,
 				"title": "Succu-Bus",
 				"title_link": "https://gwelkind.itch.io/succu-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
@@ -2027,7 +2054,7 @@
 				"rank": 19,
 				"ratings": 24,
 				"score": 3.771,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": 85873000
 			}
 		]
@@ -2041,7 +2068,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
+				"jam_vs": 135,
 				"title": "Succu-Bus",
 				"title_link": "https://gwelkind.itch.io/succu-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
@@ -2064,7 +2091,7 @@
 				"rank": 19,
 				"ratings": 24,
 				"score": 3.771,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": 85873000
 			}
 		]
@@ -2078,7 +2105,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
+				"jam_vs": 135,
 				"title": "Succu-Bus",
 				"title_link": "https://gwelkind.itch.io/succu-bus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1593069",
@@ -2101,7 +2128,7 @@
 				"rank": 19,
 				"ratings": 24,
 				"score": 3.771,
-				"ilscore": 86,
+				"ilscore": 85,
 				"submission_time_diff": 85873000
 			}
 		]
@@ -2468,7 +2495,7 @@
 				"jam_id": 105,
 				"jam_name": "Dreamy",
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 136,
+				"jam_vs": 137,
 				"title": "ShhhCat",
 				"title_link": "https://pandahexcode.itch.io/shhhcat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511073",
@@ -2780,43 +2807,6 @@
 	{
 		"jammer": "Harikesh",
 		"jammer_link": "https://harikesh.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 160,
-				"jam_name": "Light",
-				"jam_link": "https://itch.io/jam/mini-jam-160-light",
-				"jam_vs": 122,
-				"title": "Vereor Nox",
-				"title_link": "https://scriptmage.itch.io/vereor-nox",
-				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2763667",
-				"by_list": [
-					"ScriptMage",
-					"Schu",
-					"hugolnx",
-					"mekkmann",
-					"Harikesh",
-					"Chewes"
-				],
-				"by_link_list": [
-					"https://scriptmage.itch.io/",
-					"https://schubox.itch.io/",
-					"https://hugolnx.itch.io/",
-					"https://mekkmann.itch.io/",
-					"https://harikesh.itch.io/",
-					"https://chewes.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 12,
-				"score": 3.583,
-				"ilscore": 78,
-				"submission_time_diff": -29377000
-			}
-		]
-	},
-	{
-		"jammer": "Chewes",
-		"jammer_link": "https://chewes.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

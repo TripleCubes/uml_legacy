@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "FancySnacks",
+		"jammer_link": "https://fancysnacks.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 82,
+				"jam_name": "Doodle",
+				"jam_link": "https://itch.io/jam/mini-jam-82-doodle",
+				"jam_vs": 65,
+				"title": "Doodle Fightbox",
+				"title_link": "https://fancysnacks.itch.io/doodle-fightbox",
+				"submission_page_link": "https://itch.io/jam/mini-jam-82-doodle/rate/1084444",
+				"by_list": [
+					"FancySnacks"
+				],
+				"by_link_list": [
+					"https://fancysnacks.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 7,
+				"score": 3.433,
+				"ilscore": 56,
+				"submission_time_diff": -39334000
+			}
+		]
+	},
+	{
 		"jammer": "craftelia",
 		"jammer_link": "https://craftwill.itch.io/",
 		"game_list_sorted": [
@@ -1913,7 +1940,7 @@
 				"jam_id": 111,
 				"jam_name": "Colors",
 				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 385,
+				"jam_vs": 384,
 				"title": "Spirit Quest",
 				"title_link": "https://thatrandomdeveloper.itch.io/spiritquest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1631829",
@@ -2052,7 +2079,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Jealatin",
 				"title_link": "https://jabenero.itch.io/jealatin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942331",
@@ -2081,7 +2108,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 203,
+				"jam_vs": 201,
 				"title": "Jealatin",
 				"title_link": "https://jabenero.itch.io/jealatin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942331",
@@ -3049,39 +3076,6 @@
 				"score": 3.722,
 				"ilscore": 56,
 				"submission_time_diff": -15281000
-			}
-		]
-	},
-	{
-		"jammer": "NikOhNoo",
-		"jammer_link": "https://nikohnoo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"jam_vs": 138,
-				"title": "Life Anew",
-				"title_link": "https://nikohnoo.itch.io/life-anew",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2185872",
-				"by_list": [
-					"NikOhNoo",
-					"unimeno",
-					"Charmie",
-					"GarrickChiu"
-				],
-				"by_link_list": [
-					"https://nikohnoo.itch.io/",
-					"https://unimeno.itch.io/",
-					"https://charmiedev.itch.io/",
-					"https://garrickchiu.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 11,
-				"score": 3.705,
-				"ilscore": 85,
-				"submission_time_diff": 396000
 			}
 		]
 	}

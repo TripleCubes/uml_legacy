@@ -1,5 +1,36 @@
 [
 	{
+		"jammer": "SavestateCorrupted",
+		"jammer_link": "https://savestatecorrupted.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 109,
+				"jam_name": "Depths",
+				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
+				"jam_vs": 135,
+				"title": "Dream of the Machine",
+				"title_link": "https://ilprinni.itch.io/the-dreams-of-machines",
+				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1591372",
+				"by_list": [
+					"ilPrinni",
+					"SavestateCorrupted",
+					"Derpyzza"
+				],
+				"by_link_list": [
+					"https://ilprinni.itch.io/",
+					"https://savestatecorrupted.itch.io/",
+					"https://derpyzza.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 15,
+				"score": 4.083,
+				"ilscore": 92,
+				"submission_time_diff": -330000
+			}
+		]
+	},
+	{
 		"jammer": "finnp",
 		"jammer_link": "https://finnp.itch.io/",
 		"game_list_sorted": [
@@ -363,7 +394,7 @@
 	},
 	{
 		"jammer": "skwid",
-		"jammer_link": "https://skwid-digital.itch.io/",
+		"jammer_link": "https://skwiggle-skwid.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -384,7 +415,7 @@
 					"https://erebrus.itch.io/",
 					"https://angelalb.itch.io/",
 					"https://thom13made.itch.io/",
-					"https://skwid-digital.itch.io/"
+					"https://skwiggle-skwid.itch.io/"
 				],
 				"rank": 5,
 				"ratings": 23,
@@ -778,7 +809,7 @@
 				"jam_id": 130,
 				"jam_name": "Lunar",
 				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
-				"jam_vs": 215,
+				"jam_vs": 214,
 				"title": "Little Luna",
 				"title_link": "https://in-aeviternum.itch.io/little-luna",
 				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021066",
@@ -3007,33 +3038,6 @@
 				"score": 3.313,
 				"ilscore": 31,
 				"submission_time_diff": -25263000
-			}
-		]
-	},
-	{
-		"jammer": "adwitr",
-		"jammer_link": "https://adwitr.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 28,
-				"jam_name": "Pirates",
-				"jam_link": "https://itch.io/jam/mini-jam-28-pirates",
-				"jam_vs": 38,
-				"title": "Scurvyyy",
-				"title_link": "https://adwitr.itch.io/scurvyyy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-28-pirates/rate/425300",
-				"by_list": [
-					"adwitr"
-				],
-				"by_link_list": [
-					"https://adwitr.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 8,
-				"score": 3.25,
-				"ilscore": 41,
-				"submission_time_diff": -60266000
 			}
 		]
 	}

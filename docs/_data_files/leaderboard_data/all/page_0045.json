@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "lajbel",
-		"jammer_link": "https://lajbel.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 103,
-				"title": "Don't Break The Country",
-				"title_link": "https://lajbel.itch.io/dont-break-the-country",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1166945",
-				"by_list": [
-					"lajbel"
-				],
-				"by_link_list": [
-					"https://lajbel.itch.io/"
-				],
-				"rank": 48,
-				"ratings": 13,
-				"score": 2.962,
-				"ilscore": 60,
-				"submission_time_diff": -25440000
-			}
-		]
-	},
-	{
 		"jammer": "WasSoup",
 		"jammer_link": "https://wassoup.itch.io/",
 		"game_list_sorted": [
@@ -1327,7 +1300,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Poison.IO",
 				"title_link": "https://crunchitect.itch.io/poisonio",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2000128",
@@ -1340,7 +1313,7 @@
 				"rank": 75,
 				"ratings": 2,
 				"score": 1.688,
-				"ilscore": 30,
+				"ilscore": 29,
 				"submission_time_diff": -261000
 			},
 			{
@@ -1600,7 +1573,7 @@
 				"jam_id": 129,
 				"jam_name": "Poison",
 				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 76,
+				"jam_vs": 75,
 				"title": "Poison Control",
 				"title_link": "https://doctorleaf.itch.io/poison-control",
 				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999446",
@@ -1613,7 +1586,7 @@
 				"rank": 24,
 				"ratings": 9,
 				"score": 3.5,
-				"ilscore": 62,
+				"ilscore": 61,
 				"submission_time_diff": -26925000
 			},
 			{
@@ -2439,7 +2412,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Season's End",
 				"title_link": "https://parsnip36.itch.io/seasons-end",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203566",
@@ -2452,7 +2425,7 @@
 				"rank": 19,
 				"ratings": 10,
 				"score": 3.525,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -1276000
 			},
 			{
@@ -3502,7 +3475,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 83,
+				"jam_vs": 82,
 				"title": "Sleepy Hallow Slam",
 				"title_link": "https://bipeo.itch.io/sleepy-hallow-slam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1201729",
@@ -3515,7 +3488,7 @@
 				"rank": 35,
 				"ratings": 15,
 				"score": 3.083,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -139432000
 			},
 			{
@@ -3622,6 +3595,33 @@
 				"score": 2.623,
 				"ilscore": 78,
 				"submission_time_diff": -52398000
+			}
+		]
+	},
+	{
+		"jammer": "swissskimmilk",
+		"jammer_link": "https://swissskimmilk.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 113,
+				"title": "Against the Rush",
+				"title_link": "https://swissskimmilk.itch.io/against-the-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1188303",
+				"by_list": [
+					"swissskimmilk"
+				],
+				"by_link_list": [
+					"https://swissskimmilk.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 6,
+				"score": 2.932,
+				"ilscore": 62,
+				"submission_time_diff": -612000
 			}
 		]
 	}
