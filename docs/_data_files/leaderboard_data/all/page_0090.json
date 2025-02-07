@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "MALYOK",
+		"jammer_link": "https://malyok.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 132,
+				"title": "AlchemistQuest",
+				"title_link": "https://malyok.itch.io/alchemistquest",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2090505",
+				"by_list": [
+					"MALYOK"
+				],
+				"by_link_list": [
+					"https://malyok.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 28,
+				"score": 3.491,
+				"ilscore": 78,
+				"submission_time_diff": -217000
+			}
+		]
+	},
+	{
 		"jammer": "Kelp Games",
 		"jammer_link": "https://kelpgames.itch.io/",
 		"game_list_sorted": [
@@ -1897,7 +1924,7 @@
 				"jam_id": 175,
 				"jam_name": "Gravity",
 				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "Gravigun",
 				"title_link": "https://silenvs.itch.io/gravigun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225738",
@@ -3345,83 +3372,6 @@
 				"score": 3.766,
 				"ilscore": 78,
 				"submission_time_diff": -51835000
-			}
-		]
-	},
-	{
-		"jammer": "christianbookout",
-		"jammer_link": "https://christianbookout.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 140,
-				"jam_name": "Dungeons",
-				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
-				"jam_vs": 40,
-				"title": "Dungeon Detox",
-				"title_link": "https://christianbookout.itch.io/dungeon-detox",
-				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247847",
-				"by_list": [
-					"christianbookout",
-					"DisguisedGrandpa"
-				],
-				"by_link_list": [
-					"https://christianbookout.itch.io/",
-					"https://disguisedgrandpa.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 6,
-				"score": 3.5,
-				"ilscore": 45,
-				"submission_time_diff": -771000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Solitoad",
-				"title_link": "https://christianbookout.itch.io/solitoad",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113985",
-				"by_list": [
-					"christianbookout"
-				],
-				"by_link_list": [
-					"https://christianbookout.itch.io/"
-				],
-				"rank": 16,
-				"ratings": 16,
-				"score": 3.766,
-				"ilscore": 78,
-				"submission_time_diff": -99000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 154,
-				"title": "Corn Gobblin",
-				"title_link": "https://christianbookout.itch.io/corn-gobblin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459577",
-				"by_list": [
-					"christianbookout",
-					"goolent`",
-					"intrnlerr",
-					"Clial"
-				],
-				"by_link_list": [
-					"https://christianbookout.itch.io/",
-					"https://goolent.itch.io/",
-					"https://intrnlerr.itch.io/",
-					"https://clial.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 14,
-				"score": 3.179,
-				"ilscore": 76,
-				"submission_time_diff": -181000
 			}
 		]
 	}

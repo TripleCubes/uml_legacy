@@ -1,5 +1,61 @@
 [
 	{
+		"jammer": "YoukaiDrawing",
+		"jammer_link": "https://youkaidrawing.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 32,
+				"jam_name": "Explosions",
+				"jam_link": "https://itch.io/jam/mini-jam-32-explosions",
+				"jam_vs": 36,
+				"title": "Banjo Battie",
+				"title_link": "https://amasuri.itch.io/banjo-battie",
+				"submission_page_link": "https://itch.io/jam/mini-jam-32-explosions/rate/450527",
+				"by_list": [
+					"amasuri",
+					"YoukaiDrawing",
+					"rev.sat9"
+				],
+				"by_link_list": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://revsat9.itch.io/"
+				],
+				"rank": 5,
+				"ratings": 9,
+				"score": 3.909,
+				"ilscore": 48,
+				"submission_time_diff": -13281000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 75,
+				"title": "Witchy",
+				"title_link": "https://amasuri.itch.io/witchy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999138",
+				"by_list": [
+					"amasuri",
+					"YoukaiDrawing",
+					"anivire"
+				],
+				"by_link_list": [
+					"https://amasuri.itch.io/",
+					"https://youkaidrawing.itch.io/",
+					"https://anivire.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 28,
+				"score": 3.75,
+				"ilscore": 66,
+				"submission_time_diff": -1702000
+			}
+		]
+	},
+	{
 		"jammer": "ZapJackson",
 		"jammer_link": "https://zapjackson.itch.io/",
 		"game_list_sorted": [
@@ -3100,7 +3156,7 @@
 				"jam_id": 89,
 				"jam_name": "Pumpkin",
 				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 82,
+				"jam_vs": 81,
 				"title": "Fruithillity",
 				"title_link": "https://atoastedcrumpet.itch.io/fruithillity",
 				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1203562",
@@ -3115,7 +3171,7 @@
 				"rank": 1,
 				"ratings": 20,
 				"score": 4.35,
-				"ilscore": 80,
+				"ilscore": 79,
 				"submission_time_diff": -15228000
 			}
 		]
@@ -3580,7 +3636,7 @@
 				"jam_id": 175,
 				"jam_name": "Gravity",
 				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "2 Gravities",
 				"title_link": "https://lightsblue.itch.io/2gravities",
 				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225406",
@@ -3595,35 +3651,6 @@
 				"score": 4.281,
 				"ilscore": 98,
 				"submission_time_diff": -2869000
-			}
-		]
-	},
-	{
-		"jammer": "Felipe Gomes",
-		"jammer_link": "https://satsuyafrango.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 83,
-				"jam_name": "Dread",
-				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
-				"jam_vs": 110,
-				"title": "Containment Breach",
-				"title_link": "https://satsuyafrango.itch.io/containment-breach",
-				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104635",
-				"by_list": [
-					"Felipe Gomes",
-					"Diego Crispim"
-				],
-				"by_link_list": [
-					"https://satsuyafrango.itch.io/",
-					"https://solidfox.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 20,
-				"score": 4.275,
-				"ilscore": 89,
-				"submission_time_diff": -1247000
 			}
 		]
 	}

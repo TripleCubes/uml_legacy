@@ -62,8 +62,8 @@
 		]
 	},
 	{
-		"jammer": "hologamer",
-		"jammer_link": "https://hologamer.itch.io/",
+		"jammer": "sheep_games_dev",
+		"jammer_link": "https://sheep-games-dev.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -72,13 +72,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
 				"jam_vs": 93,
 				"title": "Dragon and Treasure",
-				"title_link": "https://hologamer.itch.io/dragon-treasure",
+				"title_link": "https://sheep-games-dev.itch.io/dragon-treasure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2511481",
 				"by_list": [
-					"hologamer"
+					"sheep_games_dev"
 				],
 				"by_link_list": [
-					"https://hologamer.itch.io/"
+					"https://sheep-games-dev.itch.io/"
 				],
 				"rank": 32,
 				"ratings": 11,
@@ -93,13 +93,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
 				"jam_vs": 201,
 				"title": "Light up",
-				"title_link": "https://hologamer.itch.io/lightup",
+				"title_link": "https://sheep-games-dev.itch.io/lightup",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2941127",
 				"by_list": [
-					"hologamer"
+					"sheep_games_dev"
 				],
 				"by_link_list": [
-					"https://hologamer.itch.io/"
+					"https://sheep-games-dev.itch.io/"
 				],
 				"rank": 44,
 				"ratings": 6,
@@ -1011,7 +1011,7 @@
 				"jam_id": 176,
 				"jam_name": "Foxes",
 				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "For Fox's Sake",
 				"title_link": "https://kolaya.itch.io/forfoxssake",
 				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3258449",
@@ -1253,7 +1253,7 @@
 				"jam_id": 176,
 				"jam_name": "Foxes",
 				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "FlippedSoul",
 				"title_link": "https://mivoky.itch.io/flippedsoul",
 				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256742",
@@ -1266,7 +1266,7 @@
 				"rank": 59,
 				"ratings": 12,
 				"score": 2.354,
-				"ilscore": 46,
+				"ilscore": 45,
 				"submission_time_diff": -7102000
 			},
 			{
@@ -1543,6 +1543,33 @@
 		"jammer": "SodaGummy",
 		"jammer_link": "https://sodagummy.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 177,
+				"jam_name": "Papercraft",
+				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
+				"jam_vs": 66,
+				"title": "Paper Patchwork",
+				"title_link": "https://corgi-123.itch.io/paper-patch",
+				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3295422",
+				"by_list": [
+					"corgi_123",
+					"Ficers",
+					"SodaGummy",
+					"Bustly"
+				],
+				"by_link_list": [
+					"https://corgi-123.itch.io/",
+					"https://ficers.itch.io/",
+					"https://sodagummy.itch.io/",
+					"https://bustly.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 10,
+				"score": 2.789,
+				"ilscore": 46,
+				"submission_time_diff": -12314000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 160,

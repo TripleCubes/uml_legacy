@@ -1,5 +1,40 @@
 [
 	{
+		"jammer": "PsychoSkylla",
+		"jammer_link": "https://psychoskylla.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 116,
+				"title": "SplatCat",
+				"title_link": "https://gerolmed.itch.io/splatcat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955777",
+				"by_list": [
+					"Gerolmed",
+					"Olof Music",
+					"CreepyPvP",
+					"Panpukin",
+					"PsychoSkylla"
+				],
+				"by_link_list": [
+					"https://gerolmed.itch.io/",
+					"https://olofmusic.itch.io/",
+					"https://creepypvp.itch.io/",
+					"https://panpukin.itch.io/",
+					"https://psychoskylla.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.092,
+				"ilscore": 87,
+				"submission_time_diff": 28086000
+			}
+		]
+	},
+	{
 		"jammer": "Ganbat",
 		"jammer_link": "https://ganbat24.itch.io/",
 		"game_list_sorted": [
@@ -3581,33 +3616,6 @@
 				"score": 3.479,
 				"ilscore": 78,
 				"submission_time_diff": -8363000
-			}
-		]
-	},
-	{
-		"jammer": "yawny",
-		"jammer_link": "https://yawnyyy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "Cursed To Climb",
-				"title_link": "https://yawnyyy.itch.io/cursed-to-climb",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976660",
-				"by_list": [
-					"yawny"
-				],
-				"by_link_list": [
-					"https://yawnyyy.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 15,
-				"score": 3.433,
-				"ilscore": 77,
-				"submission_time_diff": -35284000
 			}
 		]
 	}

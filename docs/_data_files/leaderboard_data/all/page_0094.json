@@ -1,5 +1,80 @@
 [
 	{
+		"jammer": "LightningPickle",
+		"jammer_link": "https://lightningpickle.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 126,
+				"title": "Mystic Leap",
+				"title_link": "https://lightningpickle.itch.io/mystic-leap",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
+				"by_list": [
+					"LightningPickle",
+					"devgreb"
+				],
+				"by_link_list": [
+					"https://lightningpickle.itch.io/",
+					"https://devgreb.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 15,
+				"score": 3.433,
+				"ilscore": 75,
+				"submission_time_diff": -11859000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 143,
+				"jam_name": "Ink",
+				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
+				"jam_vs": 63,
+				"title": "Ink Platformer",
+				"title_link": "https://lightningpickle.itch.io/mini-jam-143-ink-platformer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2316021",
+				"by_list": [
+					"LightningPickle",
+					"devgreb"
+				],
+				"by_link_list": [
+					"https://lightningpickle.itch.io/",
+					"https://devgreb.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 6,
+				"score": 3.042,
+				"ilscore": 49,
+				"submission_time_diff": -1547000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 142,
+				"jam_name": "Fortune",
+				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
+				"jam_vs": 41,
+				"title": "Earth Defense",
+				"title_link": "https://devgreb.itch.io/mini-jam-142-earth-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292777",
+				"by_list": [
+					"devgreb",
+					"LightningPickle"
+				],
+				"by_link_list": [
+					"https://devgreb.itch.io/",
+					"https://lightningpickle.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 12,
+				"score": 1.958,
+				"ilscore": 25,
+				"submission_time_diff": -2696000
+			}
+		]
+	},
+	{
 		"jammer": "SuperGoon",
 		"jammer_link": "https://supergoon.itch.io/",
 		"game_list_sorted": [
@@ -1276,8 +1351,8 @@
 		]
 	},
 	{
-		"jammer": "Update",
-		"jammer_link": "https://tep98.itch.io/",
+		"jammer": "UpdateStudio",
+		"jammer_link": "https://updatestudio.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1286,13 +1361,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
 				"jam_vs": 63,
 				"title": "Inkventure: Run and Draw!",
-				"title_link": "https://tep98.itch.io/runanddraw",
+				"title_link": "https://updatestudio.itch.io/inkventure",
 				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315660",
 				"by_list": [
-					"Update"
+					"UpdateStudio"
 				],
 				"by_link_list": [
-					"https://tep98.itch.io/"
+					"https://updatestudio.itch.io/"
 				],
 				"rank": 51,
 				"ratings": 3,
@@ -3184,33 +3259,6 @@
 				"score": 1.945,
 				"ilscore": 32,
 				"submission_time_diff": -113356000
-			}
-		]
-	},
-	{
-		"jammer": "freyacantsleep",
-		"jammer_link": "https://freyacantsleep.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Terror Twilight (Jam Edition)",
-				"title_link": "https://freyacantsleep.itch.io/terror-twilight-jam-edition",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340323",
-				"by_list": [
-					"freyacantsleep"
-				],
-				"by_link_list": [
-					"https://freyacantsleep.itch.io/"
-				],
-				"rank": 60,
-				"ratings": 3,
-				"score": 1.888,
-				"ilscore": 31,
-				"submission_time_diff": -30345000
 			}
 		]
 	}

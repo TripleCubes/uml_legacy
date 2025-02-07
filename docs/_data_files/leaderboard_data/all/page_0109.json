@@ -1004,7 +1004,7 @@
 				"jam_id": 176,
 				"jam_name": "Foxes",
 				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Fox Flip",
 				"title_link": "https://tinygamesstudio.itch.io/fox-flip",
 				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3255566",
@@ -1017,7 +1017,7 @@
 				"rank": 24,
 				"ratings": 28,
 				"score": 3.375,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -38716000
 			},
 			{
@@ -2108,7 +2108,7 @@
 				"jam_id": 176,
 				"jam_name": "Foxes",
 				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "Coin Roulette",
 				"title_link": "https://ripozy.itch.io/coin-roullete",
 				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256569",
@@ -2729,10 +2729,33 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 177,
+				"jam_name": "Papercraft",
+				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
+				"jam_vs": 66,
+				"title": "Unknown Papercrafter",
+				"title_link": "https://kohavit.itch.io/unknown-paper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3298264",
+				"by_list": [
+					"Kohavit",
+					"tiny_owl"
+				],
+				"by_link_list": [
+					"https://kohavit.itch.io/",
+					"https://tiny-owl.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 18,
+				"score": 2.861,
+				"ilscore": 47,
+				"submission_time_diff": 5091000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 175,
 				"jam_name": "Gravity",
 				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 139,
+				"jam_vs": 138,
 				"title": "GravityResearchers",
 				"title_link": "https://tiny-owl.itch.io/gravityresearchers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225443",

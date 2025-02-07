@@ -1,5 +1,57 @@
 [
 	{
+		"jammer": "Valdriks the Jazzborn",
+		"jammer_link": "https://valdriks-the-jazzborn.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 163,
+				"jam_name": "Dessert",
+				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
+				"jam_vs": 51,
+				"title": "Tiny Kiosk",
+				"title_link": "https://ananasikdeveloper.itch.io/tinykiosk",
+				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848415",
+				"by_list": [
+					"AnanasikDeveloper",
+					"Valdriks the Jazzborn",
+					"biscuits_phd"
+				],
+				"by_link_list": [
+					"https://ananasikdeveloper.itch.io/",
+					"https://valdriks-the-jazzborn.itch.io/",
+					"https://biscuits-phd.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 5,
+				"score": 2.62,
+				"ilscore": 38,
+				"submission_time_diff": -6123000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "Snowshard Cavern",
+				"title_link": "https://valdriks-the-jazzborn.itch.io/snowshard-cavern-minijam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134534",
+				"by_list": [
+					"Valdriks the Jazzborn"
+				],
+				"by_link_list": [
+					"https://valdriks-the-jazzborn.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 3,
+				"score": 2.298,
+				"ilscore": 40,
+				"submission_time_diff": -17785000
+			}
+		]
+	},
+	{
 		"jammer": "ComanderXXY",
 		"jammer_link": "https://comanderxxy.itch.io/",
 		"game_list_sorted": [
@@ -3286,33 +3338,6 @@
 				"score": 1.746,
 				"ilscore": 21,
 				"submission_time_diff": -22911000
-			}
-		]
-	},
-	{
-		"jammer": "Vlad Kaiser",
-		"jammer_link": "https://vlad-kaiser.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 139,
-				"jam_name": "Fae",
-				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
-				"jam_vs": 37,
-				"title": "Fairy coinflipper",
-				"title_link": "https://vlad-kaiser.itch.io/fairy-coinflipper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228643",
-				"by_list": [
-					"Vlad Kaiser"
-				],
-				"by_link_list": [
-					"https://vlad-kaiser.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 6,
-				"score": 1.659,
-				"ilscore": 20,
-				"submission_time_diff": 49361000
 			}
 		]
 	}

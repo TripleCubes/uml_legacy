@@ -1,5 +1,34 @@
 [
 	{
+		"jammer": "Felipe Gomes",
+		"jammer_link": "https://satsuyafrango.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 83,
+				"jam_name": "Dread",
+				"jam_link": "https://itch.io/jam/mini-jam-83-dread",
+				"jam_vs": 110,
+				"title": "Containment Breach",
+				"title_link": "https://satsuyafrango.itch.io/containment-breach",
+				"submission_page_link": "https://itch.io/jam/mini-jam-83-dread/rate/1104635",
+				"by_list": [
+					"Felipe Gomes",
+					"Diego Crispim"
+				],
+				"by_link_list": [
+					"https://satsuyafrango.itch.io/",
+					"https://solidfox.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 20,
+				"score": 4.275,
+				"ilscore": 89,
+				"submission_time_diff": -1247000
+			}
+		]
+	},
+	{
 		"jammer": "Diego Crispim",
 		"jammer_link": "https://solidfox.itch.io/",
 		"game_list_sorted": [
@@ -1244,6 +1273,37 @@
 				"score": 4.143,
 				"ilscore": 39,
 				"submission_time_diff": -12019000
+			}
+		]
+	},
+	{
+		"jammer": "fournetaaron",
+		"jammer_link": "https://fournetaaron.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 177,
+				"jam_name": "Papercraft",
+				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
+				"jam_vs": 66,
+				"title": "PaperLand",
+				"title_link": "https://trentii.itch.io/paperland",
+				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3300214",
+				"by_list": [
+					"Trent",
+					"sunkinship0",
+					"fournetaaron"
+				],
+				"by_link_list": [
+					"https://trentii.itch.io/",
+					"https://sunkinship0.itch.io/",
+					"https://fournetaaron.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.125,
+				"ilscore": 68,
+				"submission_time_diff": 86581000
 			}
 		]
 	},
@@ -2852,66 +2912,6 @@
 				"score": 4.292,
 				"ilscore": 65,
 				"submission_time_diff": -94808000
-			}
-		]
-	},
-	{
-		"jammer": "Sam Bigos",
-		"jammer_link": "https://sambigos.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 76,
-				"jam_name": "Radiation",
-				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
-				"jam_vs": 123,
-				"title": "Geiger",
-				"title_link": "https://sambigos.itch.io/geiger",
-				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966586",
-				"by_list": [
-					"Sam Bigos"
-				],
-				"by_link_list": [
-					"https://sambigos.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 12,
-				"score": 4.271,
-				"ilscore": 93,
-				"submission_time_diff": -15075000
-			}
-		]
-	},
-	{
-		"jammer": "Jon Topielski",
-		"jammer_link": "https://jontopielski.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 57,
-				"jam_name": "Underground",
-				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
-				"jam_vs": 48,
-				"title": "A Midclubber Night's Dream",
-				"title_link": "https://jontopielski.itch.io/a-midclubber-nights-dream",
-				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683582",
-				"by_list": [
-					"Jon Topielski",
-					"beardy",
-					"Thoof",
-					"mafgar"
-				],
-				"by_link_list": [
-					"https://jontopielski.itch.io/",
-					"https://beardyyy.itch.io/",
-					"https://thoof.itch.io/",
-					"https://mafgar.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 15,
-				"score": 4.267,
-				"ilscore": 60,
-				"submission_time_diff": -217000
 			}
 		]
 	}

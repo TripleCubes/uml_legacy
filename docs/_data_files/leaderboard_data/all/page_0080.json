@@ -188,7 +188,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 127,
+				"jam_vs": 126,
 				"title": "Champion of light",
 				"title_link": "https://almarz.itch.io/champion-of-light",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482812",
@@ -783,6 +783,37 @@
 		"jammer": "TollGnoll",
 		"jammer_link": "https://tollgnoll.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 177,
+				"jam_name": "Papercraft",
+				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
+				"jam_vs": 66,
+				"title": "Doctor Henderson",
+				"title_link": "https://tollgnoll.itch.io/henderson",
+				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3294598",
+				"by_list": [
+					"TollGnoll",
+					"lapunk",
+					"SkyRiverSound",
+					"worron studios",
+					"The Crystal Feather Dev",
+					"CaliAnathan"
+				],
+				"by_link_list": [
+					"https://tollgnoll.itch.io/",
+					"https://lapunk.itch.io/",
+					"https://skyriversound.itch.io/",
+					"https://worron-studios.itch.io/",
+					"https://crystal-feather-games.itch.io/",
+					"https://calianathan.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 17,
+				"score": 3.706,
+				"ilscore": 61,
+				"submission_time_diff": 703000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 121,
@@ -2990,8 +3021,8 @@
 		]
 	},
 	{
-		"jammer": "bluehourartist",
-		"jammer_link": "https://bluehourartist.itch.io/",
+		"jammer": "Anton",
+		"jammer_link": "https://hemligstampladbrevvaxling.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3000,13 +3031,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
 				"jam_vs": 118,
 				"title": "Mirror Maze",
-				"title_link": "https://bluehourartist.itch.io/mirror-maze",
+				"title_link": "https://hemligstampladbrevvaxling.itch.io/mirror-maze",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832260",
 				"by_list": [
-					"bluehourartist"
+					"Anton"
 				],
 				"by_link_list": [
-					"https://bluehourartist.itch.io/"
+					"https://hemligstampladbrevvaxling.itch.io/"
 				],
 				"rank": 99,
 				"ratings": 3,
