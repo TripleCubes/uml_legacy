@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Feztek",
-		"jammer_link": "https://feztek.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 174,
-				"jam_name": "Defense",
-				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
-				"title": "SlimeDefender",
-				"title_link": "https://feztek.itch.io/slimedefender",
-				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199427",
-				"by_list": [
-					"Feztek"
-				],
-				"by_link_list": [
-					"https://feztek.itch.io/"
-				],
-				"rank": 84,
-				"ratings": 4,
-				"score": 1.503,
-				"ilscore": 29,
-				"submission_time_diff": -1311000
-			}
-		]
-	},
-	{
-		"jammer": "AndrewAtkins",
-		"jammer_link": "https://andrewatkins.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 174,
-				"jam_name": "Defense",
-				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
-				"title": "Human Resource",
-				"title_link": "https://andrewatkins.itch.io/human-resource",
-				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199487",
-				"by_list": [
-					"AndrewAtkins"
-				],
-				"by_link_list": [
-					"https://andrewatkins.itch.io/"
-				],
-				"rank": 86,
-				"ratings": 1,
-				"score": 1.414,
-				"ilscore": 28,
-				"submission_time_diff": 2598000
-			}
-		]
-	},
-	{
 		"jammer": "mötiv",
 		"jammer_link": "https://omy181.itch.io/",
 		"game_list_sorted": [
@@ -405,6 +351,27 @@
 				"score": 4.281,
 				"ilscore": 98,
 				"submission_time_diff": -2869000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "Chromasoul",
+				"title_link": "https://lightsblue.itch.io/chromasoul",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3330499",
+				"by_list": [
+					"lights+blue"
+				],
+				"by_link_list": [
+					"https://lightsblue.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.763,
+				"ilscore": 68,
+				"submission_time_diff": -26505000
 			}
 		]
 	},
@@ -888,7 +855,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 66,
+				"jam_vs": 65,
 				"title": "PaperLand",
 				"title_link": "https://susu0.itch.io/paperland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3296679",
@@ -2732,7 +2699,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 66,
+				"jam_vs": 65,
 				"title": "The Origami Messenger",
 				"title_link": "https://madixio.itch.io/the-origami-messenger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3300474",
@@ -3019,6 +2986,60 @@
 				"score": 2.187,
 				"ilscore": 50,
 				"submission_time_diff": -19694000
+			}
+		]
+	},
+	{
+		"jammer": "Aquarock",
+		"jammer_link": "https://aquarock.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 138,
+				"title": "Enchanted Arrow Simulator",
+				"title_link": "https://aquarock.itch.io/enchanted-arrow-simulator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225706",
+				"by_list": [
+					"Aquarock"
+				],
+				"by_link_list": [
+					"https://aquarock.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 11,
+				"score": 2.182,
+				"ilscore": 50,
+				"submission_time_diff": -5398000
+			}
+		]
+	},
+	{
+		"jammer": "PixelMagicKitty",
+		"jammer_link": "https://pixelmagickitty.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 138,
+				"title": "Graviton Cube",
+				"title_link": "https://pixelmagickitty.itch.io/graviton-cube",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225812",
+				"by_list": [
+					"PixelMagicKitty"
+				],
+				"by_link_list": [
+					"https://pixelmagickitty.itch.io/"
+				],
+				"rank": 103,
+				"ratings": 9,
+				"score": 2.161,
+				"ilscore": 49,
+				"submission_time_diff": -529000
 			}
 		]
 	}

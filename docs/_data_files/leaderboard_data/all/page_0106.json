@@ -1,107 +1,5 @@
 [
 	{
-		"jammer": "en0by",
-		"jammer_link": "https://en0by.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 171,
-				"jam_name": "Mystic",
-				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 58,
-				"title": "My Stick",
-				"title_link": "https://en0by.itch.io/my-stick",
-				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3101041",
-				"by_list": [
-					"en0by"
-				],
-				"by_link_list": [
-					"https://en0by.itch.io/"
-				],
-				"rank": 55,
-				"ratings": 1,
-				"score": 0.85,
-				"ilscore": 13,
-				"submission_time_diff": 55993000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 115,
-				"title": "Spark Summoner",
-				"title_link": "https://en0by.itch.io/spark-summoner",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676181",
-				"by_list": [
-					"en0by"
-				],
-				"by_link_list": [
-					"https://en0by.itch.io/"
-				],
-				"rank": 96,
-				"ratings": 6,
-				"score": 2.201,
-				"ilscore": 46,
-				"submission_time_diff": -88000
-			}
-		]
-	},
-	{
-		"jammer": "Dodouce",
-		"jammer_link": "https://dodouce.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 115,
-				"title": "Vampires Paradise",
-				"title_link": "https://dodouce.itch.io/vampires-paradise",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2675192",
-				"by_list": [
-					"Dodouce"
-				],
-				"by_link_list": [
-					"https://dodouce.itch.io/"
-				],
-				"rank": 98,
-				"ratings": 6,
-				"score": 2.165,
-				"ilscore": 46,
-				"submission_time_diff": -31407000
-			}
-		]
-	},
-	{
-		"jammer": "Angry Piranha Games",
-		"jammer_link": "https://angry-piranha-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 115,
-				"title": "A Plug's Life",
-				"title_link": "https://angry-piranha-games.itch.io/a-plugs-life",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2673615",
-				"by_list": [
-					"Angry Piranha Games"
-				],
-				"by_link_list": [
-					"https://angry-piranha-games.itch.io/"
-				],
-				"rank": 100,
-				"ratings": 5,
-				"score": 2.135,
-				"ilscore": 45,
-				"submission_time_diff": -16439000
-			}
-		]
-	},
-	{
 		"jammer": "rau-itch",
 		"jammer_link": "https://rau-itch.itch.io/",
 		"game_list_sorted": [
@@ -536,7 +434,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 66,
+				"jam_vs": 65,
 				"title": "Save The House (Bugs fixed)",
 				"title_link": "https://lyricsz.itch.io/save-the-house",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297950",
@@ -1254,6 +1152,27 @@
 				"score": 2.688,
 				"ilscore": 39,
 				"submission_time_diff": -18924000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "Ghost In Flesh",
+				"title_link": "https://fruitsoil.itch.io/ghost-in-flesh",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3332031",
+				"by_list": [
+					"FruitSoil"
+				],
+				"by_link_list": [
+					"https://fruitsoil.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 12,
+				"score": 2.462,
+				"ilscore": 44,
+				"submission_time_diff": -18398000
 			}
 		]
 	},
@@ -3447,6 +3366,108 @@
 				"score": 3.188,
 				"ilscore": 70,
 				"submission_time_diff": -47033000
+			}
+		]
+	},
+	{
+		"jammer": "Rorybabory",
+		"jammer_link": "https://rorybabory.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 124,
+				"title": "Plankton Panic",
+				"title_link": "https://rorybabory.itch.io/plankton-panic",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734178",
+				"by_list": [
+					"Rorybabory"
+				],
+				"by_link_list": [
+					"https://rorybabory.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 10,
+				"score": 3.175,
+				"ilscore": 69,
+				"submission_time_diff": -10244000
+			}
+		]
+	},
+	{
+		"jammer": "zo-ku",
+		"jammer_link": "https://zo-ku.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 124,
+				"title": "lost at sea",
+				"title_link": "https://zo-ku.itch.io/lost-at-sea",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2734330",
+				"by_list": [
+					"zo-ku"
+				],
+				"by_link_list": [
+					"https://zo-ku.itch.io/"
+				],
+				"rank": 58,
+				"ratings": 6,
+				"score": 3.163,
+				"ilscore": 69,
+				"submission_time_diff": -2236000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Shelter",
+				"title_link": "https://zo-ku.itch.io/shelter",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2764456",
+				"by_list": [
+					"zo-ku"
+				],
+				"by_link_list": [
+					"https://zo-ku.itch.io/"
+				],
+				"rank": 115,
+				"ratings": 5,
+				"score": 1.423,
+				"ilscore": 31,
+				"submission_time_diff": 43997000
+			}
+		]
+	},
+	{
+		"jammer": "alphaom34",
+		"jammer_link": "https://alphaom34.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 124,
+				"title": "Help I Am Stuck in a Piano and Have No Legs",
+				"title_link": "https://alphaom34.itch.io/help-i-am-stuck-in-a-piano-and-have-no-legs",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733915",
+				"by_list": [
+					"alphaom34"
+				],
+				"by_link_list": [
+					"https://alphaom34.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 7,
+				"score": 3.143,
+				"ilscore": 69,
+				"submission_time_diff": -18207000
 			}
 		]
 	}

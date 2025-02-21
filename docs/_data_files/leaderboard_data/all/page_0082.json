@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Sighet_",
-		"jammer_link": "https://sighet-someone.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
-				"title": "Terrestrial Sling",
-				"title_link": "https://sighet-someone.itch.io/terrestrial-sling",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869316",
-				"by_list": [
-					"Sighet_"
-				],
-				"by_link_list": [
-					"https://sighet-someone.itch.io/"
-				],
-				"rank": 89,
-				"ratings": 13,
-				"score": 2.962,
-				"ilscore": 79,
-				"submission_time_diff": -10129000
-			}
-		]
-	},
-	{
-		"jammer": "Gargoolia",
-		"jammer_link": "https://gargoolia.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
-				"title": "Spiderweb Sonnet (WIP)",
-				"title_link": "https://gargoolia.itch.io/spiderweb-sonnet-wip",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867962",
-				"by_list": [
-					"Gargoolia"
-				],
-				"by_link_list": [
-					"https://gargoolia.itch.io/"
-				],
-				"rank": 91,
-				"ratings": 13,
-				"score": 2.942,
-				"ilscore": 79,
-				"submission_time_diff": -50522000
-			}
-		]
-	},
-	{
 		"jammer": "Josef",
 		"jammer_link": "https://kampletun.itch.io/",
 		"game_list_sorted": [
@@ -313,7 +259,7 @@
 				"title_link": "https://kindred008.itch.io/the-witchs-familiar",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482861",
 				"by_list": [
-					"Kara Preston",
+					"Kindred",
 					"farmdogs"
 				],
 				"by_link_list": [
@@ -3647,6 +3593,60 @@
 				"score": 0.913,
 				"ilscore": 24,
 				"submission_time_diff": 1181000
+			}
+		]
+	},
+	{
+		"jammer": "Orizho",
+		"jammer_link": "https://orizho.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Minimalist Rain",
+				"title_link": "https://orizho.itch.io/minimalist-rain-mobile-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1870293",
+				"by_list": [
+					"Orizho"
+				],
+				"by_link_list": [
+					"https://orizho.itch.io/"
+				],
+				"rank": 221,
+				"ratings": 3,
+				"score": 0.548,
+				"ilscore": 14,
+				"submission_time_diff": 42942000
+			}
+		]
+	},
+	{
+		"jammer": "Liam30",
+		"jammer_link": "https://liam30.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Worlds HARDEST BUG GAME",
+				"title_link": "https://liam30.itch.io/worlds-hardest-bug-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867235",
+				"by_list": [
+					"Liam30"
+				],
+				"by_link_list": [
+					"https://liam30.itch.io/"
+				],
+				"rank": 222,
+				"ratings": 2,
+				"score": 0.447,
+				"ilscore": 12,
+				"submission_time_diff": -90800000
 			}
 		]
 	}

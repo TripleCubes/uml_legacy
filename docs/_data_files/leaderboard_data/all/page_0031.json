@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "alien236",
-		"jammer_link": "https://alien236.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 73,
-				"jam_name": "Power",
-				"jam_link": "https://itch.io/jam/mini-jam-73-power",
-				"jam_vs": 171,
-				"title": "Negative Space",
-				"title_link": "https://focusnil.itch.io/negative-space",
-				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/911755",
-				"by_list": [
-					"FocusNIL",
-					"Spriter Theo",
-					"Chem13",
-					"alien236"
-				],
-				"by_link_list": [
-					"https://focusnil.itch.io/",
-					"https://spriter-theo.itch.io/",
-					"https://chem13.itch.io/",
-					"https://alien236.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 17,
-				"score": 3.676,
-				"ilscore": 91,
-				"submission_time_diff": -3283000
-			}
-		]
-	},
-	{
 		"jammer": "Foster Turtle",
 		"jammer_link": "https://foster-turtle.itch.io/",
 		"game_list_sorted": [
@@ -3834,6 +3801,75 @@
 				"score": 2.135,
 				"ilscore": 53,
 				"submission_time_diff": -9499000
+			}
+		]
+	},
+	{
+		"jammer": "AlexNompe",
+		"jammer_link": "https://alexnompe.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 123,
+				"title": "Radiacity",
+				"title_link": "https://alexnompe.itch.io/radiacity",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/964766",
+				"by_list": [
+					"AlexNompe"
+				],
+				"by_link_list": [
+					"https://alexnompe.itch.io/"
+				],
+				"rank": 50,
+				"ratings": 6,
+				"score": 3.292,
+				"ilscore": 72,
+				"submission_time_diff": -113387000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 90,
+				"jam_name": "Illusion",
+				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
+				"jam_vs": 69,
+				"title": "Unknown Story",
+				"title_link": "https://alexnompe.itch.io/nameless-story",
+				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220794",
+				"by_list": [
+					"AlexNompe"
+				],
+				"by_link_list": [
+					"https://alexnompe.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 5,
+				"score": 2.191,
+				"ilscore": 37,
+				"submission_time_diff": -30280000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 73,
+				"jam_name": "Power",
+				"jam_link": "https://itch.io/jam/mini-jam-73-power",
+				"jam_vs": 171,
+				"title": "Five colors Flower",
+				"title_link": "https://alexnompe.itch.io/five-colors-flower",
+				"submission_page_link": "https://itch.io/jam/mini-jam-73-power/rate/910427",
+				"by_list": [
+					"AlexNompe"
+				],
+				"by_link_list": [
+					"https://alexnompe.itch.io/"
+				],
+				"rank": 141,
+				"ratings": 7,
+				"score": 2.122,
+				"ilscore": 53,
+				"submission_time_diff": -203603000
 			}
 		]
 	}

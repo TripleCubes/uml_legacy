@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Eliot LE GALL",
-		"jammer_link": "https://eliot-le-gall.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Auguste Alexandre - Eliot Le Gall",
-				"title_link": "https://eliot-le-gall.itch.io/game-jam-epitech",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592595",
-				"by_list": [
-					"Eliot LE GALL"
-				],
-				"by_link_list": [
-					"https://eliot-le-gall.itch.io/"
-				],
-				"rank": 132,
-				"ratings": 1,
-				"score": 1.131,
-				"ilscore": 25,
-				"submission_time_diff": -19638000
-			}
-		]
-	},
-	{
 		"jammer": "Tom Wright",
 		"jammer_link": "https://tomnwright.itch.io/",
 		"game_list_sorted": [
@@ -3151,7 +3124,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "Oxygen",
 				"title_link": "https://hyo331.itch.io/oxygen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121943",
@@ -3915,7 +3888,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "¡Clean It!",
 				"title_link": "https://rodrigo151515151515151.itch.io/clean-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121933",
@@ -4621,6 +4594,33 @@
 				"score": 3.276,
 				"ilscore": 50,
 				"submission_time_diff": -29329000
+			}
+		]
+	},
+	{
+		"jammer": "billy",
+		"jammer_link": "https://dairydog.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Dragon Oasis",
+				"title_link": "https://dairydog.itch.io/dragon-oasis",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633449",
+				"by_list": [
+					"billy"
+				],
+				"by_link_list": [
+					"https://dairydog.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 10,
+				"score": 3.26,
+				"ilscore": 50,
+				"submission_time_diff": -806000
 			}
 		]
 	}

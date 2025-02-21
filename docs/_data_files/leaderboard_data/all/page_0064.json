@@ -1,74 +1,5 @@
 [
 	{
-		"jammer": "Perita",
-		"jammer_link": "https://perita.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 115,
-				"jam_name": "Noir",
-				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
-				"jam_vs": 37,
-				"title": "Detective Horse",
-				"title_link": "https://perita.itch.io/detective-horse",
-				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1707377",
-				"by_list": [
-					"Perita"
-				],
-				"by_link_list": [
-					"https://perita.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 17,
-				"score": 3.515,
-				"ilscore": 43,
-				"submission_time_diff": -2899000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 107,
-				"jam_name": "Music",
-				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
-				"title": "Planet Music",
-				"title_link": "https://perita.itch.io/planet-music",
-				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1552324",
-				"by_list": [
-					"Perita"
-				],
-				"by_link_list": [
-					"https://perita.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 31,
-				"score": 3.782,
-				"ilscore": 73,
-				"submission_time_diff": -19384000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
-				"title": "Streamlining",
-				"title_link": "https://perita.itch.io/streamlining",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609317",
-				"by_list": [
-					"Perita"
-				],
-				"by_link_list": [
-					"https://perita.itch.io/"
-				],
-				"rank": 120,
-				"ratings": 5,
-				"score": 2.493,
-				"ilscore": 67,
-				"submission_time_diff": -17012000
-			}
-		]
-	},
-	{
 		"jammer": "Breakfish",
 		"jammer_link": "https://breakfish.itch.io/",
 		"game_list_sorted": [
@@ -2432,7 +2363,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Down with the (Space) Ship",
 				"title_link": "https://looncaller.itch.io/down-with-the-space-ship",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609630",
@@ -3677,6 +3608,33 @@
 				"score": 3.329,
 				"ilscore": 90,
 				"submission_time_diff": -25653000
+			}
+		]
+	},
+	{
+		"jammer": "IvanM71",
+		"jammer_link": "https://ivanm71.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Seaside cleaning day",
+				"title_link": "https://ivanm71.itch.io/seaside-cleaning-day",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571362",
+				"by_list": [
+					"IvanM71"
+				],
+				"by_link_list": [
+					"https://ivanm71.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 33,
+				"score": 3.288,
+				"ilscore": 88,
+				"submission_time_diff": -57294000
 			}
 		]
 	}

@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "Henry Morris",
-		"jammer_link": "https://hmprgm.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"jam_vs": 45,
-				"title": "Tropical Getaway",
-				"title_link": "https://hmprgm.itch.io/tropical-getaway",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278538",
-				"by_list": [
-					"Henry Morris"
-				],
-				"by_link_list": [
-					"https://hmprgm.itch.io/"
-				],
-				"rank": 31,
-				"ratings": 8,
-				"score": 2.681,
-				"ilscore": 37,
-				"submission_time_diff": -5361000
-			}
-		]
-	},
-	{
-		"jammer": "legentil42",
-		"jammer_link": "https://legentil42.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 119,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 96,
-				"title": "Doggo Ascent From Hell",
-				"title_link": "https://legentil42.itch.io/doggo-ascent",
-				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1788540",
-				"by_list": [
-					"legentil42"
-				],
-				"by_link_list": [
-					"https://legentil42.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 8,
-				"score": 2.844,
-				"ilscore": 56,
-				"submission_time_diff": -22470000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"jam_vs": 45,
-				"title": "Heli vs Bunnies",
-				"title_link": "https://legentil42.itch.io/heli-vs-bunnies",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278513",
-				"by_list": [
-					"legentil42"
-				],
-				"by_link_list": [
-					"https://legentil42.itch.io/"
-				],
-				"rank": 33,
-				"ratings": 6,
-				"score": 2.654,
-				"ilscore": 36,
-				"submission_time_diff": -8740000
-			}
-		]
-	},
-	{
 		"jammer": "PenningtonProductions",
 		"jammer_link": "https://penningtonproductions.itch.io/",
 		"game_list_sorted": [
@@ -3423,7 +3348,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Fishy Fanatic Fun",
 				"title_link": "https://h2ootter.itch.io/fishy-fanatic-fun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557628",
@@ -3999,6 +3924,60 @@
 				"score": 2.946,
 				"ilscore": 48,
 				"submission_time_diff": -51000
+			}
+		]
+	},
+	{
+		"jammer": "tinico",
+		"jammer_link": "https://tinico.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 95,
+				"jam_name": "Chance",
+				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
+				"jam_vs": 64,
+				"title": "Just another chance!",
+				"title_link": "https://tinico.itch.io/just-another-chance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316132",
+				"by_list": [
+					"tinico"
+				],
+				"by_link_list": [
+					"https://tinico.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 7,
+				"score": 2.898,
+				"ilscore": 47,
+				"submission_time_diff": 54323000
+			}
+		]
+	},
+	{
+		"jammer": "SquareGame",
+		"jammer_link": "https://squaregame.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 95,
+				"jam_name": "Chance",
+				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
+				"jam_vs": 64,
+				"title": "Randomly Named Game",
+				"title_link": "https://squaregame.itch.io/randomly-named-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316109",
+				"by_list": [
+					"SquareGame"
+				],
+				"by_link_list": [
+					"https://squaregame.itch.io/"
+				],
+				"rank": 39,
+				"ratings": 6,
+				"score": 2.858,
+				"ilscore": 46,
+				"submission_time_diff": 36411000
 			}
 		]
 	}

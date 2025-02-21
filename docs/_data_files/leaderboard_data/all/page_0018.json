@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "billy",
-		"jammer_link": "https://dairydog.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Dragon Oasis",
-				"title_link": "https://dairydog.itch.io/dragon-oasis",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633449",
-				"by_list": [
-					"billy"
-				],
-				"by_link_list": [
-					"https://dairydog.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 10,
-				"score": 3.26,
-				"ilscore": 50,
-				"submission_time_diff": -806000
-			}
-		]
-	},
-	{
 		"jammer": "DayHam",
 		"jammer_link": "https://day-ham.itch.io/",
 		"game_list_sorted": [
@@ -3865,6 +3838,33 @@
 				"score": 1.63,
 				"ilscore": 31,
 				"submission_time_diff": -96120000
+			}
+		]
+	},
+	{
+		"jammer": "KAWJstudios",
+		"jammer_link": "https://kawjstudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "Memory Lane",
+				"title_link": "https://kawjstudios.itch.io/memory-lane",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647455",
+				"by_list": [
+					"KAWJstudios"
+				],
+				"by_link_list": [
+					"https://kawjstudios.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 3,
+				"score": 1.63,
+				"ilscore": 31,
+				"submission_time_diff": -3365000
 			}
 		]
 	}

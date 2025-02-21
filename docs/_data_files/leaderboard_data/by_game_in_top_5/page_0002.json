@@ -1,5 +1,63 @@
 [
 	{
+		"jammer": "Rémi's Games",
+		"jammer_link": "https://rmonthil.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 139,
+				"jam_name": "Fae",
+				"jam_link": "https://itch.io/jam/mini-jam-139-fae",
+				"jam_vs": 37,
+				"title": "A Coin In The Dark",
+				"title_link": "https://rmonthil.itch.io/a-coin-in-the-dark",
+				"submission_page_link": "https://itch.io/jam/mini-jam-139-fae/rate/2228056",
+				"by_list": [
+					"Rémi's Games"
+				],
+				"by_link_list": [
+					"https://rmonthil.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 11,
+				"score": 4.409,
+				"ilscore": 55,
+				"submission_time_diff": -9504000
+			}
+		]
+	},
+	{
+		"jammer": "frens who do games",
+		"jammer_link": "https://createam1.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Cozy Lullaby",
+				"title_link": "https://createam1.itch.io/sashasmelody",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889447",
+				"by_list": [
+					"frens who do games",
+					"Fr0oZzFred",
+					"ritsu_snow"
+				],
+				"by_link_list": [
+					"https://createam1.itch.io/",
+					"https://fr0ozzfred.itch.io/",
+					"https://ritsu-snow.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 12,
+				"score": 4.396,
+				"ilscore": 93,
+				"submission_time_diff": -487000
+			}
+		]
+	},
+	{
 		"jammer": "Fr0oZzFred",
 		"jammer_link": "https://fr0ozzfred.itch.io/",
 		"game_list_sorted": [
@@ -470,12 +528,12 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Fscibe",
 					"LapinLambda"
 				],
@@ -487,7 +545,7 @@
 				"rank": 1,
 				"ratings": 43,
 				"score": 4.32,
-				"ilscore": 115,
+				"ilscore": 114,
 				"submission_time_diff": -50302000
 			}
 		]
@@ -501,12 +559,12 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Fscibe",
 					"LapinLambda"
 				],
@@ -518,7 +576,7 @@
 				"rank": 1,
 				"ratings": 43,
 				"score": 4.32,
-				"ilscore": 115,
+				"ilscore": 114,
 				"submission_time_diff": -50302000
 			}
 		]
@@ -1497,7 +1555,7 @@
 				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
 				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Titwin",
 					"Saltadrow",
 					"clerg0",
@@ -1532,7 +1590,7 @@
 				"title_link": "https://solroo.itch.io/captain-wilson-and-the-strawberry-pirates",
 				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592418",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Titwin",
 					"Saltadrow",
 					"clerg0",
@@ -1616,7 +1674,7 @@
 				"jam_id": 39,
 				"jam_name": "Monsters",
 				"jam_link": "https://itch.io/jam/mini-jam-39-monsters",
-				"jam_vs": 24,
+				"jam_vs": 23,
 				"title": "Endless Neon",
 				"title_link": "https://jfranmora.itch.io/endless-neon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-39-monsters/rate/502975",
@@ -1629,7 +1687,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 4.212,
-				"ilscore": 41,
+				"ilscore": 40,
 				"submission_time_diff": -13005000
 			}
 		]
@@ -2337,7 +2395,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 66,
+				"jam_vs": 65,
 				"title": "PaperLand",
 				"title_link": "https://trentii.itch.io/paperland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3300214",
@@ -2892,60 +2950,6 @@
 				"score": 3.979,
 				"ilscore": 61,
 				"submission_time_diff": -16742000
-			}
-		]
-	},
-	{
-		"jammer": "blek",
-		"jammer_link": "https://blek.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 56,
-				"jam_name": "Sky",
-				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
-				"jam_vs": 112,
-				"title": "Starving Sniper",
-				"title_link": "https://blek.itch.io/starving-sniper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/672037",
-				"by_list": [
-					"blek"
-				],
-				"by_link_list": [
-					"https://blek.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 34,
-				"score": 3.956,
-				"ilscore": 83,
-				"submission_time_diff": -17499000
-			}
-		]
-	},
-	{
-		"jammer": "Funny Doge",
-		"jammer_link": "https://funny-doge.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 169,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-169-future",
-				"jam_vs": 44,
-				"title": "Time Machine",
-				"title_link": "https://funny-doge.itch.io/time-machine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3036391",
-				"by_list": [
-					"Funny Doge"
-				],
-				"by_link_list": [
-					"https://funny-doge.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 10,
-				"score": 3.95,
-				"ilscore": 53,
-				"submission_time_diff": -39330000
 			}
 		]
 	}

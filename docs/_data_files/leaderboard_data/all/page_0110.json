@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "mcmeat",
-		"jammer_link": "https://mcmeat.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Skurfs up",
-				"title_link": "https://mcmeat.itch.io/skurfs-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2817793",
-				"by_list": [
-					"mcmeat"
-				],
-				"by_link_list": [
-					"https://mcmeat.itch.io/"
-				],
-				"rank": 117,
-				"ratings": 8,
-				"score": 2.125,
-				"ilscore": 48,
-				"submission_time_diff": -28409000
-			}
-		]
-	},
-	{
-		"jammer": "Sliyne",
-		"jammer_link": "https://sliyne.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Heat Up",
-				"title_link": "https://sliyne.itch.io/heat-up",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819581",
-				"by_list": [
-					"Sliyne"
-				],
-				"by_link_list": [
-					"https://sliyne.itch.io/"
-				],
-				"rank": 118,
-				"ratings": 4,
-				"score": 2.121,
-				"ilscore": 48,
-				"submission_time_diff": -2040000
-			}
-		]
-	},
-	{
-		"jammer": "GodFatherFrob",
-		"jammer_link": "https://godfatherfrob.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "CubicColosseum",
-				"title_link": "https://godfatherfrob.itch.io/cubiccolosseum",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2818864",
-				"by_list": [
-					"GodFatherFrob"
-				],
-				"by_link_list": [
-					"https://godfatherfrob.itch.io/"
-				],
-				"rank": 119,
-				"ratings": 5,
-				"score": 2.095,
-				"ilscore": 47,
-				"submission_time_diff": -30596000
-			}
-		]
-	},
-	{
 		"jammer": "Lokesh Devanathan",
 		"jammer_link": "https://lokeshdevanathan.itch.io/",
 		"game_list_sorted": [
@@ -2116,6 +2035,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "Stranded Survivor",
+				"title_link": "https://nubels64.itch.io/stranded-survivor",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3331907",
+				"by_list": [
+					"Nubels64"
+				],
+				"by_link_list": [
+					"https://nubels64.itch.io/"
+				],
+				"rank": 18,
+				"ratings": 16,
+				"score": 3.484,
+				"ilscore": 63,
+				"submission_time_diff": -26952000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
@@ -3319,6 +3259,87 @@
 				"score": 2.442,
 				"ilscore": 42,
 				"submission_time_diff": 888000
+			}
+		]
+	},
+	{
+		"jammer": "Tuvu",
+		"jammer_link": "https://tuvu.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Space Craze",
+				"title_link": "https://tuvu.itch.io/space-craze-baba",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877277",
+				"by_list": [
+					"Tuvu"
+				],
+				"by_link_list": [
+					"https://tuvu.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 6,
+				"score": 2.418,
+				"ilscore": 41,
+				"submission_time_diff": -46550000
+			}
+		]
+	},
+	{
+		"jammer": "geomdev",
+		"jammer_link": "https://geomdev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Please don't nuke me",
+				"title_link": "https://geomdev.itch.io/please-dont-nuke-me",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878375",
+				"by_list": [
+					"geomdev"
+				],
+				"by_link_list": [
+					"https://geomdev.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 6,
+				"score": 2.418,
+				"ilscore": 41,
+				"submission_time_diff": -15649000
+			}
+		]
+	},
+	{
+		"jammer": "Mendel24",
+		"jammer_link": "https://mendel24.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 164,
+				"jam_name": "Destruction",
+				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
+				"jam_vs": 72,
+				"title": "Destroy it",
+				"title_link": "https://mendel24.itch.io/destroy-it",
+				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874016",
+				"by_list": [
+					"Mendel24"
+				],
+				"by_link_list": [
+					"https://mendel24.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 9,
+				"score": 2.417,
+				"ilscore": 41,
+				"submission_time_diff": -201199000
 			}
 		]
 	}

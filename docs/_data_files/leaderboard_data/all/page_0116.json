@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "AdCalleja",
-		"jammer_link": "https://adcalleja.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 173,
-				"jam_name": "Action",
-				"jam_link": "https://itch.io/jam/mini-jam-173-action",
-				"jam_vs": 67,
-				"title": "Crabbo",
-				"title_link": "https://adcalleja.itch.io/crabbo",
-				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166780",
-				"by_list": [
-					"AdCalleja"
-				],
-				"by_link_list": [
-					"https://adcalleja.itch.io/"
-				],
-				"rank": 52,
-				"ratings": 4,
-				"score": 2.21,
-				"ilscore": 37,
-				"submission_time_diff": -13628000
-			}
-		]
-	},
-	{
-		"jammer": "Spolchen",
-		"jammer_link": "https://spolchen.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 173,
-				"jam_name": "Action",
-				"jam_link": "https://itch.io/jam/mini-jam-173-action",
-				"jam_vs": 67,
-				"title": "Elevator Carnage - Prototype/Game Jam Build",
-				"title_link": "https://spolchen.itch.io/elevator-carnage-prototypegame-jam-build",
-				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3167103",
-				"by_list": [
-					"Spolchen"
-				],
-				"by_link_list": [
-					"https://spolchen.itch.io/"
-				],
-				"rank": 54,
-				"ratings": 7,
-				"score": 2.205,
-				"ilscore": 37,
-				"submission_time_diff": -961000
-			}
-		]
-	},
-	{
 		"jammer": "IbiceM",
 		"jammer_link": "https://ibicem.itch.io/",
 		"game_list_sorted": [
@@ -718,6 +664,29 @@
 		"jammer": "Mykyta",
 		"jammer_link": "https://overlord-mykyta.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "Magic Sneeze",
+				"title_link": "https://overlord-mykyta.itch.io/magic-sneeze",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3332524",
+				"by_list": [
+					"Mykyta",
+					"Yevhenii Hladkykh"
+				],
+				"by_link_list": [
+					"https://overlord-mykyta.itch.io/",
+					"https://kaskat.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 29,
+				"score": 4.112,
+				"ilscore": 74,
+				"submission_time_diff": -11018000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 175,
@@ -1392,7 +1361,7 @@
 		]
 	},
 	{
-		"jammer": "Johnny Vu",
+		"jammer": "JohnnyUmami",
 		"jammer_link": "https://johnnyumamidev.itch.io/",
 		"game_list_sorted": [
 			{
@@ -1405,7 +1374,7 @@
 				"title_link": "https://johnnyumamidev.itch.io/the-gold-is-moms",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3196286",
 				"by_list": [
-					"Johnny Vu"
+					"JohnnyUmami"
 				],
 				"by_link_list": [
 					"https://johnnyumamidev.itch.io/"
@@ -3295,6 +3264,60 @@
 				"score": 1.503,
 				"ilscore": 29,
 				"submission_time_diff": -160030000
+			}
+		]
+	},
+	{
+		"jammer": "Feztek",
+		"jammer_link": "https://feztek.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 97,
+				"title": "SlimeDefender",
+				"title_link": "https://feztek.itch.io/slimedefender",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199427",
+				"by_list": [
+					"Feztek"
+				],
+				"by_link_list": [
+					"https://feztek.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 4,
+				"score": 1.503,
+				"ilscore": 29,
+				"submission_time_diff": -1311000
+			}
+		]
+	},
+	{
+		"jammer": "AndrewAtkins",
+		"jammer_link": "https://andrewatkins.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 174,
+				"jam_name": "Defense",
+				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
+				"jam_vs": 97,
+				"title": "Human Resource",
+				"title_link": "https://andrewatkins.itch.io/human-resource",
+				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199487",
+				"by_list": [
+					"AndrewAtkins"
+				],
+				"by_link_list": [
+					"https://andrewatkins.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 1,
+				"score": 1.414,
+				"ilscore": 28,
+				"submission_time_diff": 2598000
 			}
 		]
 	}

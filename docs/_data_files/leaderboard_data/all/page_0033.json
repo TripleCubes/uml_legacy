@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "jacobgreendev",
-		"jammer_link": "https://jacobgreendev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "ReDiscovery",
-				"title_link": "https://jacobgreendev.itch.io/rediscovery",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/947188",
-				"by_list": [
-					"jacobgreendev"
-				],
-				"by_link_list": [
-					"https://jacobgreendev.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 13,
-				"score": 4.038,
-				"ilscore": 81,
-				"submission_time_diff": -8177000
-			}
-		]
-	},
-	{
 		"jammer": "HappyGames",
 		"jammer_link": "https://happygames-studio.itch.io/",
 		"game_list_sorted": [
@@ -2923,7 +2896,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "Arm throwing simulator 2013 (ATS2013)",
 				"title_link": "https://mat26.itch.io/ats2013",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120054",
@@ -3876,7 +3849,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "S.O.P",
 				"title_link": "https://al3cs71.itch.io/sop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1121669",
@@ -3951,6 +3924,35 @@
 	{
 		"jammer": "Bamboo01",
 		"jammer_link": "https://bamboo01.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 123,
+				"title": "Lazer Assassin",
+				"title_link": "https://bamboo01.itch.io/lazer-assassin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966705",
+				"by_list": [
+					"Bamboo01",
+					"Kiann"
+				],
+				"by_link_list": [
+					"https://bamboo01.itch.io/",
+					"https://kiann-583113.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 7,
+				"score": 3.786,
+				"ilscore": 82,
+				"submission_time_diff": -11476000
+			}
+		]
+	},
+	{
+		"jammer": "Kiann",
+		"jammer_link": "https://kiann-583113.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

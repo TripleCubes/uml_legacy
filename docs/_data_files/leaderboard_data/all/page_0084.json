@@ -1,79 +1,5 @@
 [
 	{
-		"jammer": "caramboula",
-		"jammer_link": "https://caramboula.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "Outer Signal",
-				"title_link": "https://silenceremember.itch.io/outer-signal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913370",
-				"by_list": [
-					"silenceremember",
-					"caramboula",
-					"Getsometea",
-					"TheBestMrand",
-					"Sonavi",
-					"R0MF"
-				],
-				"by_link_list": [
-					"https://silenceremember.itch.io/",
-					"https://caramboula.itch.io/",
-					"https://getsometea.itch.io/",
-					"https://thebestmrand.itch.io/",
-					"https://sonavi.itch.io/",
-					"https://r0mf.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 22,
-				"score": 3.42,
-				"ilscore": 60,
-				"submission_time_diff": -3944000
-			}
-		]
-	},
-	{
-		"jammer": "Sonavi",
-		"jammer_link": "https://sonavi.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 125,
-				"jam_name": "Signal",
-				"jam_link": "https://itch.io/jam/mini-jam-125-signal",
-				"jam_vs": 74,
-				"title": "Outer Signal",
-				"title_link": "https://silenceremember.itch.io/outer-signal",
-				"submission_page_link": "https://itch.io/jam/mini-jam-125-signal/rate/1913370",
-				"by_list": [
-					"silenceremember",
-					"caramboula",
-					"Getsometea",
-					"TheBestMrand",
-					"Sonavi",
-					"R0MF"
-				],
-				"by_link_list": [
-					"https://silenceremember.itch.io/",
-					"https://caramboula.itch.io/",
-					"https://getsometea.itch.io/",
-					"https://thebestmrand.itch.io/",
-					"https://sonavi.itch.io/",
-					"https://r0mf.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 22,
-				"score": 3.42,
-				"ilscore": 60,
-				"submission_time_diff": -3944000
-			}
-		]
-	},
-	{
 		"jammer": "Félix Bernier",
 		"jammer_link": "https://felixbernier.itch.io/",
 		"game_list_sorted": [
@@ -3738,6 +3664,70 @@
 				"score": 4.092,
 				"ilscore": 87,
 				"submission_time_diff": 28086000
+			}
+		]
+	},
+	{
+		"jammer": "PsychoSkylla",
+		"jammer_link": "https://psychoskylla.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 116,
+				"title": "SplatCat",
+				"title_link": "https://gerolmed.itch.io/splatcat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1955777",
+				"by_list": [
+					"Gerolmed",
+					"Olof Music",
+					"CreepyPvP",
+					"Panpukin",
+					"PsychoSkylla"
+				],
+				"by_link_list": [
+					"https://gerolmed.itch.io/",
+					"https://olofmusic.itch.io/",
+					"https://creepypvp.itch.io/",
+					"https://panpukin.itch.io/",
+					"https://psychoskylla.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 19,
+				"score": 4.092,
+				"ilscore": 87,
+				"submission_time_diff": 28086000
+			}
+		]
+	},
+	{
+		"jammer": "Ganbat",
+		"jammer_link": "https://ganbat24.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 127,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
+				"jam_vs": 116,
+				"title": "Stack-A-Cat",
+				"title_link": "https://muddddd.itch.io/stack-a-cat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956375",
+				"by_list": [
+					"Mudd",
+					"Ganbat"
+				],
+				"by_link_list": [
+					"https://muddddd.itch.io/",
+					"https://ganbat24.itch.io/"
+				],
+				"rank": 12,
+				"ratings": 29,
+				"score": 3.879,
+				"ilscore": 82,
+				"submission_time_diff": -9616000
 			}
 		]
 	}

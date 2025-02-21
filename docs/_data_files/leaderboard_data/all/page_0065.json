@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "IvanM71",
-		"jammer_link": "https://ivanm71.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 108,
-				"jam_name": "Seaside",
-				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
-				"jam_vs": 211,
-				"title": "Seaside cleaning day",
-				"title_link": "https://ivanm71.itch.io/seaside-cleaning-day",
-				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1571362",
-				"by_list": [
-					"IvanM71"
-				],
-				"by_link_list": [
-					"https://ivanm71.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 33,
-				"score": 3.288,
-				"ilscore": 88,
-				"submission_time_diff": -57294000
-			}
-		]
-	},
-	{
 		"jammer": "Shvap Games Studio",
 		"jammer_link": "https://shvap.itch.io/",
 		"game_list_sorted": [
@@ -507,7 +480,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Jetpack Tree",
 				"title_link": "https://murdybird.itch.io/jetpack-tree",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608947",
@@ -555,7 +528,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 66,
+				"jam_vs": 65,
 				"title": "Papercut's Wacky World!",
 				"title_link": "https://gabethedinosaur.itch.io/papercuts-wacky-world",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3303123",
@@ -568,8 +541,29 @@
 				"rank": 34,
 				"ratings": 9,
 				"score": 2.714,
-				"ilscore": 45,
+				"ilscore": 44,
 				"submission_time_diff": 180962000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "Papa's Freakaria",
+				"title_link": "https://gabethedinosaur.itch.io/papas-freakaria",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3332931",
+				"by_list": [
+					"gabethedinosaur"
+				],
+				"by_link_list": [
+					"https://gabethedinosaur.itch.io/"
+				],
+				"rank": 67,
+				"ratings": 11,
+				"score": 1.965,
+				"ilscore": 35,
+				"submission_time_diff": -270000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -1359,7 +1353,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Praying For Rain",
 				"title_link": "https://arcrutus.itch.io/praying-for-rain",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608204",
@@ -2169,7 +2163,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Untitled Phishing Game",
 				"title_link": "https://loafstudio.itch.io/untitled-phishing-game",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564308",
@@ -3014,7 +3008,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Just Roll with It",
 				"title_link": "https://impossiblestudios.itch.io/just-roll-with-it",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1606977",
@@ -3624,7 +3618,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Necromancer's army",
 				"title_link": "https://fetis.itch.io/necromancer-army",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609748",
@@ -3770,6 +3764,56 @@
 				"score": 2.251,
 				"ilscore": 60,
 				"submission_time_diff": -24203000
+			}
+		]
+	},
+	{
+		"jammer": "Tricore",
+		"jammer_link": "https://tricore.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Is God the type to open windows?",
+				"title_link": "https://tricore.itch.io/is-god-the-type-to-open-windows",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832093",
+				"by_list": [
+					"Tricore",
+					"LaughingMad"
+				],
+				"by_link_list": [
+					"https://tricore.itch.io/",
+					"https://laughingmad.itch.io/"
+				],
+				"rank": 102,
+				"ratings": 11,
+				"score": 1.591,
+				"ilscore": 34,
+				"submission_time_diff": -15545000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "Crab FighterZ",
+				"title_link": "https://tricore.itch.io/crab-fighterz",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572202",
+				"by_list": [
+					"Tricore"
+				],
+				"by_link_list": [
+					"https://tricore.itch.io/"
+				],
+				"rank": 173,
+				"ratings": 10,
+				"score": 2.241,
+				"ilscore": 60,
+				"submission_time_diff": -16154000
 			}
 		]
 	}

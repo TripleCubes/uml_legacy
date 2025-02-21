@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "KAWJstudios",
-		"jammer_link": "https://kawjstudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Memory Lane",
-				"title_link": "https://kawjstudios.itch.io/memory-lane",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647455",
-				"by_list": [
-					"KAWJstudios"
-				],
-				"by_link_list": [
-					"https://kawjstudios.itch.io/"
-				],
-				"rank": 83,
-				"ratings": 3,
-				"score": 1.63,
-				"ilscore": 31,
-				"submission_time_diff": -3365000
-			}
-		]
-	},
-	{
 		"jammer": "EskimoStudios",
 		"jammer_link": "https://eskimostudios.itch.io/",
 		"game_list_sorted": [
@@ -1699,7 +1672,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Bloodloss Blaster",
 				"title_link": "https://stonebruin.itch.io/bloodloss-blaster",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609626",
@@ -3043,7 +3016,7 @@
 				"title_link": "https://solroo.itch.io/puzzle-reign",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878876",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Camonio"
 				],
 				"by_link_list": [
@@ -3066,7 +3039,7 @@
 				"title_link": "https://solroo.itch.io/dough",
 				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/670745",
 				"by_list": [
-					"Joan Sol ROO",
+					"Sol",
 					"Camonio"
 				],
 				"by_link_list": [
@@ -3111,7 +3084,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Somewhere Among The Clouds",
 				"title_link": "https://finn-truong.itch.io/somewhere-among-the-clouds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564045",
@@ -3514,7 +3487,7 @@
 				"jam_id": 84,
 				"jam_name": "Bubbles",
 				"jam_link": "https://itch.io/jam/mini-jam-84-bubbles",
-				"jam_vs": 149,
+				"jam_vs": 148,
 				"title": "Bubble Bubble Fishing",
 				"title_link": "https://fatiguedfox.itch.io/bubble-bubble-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-84-bubbles/rate/1120551",
@@ -3680,6 +3653,54 @@
 				"score": 1.407,
 				"ilscore": 34,
 				"submission_time_diff": -23079000
+			}
+		]
+	},
+	{
+		"jammer": "Simp.Licity team",
+		"jammer_link": "https://simplicity-team.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 56,
+				"jam_name": "Sky",
+				"jam_link": "https://itch.io/jam/mini-jam-56-sky",
+				"jam_vs": 112,
+				"title": "Sweet Bombing",
+				"title_link": "https://simplicity-team.itch.io/sweet-bombing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-56-sky/rate/671912",
+				"by_list": [
+					"Simp.Licity team"
+				],
+				"by_link_list": [
+					"https://simplicity-team.itch.io/"
+				],
+				"rank": 30,
+				"ratings": 16,
+				"score": 3.297,
+				"ilscore": 69,
+				"submission_time_diff": -26550000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 57,
+				"jam_name": "Underground",
+				"jam_link": "https://itch.io/jam/mini-jam-57-underground",
+				"jam_vs": 48,
+				"title": "Graffiti Rush",
+				"title_link": "https://simplicity-team.itch.io/grafitty-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-57-underground/rate/683849",
+				"by_list": [
+					"Simp.Licity team"
+				],
+				"by_link_list": [
+					"https://simplicity-team.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 2,
+				"score": 2.454,
+				"ilscore": 35,
+				"submission_time_diff": -960000
 			}
 		]
 	}

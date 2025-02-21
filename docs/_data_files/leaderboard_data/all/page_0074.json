@@ -1,75 +1,5 @@
 [
 	{
-		"jammer": "StarCatcher24",
-		"jammer_link": "https://starcatcher24.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 104,
-				"title": "Tomb of the Lich",
-				"title_link": "https://thenewtoaster.itch.io/tomb-of-the-lich",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673174",
-				"by_list": [
-					"TheNewToaster",
-					"Jofurd",
-					"Pheosphorus",
-					"StarCatcher24",
-					"RocketBaBBM"
-				],
-				"by_link_list": [
-					"https://thenewtoaster.itch.io/",
-					"https://jofurd.itch.io/",
-					"https://pheosphorus.itch.io/",
-					"https://starcatcher24.itch.io/",
-					"https://rocketbabbm.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 24,
-				"score": 3.365,
-				"ilscore": 68,
-				"submission_time_diff": 3786000
-			}
-		]
-	},
-	{
-		"jammer": "RocketBaBBM",
-		"jammer_link": "https://rocketbabbm.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 113,
-				"jam_name": "Final Boss",
-				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
-				"jam_vs": 104,
-				"title": "Tomb of the Lich",
-				"title_link": "https://thenewtoaster.itch.io/tomb-of-the-lich",
-				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673174",
-				"by_list": [
-					"TheNewToaster",
-					"Jofurd",
-					"Pheosphorus",
-					"StarCatcher24",
-					"RocketBaBBM"
-				],
-				"by_link_list": [
-					"https://thenewtoaster.itch.io/",
-					"https://jofurd.itch.io/",
-					"https://pheosphorus.itch.io/",
-					"https://starcatcher24.itch.io/",
-					"https://rocketbabbm.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 24,
-				"score": 3.365,
-				"ilscore": 68,
-				"submission_time_diff": 3786000
-			}
-		]
-	},
-	{
 		"jammer": "Dion Peek",
 		"jammer_link": "https://dionpeek.itch.io/",
 		"game_list_sorted": [
@@ -342,7 +272,7 @@
 				"jam_name": "Dungeons",
 				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
 				"jam_vs": 40,
-				"title": "Dungeon Dater - Mini Jam 140",
+				"title": "Dungeon Dater",
 				"title_link": "https://snerds.itch.io/dungeongardengame",
 				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247755",
 				"by_list": [
@@ -3407,6 +3337,60 @@
 				"score": 2.882,
 				"ilscore": 44,
 				"submission_time_diff": -11241000
+			}
+		]
+	},
+	{
+		"jammer": "harppen",
+		"jammer_link": "https://harppen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"jam_vs": 57,
+				"title": "Waif",
+				"title_link": "https://harppen.itch.io/waif",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691519",
+				"by_list": [
+					"harppen"
+				],
+				"by_link_list": [
+					"https://harppen.itch.io/"
+				],
+				"rank": 27,
+				"ratings": 5,
+				"score": 2.831,
+				"ilscore": 44,
+				"submission_time_diff": -24535000
+			}
+		]
+	},
+	{
+		"jammer": "spicy_cup_ramen",
+		"jammer_link": "https://spicy-cup-ramen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 114,
+				"jam_name": "Anime",
+				"jam_link": "https://itch.io/jam/mini-jam-114-anime",
+				"jam_vs": 57,
+				"title": "The Trash Talking Demon King",
+				"title_link": "https://spicy-cup-ramen.itch.io/the-trash-talking-demon-king",
+				"submission_page_link": "https://itch.io/jam/mini-jam-114-anime/rate/1691872",
+				"by_list": [
+					"spicy_cup_ramen"
+				],
+				"by_link_list": [
+					"https://spicy-cup-ramen.itch.io/"
+				],
+				"rank": 29,
+				"ratings": 6,
+				"score": 2.816,
+				"ilscore": 43,
+				"submission_time_diff": -2249000
 			}
 		]
 	}

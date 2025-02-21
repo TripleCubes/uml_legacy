@@ -1,86 +1,5 @@
 [
 	{
-		"jammer": "Tuvu",
-		"jammer_link": "https://tuvu.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
-				"title": "Space Craze",
-				"title_link": "https://tuvu.itch.io/space-craze-baba",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877277",
-				"by_list": [
-					"Tuvu"
-				],
-				"by_link_list": [
-					"https://tuvu.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 6,
-				"score": 2.418,
-				"ilscore": 41,
-				"submission_time_diff": -46550000
-			}
-		]
-	},
-	{
-		"jammer": "geomdev",
-		"jammer_link": "https://geomdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
-				"title": "Please don't nuke me",
-				"title_link": "https://geomdev.itch.io/please-dont-nuke-me",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878375",
-				"by_list": [
-					"geomdev"
-				],
-				"by_link_list": [
-					"https://geomdev.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 6,
-				"score": 2.418,
-				"ilscore": 41,
-				"submission_time_diff": -15649000
-			}
-		]
-	},
-	{
-		"jammer": "Mendel24",
-		"jammer_link": "https://mendel24.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 164,
-				"jam_name": "Destruction",
-				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
-				"title": "Destroy it",
-				"title_link": "https://mendel24.itch.io/destroy-it",
-				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2874016",
-				"by_list": [
-					"Mendel24"
-				],
-				"by_link_list": [
-					"https://mendel24.itch.io/"
-				],
-				"rank": 59,
-				"ratings": 9,
-				"score": 2.417,
-				"ilscore": 41,
-				"submission_time_diff": -201199000
-			}
-		]
-	},
-	{
 		"jammer": "weeqn",
 		"jammer_link": "https://weeqn.itch.io/",
 		"game_list_sorted": [
@@ -312,7 +231,7 @@
 				"jam_name": "Paint",
 				"jam_link": "https://itch.io/jam/mini-jam-165-paint",
 				"jam_vs": 45,
-				"title": "Tower . Paint . Refill",
+				"title": "Tower.Paint.Refill",
 				"title_link": "https://macrowdev.itch.io/tower-paint-refill",
 				"submission_page_link": "https://itch.io/jam/mini-jam-165-paint/rate/2902864",
 				"by_list": [
@@ -383,7 +302,7 @@
 				"jam_name": "Clean",
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
 				"jam_vs": 35,
-				"title": "Maid . to . Clean",
+				"title": "Maid.to.Clean",
 				"title_link": "https://macrowdev.itch.io/maid-to-clean",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3069185",
 				"by_list": [
@@ -404,7 +323,7 @@
 				"jam_name": "Action",
 				"jam_link": "https://itch.io/jam/mini-jam-173-action",
 				"jam_vs": 67,
-				"title": "Brick . Drop . Bash",
+				"title": "Brick.Drop.Bash",
 				"title_link": "https://macrowdev.itch.io/brick-drop-bash",
 				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3167127",
 				"by_list": [
@@ -452,7 +371,7 @@
 				"jam_name": "Foxes",
 				"jam_link": "https://itch.io/jam/mini-jam-176-foxes",
 				"jam_vs": 93,
-				"title": "Fox . Coin . Flipper",
+				"title": "Fox.Coin.Flipper",
 				"title_link": "https://macrowdev.itch.io/fox-coin-flipper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-176-foxes/rate/3256949",
 				"by_list": [
@@ -3116,6 +3035,87 @@
 				"score": 3.225,
 				"ilscore": 85,
 				"submission_time_diff": -190994000
+			}
+		]
+	},
+	{
+		"jammer": "JAlcaldeM",
+		"jammer_link": "https://jalcaldem.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 201,
+				"title": "Earth Defenders",
+				"title_link": "https://jalcaldem.itch.io/earth-defenders",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944606",
+				"by_list": [
+					"JAlcaldeM"
+				],
+				"by_link_list": [
+					"https://jalcaldem.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 10,
+				"score": 3.225,
+				"ilscore": 85,
+				"submission_time_diff": -152000
+			}
+		]
+	},
+	{
+		"jammer": "XCyberbeastX",
+		"jammer_link": "https://xcyberbeastx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 201,
+				"title": "Poison King",
+				"title_link": "https://xcyberbeastx.itch.io/poison-king",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942841",
+				"by_list": [
+					"XCyberbeastX"
+				],
+				"by_link_list": [
+					"https://xcyberbeastx.itch.io/"
+				],
+				"rank": 64,
+				"ratings": 7,
+				"score": 3.214,
+				"ilscore": 85,
+				"submission_time_diff": -40198000
+			}
+		]
+	},
+	{
+		"jammer": "ThatCactusGuy",
+		"jammer_link": "https://thatcactusguy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 166,
+				"jam_name": "Earth",
+				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
+				"jam_vs": 201,
+				"title": "Back To Earth",
+				"title_link": "https://thatcactusguy.itch.io/back-to-earth",
+				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2943266",
+				"by_list": [
+					"ThatCactusGuy"
+				],
+				"by_link_list": [
+					"https://thatcactusguy.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 5,
+				"score": 3.212,
+				"ilscore": 85,
+				"submission_time_diff": -34089000
 			}
 		]
 	}

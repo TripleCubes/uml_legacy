@@ -1,80 +1,5 @@
 [
 	{
-		"jammer": "Botanical Games",
-		"jammer_link": "https://botanical-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
-				"title": "Lazy River",
-				"title_link": "https://botanical-games.itch.io/lazy-river",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491303",
-				"by_list": [
-					"Botanical Games"
-				],
-				"by_link_list": [
-					"https://botanical-games.itch.io/"
-				],
-				"rank": 62,
-				"ratings": 6,
-				"score": 2.62,
-				"ilscore": 53,
-				"submission_time_diff": -5467000
-			}
-		]
-	},
-	{
-		"jammer": "Desentcare",
-		"jammer_link": "https://desentcare.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
-				"title": "The Dark Maze",
-				"title_link": "https://desentcare.itch.io/darkmaze",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511546",
-				"by_list": [
-					"Desentcare"
-				],
-				"by_link_list": [
-					"https://desentcare.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 24,
-				"score": 3.521,
-				"ilscore": 80,
-				"submission_time_diff": -10617000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
-				"title": "Pixel Art Cascade",
-				"title_link": "https://desentcare.itch.io/pixel-art-cascade",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491374",
-				"by_list": [
-					"Desentcare"
-				],
-				"by_link_list": [
-					"https://desentcare.itch.io/"
-				],
-				"rank": 63,
-				"ratings": 19,
-				"score": 2.618,
-				"ilscore": 53,
-				"submission_time_diff": -790000
-			}
-		]
-	},
-	{
 		"jammer": "TrizG",
 		"jammer_link": "https://trizg.itch.io/",
 		"game_list_sorted": [
@@ -347,7 +272,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "RUNIFICE",
 				"title_link": "https://tike1453.itch.io/runifice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1590081",
@@ -912,7 +837,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 93,
+				"jam_vs": 92,
 				"title": "DragonFlush",
 				"title_link": "https://titlechanqwerty.itch.io/dragonflush",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512884",
@@ -1017,7 +942,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Sleeping Fishers",
 				"title_link": "https://titlechanqwerty.itch.io/sleeping-fishers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563013",
@@ -1701,7 +1626,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Doomsday Cult: Summit Penance",
 				"title_link": "https://lunicosm.itch.io/doomsday-cult-2",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608927",
@@ -2656,6 +2581,27 @@
 				"score": 3.594,
 				"ilscore": 108,
 				"submission_time_diff": -41411000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 79,
+				"title": "monster dice",
+				"title_link": "https://philipnewsham.itch.io/monster-dice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3332303",
+				"by_list": [
+					"Philip Newsham"
+				],
+				"by_link_list": [
+					"https://philipnewsham.itch.io/"
+				],
+				"rank": 59,
+				"ratings": 17,
+				"score": 2.294,
+				"ilscore": 41,
+				"submission_time_diff": -16434000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -4444,6 +4390,81 @@
 				"score": 2.711,
 				"ilscore": 62,
 				"submission_time_diff": -150135000
+			}
+		]
+	},
+	{
+		"jammer": "republicofdave",
+		"jammer_link": "https://republicofdave.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 137,
+				"title": "Issac's Dream",
+				"title_link": "https://republicofdave.itch.io/issacs-dream",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511098",
+				"by_list": [
+					"republicofdave"
+				],
+				"by_link_list": [
+					"https://republicofdave.itch.io/"
+				],
+				"rank": 92,
+				"ratings": 5,
+				"score": 2.683,
+				"ilscore": 61,
+				"submission_time_diff": -27881000
+			}
+		]
+	},
+	{
+		"jammer": "PanKrolik",
+		"jammer_link": "https://pankrolik.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 137,
+				"title": "Slime War",
+				"title_link": "https://pankrolik.itch.io/slime-war",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511174",
+				"by_list": [
+					"PanKrolik"
+				],
+				"by_link_list": [
+					"https://pankrolik.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 6,
+				"score": 2.654,
+				"ilscore": 60,
+				"submission_time_diff": -27385000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 108,
+				"jam_name": "Seaside",
+				"jam_link": "https://itch.io/jam/mini-jam-108-seaside",
+				"jam_vs": 211,
+				"title": "SandBucket",
+				"title_link": "https://pankrolik.itch.io/sandbucket",
+				"submission_page_link": "https://itch.io/jam/mini-jam-108-seaside/rate/1572032",
+				"by_list": [
+					"PanKrolik"
+				],
+				"by_link_list": [
+					"https://pankrolik.itch.io/"
+				],
+				"rank": 183,
+				"ratings": 4,
+				"score": 2.073,
+				"ilscore": 56,
+				"submission_time_diff": -25622000
 			}
 		]
 	}

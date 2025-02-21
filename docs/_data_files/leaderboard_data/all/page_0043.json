@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "Trekkateer",
-		"jammer_link": "https://trekkateer.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 169,
-				"title": "Sizeable Burglary",
-				"title_link": "https://migdev.itch.io/sizeable-burglary",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137108",
-				"by_list": [
-					"MigDev",
-					"Trekkateer",
-					"Pr0fessor T"
-				],
-				"by_link_list": [
-					"https://migdev.itch.io/",
-					"https://trekkateer.itch.io/",
-					"https://pr0fessor-t.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 14,
-				"score": 3.036,
-				"ilscore": 75,
-				"submission_time_diff": -34869000
-			}
-		]
-	},
-	{
-		"jammer": "Pr0fessor T",
-		"jammer_link": "https://pr0fessor-t.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 85,
-				"jam_name": "Gold",
-				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 169,
-				"title": "Sizeable Burglary",
-				"title_link": "https://migdev.itch.io/sizeable-burglary",
-				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137108",
-				"by_list": [
-					"MigDev",
-					"Trekkateer",
-					"Pr0fessor T"
-				],
-				"by_link_list": [
-					"https://migdev.itch.io/",
-					"https://trekkateer.itch.io/",
-					"https://pr0fessor-t.itch.io/"
-				],
-				"rank": 69,
-				"ratings": 14,
-				"score": 3.036,
-				"ilscore": 75,
-				"submission_time_diff": -34869000
-			}
-		]
-	},
-	{
 		"jammer": "TheGreatGame",
 		"jammer_link": "https://thegreatgame.itch.io/",
 		"game_list_sorted": [
@@ -1202,7 +1140,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 202,
+				"jam_vs": 201,
 				"title": "Day Fishing",
 				"title_link": "https://duck-bear.itch.io/day-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563896",
@@ -2756,7 +2694,7 @@
 				"jam_id": 110,
 				"jam_name": "Sacrifice",
 				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 213,
+				"jam_vs": 212,
 				"title": "Sacrifice",
 				"title_link": "https://alleboi.itch.io/sacrifice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609102",
@@ -3481,6 +3419,64 @@
 				"score": 3.409,
 				"ilscore": 69,
 				"submission_time_diff": -49785000
+			}
+		]
+	},
+	{
+		"jammer": "SuperFondue",
+		"jammer_link": "https://superfondue.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"jam_vs": 104,
+				"title": "Into Space",
+				"title_link": "https://superfondue.itch.io/into-space",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153237",
+				"by_list": [
+					"SuperFondue",
+					"CivetdeLapin"
+				],
+				"by_link_list": [
+					"https://superfondue.itch.io/",
+					"https://civetdelapin.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 68,
+				"submission_time_diff": -17000
+			}
+		]
+	},
+	{
+		"jammer": "CivetdeLapin",
+		"jammer_link": "https://civetdelapin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 86,
+				"jam_name": "Sports",
+				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
+				"jam_vs": 104,
+				"title": "Into Space",
+				"title_link": "https://superfondue.itch.io/into-space",
+				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153237",
+				"by_list": [
+					"SuperFondue",
+					"CivetdeLapin"
+				],
+				"by_link_list": [
+					"https://superfondue.itch.io/",
+					"https://civetdelapin.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 8,
+				"score": 3.375,
+				"ilscore": 68,
+				"submission_time_diff": -17000
 			}
 		]
 	}

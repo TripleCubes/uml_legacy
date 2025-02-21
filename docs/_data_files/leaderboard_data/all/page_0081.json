@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "No whOne",
-		"jammer_link": "https://no-whone.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 122,
-				"jam_name": "Intermission",
-				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
-				"jam_vs": 50,
-				"title": "Rock Paper Scissors But It's Weird",
-				"title_link": "https://no-whone.itch.io/rock-paper-scissors-but-its-weird",
-				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851719",
-				"by_list": [
-					"No whOne"
-				],
-				"by_link_list": [
-					"https://no-whone.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 18,
-				"score": 3.722,
-				"ilscore": 54,
-				"submission_time_diff": -21534000
-			}
-		]
-	},
-	{
-		"jammer": "dardasaba",
-		"jammer_link": "https://dardasaba.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 122,
-				"jam_name": "Intermission",
-				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
-				"jam_vs": 50,
-				"title": "Co-op to the Robo-Coop",
-				"title_link": "https://dardasaba.itch.io/co-op-to-the-robo-coop",
-				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1851450",
-				"by_list": [
-					"dardasaba"
-				],
-				"by_link_list": [
-					"https://dardasaba.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 21,
-				"score": 3.405,
-				"ilscore": 49,
-				"submission_time_diff": -29105000
-			}
-		]
-	},
-	{
 		"jammer": "BlueSheep7",
 		"jammer_link": "https://bluesheep7.itch.io/",
 		"game_list_sorted": [
@@ -681,7 +627,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 93,
+				"jam_vs": 92,
 				"title": "Carnival Dragons",
 				"title_link": "https://soulinvestor.itch.io/carnival-dragons",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512831",
@@ -1320,7 +1266,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 93,
+				"jam_vs": 92,
 				"title": "Rotten Egg",
 				"title_link": "https://birdworks.itch.io/dragon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512232",
@@ -1333,7 +1279,7 @@
 				"rank": 1,
 				"ratings": 23,
 				"score": 4.38,
-				"ilscore": 85,
+				"ilscore": 84,
 				"submission_time_diff": -9409000
 			},
 			{
@@ -3583,6 +3529,60 @@
 				"score": 3,
 				"ilscore": 80,
 				"submission_time_diff": -841000
+			}
+		]
+	},
+	{
+		"jammer": "Sighet_",
+		"jammer_link": "https://sighet-someone.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Terrestrial Sling",
+				"title_link": "https://sighet-someone.itch.io/terrestrial-sling",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869316",
+				"by_list": [
+					"Sighet_"
+				],
+				"by_link_list": [
+					"https://sighet-someone.itch.io/"
+				],
+				"rank": 89,
+				"ratings": 13,
+				"score": 2.962,
+				"ilscore": 79,
+				"submission_time_diff": -10129000
+			}
+		]
+	},
+	{
+		"jammer": "Gargoolia",
+		"jammer_link": "https://gargoolia.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 123,
+				"jam_name": "Web",
+				"jam_link": "https://itch.io/jam/mini-jam-123-web",
+				"jam_vs": 209,
+				"title": "Spiderweb Sonnet (WIP)",
+				"title_link": "https://gargoolia.itch.io/spiderweb-sonnet-wip",
+				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1867962",
+				"by_list": [
+					"Gargoolia"
+				],
+				"by_link_list": [
+					"https://gargoolia.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 13,
+				"score": 2.942,
+				"ilscore": 79,
+				"submission_time_diff": -50522000
 			}
 		]
 	}

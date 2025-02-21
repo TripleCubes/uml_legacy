@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "cleverusername82",
-		"jammer_link": "https://cleverusername82.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Stairway to Heaven",
-				"title_link": "https://cleverusername82.itch.io/stairway-to-heaven",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868139",
-				"by_list": [
-					"cleverusername82"
-				],
-				"by_link_list": [
-					"https://cleverusername82.itch.io/"
-				],
-				"rank": 28,
-				"ratings": 15,
-				"score": 3.05,
-				"ilscore": 49,
-				"submission_time_diff": -663000
-			}
-		]
-	},
-	{
 		"jammer": "kezbob",
 		"jammer_link": "https://kezbob.itch.io/",
 		"game_list_sorted": [
@@ -1600,7 +1573,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 93,
+				"jam_vs": 92,
 				"title": "Dragazon",
 				"title_link": "https://henrikpira.itch.io/dragazon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512074",
@@ -1613,7 +1586,7 @@
 				"rank": 9,
 				"ratings": 22,
 				"score": 3.92,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -40501000
 			},
 			{
@@ -3067,8 +3040,8 @@
 		]
 	},
 	{
-		"jammer": "Nelken's",
-		"jammer_link": "https://nelkens.itch.io/",
+		"jammer": "TzapfronPresents",
+		"jammer_link": "https://tzapfronpresents.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -3077,13 +3050,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
 				"jam_vs": 91,
 				"title": "lost in the air ducts",
-				"title_link": "https://nelkens.itch.io/litad",
+				"title_link": "https://tzapfronpresents.itch.io/litad",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879953",
 				"by_list": [
-					"Nelken's"
+					"TzapfronPresents"
 				],
 				"by_link_list": [
-					"https://nelkens.itch.io/"
+					"https://tzapfronpresents.itch.io/"
 				],
 				"rank": 54,
 				"ratings": 6,
@@ -3841,6 +3814,35 @@
 				"score": 1.75,
 				"ilscore": 33,
 				"submission_time_diff": -108215000
+			}
+		]
+	},
+	{
+		"jammer": "Mack",
+		"jammer_link": "https://inabluemoon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 91,
+				"title": "Shop Till It Drops",
+				"title_link": "https://alfa-labs.itch.io/minijam71",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/878229",
+				"by_list": [
+					"Alfa Labs",
+					"Mack"
+				],
+				"by_link_list": [
+					"https://alfa-labs.itch.io/",
+					"https://inabluemoon.itch.io/"
+				],
+				"rank": 87,
+				"ratings": 4,
+				"score": 1.679,
+				"ilscore": 32,
+				"submission_time_diff": -2136000
 			}
 		]
 	}

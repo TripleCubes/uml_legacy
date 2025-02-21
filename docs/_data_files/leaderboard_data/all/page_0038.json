@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Tuke_31",
-		"jammer_link": "https://tuke-31.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 79,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-79-frogs",
-				"jam_vs": 182,
-				"title": "Frog Game Thing",
-				"title_link": "https://tuke-31.itch.io/frog-game-thing",
-				"submission_page_link": "https://itch.io/jam/mini-jam-79-frogs/rate/1025454",
-				"by_list": [
-					"Tuke_31"
-				],
-				"by_link_list": [
-					"https://tuke-31.itch.io/"
-				],
-				"rank": 184,
-				"ratings": 7,
-				"score": 1.614,
-				"ilscore": 41,
-				"submission_time_diff": -26719000
-			}
-		]
-	},
-	{
 		"jammer": "Jenislav",
 		"jammer_link": "https://jenislav.itch.io/",
 		"game_list_sorted": [
@@ -35,7 +8,7 @@
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
-				"jam_vs": 93,
+				"jam_vs": 92,
 				"title": "GOLDSICK",
 				"title_link": "https://jenislav.itch.io/goldsick",
 				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2513153",
@@ -550,7 +523,7 @@
 				"jam_id": 142,
 				"jam_name": "Fortune",
 				"jam_link": "https://itch.io/jam/mini-jam-142-fortune",
-				"jam_vs": 41,
+				"jam_vs": 40,
 				"title": "Just a single scratchcard",
 				"title_link": "https://rtficial.itch.io/just-a-single-scratchcard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-142-fortune/rate/2292228",
@@ -2075,8 +2048,8 @@
 		]
 	},
 	{
-		"jammer": "PotatoLifeYT",
-		"jammer_link": "https://potatolifeyt.itch.io/",
+		"jammer": "EdderT",
+		"jammer_link": "https://eddert.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2085,13 +2058,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-81-kaiju",
 				"jam_vs": 74,
 				"title": "Potato Kaiju Never Die!",
-				"title_link": "https://potatolifeyt.itch.io/potato-kaiju-never-die",
+				"title_link": "https://eddert.itch.io/potato-kaiju-never-die",
 				"submission_page_link": "https://itch.io/jam/mini-jam-81-kaiju/rate/1063012",
 				"by_list": [
-					"PotatoLifeYT"
+					"EdderT"
 				],
 				"by_link_list": [
-					"https://potatolifeyt.itch.io/"
+					"https://eddert.itch.io/"
 				],
 				"rank": 8,
 				"ratings": 22,
@@ -2106,13 +2079,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
 				"jam_vs": 138,
 				"title": "Hey, Cat! Don't Drop the Potato!",
-				"title_link": "https://potatolifeyt.itch.io/hey-cat-dont-drop-the-potato",
+				"title_link": "https://eddert.itch.io/hey-cat-dont-drop-the-potato",
 				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1043018",
 				"by_list": [
-					"PotatoLifeYT"
+					"EdderT"
 				],
 				"by_link_list": [
-					"https://potatolifeyt.itch.io/"
+					"https://eddert.itch.io/"
 				],
 				"rank": 50,
 				"ratings": 23,
@@ -3889,6 +3862,54 @@
 				"score": 1.739,
 				"ilscore": 39,
 				"submission_time_diff": -20890000
+			}
+		]
+	},
+	{
+		"jammer": "Artem Shustov",
+		"jammer_link": "https://artemshustov.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 138,
+				"title": "AstroCafe - Jam edition",
+				"title_link": "https://artemshustov.itch.io/astrocafe-jam",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3224203",
+				"by_list": [
+					"Artem Shustov"
+				],
+				"by_link_list": [
+					"https://artemshustov.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 18,
+				"score": 2.639,
+				"ilscore": 60,
+				"submission_time_diff": -46368000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 80,
+				"jam_name": "Cats",
+				"jam_link": "https://itch.io/jam/mini-jam-80-cats",
+				"jam_vs": 138,
+				"title": "Cats and mouses",
+				"title_link": "https://artemshustov.itch.io/cats-and-mouses",
+				"submission_page_link": "https://itch.io/jam/mini-jam-80-cats/rate/1044116",
+				"by_list": [
+					"Artem Shustov"
+				],
+				"by_link_list": [
+					"https://artemshustov.itch.io/"
+				],
+				"rank": 130,
+				"ratings": 5,
+				"score": 1.697,
+				"ilscore": 38,
+				"submission_time_diff": -42039000
 			}
 		]
 	}

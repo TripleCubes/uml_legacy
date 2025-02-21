@@ -1,67 +1,5 @@
 [
 	{
-		"jammer": "Cake111",
-		"jammer_link": "https://cake111.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Shotgun Smack",
-				"title_link": "https://fyrebend.itch.io/shotgun-smack",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749983",
-				"by_list": [
-					"Fyrebend",
-					"Cake111",
-					"Kacper Garbacz"
-				],
-				"by_link_list": [
-					"https://fyrebend.itch.io/",
-					"https://cake111.itch.io/",
-					"https://stridmon.itch.io/"
-				],
-				"rank": 150,
-				"ratings": 4,
-				"score": 1.734,
-				"ilscore": 44,
-				"submission_time_diff": -1572000
-			}
-		]
-	},
-	{
-		"jammer": "Kacper Garbacz",
-		"jammer_link": "https://stridmon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Shotgun Smack",
-				"title_link": "https://fyrebend.itch.io/shotgun-smack",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749983",
-				"by_list": [
-					"Fyrebend",
-					"Cake111",
-					"Kacper Garbacz"
-				],
-				"by_link_list": [
-					"https://fyrebend.itch.io/",
-					"https://cake111.itch.io/",
-					"https://stridmon.itch.io/"
-				],
-				"rank": 150,
-				"ratings": 4,
-				"score": 1.734,
-				"ilscore": 44,
-				"submission_time_diff": -1572000
-			}
-		]
-	},
-	{
 		"jammer": "Cranus",
 		"jammer_link": "https://cranus.itch.io/",
 		"game_list_sorted": [
@@ -3579,6 +3517,60 @@
 				"score": 2.833,
 				"ilscore": 65,
 				"submission_time_diff": -28297000
+			}
+		]
+	},
+	{
+		"jammer": "Taurusking",
+		"jammer_link": "https://taurusking.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Blood Disorder",
+				"title_link": "https://taurusking.itch.io/blood-disorder",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770698",
+				"by_list": [
+					"Taurusking"
+				],
+				"by_link_list": [
+					"https://taurusking.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 4,
+				"score": 2.807,
+				"ilscore": 64,
+				"submission_time_diff": -72000
+			}
+		]
+	},
+	{
+		"jammer": "CriticalErrorz",
+		"jammer_link": "https://criticalerrorz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Dracula's Lost Tribute",
+				"title_link": "https://criticalerrorz.itch.io/draculas-lost-tribute",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770251",
+				"by_list": [
+					"CriticalErrorz"
+				],
+				"by_link_list": [
+					"https://criticalerrorz.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 11,
+				"score": 2.795,
+				"ilscore": 64,
+				"submission_time_diff": -20216000
 			}
 		]
 	}
