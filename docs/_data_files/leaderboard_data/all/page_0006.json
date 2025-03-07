@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "the nameless dev",
-		"jammer_link": "https://thenamelessdev.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 75,
-				"title": "Xenotoxin",
-				"title_link": "https://thenamelessdev.itch.io/xenotoxin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/2001492",
-				"by_list": [
-					"the nameless dev"
-				],
-				"by_link_list": [
-					"https://thenamelessdev.itch.io/"
-				],
-				"rank": 58,
-				"ratings": 5,
-				"score": 2.332,
-				"ilscore": 41,
-				"submission_time_diff": 107703000
-			},
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"jam_vs": 138,
-				"title": "Life",
-				"title_link": "https://thenamelessdev.itch.io/life",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2195933",
-				"by_list": [
-					"the nameless dev"
-				],
-				"by_link_list": [
-					"https://thenamelessdev.itch.io/"
-				],
-				"rank": 95,
-				"ratings": 4,
-				"score": 2.386,
-				"ilscore": 54,
-				"submission_time_diff": -27264000
-			}
-		]
-	},
-	{
 		"jammer": "proektpro",
 		"jammer_link": "https://proektpro.itch.io/",
 		"game_list_sorted": [
@@ -579,7 +531,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Frog Hop",
 				"title_link": "https://largehotdogs13.itch.io/frog-hopper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530962",
@@ -820,7 +772,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "This Game is Full of Secrets &amp; Bees: A Printable SRD",
 				"title_link": "https://ashleecraft.itch.io/this-game-is-full-of-secrets-bees-a-printable-srd",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3305693",
@@ -838,10 +790,31 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 179,
+				"jam_name": "Energy",
+				"jam_link": "https://itch.io/jam/mini-jam-179-energy",
+				"jam_vs": 83,
+				"title": "Forging: An Interactive Poem",
+				"title_link": "https://ashleecraft.itch.io/forging-an-interactive-poem",
+				"submission_page_link": "https://itch.io/jam/mini-jam-179-energy/rate/3376331",
+				"by_list": [
+					"ashleecraft"
+				],
+				"by_link_list": [
+					"https://ashleecraft.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 8,
+				"score": 2.305,
+				"ilscore": 42,
+				"submission_time_diff": 306391000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 178,
 				"jam_name": "Monsters",
 				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
-				"jam_vs": 79,
+				"jam_vs": 78,
 				"title": "A Monster, a Toaster, &amp; the Power of Friendship - A Solo Journaling TTRPG by Ashlee Craft",
 				"title_link": "https://ashleecraft.itch.io/a-monster-a-toaster-the-power-of-friendship-a-solo-journaling-ttrpg-by-ashlee-cr",
 				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3330373",
@@ -1624,7 +1597,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Frog Lord",
 				"title_link": "https://galvingreen.itch.io/frog-lord",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532567",
@@ -2230,7 +2203,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Jump Champ",
 				"title_link": "https://manugamesdev.itch.io/jump-champ",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531479",
@@ -2243,7 +2216,7 @@
 				"rank": 4,
 				"ratings": 20,
 				"score": 4.3,
-				"ilscore": 129,
+				"ilscore": 128,
 				"submission_time_diff": -38854000
 			},
 			{
@@ -2335,7 +2308,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 208,
 				"title": "Tiny Pirates",
 				"title_link": "https://manugamesdev.itch.io/tiny-pirates",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1868403",
@@ -3927,6 +3900,54 @@
 				"score": 2.286,
 				"ilscore": 35,
 				"submission_time_diff": -81411000
+			}
+		]
+	},
+	{
+		"jammer": "D1GITΛL CVTS",
+		"jammer_link": "https://d1gital-cuts.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 36,
+				"jam_name": "Nature",
+				"jam_link": "https://itch.io/jam/mini-jam-36-nature",
+				"jam_vs": 37,
+				"title": "BreakFall",
+				"title_link": "https://d1gital-cuts.itch.io/breakfall",
+				"submission_page_link": "https://itch.io/jam/mini-jam-36-nature/rate/481055",
+				"by_list": [
+					"D1GITΛL CVTS"
+				],
+				"by_link_list": [
+					"https://d1gital-cuts.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 9,
+				"score": 4.278,
+				"ilscore": 53,
+				"submission_time_diff": 830000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 6,
+				"jam_name": "Boss Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-6th-edition",
+				"jam_vs": 20,
+				"title": "Ether Sail",
+				"title_link": "https://d1gital-cuts.itch.io/ether-sail",
+				"submission_page_link": "https://itch.io/jam/mini-jam-6th-edition/rate/279901",
+				"by_list": [
+					"D1GITΛL CVTS"
+				],
+				"by_link_list": [
+					"https://d1gital-cuts.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 8,
+				"score": 3.714,
+				"ilscore": 32,
+				"submission_time_diff": -27000
 			}
 		]
 	}

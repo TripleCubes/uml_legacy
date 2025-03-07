@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "DayHam",
-		"jammer_link": "https://day-ham.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Cactus Crasher",
-				"title_link": "https://day-ham.itch.io/cactuscrasher",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632202",
-				"by_list": [
-					"DayHam"
-				],
-				"by_link_list": [
-					"https://day-ham.itch.io/"
-				],
-				"rank": 20,
-				"ratings": 8,
-				"score": 3.253,
-				"ilscore": 50,
-				"submission_time_diff": -23281000
-			}
-		]
-	},
-	{
-		"jammer": "Jompaney",
-		"jammer_link": "https://jompaney.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 53,
-				"jam_name": "Oasis",
-				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
-				"jam_vs": 56,
-				"title": "Hydrated",
-				"title_link": "https://jompaney.itch.io/hydrated",
-				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633307",
-				"by_list": [
-					"Jompaney"
-				],
-				"by_link_list": [
-					"https://jompaney.itch.io/"
-				],
-				"rank": 22,
-				"ratings": 8,
-				"score": 3.229,
-				"ilscore": 49,
-				"submission_time_diff": -11760000
-			}
-		]
-	},
-	{
 		"jammer": "SubstandardShrimp",
 		"jammer_link": "https://substandardshrimp.itch.io/",
 		"game_list_sorted": [
@@ -1862,7 +1808,7 @@
 				"jam_id": 107,
 				"jam_name": "Music",
 				"jam_link": "https://itch.io/jam/mini-jam-107-music",
-				"jam_vs": 94,
+				"jam_vs": 93,
 				"title": "strummingbird",
 				"title_link": "https://enzogray.itch.io/strummingbird",
 				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1554987",
@@ -3865,6 +3811,60 @@
 				"score": 1.63,
 				"ilscore": 31,
 				"submission_time_diff": -3365000
+			}
+		]
+	},
+	{
+		"jammer": "EskimoStudios",
+		"jammer_link": "https://eskimostudios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "The Crooked Man: Memories",
+				"title_link": "https://eskimostudios.itch.io/thecrookedmanmemories",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647474",
+				"by_list": [
+					"EskimoStudios"
+				],
+				"by_link_list": [
+					"https://eskimostudios.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 3,
+				"score": 1.63,
+				"ilscore": 31,
+				"submission_time_diff": -248000
+			}
+		]
+	},
+	{
+		"jammer": "26peace",
+		"jammer_link": "https://26peace.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 54,
+				"jam_name": "Memories",
+				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
+				"jam_vs": 91,
+				"title": "lost times",
+				"title_link": "https://26peace.itch.io/lost-times",
+				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/647453",
+				"by_list": [
+					"26peace"
+				],
+				"by_link_list": [
+					"https://26peace.itch.io/"
+				],
+				"rank": 86,
+				"ratings": 3,
+				"score": 1.449,
+				"ilscore": 27,
+				"submission_time_diff": -3840000
 			}
 		]
 	}

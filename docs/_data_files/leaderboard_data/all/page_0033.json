@@ -1,103 +1,5 @@
 [
 	{
-		"jammer": "HappyGames",
-		"jammer_link": "https://happygames-studio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "Junky Jump",
-				"title_link": "https://happygames-studio.itch.io/junkyjump",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/948648",
-				"by_list": [
-					"HappyGames"
-				],
-				"by_link_list": [
-					"https://happygames-studio.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 31,
-				"score": 3.887,
-				"ilscore": 78,
-				"submission_time_diff": -21587000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "No Name Game",
-				"title_link": "https://happygames-studio.itch.io/no-name-game",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1365660",
-				"by_list": [
-					"HappyGames"
-				],
-				"by_link_list": [
-					"https://happygames-studio.itch.io/"
-				],
-				"rank": 24,
-				"ratings": 10,
-				"score": 3.48,
-				"ilscore": 74,
-				"submission_time_diff": -26524000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 69,
-				"title": "Box Jumper",
-				"title_link": "https://happygames-studio.itch.io/box-jumper",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1220370",
-				"by_list": [
-					"HappyGames"
-				],
-				"by_link_list": [
-					"https://happygames-studio.itch.io/"
-				],
-				"rank": 25,
-				"ratings": 17,
-				"score": 3.279,
-				"ilscore": 55,
-				"submission_time_diff": -32007000
-			}
-		]
-	},
-	{
-		"jammer": "Light",
-		"jammer_link": "https://t3amjoy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 75,
-				"jam_name": "Wisdom",
-				"jam_link": "https://itch.io/jam/mini-jam-75-wisdom",
-				"jam_vs": 100,
-				"title": "Sophyrons",
-				"title_link": "https://t3amjoy.itch.io/sophyrons",
-				"submission_page_link": "https://itch.io/jam/mini-jam-75-wisdom/rate/948625",
-				"by_list": [
-					"Light",
-					"musicbycamo"
-				],
-				"by_link_list": [
-					"https://t3amjoy.itch.io/",
-					"https://musicbycamo.itch.io/"
-				],
-				"rank": 8,
-				"ratings": 14,
-				"score": 3.804,
-				"ilscore": 76,
-				"submission_time_diff": -20737000
-			}
-		]
-	},
-	{
 		"jammer": "musicbycamo",
 		"jammer_link": "https://musicbycamo.itch.io/",
 		"game_list_sorted": [
@@ -405,7 +307,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Spirit Garden",
 				"title_link": "https://huangnandes.itch.io/spirit-garden",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1531975",
@@ -1785,7 +1687,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
+				"jam_vs": 102,
 				"title": "Waltz Waterworks",
 				"title_link": "https://mangoworks.itch.io/waltz-waterworks",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491062",
@@ -1852,7 +1754,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 208,
 				"title": "BUGGED",
 				"title_link": "https://mangoworks.itch.io/bugged",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869105",
@@ -3976,6 +3878,81 @@
 				"score": 3.786,
 				"ilscore": 82,
 				"submission_time_diff": -11476000
+			}
+		]
+	},
+	{
+		"jammer": "Ross Smith",
+		"jammer_link": "https://amateurbirdwatcher.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 123,
+				"title": "RAD-sketball",
+				"title_link": "https://amateurbirdwatcher.itch.io/rad-sketball",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966341",
+				"by_list": [
+					"Ross Smith"
+				],
+				"by_link_list": [
+					"https://amateurbirdwatcher.itch.io/"
+				],
+				"rank": 21,
+				"ratings": 8,
+				"score": 3.781,
+				"ilscore": 82,
+				"submission_time_diff": -22896000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 384,
+				"title": "Patience!",
+				"title_link": "https://amateurbirdwatcher.itch.io/patience",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634717",
+				"by_list": [
+					"Ross Smith"
+				],
+				"by_link_list": [
+					"https://amateurbirdwatcher.itch.io/"
+				],
+				"rank": 51,
+				"ratings": 13,
+				"score": 3.769,
+				"ilscore": 125,
+				"submission_time_diff": 61813000
+			}
+		]
+	},
+	{
+		"jammer": "Sawd",
+		"jammer_link": "https://sawd-1002.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 76,
+				"jam_name": "Radiation",
+				"jam_link": "https://itch.io/jam/mini-jam-76-radiation",
+				"jam_vs": 123,
+				"title": "Horror Invade us",
+				"title_link": "https://sawd-1002.itch.io/horror-invade-us",
+				"submission_page_link": "https://itch.io/jam/mini-jam-76-radiation/rate/966554",
+				"by_list": [
+					"Sawd"
+				],
+				"by_link_list": [
+					"https://sawd-1002.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 7,
+				"score": 3.75,
+				"ilscore": 82,
+				"submission_time_diff": -18464000
 			}
 		]
 	}

@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Goori",
-		"jammer_link": "https://goori.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "LilAdventure",
-				"title_link": "https://goori.itch.io/liladventure",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592835",
-				"by_list": [
-					"Goori"
-				],
-				"by_link_list": [
-					"https://goori.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 8,
-				"score": 4,
-				"ilscore": 89,
-				"submission_time_diff": -672000
-			}
-		]
-	},
-	{
-		"jammer": "lila-k",
-		"jammer_link": "https://lila-k.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Gel Seeker",
-				"title_link": "https://lila-k.itch.io/gel-seeker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/591566",
-				"by_list": [
-					"lila-k"
-				],
-				"by_link_list": [
-					"https://lila-k.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 12,
-				"score": 3.867,
-				"ilscore": 86,
-				"submission_time_diff": -2224000
-			}
-		]
-	},
-	{
 		"jammer": "Skopjie",
 		"jammer_link": "https://skopjie.itch.io/",
 		"game_list_sorted": [
@@ -355,7 +301,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 96,
+				"jam_vs": 95,
 				"title": "Orb: Jam Version",
 				"title_link": "https://ilprinni.itch.io/orb-jam-version",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1792664",
@@ -368,7 +314,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.167,
-				"ilscore": 82,
+				"ilscore": 81,
 				"submission_time_diff": 82488000
 			},
 			{
@@ -481,7 +427,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Froglins",
 				"title_link": "https://ilprinni.itch.io/froglins",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1529437",
@@ -498,7 +444,7 @@
 				"rank": 5,
 				"ratings": 42,
 				"score": 4.196,
-				"ilscore": 126,
+				"ilscore": 125,
 				"submission_time_diff": -19988000
 			},
 			{
@@ -552,7 +498,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Midnight Duel",
 				"title_link": "https://ilprinni.itch.io/midnight-duel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100326",
@@ -824,7 +770,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "There is fish in these Halls",
 				"title_link": "https://ilprinni.itch.io/there-is-fish-in-these-halls",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2565918",
@@ -3849,6 +3795,60 @@
 				"score": 1.131,
 				"ilscore": 25,
 				"submission_time_diff": -19638000
+			}
+		]
+	},
+	{
+		"jammer": "Tom Wright",
+		"jammer_link": "https://tomnwright.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Urban Island",
+				"title_link": "https://tomnwright.itch.io/urban-island",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592824",
+				"by_list": [
+					"Tom Wright"
+				],
+				"by_link_list": [
+					"https://tomnwright.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 1,
+				"score": 0.943,
+				"ilscore": 21,
+				"submission_time_diff": -2167000
+			}
+		]
+	},
+	{
+		"jammer": "Lividtoaster",
+		"jammer_link": "https://lividtoaster.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 50,
+				"jam_name": "Islands",
+				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
+				"jam_vs": 128,
+				"title": "Ships Ahoy",
+				"title_link": "https://lividtoaster.itch.io/ships-ahoy",
+				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592735",
+				"by_list": [
+					"Lividtoaster"
+				],
+				"by_link_list": [
+					"https://lividtoaster.itch.io/"
+				],
+				"rank": 135,
+				"ratings": 2,
+				"score": 0.867,
+				"ilscore": 19,
+				"submission_time_diff": -9687000
 			}
 		]
 	}

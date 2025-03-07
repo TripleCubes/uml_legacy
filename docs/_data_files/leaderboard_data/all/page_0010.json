@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "cnatalo",
-		"jammer_link": "https://cnatalo.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 24,
-				"jam_name": "Space",
-				"jam_link": "https://itch.io/jam/mini-jam-24-space",
-				"jam_vs": 56,
-				"title": "Earth Attack",
-				"title_link": "https://cnatalo.itch.io/earth-attack",
-				"submission_page_link": "https://itch.io/jam/mini-jam-24-space/rate/395822",
-				"by_list": [
-					"cnatalo",
-					"ObvTago",
-					"Thayson Coutinho"
-				],
-				"by_link_list": [
-					"https://cnatalo.itch.io/",
-					"https://obvtago.itch.io/",
-					"https://thay2son.itch.io/"
-				],
-				"rank": 9,
-				"ratings": 6,
-				"score": 3.69,
-				"ilscore": 56,
-				"submission_time_diff": -6398000
-			}
-		]
-	},
-	{
 		"jammer": "ObvTago",
 		"jammer_link": "https://obvtago.itch.io/",
 		"game_list_sorted": [
@@ -376,7 +345,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "Franken-fish",
 				"title_link": "https://solroo.itch.io/frankenfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560391",
@@ -994,7 +963,7 @@
 				"jam_id": 47,
 				"jam_name": "Internet",
 				"jam_link": "https://itch.io/jam/mini-jam-47-internet",
-				"jam_vs": 53,
+				"jam_vs": 52,
 				"title": "Cyber Surfer",
 				"title_link": "https://gelokaiser.itch.io/cyber-surfer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-47-internet/rate/565846",
@@ -1007,7 +976,7 @@
 				"rank": 10,
 				"ratings": 10,
 				"score": 3.6,
-				"ilscore": 54,
+				"ilscore": 53,
 				"submission_time_diff": -32287000
 			},
 			{
@@ -1261,7 +1230,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Frog Out of Water",
 				"title_link": "https://cy-s.itch.io/frog-out-of-water",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532679",
@@ -2345,7 +2314,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 65,
+				"jam_vs": 64,
 				"title": "Paper Fold",
 				"title_link": "https://fmlad.itch.io/paper-fold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297311",
@@ -2358,7 +2327,7 @@
 				"rank": 11,
 				"ratings": 21,
 				"score": 3.643,
-				"ilscore": 60,
+				"ilscore": 59,
 				"submission_time_diff": -9465000
 			},
 			{
@@ -2494,7 +2463,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 58,
+				"jam_vs": 57,
 				"title": "Eldy",
 				"title_link": "https://fmlad.itch.io/eldy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100844",
@@ -2507,7 +2476,7 @@
 				"rank": 31,
 				"ratings": 7,
 				"score": 2.75,
-				"ilscore": 43,
+				"ilscore": 42,
 				"submission_time_diff": -312000
 			}
 		]
@@ -4737,6 +4706,33 @@
 				"score": 1.667,
 				"ilscore": 16,
 				"submission_time_diff": -41757000
+			}
+		]
+	},
+	{
+		"jammer": "Final Render Animation Studio",
+		"jammer_link": "https://cleowillo.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 27,
+				"jam_name": "Celebration",
+				"jam_link": "https://itch.io/jam/mini-jam-27-celebration",
+				"jam_vs": 24,
+				"title": "The Celebration",
+				"title_link": "https://cleowillo.itch.io/the-celebration",
+				"submission_page_link": "https://itch.io/jam/mini-jam-27-celebration/rate/418455",
+				"by_list": [
+					"Final Render Animation Studio"
+				],
+				"by_link_list": [
+					"https://cleowillo.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 2,
+				"score": 1.667,
+				"ilscore": 16,
+				"submission_time_diff": -289000
 			}
 		]
 	}

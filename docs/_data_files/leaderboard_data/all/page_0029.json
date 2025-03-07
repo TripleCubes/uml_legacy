@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "kezbob",
-		"jammer_link": "https://kezbob.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Cloudy Bois",
-				"title_link": "https://kezbob.itch.io/cloudy-bois",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/867728",
-				"by_list": [
-					"kezbob"
-				],
-				"by_link_list": [
-					"https://kezbob.itch.io/"
-				],
-				"rank": 29,
-				"ratings": 17,
-				"score": 3.029,
-				"ilscore": 49,
-				"submission_time_diff": -36332000
-			}
-		]
-	},
-	{
-		"jammer": "vurtual",
-		"jammer_link": "https://vurtual.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 70,
-				"jam_name": "Heaven",
-				"jam_link": "https://itch.io/jam/mini-jam-70-heaven",
-				"jam_vs": 63,
-				"title": "Cloud Control",
-				"title_link": "https://vurtual.itch.io/cloud-control",
-				"submission_page_link": "https://itch.io/jam/mini-jam-70-heaven/rate/868083",
-				"by_list": [
-					"vurtual"
-				],
-				"by_link_list": [
-					"https://vurtual.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 18,
-				"score": 3.028,
-				"ilscore": 49,
-				"submission_time_diff": -6274000
-			}
-		]
-	},
-	{
 		"jammer": "C0deWolf",
 		"jammer_link": "https://c0dewolf.itch.io/",
 		"game_list_sorted": [
@@ -836,7 +782,7 @@
 				"jam_id": 106,
 				"jam_name": "Frogs",
 				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 282,
+				"jam_vs": 280,
 				"title": "Frog Forest",
 				"title_link": "https://kouvei.itch.io/frog-forest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532424",
@@ -849,7 +795,7 @@
 				"rank": 81,
 				"ratings": 6,
 				"score": 3.395,
-				"ilscore": 102,
+				"ilscore": 101,
 				"submission_time_diff": -11741000
 			}
 		]
@@ -3843,6 +3789,81 @@
 				"score": 1.679,
 				"ilscore": 32,
 				"submission_time_diff": -2136000
+			}
+		]
+	},
+	{
+		"jammer": "Chris Antem",
+		"jammer_link": "https://chrisantem.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 91,
+				"title": "Nova Race Puzzle",
+				"title_link": "https://chrisantem.itch.io/nova-race-puzzle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880253",
+				"by_list": [
+					"Chris Antem"
+				],
+				"by_link_list": [
+					"https://chrisantem.itch.io/"
+				],
+				"rank": 89,
+				"ratings": 1,
+				"score": 1.591,
+				"ilscore": 30,
+				"submission_time_diff": -23972000
+			}
+		]
+	},
+	{
+		"jammer": "M.P.Oleksenko",
+		"jammer_link": "https://mpoleksenko.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 72,
+				"jam_name": "Adventure",
+				"jam_link": "https://itch.io/jam/mini-jam-72-adventure",
+				"jam_vs": 73,
+				"title": "Essence of Death",
+				"title_link": "https://mpoleksenko.itch.io/essenceofdeat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-72-adventure/rate/893413",
+				"by_list": [
+					"M.P.Oleksenko"
+				],
+				"by_link_list": [
+					"https://mpoleksenko.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 10,
+				"score": 3.175,
+				"ilscore": 55,
+				"submission_time_diff": -43389000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 71,
+				"jam_name": "Puzzles",
+				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
+				"jam_vs": 91,
+				"title": "GravityPuzzle",
+				"title_link": "https://mpoleksenko.itch.io/gravitypuzzle",
+				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/880055",
+				"by_list": [
+					"M.P.Oleksenko"
+				],
+				"by_link_list": [
+					"https://mpoleksenko.itch.io/"
+				],
+				"rank": 90,
+				"ratings": 2,
+				"score": 1.563,
+				"ilscore": 30,
+				"submission_time_diff": -36745000
 			}
 		]
 	}

@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Tom Wright",
-		"jammer_link": "https://tomnwright.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Urban Island",
-				"title_link": "https://tomnwright.itch.io/urban-island",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592824",
-				"by_list": [
-					"Tom Wright"
-				],
-				"by_link_list": [
-					"https://tomnwright.itch.io/"
-				],
-				"rank": 134,
-				"ratings": 1,
-				"score": 0.943,
-				"ilscore": 21,
-				"submission_time_diff": -2167000
-			}
-		]
-	},
-	{
-		"jammer": "Lividtoaster",
-		"jammer_link": "https://lividtoaster.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 50,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-50-islands",
-				"jam_vs": 128,
-				"title": "Ships Ahoy",
-				"title_link": "https://lividtoaster.itch.io/ships-ahoy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-50-islands/rate/592735",
-				"by_list": [
-					"Lividtoaster"
-				],
-				"by_link_list": [
-					"https://lividtoaster.itch.io/"
-				],
-				"rank": 135,
-				"ratings": 2,
-				"score": 0.867,
-				"ilscore": 19,
-				"submission_time_diff": -9687000
-			}
-		]
-	},
-	{
 		"jammer": "DankusMemusXXX",
 		"jammer_link": "https://dankusmemusxxx.itch.io/",
 		"game_list_sorted": [
@@ -3825,7 +3771,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "soccer",
 				"title_link": "https://rodrigo151515151515151.itch.io/soccer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1155945",
@@ -3838,7 +3784,7 @@
 				"rank": 110,
 				"ratings": 3,
 				"score": 1.225,
-				"ilscore": 25,
+				"ilscore": 24,
 				"submission_time_diff": 238294000
 			},
 			{
@@ -3909,7 +3855,7 @@
 				"jam_id": 123,
 				"jam_name": "Web",
 				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 209,
+				"jam_vs": 208,
 				"title": "strings",
 				"title_link": "https://rodrigo151515151515151.itch.io/strings",
 				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1869550",
@@ -4255,7 +4201,7 @@
 				"jam_id": 104,
 				"jam_name": "Cascade",
 				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 103,
+				"jam_vs": 102,
 				"title": "Cascave",
 				"title_link": "https://mewore.itch.io/cascave",
 				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1489745",
@@ -4621,6 +4567,60 @@
 				"score": 3.26,
 				"ilscore": 50,
 				"submission_time_diff": -806000
+			}
+		]
+	},
+	{
+		"jammer": "DayHam",
+		"jammer_link": "https://day-ham.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Cactus Crasher",
+				"title_link": "https://day-ham.itch.io/cactuscrasher",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/632202",
+				"by_list": [
+					"DayHam"
+				],
+				"by_link_list": [
+					"https://day-ham.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 8,
+				"score": 3.253,
+				"ilscore": 50,
+				"submission_time_diff": -23281000
+			}
+		]
+	},
+	{
+		"jammer": "Jompaney",
+		"jammer_link": "https://jompaney.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 53,
+				"jam_name": "Oasis",
+				"jam_link": "https://itch.io/jam/mini-jam-53-oasis",
+				"jam_vs": 56,
+				"title": "Hydrated",
+				"title_link": "https://jompaney.itch.io/hydrated",
+				"submission_page_link": "https://itch.io/jam/mini-jam-53-oasis/rate/633307",
+				"by_list": [
+					"Jompaney"
+				],
+				"by_link_list": [
+					"https://jompaney.itch.io/"
+				],
+				"rank": 22,
+				"ratings": 8,
+				"score": 3.229,
+				"ilscore": 49,
+				"submission_time_diff": -11760000
 			}
 		]
 	}

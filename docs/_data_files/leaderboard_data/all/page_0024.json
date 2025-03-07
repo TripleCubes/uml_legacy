@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Hydrodinamic Studios",
-		"jammer_link": "https://hydrodinamic-studios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "Kalei Witch",
-				"title_link": "https://hydrodinamic-studios.itch.io/kalei-witch",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/752264",
-				"by_list": [
-					"Hydrodinamic Studios"
-				],
-				"by_link_list": [
-					"https://hydrodinamic-studios.itch.io/"
-				],
-				"rank": 132,
-				"ratings": 2,
-				"score": 1.804,
-				"ilscore": 42,
-				"submission_time_diff": 82522000
-			}
-		]
-	},
-	{
-		"jammer": "omegasigill",
-		"jammer_link": "https://omegasigill.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 62,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-62",
-				"jam_vs": 146,
-				"title": "Sneaky Crock-THE HEIST-",
-				"title_link": "https://omegasigill.itch.io/sneakycrocktheheist",
-				"submission_page_link": "https://itch.io/jam/mini-jam-62/rate/751448",
-				"by_list": [
-					"omegasigill"
-				],
-				"by_link_list": [
-					"https://omegasigill.itch.io/"
-				],
-				"rank": 134,
-				"ratings": 3,
-				"score": 1.746,
-				"ilscore": 41,
-				"submission_time_diff": -34746000
-			}
-		]
-	},
-	{
 		"jammer": "Aroyaki",
 		"jammer_link": "https://aroyaki43.itch.io/",
 		"game_list_sorted": [
@@ -623,7 +569,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Shark Racing 2D",
 				"title_link": "https://naronb66.itch.io/shark-racing2",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153352",
@@ -3521,7 +3467,7 @@
 				"jam_id": 86,
 				"jam_name": "Sports",
 				"jam_link": "https://itch.io/jam/mini-jam-86-sports",
-				"jam_vs": 104,
+				"jam_vs": 103,
 				"title": "Rage GOLF!",
 				"title_link": "https://maxall41.itch.io/rage-golf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-86-sports/rate/1153205",
@@ -3763,6 +3709,60 @@
 				"score": 2.806,
 				"ilscore": 59,
 				"submission_time_diff": -22088000
+			}
+		]
+	},
+	{
+		"jammer": "MUIFWEGO",
+		"jammer_link": "https://muifwego.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Out Of Orbit (Game Jam Prototype)",
+				"title_link": "https://muifwego.itch.io/out-of-orbit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/763635",
+				"by_list": [
+					"MUIFWEGO"
+				],
+				"by_link_list": [
+					"https://muifwego.itch.io/"
+				],
+				"rank": 68,
+				"ratings": 7,
+				"score": 2.806,
+				"ilscore": 59,
+				"submission_time_diff": -4565000
+			}
+		]
+	},
+	{
+		"jammer": "Iksonik",
+		"jammer_link": "https://iksonik.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 63,
+				"jam_name": "Future",
+				"jam_link": "https://itch.io/jam/mini-jam-63-future",
+				"jam_vs": 113,
+				"title": "Gravitium",
+				"title_link": "https://iksonik.itch.io/gravitium",
+				"submission_page_link": "https://itch.io/jam/mini-jam-63-future/rate/762183",
+				"by_list": [
+					"Iksonik"
+				],
+				"by_link_list": [
+					"https://iksonik.itch.io/"
+				],
+				"rank": 70,
+				"ratings": 16,
+				"score": 2.797,
+				"ilscore": 59,
+				"submission_time_diff": -35932000
 			}
 		]
 	}
