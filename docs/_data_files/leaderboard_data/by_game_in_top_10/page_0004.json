@@ -1366,7 +1366,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 64,
+				"jam_vs": 63,
 				"title": "PaperLand",
 				"title_link": "https://trentii.itch.io/paperland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3300214",
@@ -1488,7 +1488,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 169,
+				"jam_vs": 170,
 				"title": "Midas Touch",
 				"title_link": "https://julienlussiez.itch.io/midastouch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1135910",
@@ -1979,6 +1979,33 @@
 		]
 	},
 	{
+		"jammer": "may0",
+		"jammer_link": "https://may0.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 180,
+				"jam_name": "Refresh",
+				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
+				"jam_vs": 86,
+				"title": "Orange Juice",
+				"title_link": "https://may0.itch.io/orange-juice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399914",
+				"by_list": [
+					"may0"
+				],
+				"by_link_list": [
+					"https://may0.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 38,
+				"score": 3.947,
+				"ilscore": 74,
+				"submission_time_diff": -24029000
+			}
+		]
+	},
+	{
 		"jammer": "Flyber",
 		"jammer_link": "https://flyber.itch.io/",
 		"game_list_sorted": [
@@ -2427,7 +2454,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "EARF",
 				"title_link": "https://guurff.itch.io/earf",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2942872",
@@ -2879,35 +2906,6 @@
 				"score": 4.304,
 				"ilscore": 116,
 				"submission_time_diff": -4574000
-			}
-		]
-	},
-	{
-		"jammer": "Domeen0",
-		"jammer_link": "https://domeen0.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
-				"title": "Carpin' Around",
-				"title_link": "https://filipex2000.itch.io/carpin-around",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563580",
-				"by_list": [
-					"fil",
-					"Domeen0"
-				],
-				"by_link_list": [
-					"https://filipex2000.itch.io/",
-					"https://domeen0.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 26,
-				"score": 4.298,
-				"ilscore": 113,
-				"submission_time_diff": -21815000
 			}
 		]
 	}

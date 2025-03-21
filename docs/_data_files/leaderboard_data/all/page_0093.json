@@ -1,5 +1,63 @@
 [
 	{
+		"jammer": "Blast-MC",
+		"jammer_link": "https://blast-mc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Dungeon of Wits",
+				"title_link": "https://luicel.itch.io/dungeon-of-wits",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246480",
+				"by_list": [
+					"Luicel",
+					"Blast-MC",
+					"AxeHam"
+				],
+				"by_link_list": [
+					"https://luicel.itch.io/",
+					"https://blast-mc.itch.io/",
+					"https://axeham.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 6,
+				"score": 3.75,
+				"ilscore": 48,
+				"submission_time_diff": -2941000
+			}
+		]
+	},
+	{
+		"jammer": "PorChor",
+		"jammer_link": "https://porchor.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Wrong Dungeon!!!",
+				"title_link": "https://porchor.itch.io/wrong-dungeon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2247885",
+				"by_list": [
+					"PorChor"
+				],
+				"by_link_list": [
+					"https://porchor.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 17,
+				"score": 3.574,
+				"ilscore": 46,
+				"submission_time_diff": -362000
+			}
+		]
+	},
+	{
 		"jammer": "Hoxfire",
 		"jammer_link": "https://hoxfire.itch.io/",
 		"game_list_sorted": [
@@ -1090,7 +1148,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 154,
+				"jam_vs": 153,
 				"title": "Ancient Research",
 				"title_link": "https://tricodeyt.itch.io/ancient-research",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460055",
@@ -1332,7 +1390,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Lake Vanish",
 				"title_link": "https://jnwjchannel.itch.io/lake-vanish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560363",
@@ -2770,7 +2828,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "VANQUISH THEM",
 				"title_link": "https://darksunarts.itch.io/vanquish-them",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482905",
@@ -2785,7 +2843,7 @@
 				"rank": 35,
 				"ratings": 8,
 				"score": 3.344,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": 43125000
 			},
 			{
@@ -3401,7 +3459,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Paper Airplane",
 				"title_link": "https://kingelaim.itch.io/paper-airplane",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617043",
@@ -3478,7 +3536,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Mystic Leap",
 				"title_link": "https://lightningpickle.itch.io/mystic-leap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
@@ -3553,7 +3611,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Mystic Leap",
 				"title_link": "https://lightningpickle.itch.io/mystic-leap",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482980",
@@ -3701,62 +3759,6 @@
 				"score": 4.167,
 				"ilscore": 67,
 				"submission_time_diff": 132499000
-			}
-		]
-	},
-	{
-		"jammer": "TheRealMightybjorn",
-		"jammer_link": "https://therealmightybjorn.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Inkblot",
-				"title_link": "https://dungeon-the-goat.itch.io/inkblot",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2317874",
-				"by_list": [
-					"DTG 🍋",
-					"TheRealMightybjorn"
-				],
-				"by_link_list": [
-					"https://dungeon-the-goat.itch.io/",
-					"https://therealmightybjorn.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 6,
-				"score": 4.167,
-				"ilscore": 67,
-				"submission_time_diff": 132499000
-			}
-		]
-	},
-	{
-		"jammer": "golfmaestro",
-		"jammer_link": "https://golfmaestro.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 143,
-				"jam_name": "Ink",
-				"jam_link": "https://itch.io/jam/mini-jam-143-ink",
-				"jam_vs": 63,
-				"title": "Colorize",
-				"title_link": "https://golfmaestro.itch.io/colorize",
-				"submission_page_link": "https://itch.io/jam/mini-jam-143-ink/rate/2315264",
-				"by_list": [
-					"golfmaestro"
-				],
-				"by_link_list": [
-					"https://golfmaestro.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 10,
-				"score": 4.1,
-				"ilscore": 66,
-				"submission_time_diff": -30411000
 			}
 		]
 	}

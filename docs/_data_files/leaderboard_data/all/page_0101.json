@@ -1,156 +1,5 @@
 [
 	{
-		"jammer": "angelalb",
-		"jammer_link": "https://angelalb.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 163,
-				"jam_name": "Dessert",
-				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
-				"jam_vs": 51,
-				"title": "Eat Your Cake",
-				"title_link": "https://erebrus.itch.io/eat-your-cake",
-				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2828029",
-				"by_list": [
-					"erebrus",
-					"Thom13made",
-					"jammydoodles",
-					"Axelf",
-					"angelalb"
-				],
-				"by_link_list": [
-					"https://erebrus.itch.io/",
-					"https://thom13made.itch.io/",
-					"https://jammydoodles.itch.io/",
-					"https://axelftv.itch.io/",
-					"https://angelalb.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 11,
-				"score": 4.091,
-				"ilscore": 60,
-				"submission_time_diff": -26146000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
-				"title": "Cosmic Piscary",
-				"title_link": "https://erebrus.itch.io/cosmic-piscary",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
-				"by_list": [
-					"erebrus",
-					"angelalb",
-					"Thom13made",
-					"skwid"
-				],
-				"by_link_list": [
-					"https://erebrus.itch.io/",
-					"https://angelalb.itch.io/",
-					"https://thom13made.itch.io/",
-					"https://skwiggle-skwid.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 23,
-				"score": 4.054,
-				"ilscore": 107,
-				"submission_time_diff": -21006000
-			}
-		]
-	},
-	{
-		"jammer": "skwid",
-		"jammer_link": "https://skwiggle-skwid.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
-				"title": "Cosmic Piscary",
-				"title_link": "https://erebrus.itch.io/cosmic-piscary",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557376",
-				"by_list": [
-					"erebrus",
-					"angelalb",
-					"Thom13made",
-					"skwid"
-				],
-				"by_link_list": [
-					"https://erebrus.itch.io/",
-					"https://angelalb.itch.io/",
-					"https://thom13made.itch.io/",
-					"https://skwiggle-skwid.itch.io/"
-				],
-				"rank": 5,
-				"ratings": 23,
-				"score": 4.054,
-				"ilscore": 107,
-				"submission_time_diff": -21006000
-			}
-		]
-	},
-	{
-		"jammer": "Kabura",
-		"jammer_link": "https://kabura.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
-				"title": "GLOCKFISH",
-				"title_link": "https://kabura.itch.io/glockfish",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563949",
-				"by_list": [
-					"Kabura"
-				],
-				"by_link_list": [
-					"https://kabura.itch.io/"
-				],
-				"rank": 6,
-				"ratings": 57,
-				"score": 4.026,
-				"ilscore": 106,
-				"submission_time_diff": -10100000
-			}
-		]
-	},
-	{
-		"jammer": "Vurj",
-		"jammer_link": "https://vurj.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
-				"title": "Fishin' For Compliments",
-				"title_link": "https://vurj.itch.io/fishin-for-compliments",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563657",
-				"by_list": [
-					"Vurj",
-					"berrylly"
-				],
-				"by_link_list": [
-					"https://vurj.itch.io/",
-					"https://berrylly.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 29,
-				"score": 4.026,
-				"ilscore": 106,
-				"submission_time_diff": -16724000
-			}
-		]
-	},
-	{
 		"jammer": "berrylly",
 		"jammer_link": "https://berrylly.itch.io/",
 		"game_list_sorted": [
@@ -159,7 +8,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishin' For Compliments",
 				"title_link": "https://vurj.itch.io/fishin-for-compliments",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563657",
@@ -188,7 +37,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Man I Love Fishing",
 				"title_link": "https://newclarityex.itch.io/man-i-love-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563669",
@@ -203,7 +52,7 @@
 				"rank": 9,
 				"ratings": 26,
 				"score": 3.923,
-				"ilscore": 104,
+				"ilscore": 103,
 				"submission_time_diff": -7709000
 			},
 			{
@@ -211,7 +60,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "The Ship of Theseus",
 				"title_link": "https://newclarityex.itch.io/the-ship-of-theseus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2613955",
@@ -267,7 +116,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Man I Love Fishing",
 				"title_link": "https://newclarityex.itch.io/man-i-love-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563669",
@@ -282,7 +131,7 @@
 				"rank": 9,
 				"ratings": 26,
 				"score": 3.923,
-				"ilscore": 104,
+				"ilscore": 103,
 				"submission_time_diff": -7709000
 			},
 			{
@@ -290,7 +139,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "The Ship of Theseus",
 				"title_link": "https://newclarityex.itch.io/the-ship-of-theseus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2613955",
@@ -346,7 +195,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Deep Space Fishing",
 				"title_link": "https://mindlessturtle.itch.io/deep-space-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564000",
@@ -415,7 +264,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "fishbowlball",
 				"title_link": "https://quzx-qreations.itch.io/fishbowlball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562483",
@@ -448,7 +297,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "fishbowlball",
 				"title_link": "https://quzx-qreations.itch.io/fishbowlball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562483",
@@ -481,7 +330,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "fishbowlball",
 				"title_link": "https://quzx-qreations.itch.io/fishbowlball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562483",
@@ -514,7 +363,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "fishbowlball",
 				"title_link": "https://quzx-qreations.itch.io/fishbowlball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562483",
@@ -547,7 +396,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "FLYFISHING",
 				"title_link": "https://nibbbble.itch.io/flyfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564026",
@@ -597,7 +446,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Zorblug the Fisherman-man",
 				"title_link": "https://tenes.itch.io/zorblug-the-fisherman-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562352",
@@ -612,7 +461,7 @@
 				"rank": 15,
 				"ratings": 21,
 				"score": 3.774,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -23619000
 			}
 		]
@@ -649,7 +498,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Zorblug the Fisherman-man",
 				"title_link": "https://tenes.itch.io/zorblug-the-fisherman-man",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562352",
@@ -664,7 +513,7 @@
 				"rank": 15,
 				"ratings": 21,
 				"score": 3.774,
-				"ilscore": 100,
+				"ilscore": 99,
 				"submission_time_diff": -23619000
 			}
 		]
@@ -678,7 +527,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Eden's Boat",
 				"title_link": "https://rver.itch.io/edens-boat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564193",
@@ -711,7 +560,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Eden's Boat",
 				"title_link": "https://rver.itch.io/edens-boat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564193",
@@ -744,7 +593,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Eden's Boat",
 				"title_link": "https://rver.itch.io/edens-boat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564193",
@@ -794,7 +643,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "The Green Invasion",
 				"title_link": "https://ferrc.itch.io/the-green-invasion",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2936238",
@@ -825,7 +674,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Eden's Boat",
 				"title_link": "https://rver.itch.io/edens-boat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564193",
@@ -881,7 +730,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "OFFSHORE",
 				"title_link": "https://pokerdf.itch.io/offshore",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559909",
@@ -933,7 +782,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "OFFSHORE",
 				"title_link": "https://pokerdf.itch.io/offshore",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559909",
@@ -962,7 +811,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "hook space",
 				"title_link": "https://brito-noob.itch.io/hook-space",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562881",
@@ -989,7 +838,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "FISHNADO",
 				"title_link": "https://kiirusha95.itch.io/fishnado",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561125",
@@ -1016,7 +865,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Gone Phishin'",
 				"title_link": "https://jonsouth.itch.io/gone-phishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564209",
@@ -1043,7 +892,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Catchy Cat",
 				"title_link": "https://mogaiskii.itch.io/catchy-cat",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560398",
@@ -1070,7 +919,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing with Dad",
 				"title_link": "https://7onder.itch.io/fishing-with-dad",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563732",
@@ -1099,7 +948,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing with Dad",
 				"title_link": "https://7onder.itch.io/fishing-with-dad",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563732",
@@ -1128,7 +977,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Mail Fishing",
 				"title_link": "https://zentixdev.itch.io/mail-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563344",
@@ -1155,7 +1004,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -1176,7 +1025,7 @@
 				"rank": 27,
 				"ratings": 29,
 				"score": 3.664,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": -3806000
 			}
 		]
@@ -1219,7 +1068,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -1240,7 +1089,7 @@
 				"rank": 27,
 				"ratings": 29,
 				"score": 3.664,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": -3806000
 			}
 		]
@@ -1254,7 +1103,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -1275,7 +1124,7 @@
 				"rank": 27,
 				"ratings": 29,
 				"score": 3.664,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": -3806000
 			}
 		]
@@ -1289,7 +1138,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Beware the Memi",
 				"title_link": "https://kaylachu23.itch.io/beware-the-memi",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564244",
@@ -1310,7 +1159,7 @@
 				"rank": 27,
 				"ratings": 29,
 				"score": 3.664,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": -3806000
 			}
 		]
@@ -1324,7 +1173,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Desert Angler",
 				"title_link": "https://kurzweil.itch.io/desert-angler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563290",
@@ -1337,7 +1186,7 @@
 				"rank": 28,
 				"ratings": 20,
 				"score": 3.663,
-				"ilscore": 97,
+				"ilscore": 96,
 				"submission_time_diff": -26487000
 			}
 		]
@@ -1351,7 +1200,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Somethin' Fishy",
 				"title_link": "https://esyfyi.itch.io/somethin-fishy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2558980",
@@ -1364,7 +1213,7 @@
 				"rank": 30,
 				"ratings": 14,
 				"score": 3.625,
-				"ilscore": 96,
+				"ilscore": 95,
 				"submission_time_diff": -214868000
 			}
 		]
@@ -1378,7 +1227,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Cut Maniac",
 				"title_link": "https://simplepixelated.itch.io/cut-maniac",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877155",
@@ -1399,7 +1248,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Space Fishing",
 				"title_link": "https://simplepixelated.itch.io/space-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562468",
@@ -1412,7 +1261,7 @@
 				"rank": 33,
 				"ratings": 23,
 				"score": 3.587,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -30987000
 			}
 		]
@@ -1426,7 +1275,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fisher Hand",
 				"title_link": "https://lucc.itch.io/fisher-hand",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563945",
@@ -1439,7 +1288,7 @@
 				"rank": 34,
 				"ratings": 18,
 				"score": 3.583,
-				"ilscore": 95,
+				"ilscore": 94,
 				"submission_time_diff": -8318000
 			}
 		]
@@ -1453,7 +1302,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Killer Windball",
 				"title_link": "https://soapydandy.itch.io/killer-windball",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618795",
@@ -1474,7 +1323,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Pass Fishing",
 				"title_link": "https://soapydandy.itch.io/pass-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564055",
@@ -1522,7 +1371,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Mudwalker fishing",
 				"title_link": "https://frostyanthony.itch.io/mudwalker-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563142",
@@ -1549,7 +1398,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "When Fishes Fly",
 				"title_link": "https://axelftv.itch.io/when-fishes-fly",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559309",
@@ -1601,7 +1450,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Mr. Wiggles Goes Fishing",
 				"title_link": "https://smallvibes.itch.io/mr-wiggles-goes-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563432",
@@ -1628,7 +1477,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Trout Akimbo",
 				"title_link": "https://mdev11.itch.io/trout-akimbo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564107",
@@ -1655,7 +1504,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Space fishing",
 				"title_link": "https://mh33.itch.io/space-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563523",
@@ -1682,7 +1531,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "BeatsFish",
 				"title_link": "https://4dog.itch.io/beatsfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564215",
@@ -1751,7 +1600,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Brute Fishing",
 				"title_link": "https://frogjuice-studio.itch.io/brute-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564206",
@@ -1778,7 +1627,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Space Mariner",
 				"title_link": "https://rhinobird.itch.io/space-mariner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563814",
@@ -1791,7 +1640,7 @@
 				"rank": 46,
 				"ratings": 16,
 				"score": 3.469,
-				"ilscore": 92,
+				"ilscore": 91,
 				"submission_time_diff": -13528000
 			}
 		]
@@ -1805,7 +1654,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "SpaceFisher",
 				"title_link": "https://valsergey.itch.io/spacefisher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562577",
@@ -1832,7 +1681,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Hooked",
 				"title_link": "https://djhaggz.itch.io/hooked",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559721",
@@ -1859,7 +1708,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Harpoon",
 				"title_link": "https://shmegmayn.itch.io/harpoon",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562826",
@@ -1907,7 +1756,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Shell Steal",
 				"title_link": "https://dysteny.itch.io/shell-steal",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564094",
@@ -1934,7 +1783,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Nobody Asked You",
 				"title_link": "https://ltsail.itch.io/nobodyaskedyou",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564179",
@@ -1961,7 +1810,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Oh no! My keys fell into a hole!",
 				"title_link": "https://trinth.itch.io/oh-no-my-keys-fell-into-a-hole",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561877",
@@ -1988,7 +1837,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Asteroid Fishing",
 				"title_link": "https://janistch.itch.io/asteroid-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561130",
@@ -2015,7 +1864,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "CatFish",
 				"title_link": "https://maxidoo.itch.io/catfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563747",
@@ -2044,7 +1893,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "CatFish",
 				"title_link": "https://maxidoo.itch.io/catfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563747",
@@ -2073,7 +1922,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Interstellar Angler",
 				"title_link": "https://zeromark.itch.io/intersteller-angler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563403",
@@ -2100,7 +1949,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishmonger",
 				"title_link": "https://alantir333.itch.io/fishmonger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564240",
@@ -2156,7 +2005,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishmonger",
 				"title_link": "https://alantir333.itch.io/fishmonger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564240",
@@ -2185,7 +2034,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing for Asteroids",
 				"title_link": "https://austineatsapples.itch.io/fishing-for-asteroids",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564034",
@@ -2233,7 +2082,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Pray For Rain",
 				"title_link": "https://stretchcodes.itch.io/pray-for-rain",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618335",
@@ -2254,7 +2103,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing For Humans",
 				"title_link": "https://stretchcodes.itch.io/fishing-for-humans",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562869",
@@ -2281,7 +2130,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Sky Fishing",
 				"title_link": "https://mouse-byte.itch.io/skyfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563422",
@@ -2294,7 +2143,7 @@
 				"rank": 64,
 				"ratings": 15,
 				"score": 3.167,
-				"ilscore": 84,
+				"ilscore": 83,
 				"submission_time_diff": -24737000
 			}
 		]
@@ -2308,7 +2157,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Deeper",
 				"title_link": "https://iamsul.itch.io/deeper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564175",
@@ -2321,7 +2170,7 @@
 				"rank": 65,
 				"ratings": 13,
 				"score": 3.135,
-				"ilscore": 83,
+				"ilscore": 82,
 				"submission_time_diff": -5595000
 			}
 		]
@@ -2335,7 +2184,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Moon Fisher",
 				"title_link": "https://psycofemboy.itch.io/moon-fisher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559165",
@@ -2348,7 +2197,7 @@
 				"rank": 67,
 				"ratings": 15,
 				"score": 3.133,
-				"ilscore": 83,
+				"ilscore": 82,
 				"submission_time_diff": -208556000
 			}
 		]
@@ -2362,7 +2211,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing In The Air",
 				"title_link": "https://luminaria-development.itch.io/fishing-in-the-air",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564250",
@@ -2389,7 +2238,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Lunar Fishin'",
 				"title_link": "https://niighty-nine.itch.io/lunarfishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560529",
@@ -2420,7 +2269,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Lunar Fishin'",
 				"title_link": "https://niighty-nine.itch.io/lunarfishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560529",
@@ -2451,7 +2300,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Lunar Fishin'",
 				"title_link": "https://niighty-nine.itch.io/lunarfishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560529",
@@ -2482,7 +2331,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Bait &amp; Phish",
 				"title_link": "https://monnettie.itch.io/baitandphish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564104",
@@ -2511,7 +2360,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Jellyfishing",
 				"title_link": "https://meercrow.itch.io/jellyfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562737",
@@ -2580,7 +2429,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish Eating Gyros In Space",
 				"title_link": "https://alf0186.itch.io/fish-eating-gyros-in-space",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563479",
@@ -2607,7 +2456,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Claw Catch",
 				"title_link": "https://kerneltm.itch.io/claw-catch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559981",
@@ -2634,7 +2483,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Deep Space Fishing",
 				"title_link": "https://leisuretime.itch.io/deep-space-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560017",
@@ -2682,7 +2531,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Mini Jam 153 (Fishing): StarFisher",
 				"title_link": "https://kapaw.itch.io/mini-jam-153-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560698",
@@ -2695,7 +2544,7 @@
 				"rank": 76,
 				"ratings": 18,
 				"score": 3.097,
-				"ilscore": 82,
+				"ilscore": 81,
 				"submission_time_diff": -27138000
 			},
 			{
@@ -2751,7 +2600,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Cheese Guy",
 				"title_link": "https://yulaf.itch.io/cheese-guy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878520",
@@ -2774,7 +2623,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Feed the slug devil",
 				"title_link": "https://yulaf.itch.io/feed-the-slug-devil",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561415",
@@ -2801,7 +2650,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Universal Fishing Ordinance",
 				"title_link": "https://polymonic.itch.io/universal-fishing-ordinance",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2559532",
@@ -2828,7 +2677,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish Out Of Water",
 				"title_link": "https://valueless-trinket.itch.io/fish-out-of-water",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563116",
@@ -2855,7 +2704,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Star Trawler",
 				"title_link": "https://matthew-marmalade.itch.io/star-trawler",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564371",
@@ -2884,7 +2733,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Operation: Catfish(ing)",
 				"title_link": "https://krishthedish.itch.io/operation-catfishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563578",
@@ -2897,7 +2746,7 @@
 				"rank": 83,
 				"ratings": 14,
 				"score": 3.054,
-				"ilscore": 81,
+				"ilscore": 80,
 				"submission_time_diff": -19759000
 			}
 		]
@@ -2932,7 +2781,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Vixen Fishen",
 				"title_link": "https://ambreadlapis.itch.io/vixen-fishen",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560469",
@@ -2959,7 +2808,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Ice Fishing",
 				"title_link": "https://oddmin8.itch.io/oddicefishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564291",
@@ -2972,7 +2821,7 @@
 				"rank": 85,
 				"ratings": 5,
 				"score": 3.019,
-				"ilscore": 80,
+				"ilscore": 79,
 				"submission_time_diff": 62457000
 			}
 		]
@@ -2986,7 +2835,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "FishIN",
 				"title_link": "https://d4rk0men.itch.io/fishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563012",
@@ -3013,7 +2862,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Cosmic Catch",
 				"title_link": "https://downside-in.itch.io/cosmic-catch",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564168",
@@ -3040,7 +2889,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Dryfish",
 				"title_link": "https://ivar-s.itch.io/dryfish",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560505",
@@ -3067,7 +2916,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Needless Flattening",
 				"title_link": "https://hatchibombotar.itch.io/needless-flattening",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878171",
@@ -3080,7 +2929,7 @@
 				"rank": 16,
 				"ratings": 9,
 				"score": 3.5,
-				"ilscore": 60,
+				"ilscore": 61,
 				"submission_time_diff": -21870000
 			},
 			{
@@ -3088,7 +2937,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing for Gold",
 				"title_link": "https://hatchibombotar.itch.io/fishing-for-gold",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563002",
@@ -3136,7 +2985,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Desert Fishing",
 				"title_link": "https://tomtom8888.itch.io/desert-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563268",
@@ -3149,7 +2998,7 @@
 				"rank": 93,
 				"ratings": 9,
 				"score": 2.944,
-				"ilscore": 78,
+				"ilscore": 77,
 				"submission_time_diff": -28738000
 			}
 		]
@@ -3163,7 +3012,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishinging",
 				"title_link": "https://ilyuh.itch.io/fishinging",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564236",
@@ -3211,7 +3060,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish &amp; Chip",
 				"title_link": "https://kbve.itch.io/fishchip",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561506",
@@ -3240,7 +3089,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish &amp; Chip",
 				"title_link": "https://kbve.itch.io/fishchip",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561506",
@@ -3269,7 +3118,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Arcade Fishing",
 				"title_link": "https://san2art.itch.io/arcade-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564606",
@@ -3296,7 +3145,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Ditch Fishin'",
 				"title_link": "https://laccr.itch.io/ditch-fishin",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563186",
@@ -3323,7 +3172,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 64,
+				"jam_vs": 63,
 				"title": "OrigamiJitzu",
 				"title_link": "https://freshwaffles3.itch.io/origamijitzu",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297377",
@@ -3344,7 +3193,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "FishBlaster",
 				"title_link": "https://freshwaffles3.itch.io/fishblaser",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562968",
@@ -3371,7 +3220,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Pequod",
 				"title_link": "https://ziondhill.itch.io/pequod",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561238",
@@ -3402,7 +3251,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Pequod",
 				"title_link": "https://ziondhill.itch.io/pequod",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561238",
@@ -3433,7 +3282,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Pequod",
 				"title_link": "https://ziondhill.itch.io/pequod",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561238",
@@ -3485,7 +3334,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Shotgun Fishing",
 				"title_link": "https://anidiotmakesgames.itch.io/shotgun-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563571",
@@ -3512,7 +3361,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Game Jam 153 Fishing: Where the Fish Live",
 				"title_link": "https://fingers87.itch.io/game-jam-153-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2557807",
@@ -3539,7 +3388,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fly Fishing",
 				"title_link": "https://williamthewicked.itch.io/fly-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563824",
@@ -3566,7 +3415,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Robofishing",
 				"title_link": "https://erpsuic.itch.io/robofishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564217",
@@ -3593,7 +3442,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fishing Focus",
 				"title_link": "https://luojimyang.itch.io/fishing-focus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2560714",
@@ -3620,7 +3469,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish Catcher",
 				"title_link": "https://costelboyt-official.itch.io/fish-catcher",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2561362",
@@ -3633,7 +3482,7 @@
 				"rank": 107,
 				"ratings": 16,
 				"score": 2.719,
-				"ilscore": 72,
+				"ilscore": 71,
 				"submission_time_diff": -44120000
 			}
 		]
@@ -3647,7 +3496,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Finish Up Fishing",
 				"title_link": "https://enigma05.itch.io/finish-up-fishing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2562305",
@@ -3662,6 +3511,118 @@
 				"score": 2.708,
 				"ilscore": 71,
 				"submission_time_diff": -31144000
+			}
+		]
+	},
+	{
+		"jammer": "Flyntte",
+		"jammer_link": "https://flyntte.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 199,
+				"title": "Sandy Shores",
+				"title_link": "https://flyntte.itch.io/sandy-shores",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564160",
+				"by_list": [
+					"Flyntte",
+					"Cyse"
+				],
+				"by_link_list": [
+					"https://flyntte.itch.io/",
+					"https://cyse.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 9,
+				"score": 2.694,
+				"ilscore": 71,
+				"submission_time_diff": -4945000
+			}
+		]
+	},
+	{
+		"jammer": "Cyse",
+		"jammer_link": "https://cyse.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 199,
+				"title": "Sandy Shores",
+				"title_link": "https://flyntte.itch.io/sandy-shores",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564160",
+				"by_list": [
+					"Flyntte",
+					"Cyse"
+				],
+				"by_link_list": [
+					"https://flyntte.itch.io/",
+					"https://cyse.itch.io/"
+				],
+				"rank": 109,
+				"ratings": 9,
+				"score": 2.694,
+				"ilscore": 71,
+				"submission_time_diff": -4945000
+			}
+		]
+	},
+	{
+		"jammer": "nickvvv3",
+		"jammer_link": "https://nickvvv3.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 199,
+				"title": "Astro-Fishing",
+				"title_link": "https://nickvvv3.itch.io/astro-fishing",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563890",
+				"by_list": [
+					"nickvvv3"
+				],
+				"by_link_list": [
+					"https://nickvvv3.itch.io/"
+				],
+				"rank": 111,
+				"ratings": 11,
+				"score": 2.636,
+				"ilscore": 69,
+				"submission_time_diff": -12866000
+			}
+		]
+	},
+	{
+		"jammer": "Lankest_Pants",
+		"jammer_link": "https://lankest-pants.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 153,
+				"jam_name": "Fishing",
+				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
+				"jam_vs": 199,
+				"title": "Fun Mandatory Ice Fishing with your Dad",
+				"title_link": "https://lankest-pants.itch.io/fun-mandatory-ice-fishing-with-your-dad",
+				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2558951",
+				"by_list": [
+					"Lankest_Pants"
+				],
+				"by_link_list": [
+					"https://lankest-pants.itch.io/"
+				],
+				"rank": 112,
+				"ratings": 9,
+				"score": 2.611,
+				"ilscore": 69,
+				"submission_time_diff": -44584000
 			}
 		]
 	}

@@ -1,5 +1,38 @@
 [
 	{
+		"jammer": "nadpher",
+		"jammer_link": "https://nadpher.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 253,
+				"title": "Abomibird",
+				"title_link": "https://nadpher.itch.io/abomibird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388587",
+				"by_list": [
+					"nadpher",
+					"Israh",
+					"JohnyWuijtsNL",
+					"ShadyLeeGamer"
+				],
+				"by_link_list": [
+					"https://nadpher.itch.io/",
+					"https://israboy.itch.io/",
+					"https://johnywuijtsnl.itch.io/",
+					"https://shadyleegamer.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 10,
+				"score": 3.275,
+				"ilscore": 94,
+				"submission_time_diff": -18827000
+			}
+		]
+	},
+	{
 		"jammer": "JohnyWuijtsNL",
 		"jammer_link": "https://johnywuijtsnl.itch.io/",
 		"game_list_sorted": [
@@ -464,7 +497,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Sporcery",
 				"title_link": "https://nightmodegames.itch.io/spore-sorcery",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2484106",
@@ -2268,7 +2301,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "my hectic garden",
 				"title_link": "https://whoppsd.itch.io/my-hectic-garden",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2944545",
@@ -2310,7 +2343,7 @@
 				"jam_id": 150,
 				"jam_name": "Magic",
 				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 126,
+				"jam_vs": 125,
 				"title": "Lumos",
 				"title_link": "https://whoppsd.itch.io/lumos",
 				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2483071",
@@ -2323,7 +2356,7 @@
 				"rank": 29,
 				"ratings": 9,
 				"score": 3.444,
-				"ilscore": 76,
+				"ilscore": 75,
 				"submission_time_diff": -5880000
 			},
 			{
@@ -3370,7 +3403,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 154,
+				"jam_vs": 153,
 				"title": "Egyptian Fun",
 				"title_link": "https://hexoman.itch.io/egyptian-fun",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2460014",
@@ -3853,33 +3886,6 @@
 				"score": 2.075,
 				"ilscore": 60,
 				"submission_time_diff": -139913000
-			}
-		]
-	},
-	{
-		"jammer": "gamingturtle",
-		"jammer_link": "https://gamingturtle.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 253,
-				"title": "Bird Game (fail)",
-				"title_link": "https://gamingturtle.itch.io/bird-game-fail",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388641",
-				"by_list": [
-					"gamingturtle"
-				],
-				"by_link_list": [
-					"https://gamingturtle.itch.io/"
-				],
-				"rank": 206,
-				"ratings": 8,
-				"score": 2.062,
-				"ilscore": 59,
-				"submission_time_diff": -18961000
 			}
 		]
 	}

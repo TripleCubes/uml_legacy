@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "HellRok",
+		"jammer_link": "https://hellrok.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 113,
+				"title": "Mini Jam 88 - Rush",
+				"title_link": "https://hellrok.itch.io/mini-jam-88-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187457",
+				"by_list": [
+					"HellRok"
+				],
+				"by_link_list": [
+					"https://hellrok.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 5,
+				"score": 2.789,
+				"ilscore": 58,
+				"submission_time_diff": -49368000
+			}
+		]
+	},
+	{
 		"jammer": "Khatsaevk",
 		"jammer_link": "https://khatsaevk.itch.io/",
 		"game_list_sorted": [
@@ -2109,7 +2136,7 @@
 				"jam_id": 109,
 				"jam_name": "Depths",
 				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 135,
+				"jam_vs": 136,
 				"title": "Johnny Depth",
 				"title_link": "https://pello.itch.io/johnny-depth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590786",
@@ -2361,7 +2388,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Gust",
 				"title_link": "https://pello.itch.io/gust",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2617481",
@@ -4208,7 +4235,7 @@
 				"jam_id": 153,
 				"jam_name": "Fishing",
 				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 200,
+				"jam_vs": 199,
 				"title": "Fish with Finn​​",
 				"title_link": "https://mknightdev.itch.io/fish-with-finn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2563704",
@@ -4550,33 +4577,6 @@
 				"score": 1.768,
 				"ilscore": 32,
 				"submission_time_diff": -10355000
-			}
-		]
-	},
-	{
-		"jammer": "TallowBear",
-		"jammer_link": "https://tallowbear.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 89,
-				"jam_name": "Pumpkin",
-				"jam_link": "https://itch.io/jam/mini-jam-89-pumpkin",
-				"jam_vs": 81,
-				"title": "Reject Theme",
-				"title_link": "https://tallowbear.itch.io/reject-theme",
-				"submission_page_link": "https://itch.io/jam/mini-jam-89-pumpkin/rate/1202655",
-				"by_list": [
-					"TallowBear"
-				],
-				"by_link_list": [
-					"https://tallowbear.itch.io/"
-				],
-				"rank": 77,
-				"ratings": 3,
-				"score": 1.732,
-				"ilscore": 31,
-				"submission_time_diff": -64977000
 			}
 		]
 	}

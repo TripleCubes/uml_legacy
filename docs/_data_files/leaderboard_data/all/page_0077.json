@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "Manmellon",
+		"jammer_link": "https://manmellon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 117,
+				"jam_name": "Ghosts",
+				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
+				"jam_vs": 187,
+				"title": "Please, dont repeat this at home",
+				"title_link": "https://manmellon.itch.io/please-dont-repeat-this-at-home",
+				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749797",
+				"by_list": [
+					"Manmellon"
+				],
+				"by_link_list": [
+					"https://manmellon.itch.io/"
+				],
+				"rank": 153,
+				"ratings": 4,
+				"score": 1.643,
+				"ilscore": 42,
+				"submission_time_diff": -11258000
+			}
+		]
+	},
+	{
 		"jammer": "Yannodo",
 		"jammer_link": "https://yannodo.itch.io/",
 		"game_list_sorted": [
@@ -1229,7 +1256,7 @@
 				"jam_id": 166,
 				"jam_name": "Earth",
 				"jam_link": "https://itch.io/jam/mini-jam-166-earth",
-				"jam_vs": 201,
+				"jam_vs": 200,
 				"title": "My Dear Humans",
 				"title_link": "https://indieklem.itch.io/my-dear-humans",
 				"submission_page_link": "https://itch.io/jam/mini-jam-166-earth/rate/2945663",
@@ -1367,16 +1394,97 @@
 				"title_link": "https://elentertainment.itch.io/blood-and-dice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770440",
 				"by_list": [
-					"Extra Life Entertainment"
+					"Extra Life Entertainment",
+					"enma",
+					"Evan Martin"
 				],
 				"by_link_list": [
-					"https://elentertainment.itch.io/"
+					"https://elentertainment.itch.io/",
+					"https://enmakami.itch.io/",
+					"https://evan-martin.itch.io/"
 				],
 				"rank": 7,
 				"ratings": 14,
 				"score": 4,
 				"ilscore": 91,
 				"submission_time_diff": -8422000
+			}
+		]
+	},
+	{
+		"jammer": "enma",
+		"jammer_link": "https://enmakami.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Blood and Dice",
+				"title_link": "https://elentertainment.itch.io/blood-and-dice",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770440",
+				"by_list": [
+					"Extra Life Entertainment",
+					"enma",
+					"Evan Martin"
+				],
+				"by_link_list": [
+					"https://elentertainment.itch.io/",
+					"https://enmakami.itch.io/",
+					"https://evan-martin.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 14,
+				"score": 4,
+				"ilscore": 91,
+				"submission_time_diff": -8422000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 141,
+				"jam_name": "Stories",
+				"jam_link": "https://itch.io/jam/mini-jam-141-stories",
+				"jam_vs": 43,
+				"title": "Stone Age Chaos: Yeti's Survival",
+				"title_link": "https://evan-martin.itch.io/amazing-deluxe-chicken",
+				"submission_page_link": "https://itch.io/jam/mini-jam-141-stories/rate/2267814",
+				"by_list": [
+					"Evan Martin",
+					"enma"
+				],
+				"by_link_list": [
+					"https://evan-martin.itch.io/",
+					"https://enmakami.itch.io/"
+				],
+				"rank": 26,
+				"ratings": 16,
+				"score": 2.672,
+				"ilscore": 36,
+				"submission_time_diff": -28018000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"jam_vs": 133,
+				"title": "Out from your friend's throat",
+				"title_link": "https://evan-martin.itch.io/out-from-you-friends-throat",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976895",
+				"by_list": [
+					"Evan Martin",
+					"enma"
+				],
+				"by_link_list": [
+					"https://evan-martin.itch.io/",
+					"https://enmakami.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 15,
+				"score": 3.317,
+				"ilscore": 75,
+				"submission_time_diff": -34910000
 			}
 		]
 	},
@@ -2029,8 +2137,8 @@
 		]
 	},
 	{
-		"jammer": "DenisARAS",
-		"jammer_link": "https://denisaras.itch.io/",
+		"jammer": "Denizin",
+		"jammer_link": "https://denizin.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -2039,13 +2147,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
 				"jam_vs": 138,
 				"title": "Vampire's Curse",
-				"title_link": "https://denisaras.itch.io/vampires-curse",
+				"title_link": "https://denizin.itch.io/vampires-curse",
 				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770303",
 				"by_list": [
-					"DenisARAS"
+					"Denizin"
 				],
 				"by_link_list": [
-					"https://denisaras.itch.io/"
+					"https://denizin.itch.io/"
 				],
 				"rank": 32,
 				"ratings": 6,
@@ -2160,7 +2268,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Sailwinds",
 				"title_link": "https://dezhango.itch.io/sailwinds",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618834",
@@ -2715,7 +2823,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Demo Wall",
 				"title_link": "https://diamond-blast-xl.itch.io/demo-wall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878752",
@@ -2790,7 +2898,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Solar Bound",
 				"title_link": "https://ethandalecreative.itch.io/solar-bound",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2878734",
@@ -3517,60 +3625,6 @@
 				"score": 2.784,
 				"ilscore": 63,
 				"submission_time_diff": 51275000
-			}
-		]
-	},
-	{
-		"jammer": "M0ldRice",
-		"jammer_link": "https://purple-zeph-games.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"jam_vs": 138,
-				"title": "Swedish vampire gets vegan blood that he has to bring to his wife or they are getting divorced",
-				"title_link": "https://purple-zeph-games.itch.io/swedish-vampire-gets-vegan-blood-that-he-has-to-bring-to-his-wife-or-they-are-ge",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770396",
-				"by_list": [
-					"M0ldRice"
-				],
-				"by_link_list": [
-					"https://purple-zeph-games.itch.io/"
-				],
-				"rank": 80,
-				"ratings": 12,
-				"score": 2.75,
-				"ilscore": 63,
-				"submission_time_diff": -12036000
-			}
-		]
-	},
-	{
-		"jammer": "gemaco1397",
-		"jammer_link": "https://gemaco1397.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 118,
-				"jam_name": "Vampires",
-				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
-				"jam_vs": 138,
-				"title": "vampire hotel",
-				"title_link": "https://gemaco1397.itch.io/vampire-hotel",
-				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769212",
-				"by_list": [
-					"gemaco1397"
-				],
-				"by_link_list": [
-					"https://gemaco1397.itch.io/"
-				],
-				"rank": 81,
-				"ratings": 6,
-				"score": 2.708,
-				"ilscore": 62,
-				"submission_time_diff": -55872000
 			}
 		]
 	}

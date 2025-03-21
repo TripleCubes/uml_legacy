@@ -1,5 +1,32 @@
 [
 	{
+		"jammer": "cakegamedev",
+		"jammer_link": "https://cakegamedev.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 92,
+				"jam_name": "Death",
+				"jam_link": "https://itch.io/jam/mini-jam-92-death",
+				"jam_vs": 111,
+				"title": "Asdroids",
+				"title_link": "https://cakegamedev.itch.io/asdroids",
+				"submission_page_link": "https://itch.io/jam/mini-jam-92-death/rate/1259396",
+				"by_list": [
+					"cakegamedev"
+				],
+				"by_link_list": [
+					"https://cakegamedev.itch.io/"
+				],
+				"rank": 31,
+				"ratings": 8,
+				"score": 3.382,
+				"ilscore": 71,
+				"submission_time_diff": -405000
+			}
+		]
+	},
+	{
 		"jammer": "mtrovy",
 		"jammer_link": "https://mtrovy.itch.io/",
 		"game_list_sorted": [
@@ -1988,7 +2015,7 @@
 				"jam_id": 164,
 				"jam_name": "Destruction",
 				"jam_link": "https://itch.io/jam/mini-jam-164-destruction",
-				"jam_vs": 72,
+				"jam_vs": 73,
 				"title": "Reformat().escape()",
 				"title_link": "https://none-yaroslav.itch.io/reformatescape",
 				"submission_page_link": "https://itch.io/jam/mini-jam-164-destruction/rate/2877974",
@@ -2001,7 +2028,7 @@
 				"rank": 51,
 				"ratings": 4,
 				"score": 2.696,
-				"ilscore": 46,
+				"ilscore": 47,
 				"submission_time_diff": -18812000
 			},
 			{
@@ -3098,7 +3125,7 @@
 				"jam_id": 155,
 				"jam_name": "Wind",
 				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Space Fart",
 				"title_link": "https://anarchygames.itch.io/space-fart",
 				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2618420",
@@ -3487,54 +3514,6 @@
 				"score": 2.46,
 				"ilscore": 34,
 				"submission_time_diff": 254337000
-			}
-		]
-	},
-	{
-		"jammer": "DK_games_2021",
-		"jammer_link": "https://dk-games-2021.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"jam_vs": 45,
-				"title": "Beans on vacation",
-				"title_link": "https://dk-games-2021.itch.io/beans-on-vacation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278264",
-				"by_list": [
-					"DK_games_2021"
-				],
-				"by_link_list": [
-					"https://dk-games-2021.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 4,
-				"score": 2.458,
-				"ilscore": 33,
-				"submission_time_diff": 48797000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 94,
-				"jam_name": "Baking",
-				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"jam_vs": 89,
-				"title": "Baking rain",
-				"title_link": "https://dk-games-2021.itch.io/baking-rain",
-				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1294738",
-				"by_list": [
-					"DK_games_2021"
-				],
-				"by_link_list": [
-					"https://dk-games-2021.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 6,
-				"score": 2.776,
-				"ilscore": 53,
-				"submission_time_diff": -68931000
 			}
 		]
 	}
