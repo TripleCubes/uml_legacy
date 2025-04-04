@@ -2086,7 +2086,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Letter Lemmings",
 				"title_link": "https://philipnewsham.itch.io/letter-lemmings",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401959",
@@ -2191,7 +2191,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
+				"jam_vs": 98,
 				"title": "Battery Powered",
 				"title_link": "https://philipnewsham.itch.io/battery-powered",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3197475",
@@ -2760,10 +2760,31 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Mirror Blade",
+				"title_link": "https://lesliellama.itch.io/mirror-blade",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3436217",
+				"by_list": [
+					"LeslieLlama"
+				],
+				"by_link_list": [
+					"https://lesliellama.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 20,
+				"score": 3.475,
+				"ilscore": 68,
+				"submission_time_diff": -356000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 95,
+				"jam_vs": 96,
 				"title": "Heaven Rotter",
 				"title_link": "https://lesliellama.itch.io/heaven-rotter",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1789507",
@@ -2778,27 +2799,6 @@
 				"score": 2.977,
 				"ilscore": 58,
 				"submission_time_diff": -1633000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 180,
-				"jam_name": "Refresh",
-				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
-				"title": "Ice Enough?",
-				"title_link": "https://lesliellama.itch.io/ice-enough",
-				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402504",
-				"by_list": [
-					"LeslieLlama"
-				],
-				"by_link_list": [
-					"https://lesliellama.itch.io/"
-				],
-				"rank": 41,
-				"ratings": 19,
-				"score": 2.895,
-				"ilscore": 54,
-				"submission_time_diff": -654000
 			},
 			{
 				"jam_type": "mini_jam",

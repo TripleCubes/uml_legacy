@@ -1377,6 +1377,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Rabbit's Hideout",
+				"title_link": "https://rabbitdev.itch.io/rabbits-hideout",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3434619",
+				"by_list": [
+					"RabbitDev"
+				],
+				"by_link_list": [
+					"https://rabbitdev.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 12,
+				"score": 3.604,
+				"ilscore": 71,
+				"submission_time_diff": -34800000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
@@ -3681,7 +3702,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Soarfall",
 				"title_link": "https://spyroistaken.itch.io/soarfall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401518",
@@ -3694,8 +3715,29 @@
 				"rank": 48,
 				"ratings": 15,
 				"score": 2.724,
-				"ilscore": 51,
+				"ilscore": 50,
 				"submission_time_diff": -7209000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Escape The Game",
+				"title_link": "https://spyroistaken.itch.io/escape-the-game",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3435843",
+				"by_list": [
+					"Spyro"
+				],
+				"by_link_list": [
+					"https://spyroistaken.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 7,
+				"score": 2.42,
+				"ilscore": 47,
+				"submission_time_diff": -10590000
 			},
 			{
 				"jam_type": "major_jam",

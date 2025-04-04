@@ -1484,8 +1484,8 @@
 		]
 	},
 	{
-		"jammer": "Robert",
-		"jammer_link": "https://robertoconnor.itch.io/",
+		"jammer": "Yellowbyte Games",
+		"jammer_link": "https://yellowbytegames.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1494,13 +1494,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-71-puzzles",
 				"jam_vs": 91,
 				"title": "Chicken Scoop",
-				"title_link": "https://robertoconnor.itch.io/chicken-scoop",
+				"title_link": "https://yellowbytegames.itch.io/chicken-scoop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-71-puzzles/rate/879655",
 				"by_list": [
-					"Robert"
+					"Yellowbyte Games"
 				],
 				"by_link_list": [
-					"https://robertoconnor.itch.io/"
+					"https://yellowbytegames.itch.io/"
 				],
 				"rank": 22,
 				"ratings": 10,
@@ -2775,6 +2775,27 @@
 		"jammer": "FoundTexas",
 		"jammer_link": "https://foundtexas.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Rab-bit Escape",
+				"title_link": "https://foundtexas.itch.io/rab-bit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3436177",
+				"by_list": [
+					"FoundTexas"
+				],
+				"by_link_list": [
+					"https://foundtexas.itch.io/"
+				],
+				"rank": 11,
+				"ratings": 19,
+				"score": 3.566,
+				"ilscore": 70,
+				"submission_time_diff": -1173000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 90,

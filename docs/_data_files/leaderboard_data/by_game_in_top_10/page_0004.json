@@ -1,5 +1,65 @@
 [
 	{
+		"jammer": "phantompauer",
+		"jammer_link": "https://phantompauer.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "major_jam",
+				"jam_id": 2,
+				"jam_name": "Major Jam 2: Love",
+				"jam_link": "https://itch.io/jam/major-jam-2",
+				"jam_vs": 51,
+				"title": "Heart 2 Beat",
+				"title_link": "https://andrelimaesilva.itch.io/heart-2-beat",
+				"submission_page_link": "https://itch.io/jam/major-jam-2/rate/685286",
+				"by_list": [
+					"André Lima e Silva",
+					"matgraz",
+					"phantompauer"
+				],
+				"by_link_list": [
+					"https://andrelimaesilva.itch.io/",
+					"https://matgraz.itch.io/",
+					"https://phantompauer.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 19,
+				"score": 4.289,
+				"ilscore": 63,
+				"submission_time_diff": -5122000
+			}
+		]
+	},
+	{
+		"jammer": "sha-bits",
+		"jammer_link": "https://sha-bits.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 75,
+				"title": "&gt;immutable",
+				"title_link": "https://sha-bits.itch.io/immutable",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999785",
+				"by_list": [
+					"sha-bits",
+					"aureoreo"
+				],
+				"by_link_list": [
+					"https://sha-bits.itch.io/",
+					"https://aureoreo.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 14,
+				"score": 4.286,
+				"ilscore": 75,
+				"submission_time_diff": -906000
+			}
+		]
+	},
+	{
 		"jammer": "casualBystander",
 		"jammer_link": "https://casualbystander.itch.io/",
 		"game_list_sorted": [
@@ -1310,7 +1370,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -1987,7 +2047,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Orange Juice",
 				"title_link": "https://may0.itch.io/orange-juice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399914",
@@ -2000,7 +2060,7 @@
 				"rank": 1,
 				"ratings": 38,
 				"score": 3.947,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -24029000
 			}
 		]
@@ -2852,60 +2912,6 @@
 				"score": 4.321,
 				"ilscore": 83,
 				"submission_time_diff": -33447000
-			}
-		]
-	},
-	{
-		"jammer": "ellps",
-		"jammer_link": "https://ellps.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "CYBER TRAIN",
-				"title_link": "https://ellps.itch.io/cyber-train",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2975835",
-				"by_list": [
-					"ellps"
-				],
-				"by_link_list": [
-					"https://ellps.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 24,
-				"score": 4.313,
-				"ilscore": 70,
-				"submission_time_diff": -19558000
-			}
-		]
-	},
-	{
-		"jammer": "YouDoYouBuddy",
-		"jammer_link": "https://youdoyoubuddy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 212,
-				"title": "Ember Slash",
-				"title_link": "https://youdoyoubuddy.itch.io/ember-slash",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609540",
-				"by_list": [
-					"YouDoYouBuddy"
-				],
-				"by_link_list": [
-					"https://youdoyoubuddy.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 14,
-				"score": 4.304,
-				"ilscore": 116,
-				"submission_time_diff": -4574000
 			}
 		]
 	}

@@ -1,5 +1,157 @@
 [
 	{
+		"jammer": "Mr.Nr.15",
+		"jammer_link": "https://mrnr15.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 100,
+				"jam_name": "Overload",
+				"jam_link": "https://itch.io/jam/mini-jam-100-overload",
+				"jam_vs": 164,
+				"title": "Balance Wars",
+				"title_link": "https://mrnr15.itch.io/balance-wars",
+				"submission_page_link": "https://itch.io/jam/mini-jam-100-overload/rate/1408983",
+				"by_list": [
+					"Mr.Nr.15"
+				],
+				"by_link_list": [
+					"https://mrnr15.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 17,
+				"score": 4.044,
+				"ilscore": 99,
+				"submission_time_diff": -28313000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 95,
+				"jam_name": "Chance",
+				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
+				"jam_vs": 64,
+				"title": "Last Wish",
+				"title_link": "https://mrnr15.itch.io/last-wish",
+				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1315446",
+				"by_list": [
+					"Mr.Nr.15"
+				],
+				"by_link_list": [
+					"https://mrnr15.itch.io/"
+				],
+				"rank": 20,
+				"ratings": 12,
+				"score": 3.458,
+				"ilscore": 56,
+				"submission_time_diff": -31557000
+			}
+		]
+	},
+	{
+		"jammer": "sattylion",
+		"jammer_link": "https://sattylion.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 132,
+				"title": "Gear",
+				"title_link": "https://sattylion.itch.io/gear",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089224",
+				"by_list": [
+					"sattylion",
+					"Christian"
+				],
+				"by_link_list": [
+					"https://sattylion.itch.io/",
+					"https://dijonpigeon.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 20,
+				"score": 3.725,
+				"ilscore": 84,
+				"submission_time_diff": -38000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"jam_vs": 78,
+				"title": "All Aboard",
+				"title_link": "https://sattylion.itch.io/all-aboard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1933269",
+				"by_list": [
+					"sattylion",
+					"Christian"
+				],
+				"by_link_list": [
+					"https://sattylion.itch.io/",
+					"https://dijonpigeon.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 3.361,
+				"ilscore": 60,
+				"submission_time_diff": -556000
+			}
+		]
+	},
+	{
+		"jammer": "Christian",
+		"jammer_link": "https://dijonpigeon.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 133,
+				"jam_name": "Fusion",
+				"jam_link": "https://itch.io/jam/mini-jam-133-fusion",
+				"jam_vs": 132,
+				"title": "Gear",
+				"title_link": "https://sattylion.itch.io/gear",
+				"submission_page_link": "https://itch.io/jam/mini-jam-133-fusion/rate/2089224",
+				"by_list": [
+					"sattylion",
+					"Christian"
+				],
+				"by_link_list": [
+					"https://sattylion.itch.io/",
+					"https://dijonpigeon.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 20,
+				"score": 3.725,
+				"ilscore": 84,
+				"submission_time_diff": -38000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 126,
+				"jam_name": "Lost",
+				"jam_link": "https://itch.io/jam/mini-jam-126-lost",
+				"jam_vs": 78,
+				"title": "All Aboard",
+				"title_link": "https://sattylion.itch.io/all-aboard",
+				"submission_page_link": "https://itch.io/jam/mini-jam-126-lost/rate/1933269",
+				"by_list": [
+					"sattylion",
+					"Christian"
+				],
+				"by_link_list": [
+					"https://sattylion.itch.io/",
+					"https://dijonpigeon.itch.io/"
+				],
+				"rank": 19,
+				"ratings": 9,
+				"score": 3.361,
+				"ilscore": 60,
+				"submission_time_diff": -556000
+			}
+		]
+	},
+	{
 		"jammer": "Nubels64",
 		"jammer_link": "https://nubels64.itch.io/",
 		"game_list_sorted": [
@@ -1522,7 +1674,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 153,
+				"jam_vs": 152,
 				"title": "MEGALODON DATING SIMULATOR",
 				"title_link": "https://sadgirls.itch.io/megladon-dating-simulator",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459860",
@@ -1866,7 +2018,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
+				"jam_vs": 98,
 				"title": "Fathomless",
 				"title_link": "https://snoodlegames.itch.io/fathomless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
@@ -1899,7 +2051,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
+				"jam_vs": 98,
 				"title": "Fathomless",
 				"title_link": "https://snoodlegames.itch.io/fathomless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
@@ -1932,7 +2084,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
+				"jam_vs": 98,
 				"title": "Fathomless",
 				"title_link": "https://snoodlegames.itch.io/fathomless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
@@ -1965,7 +2117,7 @@
 				"jam_id": 174,
 				"jam_name": "Defense",
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 97,
+				"jam_vs": 98,
 				"title": "Fathomless",
 				"title_link": "https://snoodlegames.itch.io/fathomless",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
@@ -3093,95 +3245,6 @@
 				"score": 4.157,
 				"ilscore": 80,
 				"submission_time_diff": 1602000
-			}
-		]
-	},
-	{
-		"jammer": "reikabow",
-		"jammer_link": "https://reikabow.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 54,
-				"jam_name": "Memories",
-				"jam_link": "https://itch.io/jam/mini-jam-54-memories",
-				"jam_vs": 91,
-				"title": "Dog and the Walkers",
-				"title_link": "https://flaxbeard.itch.io/dog-and-the-walkers",
-				"submission_page_link": "https://itch.io/jam/mini-jam-54-memories/rate/646555",
-				"by_list": [
-					"flaxbeard",
-					"rafilong",
-					"reikabow"
-				],
-				"by_link_list": [
-					"https://flaxbeard.itch.io/",
-					"https://rafilong.itch.io/",
-					"https://reikabow.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 14,
-				"score": 4.157,
-				"ilscore": 80,
-				"submission_time_diff": 1602000
-			}
-		]
-	},
-	{
-		"jammer": "tsukihiko0709",
-		"jammer_link": "https://tsukihiko0709.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 77,
-				"jam_name": "Courage",
-				"jam_link": "https://itch.io/jam/mini-jam-77-courage",
-				"jam_vs": 138,
-				"title": "人間　◉",
-				"title_link": "https://yumehiko.itch.io/ningen-maru",
-				"submission_page_link": "https://itch.io/jam/mini-jam-77-courage/rate/983029",
-				"by_list": [
-					"yumehiko",
-					"tsukihiko0709"
-				],
-				"by_link_list": [
-					"https://yumehiko.itch.io/",
-					"https://tsukihiko0709.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 51,
-				"score": 4.152,
-				"ilscore": 95,
-				"submission_time_diff": -48790000
-			}
-		]
-	},
-	{
-		"jammer": "Kelp Games",
-		"jammer_link": "https://kelpgames.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
-				"title": "Boggling Isles",
-				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
-				"by_list": [
-					"TheJackOfClubs",
-					"Kelp Games"
-				],
-				"by_link_list": [
-					"https://thejackofclubs.itch.io/",
-					"https://kelpgames.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 12,
-				"score": 4.146,
-				"ilscore": 86,
-				"submission_time_diff": -21853000
 			}
 		]
 	}

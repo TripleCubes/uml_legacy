@@ -212,7 +212,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Island Hop",
 				"title_link": "https://ssdf.itch.io/island-hop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113511",
@@ -225,7 +225,7 @@
 				"rank": 4,
 				"ratings": 41,
 				"score": 4.03,
-				"ilscore": 84,
+				"ilscore": 83,
 				"submission_time_diff": -17897000
 			},
 			{
@@ -387,7 +387,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 95,
+				"jam_vs": 96,
 				"title": "Heaven Lost",
 				"title_link": "https://escada-games.itch.io/heaven-lost",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1787926",
@@ -1382,7 +1382,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 153,
+				"jam_vs": 152,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -2018,7 +2018,7 @@
 				"jam_id": 175,
 				"jam_name": "Gravity",
 				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 136,
+				"jam_vs": 135,
 				"title": "2 Gravities",
 				"title_link": "https://lightsblue.itch.io/2gravities",
 				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225406",
@@ -2724,6 +2724,114 @@
 				"score": 3.545,
 				"ilscore": 57,
 				"submission_time_diff": -20591000
+			}
+		]
+	},
+	{
+		"jammer": "T-Spawn",
+		"jammer_link": "https://t-spawn.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Jam Packed",
+				"title_link": "https://t-spawn.itch.io/jam-packed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591622",
+				"by_list": [
+					"T-Spawn",
+					"Raddic",
+					"Sperkins"
+				],
+				"by_link_list": [
+					"https://t-spawn.itch.io/",
+					"https://raddic.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 20,
+				"score": 3.825,
+				"ilscore": 69,
+				"submission_time_diff": -104000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Jacked Rabbit",
+				"title_link": "https://t-spawn.itch.io/jacked-rabbit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3435927",
+				"by_list": [
+					"T-Spawn",
+					"Sperkins"
+				],
+				"by_link_list": [
+					"https://t-spawn.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 15,
+				"score": 3.733,
+				"ilscore": 74,
+				"submission_time_diff": -56000
+			}
+		]
+	},
+	{
+		"jammer": "Sperkins",
+		"jammer_link": "https://sperkins.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Jam Packed",
+				"title_link": "https://t-spawn.itch.io/jam-packed",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591622",
+				"by_list": [
+					"T-Spawn",
+					"Raddic",
+					"Sperkins"
+				],
+				"by_link_list": [
+					"https://t-spawn.itch.io/",
+					"https://raddic.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 20,
+				"score": 3.825,
+				"ilscore": 69,
+				"submission_time_diff": -104000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Jacked Rabbit",
+				"title_link": "https://t-spawn.itch.io/jacked-rabbit",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3435927",
+				"by_list": [
+					"T-Spawn",
+					"Sperkins"
+				],
+				"by_link_list": [
+					"https://t-spawn.itch.io/",
+					"https://sperkins.itch.io/"
+				],
+				"rank": 7,
+				"ratings": 15,
+				"score": 3.733,
+				"ilscore": 74,
+				"submission_time_diff": -56000
 			}
 		]
 	},
@@ -3919,7 +4027,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Wreckipeligo",
 				"title_link": "https://kandistar.itch.io/wreckipeligo",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113954",
@@ -5120,102 +5228,6 @@
 				"score": 3.769,
 				"ilscore": 71,
 				"submission_time_diff": -15031000
-			}
-		]
-	},
-	{
-		"jammer": "Static gamin",
-		"jammer_link": "https://static-gamin.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 145,
-				"jam_name": "Frozen",
-				"jam_link": "https://itch.io/jam/mini-jam-145-frozen",
-				"jam_vs": 88,
-				"title": "STAGNANT TOWER",
-				"title_link": "https://static-gamin.itch.io/stagnant-tower",
-				"submission_page_link": "https://itch.io/jam/mini-jam-145-frozen/rate/2362532",
-				"by_list": [
-					"Static gamin"
-				],
-				"by_link_list": [
-					"https://static-gamin.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 6,
-				"score": 3.78,
-				"ilscore": 71,
-				"submission_time_diff": -116115000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 173,
-				"jam_name": "Action",
-				"jam_link": "https://itch.io/jam/mini-jam-173-action",
-				"jam_vs": 67,
-				"title": "321Cut!",
-				"title_link": "https://static-gamin.itch.io/321cut",
-				"submission_page_link": "https://itch.io/jam/mini-jam-173-action/rate/3166240",
-				"by_list": [
-					"Static gamin"
-				],
-				"by_link_list": [
-					"https://static-gamin.itch.io/"
-				],
-				"rank": 7,
-				"ratings": 11,
-				"score": 3.523,
-				"ilscore": 59,
-				"submission_time_diff": -26493000
-			}
-		]
-	},
-	{
-		"jammer": "rgremxyz",
-		"jammer_link": "https://rgremxyz.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 161,
-				"jam_name": "Style",
-				"jam_link": "https://itch.io/jam/mini-jam-161-style",
-				"jam_vs": 52,
-				"title": "Leap into Style",
-				"title_link": "https://rgremxyz.itch.io/leap-into-style",
-				"submission_page_link": "https://itch.io/jam/mini-jam-161-style/rate/2792009",
-				"by_list": [
-					"rgremxyz"
-				],
-				"by_link_list": [
-					"https://rgremxyz.itch.io/"
-				],
-				"rank": 4,
-				"ratings": 10,
-				"score": 3.775,
-				"ilscore": 56,
-				"submission_time_diff": -4547000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 163,
-				"jam_name": "Dessert",
-				"jam_link": "https://itch.io/jam/mini-jam-163-dessert",
-				"jam_vs": 51,
-				"title": "Caramel and the Sweet Academy",
-				"title_link": "https://rgremxyz.itch.io/caramel-and-the-sweet-academy",
-				"submission_page_link": "https://itch.io/jam/mini-jam-163-dessert/rate/2848479",
-				"by_list": [
-					"rgremxyz"
-				],
-				"by_link_list": [
-					"https://rgremxyz.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 8,
-				"score": 3.438,
-				"ilscore": 50,
-				"submission_time_diff": -6175000
 			}
 		]
 	}

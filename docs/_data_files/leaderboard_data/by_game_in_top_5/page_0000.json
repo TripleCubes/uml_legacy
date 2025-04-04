@@ -92,7 +92,7 @@
 				"jam_id": 168,
 				"jam_name": "Retro",
 				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 38,
+				"jam_vs": 37,
 				"title": "Ghost Byte",
 				"title_link": "https://fmlad.itch.io/ghost-byte",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3002061",
@@ -105,7 +105,7 @@
 				"rank": 1,
 				"ratings": 13,
 				"score": 3.885,
-				"ilscore": 49,
+				"ilscore": 48,
 				"submission_time_diff": -11144000
 			},
 			{
@@ -740,7 +740,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 95,
+				"jam_vs": 96,
 				"title": "Orb: Jam Version",
 				"title_link": "https://ilprinni.itch.io/orb-jam-version",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1792664",
@@ -753,7 +753,7 @@
 				"rank": 1,
 				"ratings": 9,
 				"score": 4.167,
-				"ilscore": 81,
+				"ilscore": 82,
 				"submission_time_diff": 82488000
 			},
 			{
@@ -937,7 +937,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 57,
+				"jam_vs": 56,
 				"title": "Midnight Duel",
 				"title_link": "https://ilprinni.itch.io/midnight-duel",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3100326",
@@ -950,7 +950,7 @@
 				"rank": 5,
 				"ratings": 16,
 				"score": 3.688,
-				"ilscore": 57,
+				"ilscore": 56,
 				"submission_time_diff": -20746000
 			}
 		]
@@ -2097,6 +2097,96 @@
 		]
 	},
 	{
+		"jammer": "Smidge7",
+		"jammer_link": "https://smidge7.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 167,
+				"jam_name": "Cyber",
+				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
+				"jam_vs": 63,
+				"title": "DIVE URGENT",
+				"title_link": "https://smidge7.itch.io/dive-urgent",
+				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2972959",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.766,
+				"ilscore": 77,
+				"submission_time_diff": -2955000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "CarrOPS",
+				"title_link": "https://smidge7.itch.io/carrops",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3430551",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 39,
+				"score": 4.192,
+				"ilscore": 83,
+				"submission_time_diff": -32609000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"jam_vs": 58,
+				"title": "Rise &amp; Shine",
+				"title_link": "https://smidge7.itch.io/rise-and-shine",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041054",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 31,
+				"score": 4.185,
+				"ilscore": 65,
+				"submission_time_diff": -97169000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 91,
+				"jam_name": "UFO",
+				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
+				"jam_vs": 127,
+				"title": "Fish N' Ships",
+				"title_link": "https://smidge7.itch.io/fishnships",
+				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238592",
+				"by_list": [
+					"Smidge7"
+				],
+				"by_link_list": [
+					"https://smidge7.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 21,
+				"score": 4.048,
+				"ilscore": 89,
+				"submission_time_diff": -2575000
+			}
+		]
+	},
+	{
 		"jammer": "Inkspinner",
 		"jammer_link": "https://inkspinner.itch.io/",
 		"game_list_sorted": [
@@ -2679,75 +2769,6 @@
 				"score": 4.081,
 				"ilscore": 82,
 				"submission_time_diff": -38891000
-			}
-		]
-	},
-	{
-		"jammer": "Smidge7",
-		"jammer_link": "https://smidge7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "DIVE URGENT",
-				"title_link": "https://smidge7.itch.io/dive-urgent",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2972959",
-				"by_list": [
-					"Smidge7"
-				],
-				"by_link_list": [
-					"https://smidge7.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 16,
-				"score": 4.766,
-				"ilscore": 77,
-				"submission_time_diff": -2955000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 131,
-				"jam_name": "Solar",
-				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
-				"jam_vs": 58,
-				"title": "Rise &amp; Shine",
-				"title_link": "https://smidge7.itch.io/rise-and-shine",
-				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2041054",
-				"by_list": [
-					"Smidge7"
-				],
-				"by_link_list": [
-					"https://smidge7.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 31,
-				"score": 4.185,
-				"ilscore": 65,
-				"submission_time_diff": -97169000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 91,
-				"jam_name": "UFO",
-				"jam_link": "https://itch.io/jam/mini-jam-91-ufo",
-				"jam_vs": 127,
-				"title": "Fish N' Ships",
-				"title_link": "https://smidge7.itch.io/fishnships",
-				"submission_page_link": "https://itch.io/jam/mini-jam-91-ufo/rate/1238592",
-				"by_list": [
-					"Smidge7"
-				],
-				"by_link_list": [
-					"https://smidge7.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 21,
-				"score": 4.048,
-				"ilscore": 89,
-				"submission_time_diff": -2575000
 			}
 		]
 	},
@@ -3448,7 +3469,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 153,
+				"jam_vs": 152,
 				"title": "Piwi's Plummet",
 				"title_link": "https://silvyger.itch.io/piwis-plummet",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459818",
@@ -5519,7 +5540,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 57,
+				"jam_vs": 56,
 				"title": "The Evil Mall",
 				"title_link": "https://tobinotron.itch.io/evil-mall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3098942",
@@ -5534,7 +5555,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.054,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -39616000
 			},
 			{
@@ -5571,7 +5592,7 @@
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
-				"jam_vs": 57,
+				"jam_vs": 56,
 				"title": "The Evil Mall",
 				"title_link": "https://tobinotron.itch.io/evil-mall",
 				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3098942",
@@ -5586,7 +5607,7 @@
 				"rank": 1,
 				"ratings": 14,
 				"score": 4.054,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -39616000
 			},
 			{
@@ -5823,7 +5844,7 @@
 				"jam_id": 134,
 				"jam_name": "Islands",
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 110,
+				"jam_vs": 109,
 				"title": "Boggling Isles",
 				"title_link": "https://thejackofclubs.itch.io/boggling-isles",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2113350",
@@ -5896,7 +5917,7 @@
 				"jam_id": 119,
 				"jam_name": "Heaven",
 				"jam_link": "https://itch.io/jam/mini-jam-119-heaven",
-				"jam_vs": 95,
+				"jam_vs": 96,
 				"title": "War is Heaven (game jam version)",
 				"title_link": "https://cryy22.itch.io/war-is-heaven",
 				"submission_page_link": "https://itch.io/jam/mini-jam-119-heaven/rate/1791242",
@@ -5909,7 +5930,7 @@
 				"rank": 3,
 				"ratings": 31,
 				"score": 3.855,
-				"ilscore": 75,
+				"ilscore": 76,
 				"submission_time_diff": 1980000
 			}
 		]
@@ -6370,7 +6391,7 @@
 				"jam_id": 168,
 				"jam_name": "Retro",
 				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 38,
+				"jam_vs": 37,
 				"title": "Rabbit for dinner",
 				"title_link": "https://verduritas04.itch.io/rabbit-for-dinner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3003184",
@@ -7366,7 +7387,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 153,
+				"jam_vs": 152,
 				"title": "THE TRIAL",
 				"title_link": "https://olanti.itch.io/the-trial",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459743",
@@ -7379,7 +7400,7 @@
 				"rank": 4,
 				"ratings": 7,
 				"score": 4.143,
-				"ilscore": 99,
+				"ilscore": 98,
 				"submission_time_diff": -12242000
 			}
 		]

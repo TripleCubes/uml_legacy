@@ -90,6 +90,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Mini Jam 181: Rabbits - Bunny Fight",
+				"title_link": "https://lyneia.itch.io/mini-jam-181-rabbits-bunny-fight",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3434172",
+				"by_list": [
+					"Lyneia"
+				],
+				"by_link_list": [
+					"https://lyneia.itch.io/"
+				],
+				"rank": 60,
+				"ratings": 8,
+				"score": 2.571,
+				"ilscore": 50,
+				"submission_time_diff": -49434000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 178,
 				"jam_name": "Monsters",
 				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
@@ -108,6 +129,27 @@
 				"score": 2.153,
 				"ilscore": 38,
 				"submission_time_diff": -39341000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "A simple spaceships war",
+				"title_link": "https://lyneia.itch.io/a-simple-spaceships-wars",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/573626",
+				"by_list": [
+					"Lyneia"
+				],
+				"by_link_list": [
+					"https://lyneia.itch.io/"
+				],
+				"rank": 84,
+				"ratings": 8,
+				"score": 1.677,
+				"ilscore": 33,
+				"submission_time_diff": -49452000
 			}
 		]
 	},
@@ -610,7 +652,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Leap of Faith",
 				"title_link": "https://gscoccola.itch.io/leap-of-faith",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402515",
@@ -629,7 +671,7 @@
 				"rank": 15,
 				"ratings": 24,
 				"score": 3.563,
-				"ilscore": 67,
+				"ilscore": 66,
 				"submission_time_diff": -1379000
 			}
 		]
@@ -747,8 +789,8 @@
 		]
 	},
 	{
-		"jammer": "Ferrochrom3",
-		"jammer_link": "https://ferrochrom3.itch.io/",
+		"jammer": "HCFerrochrome",
+		"jammer_link": "https://hcferrochrome.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -757,13 +799,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-179-energy",
 				"jam_vs": 83,
 				"title": "Energy Surge",
-				"title_link": "https://ferrochrom3.itch.io/energy-surge",
+				"title_link": "https://hcferrochrome.itch.io/energy-surge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-179-energy/rate/3364364",
 				"by_list": [
-					"Ferrochrom3"
+					"HCFerrochrome"
 				],
 				"by_link_list": [
-					"https://ferrochrom3.itch.io/"
+					"https://hcferrochrome.itch.io/"
 				],
 				"rank": 15,
 				"ratings": 26,
@@ -1073,7 +1115,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "BRIDGE TO NOWHERE",
 				"title_link": "https://protzz.itch.io/bridge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401284",
@@ -1260,10 +1302,41 @@
 				"title_link": "https://darklordhippo.itch.io/starborn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-179-energy/rate/3368592",
 				"by_list": [
-					"darklordhippo"
+					"darklordhippo",
+					"qezi"
 				],
 				"by_link_list": [
-					"https://darklordhippo.itch.io/"
+					"https://darklordhippo.itch.io/",
+					"https://qezi.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.33,
+				"ilscore": 61,
+				"submission_time_diff": -10053000
+			}
+		]
+	},
+	{
+		"jammer": "qezi",
+		"jammer_link": "https://qezi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 179,
+				"jam_name": "Energy",
+				"jam_link": "https://itch.io/jam/mini-jam-179-energy",
+				"jam_vs": 83,
+				"title": "Starborn",
+				"title_link": "https://darklordhippo.itch.io/starborn",
+				"submission_page_link": "https://itch.io/jam/mini-jam-179-energy/rate/3368592",
+				"by_list": [
+					"darklordhippo",
+					"qezi"
+				],
+				"by_link_list": [
+					"https://darklordhippo.itch.io/",
+					"https://qezi.itch.io/"
 				],
 				"rank": 24,
 				"ratings": 14,
@@ -1351,6 +1424,27 @@
 				"score": 3.208,
 				"ilscore": 59,
 				"submission_time_diff": 42080000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "BUNNYBASH",
+				"title_link": "https://oxesoxesoxes.itch.io/bunnybash",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3441990",
+				"by_list": [
+					"oxes.oxes.oxes"
+				],
+				"by_link_list": [
+					"https://oxesoxesoxes.itch.io/"
+				],
+				"rank": 77,
+				"ratings": 4,
+				"score": 1.937,
+				"ilscore": 38,
+				"submission_time_diff": 206793000
 			}
 		]
 	},
@@ -1613,6 +1707,27 @@
 		"jammer": "sonkim2222",
 		"jammer_link": "https://sonkim2222.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Bunny Hop !",
+				"title_link": "https://sonkim2222.itch.io/bunnyhop",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3433755",
+				"by_list": [
+					"sonkim2222"
+				],
+				"by_link_list": [
+					"https://sonkim2222.itch.io/"
+				],
+				"rank": 33,
+				"ratings": 25,
+				"score": 3.15,
+				"ilscore": 62,
+				"submission_time_diff": -58463000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 179,
@@ -2270,6 +2385,27 @@
 				"score": 1.946,
 				"ilscore": 36,
 				"submission_time_diff": -43395000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 181,
+				"jam_name": "Rabbits",
+				"jam_link": "https://itch.io/jam/mini-jam-181-rabbits",
+				"jam_vs": 97,
+				"title": "Find The Bunny - Save The World!",
+				"title_link": "https://megamitts.itch.io/find-the-bunny-save-the-world",
+				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3433783",
+				"by_list": [
+					"megamitts"
+				],
+				"by_link_list": [
+					"https://megamitts.itch.io/"
+				],
+				"rank": 85,
+				"ratings": 7,
+				"score": 1.643,
+				"ilscore": 32,
+				"submission_time_diff": -59597000
 			}
 		]
 	},
@@ -2282,7 +2418,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Back to the origins",
 				"title_link": "https://paulo-rafael-c-r.itch.io/backtotheorigins",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401900",
@@ -2384,7 +2520,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Deep in Abyss",
 				"title_link": "https://lehardygd.itch.io/deep-in-abyss",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401858",
@@ -2486,7 +2622,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Orange Juice",
 				"title_link": "https://may0.itch.io/orange-juice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399914",
@@ -2499,7 +2635,7 @@
 				"rank": 1,
 				"ratings": 38,
 				"score": 3.947,
-				"ilscore": 74,
+				"ilscore": 73,
 				"submission_time_diff": -24029000
 			}
 		]
@@ -2513,7 +2649,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2550,7 +2686,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2587,7 +2723,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2624,7 +2760,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2661,7 +2797,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2698,7 +2834,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "!CAUTION! WET FLOOR",
 				"title_link": "https://neltile.itch.io/caution-wet-floor",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398931",
@@ -2735,7 +2871,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Soda Pop",
 				"title_link": "https://booguss.itch.io/soda-pop",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399286",
@@ -2748,7 +2884,7 @@
 				"rank": 5,
 				"ratings": 32,
 				"score": 3.844,
-				"ilscore": 72,
+				"ilscore": 71,
 				"submission_time_diff": -2581000
 			}
 		]
@@ -2762,7 +2898,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Froge Diver",
 				"title_link": "https://sillesta.itch.io/froge-diver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3400155",
@@ -2789,7 +2925,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Heading Down",
 				"title_link": "https://fcu-games.itch.io/heading-down",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399246",
@@ -2806,7 +2942,7 @@
 				"rank": 8,
 				"ratings": 33,
 				"score": 3.674,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -3318000
 			}
 		]
@@ -2820,7 +2956,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Heading Down",
 				"title_link": "https://fcu-games.itch.io/heading-down",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399246",
@@ -2837,7 +2973,7 @@
 				"rank": 8,
 				"ratings": 33,
 				"score": 3.674,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -3318000
 			}
 		]
@@ -2851,7 +2987,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Heading Down",
 				"title_link": "https://fcu-games.itch.io/heading-down",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399246",
@@ -2868,7 +3004,7 @@
 				"rank": 8,
 				"ratings": 33,
 				"score": 3.674,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -3318000
 			}
 		]
@@ -2882,7 +3018,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "Beach Balling",
 				"title_link": "https://blurmps.itch.io/beach-balling",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401645",
@@ -2895,7 +3031,7 @@
 				"rank": 10,
 				"ratings": 32,
 				"score": 3.617,
-				"ilscore": 68,
+				"ilscore": 67,
 				"submission_time_diff": -27465000
 			}
 		]
@@ -2909,7 +3045,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "This went Downwell",
 				"title_link": "https://aaants.itch.io/this-went-downwell",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3400571",
@@ -2938,7 +3074,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
+				"jam_vs": 85,
 				"title": "This went Downwell",
 				"title_link": "https://aaants.itch.io/this-went-downwell",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3400571",
@@ -2955,33 +3091,6 @@
 				"score": 3.602,
 				"ilscore": 67,
 				"submission_time_diff": -53761000
-			}
-		]
-	},
-	{
-		"jammer": "masterofbanks",
-		"jammer_link": "https://masterofbanks.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 180,
-				"jam_name": "Refresh",
-				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 86,
-				"title": "Clout Diver",
-				"title_link": "https://masterofbanks.itch.io/clout-diver",
-				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3400522",
-				"by_list": [
-					"masterofbanks"
-				],
-				"by_link_list": [
-					"https://masterofbanks.itch.io/"
-				],
-				"rank": 13,
-				"ratings": 26,
-				"score": 3.596,
-				"ilscore": 67,
-				"submission_time_diff": -11020000
 			}
 		]
 	}

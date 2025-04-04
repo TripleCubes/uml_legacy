@@ -1,5 +1,74 @@
 [
 	{
+		"jammer": "almarz",
+		"jammer_link": "https://almarz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 121,
+				"jam_name": "Reflection",
+				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
+				"jam_vs": 118,
+				"title": "Cargus (demo)",
+				"title_link": "https://almarz.itch.io/cargus-demo",
+				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831225",
+				"by_list": [
+					"almarz"
+				],
+				"by_link_list": [
+					"https://almarz.itch.io/"
+				],
+				"rank": 6,
+				"ratings": 20,
+				"score": 3.987,
+				"ilscore": 85,
+				"submission_time_diff": -34426000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 124,
+				"jam_name": "Warmth",
+				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
+				"jam_vs": 114,
+				"title": "Warmth the reptile",
+				"title_link": "https://almarz.itch.io/warmth-the-reptile",
+				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889414",
+				"by_list": [
+					"almarz"
+				],
+				"by_link_list": [
+					"https://almarz.itch.io/"
+				],
+				"rank": 9,
+				"ratings": 9,
+				"score": 3.972,
+				"ilscore": 84,
+				"submission_time_diff": -26845000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 125,
+				"title": "Champion of light",
+				"title_link": "https://almarz.itch.io/champion-of-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2482812",
+				"by_list": [
+					"almarz"
+				],
+				"by_link_list": [
+					"https://almarz.itch.io/"
+				],
+				"rank": 24,
+				"ratings": 14,
+				"score": 3.589,
+				"ilscore": 79,
+				"submission_time_diff": -19084000
+			}
+		]
+	},
+	{
 		"jammer": "Exudias",
 		"jammer_link": "https://exudias.itch.io/",
 		"game_list_sorted": [
@@ -1203,7 +1272,7 @@
 				"jam_id": 168,
 				"jam_name": "Retro",
 				"jam_link": "https://itch.io/jam/mini-jam-168-retro",
-				"jam_vs": 38,
+				"jam_vs": 37,
 				"title": "The Pool",
 				"title_link": "https://melliomusic.itch.io/the-pool",
 				"submission_page_link": "https://itch.io/jam/mini-jam-168-retro/rate/3006718",
@@ -1216,7 +1285,7 @@
 				"rank": 15,
 				"ratings": 16,
 				"score": 2.875,
-				"ilscore": 36,
+				"ilscore": 35,
 				"submission_time_diff": -11710000
 			},
 			{
@@ -3415,7 +3484,7 @@
 				"jam_id": 149,
 				"jam_name": "Ancient",
 				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 153,
+				"jam_vs": 152,
 				"title": "The Ancient Explorer",
 				"title_link": "https://team-bean.itch.io/ancient-explorer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2457416",
@@ -3488,37 +3557,6 @@
 				"score": 3.405,
 				"ilscore": 49,
 				"submission_time_diff": -29105000
-			}
-		]
-	},
-	{
-		"jammer": "BlueSheep7",
-		"jammer_link": "https://bluesheep7.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 122,
-				"jam_name": "Intermission",
-				"jam_link": "https://itch.io/jam/mini-jam-122-intermission",
-				"jam_vs": 50,
-				"title": "Survivor Vampire",
-				"title_link": "https://bluesheep7.itch.io/survivor-vampire",
-				"submission_page_link": "https://itch.io/jam/mini-jam-122-intermission/rate/1848321",
-				"by_list": [
-					"BlueSheep7",
-					"yoyoyonono",
-					"HOKFMK"
-				],
-				"by_link_list": [
-					"https://bluesheep7.itch.io/",
-					"https://yoyoyonono.itch.io/",
-					"https://hasan-oguz-kankal.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 10,
-				"score": 3.4,
-				"ilscore": 49,
-				"submission_time_diff": -1271000
 			}
 		]
 	}
