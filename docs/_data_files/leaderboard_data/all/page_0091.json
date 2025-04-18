@@ -1,63 +1,5 @@
 [
 	{
-		"jammer": "TeamRecovery",
-		"jammer_link": "https://teamrecovery.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 134,
-				"jam_name": "Islands",
-				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
-				"jam_vs": 109,
-				"title": "Wave Breaker",
-				"title_link": "https://teamrecovery.itch.io/wave-breaker",
-				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112485",
-				"by_list": [
-					"TeamRecovery",
-					"drreww",
-					"charre"
-				],
-				"by_link_list": [
-					"https://teamrecovery.itch.io/",
-					"https://drreww.itch.io/",
-					"https://charre.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 28,
-				"score": 3.679,
-				"ilscore": 76,
-				"submission_time_diff": -9961000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "Barbe-cues",
-				"title_link": "https://teamrecovery.itch.io/barbe-cues",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2815262",
-				"by_list": [
-					"TeamRecovery",
-					"charre",
-					"drreww",
-					"xenvixa"
-				],
-				"by_link_list": [
-					"https://teamrecovery.itch.io/",
-					"https://charre.itch.io/",
-					"https://drreww.itch.io/",
-					"https://xenvixa.itch.io/"
-				],
-				"rank": 36,
-				"ratings": 36,
-				"score": 3.486,
-				"ilscore": 79,
-				"submission_time_diff": -7629000
-			}
-		]
-	},
-	{
 		"jammer": "drreww",
 		"jammer_link": "https://drreww.itch.io/",
 		"game_list_sorted": [
@@ -822,8 +764,8 @@
 		]
 	},
 	{
-		"jammer": "NpcStudios",
-		"jammer_link": "https://npcstudios.itch.io/",
+		"jammer": "npcproductions",
+		"jammer_link": "https://npcproductions.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -832,15 +774,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"jam_vs": 109,
 				"title": "Shark Isle",
-				"title_link": "https://npcstudios.itch.io/shark-isle",
+				"title_link": "https://npcproductions.itch.io/shark-isle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by_list": [
-					"NpcStudios",
+					"npcproductions",
 					"Rowlver",
 					"JonathanFerreira"
 				],
 				"by_link_list": [
-					"https://npcstudios.itch.io/",
+					"https://npcproductions.itch.io/",
 					"https://rowlver.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
@@ -863,15 +805,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"jam_vs": 109,
 				"title": "Shark Isle",
-				"title_link": "https://npcstudios.itch.io/shark-isle",
+				"title_link": "https://npcproductions.itch.io/shark-isle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by_list": [
-					"NpcStudios",
+					"npcproductions",
 					"Rowlver",
 					"JonathanFerreira"
 				],
 				"by_link_list": [
-					"https://npcstudios.itch.io/",
+					"https://npcproductions.itch.io/",
 					"https://rowlver.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
@@ -894,15 +836,15 @@
 				"jam_link": "https://itch.io/jam/mini-jam-134-islands",
 				"jam_vs": 109,
 				"title": "Shark Isle",
-				"title_link": "https://npcstudios.itch.io/shark-isle",
+				"title_link": "https://npcproductions.itch.io/shark-isle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-134-islands/rate/2112519",
 				"by_list": [
-					"NpcStudios",
+					"npcproductions",
 					"Rowlver",
 					"JonathanFerreira"
 				],
 				"by_link_list": [
-					"https://npcstudios.itch.io/",
+					"https://npcproductions.itch.io/",
 					"https://rowlver.itch.io/",
 					"https://jonathanferreira.itch.io/"
 				],
@@ -3509,6 +3451,41 @@
 				"score": 2.194,
 				"ilscore": 38,
 				"submission_time_diff": -433000
+			}
+		]
+	},
+	{
+		"jammer": "Emrox",
+		"jammer_link": "https://emrox.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 135,
+				"jam_name": "Deception",
+				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
+				"jam_vs": 73,
+				"title": "Puzzsoft's Cooleidoscope",
+				"title_link": "https://puzzsoft.itch.io/koolaidnoscope",
+				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134732",
+				"by_list": [
+					"PuzzSoft",
+					"Emrox",
+					"JohnLee Cooper",
+					"guattery",
+					"Teal_ish"
+				],
+				"by_link_list": [
+					"https://puzzsoft.itch.io/",
+					"https://emrox.itch.io/",
+					"https://ergman.itch.io/",
+					"https://guattery.itch.io/",
+					"https://teal-ish.itch.io/"
+				],
+				"rank": 57,
+				"ratings": 4,
+				"score": 2.194,
+				"ilscore": 38,
+				"submission_time_diff": -7016000
 			}
 		]
 	}

@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "lights+blue",
-		"jammer_link": "https://lightsblue.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 175,
-				"jam_name": "Gravity",
-				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
-				"jam_vs": 135,
-				"title": "2 Gravities",
-				"title_link": "https://lightsblue.itch.io/2gravities",
-				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225406",
-				"by_list": [
-					"lights+blue"
-				],
-				"by_link_list": [
-					"https://lightsblue.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 16,
-				"score": 4.281,
-				"ilscore": 97,
-				"submission_time_diff": -2869000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 178,
-				"jam_name": "Monsters",
-				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
-				"jam_vs": 78,
-				"title": "Chromasoul",
-				"title_link": "https://lightsblue.itch.io/chromasoul",
-				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3330499",
-				"by_list": [
-					"lights+blue"
-				],
-				"by_link_list": [
-					"https://lightsblue.itch.io/"
-				],
-				"rank": 10,
-				"ratings": 20,
-				"score": 3.763,
-				"ilscore": 67,
-				"submission_time_diff": -26505000
-			}
-		]
-	},
-	{
 		"jammer": "JhaX Games",
 		"jammer_link": "https://jhax-games.itch.io/",
 		"game_list_sorted": [
@@ -548,7 +500,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "PaperLand",
 				"title_link": "https://susu0.itch.io/paperland",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3296679",
@@ -2333,7 +2285,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "The Origami Messenger",
 				"title_link": "https://madixio.itch.io/the-origami-messenger",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3300474",
@@ -2933,7 +2885,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Paperplane",
 				"title_link": "https://goodgamedev11.itch.io/paper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3293366",
@@ -3131,6 +3083,33 @@
 				"score": 1.552,
 				"ilscore": 35,
 				"submission_time_diff": -11354000
+			}
+		]
+	},
+	{
+		"jammer": "Pineapple2055",
+		"jammer_link": "https://pineapple2055.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 135,
+				"title": "Bugs In Space",
+				"title_link": "https://pineapple2055.itch.io/bugs-in-space",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3226271",
+				"by_list": [
+					"Pineapple2055"
+				],
+				"by_link_list": [
+					"https://pineapple2055.itch.io/"
+				],
+				"rank": 126,
+				"ratings": 2,
+				"score": 1.509,
+				"ilscore": 34,
+				"submission_time_diff": 84760000
 			}
 		]
 	}

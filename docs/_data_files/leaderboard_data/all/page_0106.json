@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "TowaFR",
-		"jammer_link": "https://towafr.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 157,
-				"jam_name": "Electric",
-				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
-				"jam_vs": 115,
-				"title": "Magnet Rush",
-				"title_link": "https://towafr.itch.io/magnet-rush",
-				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674107",
-				"by_list": [
-					"TowaFR"
-				],
-				"by_link_list": [
-					"https://towafr.itch.io/"
-				],
-				"rank": 112,
-				"ratings": 3,
-				"score": 1.786,
-				"ilscore": 38,
-				"submission_time_diff": -67000000
-			}
-		]
-	},
-	{
 		"jammer": "ProbablyDanny",
 		"jammer_link": "https://probablydanny.itch.io/",
 		"game_list_sorted": [
@@ -89,7 +62,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Save The House (Bugs fixed)",
 				"title_link": "https://lyricsz.itch.io/save-the-house",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297950",
@@ -3684,6 +3657,33 @@
 				"score": 2.021,
 				"ilscore": 44,
 				"submission_time_diff": 34571000
+			}
+		]
+	},
+	{
+		"jammer": "lswb",
+		"jammer_link": "https://lswb.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 159,
+				"jam_name": "Ocean",
+				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
+				"jam_vs": 123,
+				"title": "Tiny Marine Survival",
+				"title_link": "https://lswb.itch.io/tiny-marine-survival",
+				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733164",
+				"by_list": [
+					"lswb"
+				],
+				"by_link_list": [
+					"https://lswb.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 11,
+				"score": 2.795,
+				"ilscore": 61,
+				"submission_time_diff": -38656000
 			}
 		]
 	}

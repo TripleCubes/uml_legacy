@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "LoicLeGrosFrere",
-		"jammer_link": "https://loiclegrosfrere.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 112,
-				"jam_name": "Chrono",
-				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
-				"jam_vs": 93,
-				"title": "Maurice's odyssey",
-				"title_link": "https://tatawanda.itch.io/maurices-odyssey",
-				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653229",
-				"by_list": [
-					"tatawanda",
-					"Lsdlx",
-					"LoicLeGrosFrere"
-				],
-				"by_link_list": [
-					"https://tatawanda.itch.io/",
-					"https://lsdlx.itch.io/",
-					"https://loiclegrosfrere.itch.io/"
-				],
-				"rank": 17,
-				"ratings": 12,
-				"score": 3.854,
-				"ilscore": 75,
-				"submission_time_diff": 32241000
-			}
-		]
-	},
-	{
 		"jammer": "HaywireJo",
 		"jammer_link": "https://haywirejo.itch.io/",
 		"game_list_sorted": [
@@ -765,7 +734,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Luminous Crucible",
 				"title_link": "https://crass-sandwich.itch.io/luminous-crucible",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832405",
@@ -947,7 +916,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Pengi on Ice",
 				"title_link": "https://soelna.itch.io/pengionice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888292",
@@ -1074,7 +1043,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Pengi on Ice",
 				"title_link": "https://soelna.itch.io/pengionice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888292",
@@ -2290,7 +2259,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Color Bomb",
 				"title_link": "https://pankiwi.itch.io/color-bomb",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832195",
@@ -4010,6 +3979,35 @@
 				"score": 3.357,
 				"ilscore": 68,
 				"submission_time_diff": -16558000
+			}
+		]
+	},
+	{
+		"jammer": "ShyVisual",
+		"jammer_link": "https://shyvisual.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 113,
+				"jam_name": "Final Boss",
+				"jam_link": "https://itch.io/jam/mini-jam-113-final-boss",
+				"jam_vs": 104,
+				"title": "Reliquary of Time",
+				"title_link": "https://shyvisual.itch.io/reliquary-of-time",
+				"submission_page_link": "https://itch.io/jam/mini-jam-113-final-boss/rate/1673092",
+				"by_list": [
+					"ShyVisual",
+					"Acrlixe"
+				],
+				"by_link_list": [
+					"https://shyvisual.itch.io/",
+					"https://acrlixe.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 8,
+				"score": 3.344,
+				"ilscore": 68,
+				"submission_time_diff": 1167000
 			}
 		]
 	}

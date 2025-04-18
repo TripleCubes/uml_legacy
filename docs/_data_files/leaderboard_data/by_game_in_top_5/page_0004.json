@@ -1,5 +1,59 @@
 [
 	{
+		"jammer": "R1GBY",
+		"jammer_link": "https://r1gby-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 214,
+				"title": "Lunar 10",
+				"title_link": "https://r1gby-games.itch.io/lunar-10",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2021365",
+				"by_list": [
+					"R1GBY"
+				],
+				"by_link_list": [
+					"https://r1gby-games.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 14,
+				"score": 4.089,
+				"ilscore": 111,
+				"submission_time_diff": -4649000
+			}
+		]
+	},
+	{
+		"jammer": "Lifeless Carrot",
+		"jammer_link": "https://lifeless-carrot.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 128,
+				"jam_name": "Health",
+				"jam_link": "https://itch.io/jam/mini-jam-128-health",
+				"jam_vs": 133,
+				"title": "Lonely Little Reaper",
+				"title_link": "https://lifeless-carrot.itch.io/lonely-little-reaper",
+				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1976126",
+				"by_list": [
+					"Lifeless Carrot"
+				],
+				"by_link_list": [
+					"https://lifeless-carrot.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 12,
+				"score": 4.083,
+				"ilscore": 92,
+				"submission_time_diff": -26836000
+			}
+		]
+	},
+	{
 		"jammer": "CuriousCinni",
 		"jammer_link": "https://curiouscinni.itch.io/",
 		"game_list_sorted": [
@@ -35,7 +89,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Researcher's Trail",
 				"title_link": "https://dominicdongdev.itch.io/researchers-trail",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297277",
@@ -48,7 +102,7 @@
 				"rank": 2,
 				"ratings": 23,
 				"score": 4.076,
-				"ilscore": 66,
+				"ilscore": 65,
 				"submission_time_diff": -18656000
 			}
 		]
@@ -458,7 +512,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603832",
 				"by_list": [
 					"Manuel Rincón",
-					"Diego.dessketch@gmail.com"
+					"dessketch"
 				],
 				"by_link_list": [
 					"https://manurgamedev.itch.io/",
@@ -473,7 +527,7 @@
 		]
 	},
 	{
-		"jammer": "Diego.dessketch@gmail.com",
+		"jammer": "dessketch",
 		"jammer_link": "https://dessketch.itch.io/",
 		"game_list_sorted": [
 			{
@@ -487,7 +541,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-51-rome/rate/603832",
 				"by_list": [
 					"Manuel Rincón",
-					"Diego.dessketch@gmail.com"
+					"dessketch"
 				],
 				"by_link_list": [
 					"https://manurgamedev.itch.io/",
@@ -808,6 +862,33 @@
 		]
 	},
 	{
+		"jammer": "NathanTheCraziest",
+		"jammer_link": "https://nathanthecraziest.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "A Frog like you",
+				"title_link": "https://nathanthecraziest.itch.io/a-frog-like-you",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3469409",
+				"by_list": [
+					"NathanTheCraziest"
+				],
+				"by_link_list": [
+					"https://nathanthecraziest.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 22,
+				"score": 3.943,
+				"ilscore": 77,
+				"submission_time_diff": -33203000
+			}
+		]
+	},
+	{
 		"jammer": "HarryNotWizard",
 		"jammer_link": "https://harrynotwizard.itch.io/",
 		"game_list_sorted": [
@@ -1056,7 +1137,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Pogo",
 				"title_link": "https://axial-studios.itch.io/mini-jam-180",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3395134",
@@ -1069,7 +1150,7 @@
 				"rank": 2,
 				"ratings": 29,
 				"score": 3.905,
-				"ilscore": 73,
+				"ilscore": 72,
 				"submission_time_diff": -18046000
 			}
 		]
@@ -2821,89 +2902,6 @@
 				"score": 4.324,
 				"ilscore": 92,
 				"submission_time_diff": -14901000
-			}
-		]
-	},
-	{
-		"jammer": "MyCousinJimmy",
-		"jammer_link": "https://mycousinjimmy.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 384,
-				"title": "The Devil On My Shoulder",
-				"title_link": "https://mycousinjimmy.itch.io/the-devil-on-my-shoulder",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634851",
-				"by_list": [
-					"MyCousinJimmy"
-				],
-				"by_link_list": [
-					"https://mycousinjimmy.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 24,
-				"score": 4.302,
-				"ilscore": 143,
-				"submission_time_diff": -208000
-			}
-		]
-	},
-	{
-		"jammer": "arshia80",
-		"jammer_link": "https://arshia80.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 167,
-				"jam_name": "Cyber",
-				"jam_link": "https://itch.io/jam/mini-jam-167-cyber",
-				"jam_vs": 63,
-				"title": "The Vault",
-				"title_link": "https://arshia80.itch.io/the-vault",
-				"submission_page_link": "https://itch.io/jam/mini-jam-167-cyber/rate/2976405",
-				"by_list": [
-					"arshia80"
-				],
-				"by_link_list": [
-					"https://arshia80.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 15,
-				"score": 4.3,
-				"ilscore": 70,
-				"submission_time_diff": -1702000
-			}
-		]
-	},
-	{
-		"jammer": "John johnson music",
-		"jammer_link": "https://john-johnson-music.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "major_jam",
-				"jam_id": 6,
-				"jam_name": "Major Jam 6: Life",
-				"jam_link": "https://itch.io/jam/major-jam-6-life",
-				"jam_vs": 138,
-				"title": "Apart",
-				"title_link": "https://itsmostlymagic.itch.io/life-jam",
-				"submission_page_link": "https://itch.io/jam/major-jam-6-life/rate/2187144",
-				"by_list": [
-					"MostlyMagic",
-					"John johnson music"
-				],
-				"by_link_list": [
-					"https://itsmostlymagic.itch.io/",
-					"https://john-johnson-music.itch.io/"
-				],
-				"rank": 3,
-				"ratings": 21,
-				"score": 4.298,
-				"ilscore": 98,
-				"submission_time_diff": -12916000
 			}
 		]
 	}

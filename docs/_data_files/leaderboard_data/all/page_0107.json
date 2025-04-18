@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "lswb",
-		"jammer_link": "https://lswb.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 159,
-				"jam_name": "Ocean",
-				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
-				"jam_vs": 123,
-				"title": "Tiny Marine Survival",
-				"title_link": "https://lswb.itch.io/tiny-marine-survival",
-				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2733164",
-				"by_list": [
-					"lswb"
-				],
-				"by_link_list": [
-					"https://lswb.itch.io/"
-				],
-				"rank": 74,
-				"ratings": 11,
-				"score": 2.795,
-				"ilscore": 61,
-				"submission_time_diff": -38656000
-			}
-		]
-	},
-	{
 		"jammer": "NamellesDev",
 		"jammer_link": "https://namellesdev.itch.io/",
 		"game_list_sorted": [
@@ -490,7 +463,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Robo Falling Papers",
 				"title_link": "https://henrynova.itch.io/robo-falling-papers",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3298156",
@@ -1191,11 +1164,11 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-159-ocean/rate/2718872",
 				"by_list": [
 					"FoggyRainStudios",
-					"Manuマヌ"
+					"Sorahn's Inventory 🌱"
 				],
 				"by_link_list": [
 					"https://foggyrainstudios.itch.io/",
-					"https://manuthedev.itch.io/"
+					"https://sorahn.itch.io/"
 				],
 				"rank": 123,
 				"ratings": 2,
@@ -3198,6 +3171,33 @@
 				"score": 2.441,
 				"ilscore": 53,
 				"submission_time_diff": -31558000
+			}
+		]
+	},
+	{
+		"jammer": "Beanie1709",
+		"jammer_link": "https://beanie1709.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 160,
+				"jam_name": "Light",
+				"jam_link": "https://itch.io/jam/mini-jam-160-light",
+				"jam_vs": 122,
+				"title": "Speed Demon",
+				"title_link": "https://beanie1709.itch.io/speed-demon",
+				"submission_page_link": "https://itch.io/jam/mini-jam-160-light/rate/2762151",
+				"by_list": [
+					"Beanie1709"
+				],
+				"by_link_list": [
+					"https://beanie1709.itch.io/"
+				],
+				"rank": 81,
+				"ratings": 7,
+				"score": 2.405,
+				"ilscore": 52,
+				"submission_time_diff": -90732000
 			}
 		]
 	}

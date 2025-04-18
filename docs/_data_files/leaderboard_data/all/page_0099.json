@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "spookiemilkjug",
-		"jammer_link": "https://spookiemilkjug.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 150,
-				"jam_name": "Magic",
-				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
-				"jam_vs": 125,
-				"title": "Need a Light?",
-				"title_link": "https://hexatin.itch.io/need-a-light",
-				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485061",
-				"by_list": [
-					"Hexatin",
-					"spookiemilkjug"
-				],
-				"by_link_list": [
-					"https://hexatin.itch.io/",
-					"https://spookiemilkjug.itch.io/"
-				],
-				"rank": 65,
-				"ratings": 5,
-				"score": 2.831,
-				"ilscore": 62,
-				"submission_time_diff": 131896000
-			}
-		]
-	},
-	{
 		"jammer": "Peteclark",
 		"jammer_link": "https://peteclark.itch.io/",
 		"game_list_sorted": [
@@ -2928,7 +2899,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Hungry Things",
 				"title_link": "https://retrowill.itch.io/hungrythings",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3291044",
@@ -3549,6 +3520,33 @@
 				"score": 2.944,
 				"ilscore": 57,
 				"submission_time_diff": -30010000
+			}
+		]
+	},
+	{
+		"jammer": "Didljam",
+		"jammer_link": "https://didljam.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 151,
+				"jam_name": "Dragons",
+				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
+				"jam_vs": 92,
+				"title": "The Last Coin",
+				"title_link": "https://didljam.itch.io/the-last-coin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-151-dragons/rate/2512247",
+				"by_list": [
+					"Didljam"
+				],
+				"by_link_list": [
+					"https://didljam.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 9,
+				"score": 2.944,
+				"ilscore": 57,
+				"submission_time_diff": -33977000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Manmellon",
-		"jammer_link": "https://manmellon.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 117,
-				"jam_name": "Ghosts",
-				"jam_link": "https://itch.io/jam/mini-jam-117-ghosts",
-				"jam_vs": 187,
-				"title": "Please, dont repeat this at home",
-				"title_link": "https://manmellon.itch.io/please-dont-repeat-this-at-home",
-				"submission_page_link": "https://itch.io/jam/mini-jam-117-ghosts/rate/1749797",
-				"by_list": [
-					"Manmellon"
-				],
-				"by_link_list": [
-					"https://manmellon.itch.io/"
-				],
-				"rank": 153,
-				"ratings": 4,
-				"score": 1.643,
-				"ilscore": 42,
-				"submission_time_diff": -11258000
-			}
-		]
-	},
-	{
 		"jammer": "Yannodo",
 		"jammer_link": "https://yannodo.itch.io/",
 		"game_list_sorted": [
@@ -272,7 +245,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "the warmth resistence",
 				"title_link": "https://zuimamagam3s.itch.io/the-warmth-resistence",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888950",
@@ -1451,11 +1424,13 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3436080",
 				"by_list": [
 					"Evan Martin",
-					"enma"
+					"enma",
+					"Tossan"
 				],
 				"by_link_list": [
 					"https://evan-martin.itch.io/",
-					"https://enmakami.itch.io/"
+					"https://enmakami.itch.io/",
+					"https://tossan.itch.io/"
 				],
 				"rank": 26,
 				"ratings": 23,
@@ -1508,6 +1483,29 @@
 				"score": 3.317,
 				"ilscore": 75,
 				"submission_time_diff": -34910000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "The Final Limb",
+				"title_link": "https://enmakami.itch.io/the-final-limb",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472396",
+				"by_list": [
+					"enma",
+					"Rdraa"
+				],
+				"by_link_list": [
+					"https://enmakami.itch.io/",
+					"https://rdraa12.itch.io/"
+				],
+				"rank": 62,
+				"ratings": 8,
+				"score": 2.264,
+				"ilscore": 44,
+				"submission_time_diff": -133000
 			}
 		]
 	},
@@ -2952,7 +2950,7 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1769478",
 				"by_list": [
 					"EthanDev",
-					"Wins Games &amp; Audio"
+					"Javier Ventosa"
 				],
 				"by_link_list": [
 					"https://ethandalecreative.itch.io/",
@@ -3648,6 +3646,33 @@
 				"score": 2.784,
 				"ilscore": 63,
 				"submission_time_diff": 51275000
+			}
+		]
+	},
+	{
+		"jammer": "M0ldRice",
+		"jammer_link": "https://purple-zeph-games.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 118,
+				"jam_name": "Vampires",
+				"jam_link": "https://itch.io/jam/mini-jam-118-vampires",
+				"jam_vs": 138,
+				"title": "Swedish vampire gets vegan blood that he has to bring to his wife or they are getting divorced",
+				"title_link": "https://purple-zeph-games.itch.io/swedish-vampire-gets-vegan-blood-that-he-has-to-bring-to-his-wife-or-they-are-ge",
+				"submission_page_link": "https://itch.io/jam/mini-jam-118-vampires/rate/1770396",
+				"by_list": [
+					"M0ldRice"
+				],
+				"by_link_list": [
+					"https://purple-zeph-games.itch.io/"
+				],
+				"rank": 80,
+				"ratings": 12,
+				"score": 2.75,
+				"ilscore": 63,
+				"submission_time_diff": -12036000
 			}
 		]
 	}

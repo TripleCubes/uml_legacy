@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "DK_games_2021",
-		"jammer_link": "https://dk-games-2021.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 93,
-				"jam_name": "Vacation",
-				"jam_link": "https://itch.io/jam/mini-jam-93-vacation",
-				"jam_vs": 45,
-				"title": "Beans on vacation",
-				"title_link": "https://dk-games-2021.itch.io/beans-on-vacation",
-				"submission_page_link": "https://itch.io/jam/mini-jam-93-vacation/rate/1278264",
-				"by_list": [
-					"DK_games_2021"
-				],
-				"by_link_list": [
-					"https://dk-games-2021.itch.io/"
-				],
-				"rank": 38,
-				"ratings": 4,
-				"score": 2.458,
-				"ilscore": 33,
-				"submission_time_diff": 48797000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 94,
-				"jam_name": "Baking",
-				"jam_link": "https://itch.io/jam/mini-jam-94-baking",
-				"jam_vs": 89,
-				"title": "Baking rain",
-				"title_link": "https://dk-games-2021.itch.io/baking-rain",
-				"submission_page_link": "https://itch.io/jam/mini-jam-94-baking/rate/1294738",
-				"by_list": [
-					"DK_games_2021"
-				],
-				"by_link_list": [
-					"https://dk-games-2021.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 6,
-				"score": 2.776,
-				"ilscore": 53,
-				"submission_time_diff": -68931000
-			}
-		]
-	},
-	{
 		"jammer": "pasttensedraw",
 		"jammer_link": "https://pasttensedraw.itch.io/",
 		"game_list_sorted": [
@@ -2036,7 +1988,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Larry the Wizard",
 				"title_link": "https://emanueler.itch.io/larry-the-wizard",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1829321",
@@ -2405,7 +2357,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Smiley Corner",
 				"title_link": "https://ironhandmd.itch.io/smiley-corner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888879",
@@ -2621,7 +2573,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Winter knitting factory",
 				"title_link": "https://aquaramelia.itch.io/winter-knitting-factory",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1837653",
@@ -2634,7 +2586,7 @@
 				"rank": 103,
 				"ratings": 4,
 				"score": 1.581,
-				"ilscore": 34,
+				"ilscore": 33,
 				"submission_time_diff": 295471000
 			},
 			{
@@ -3978,6 +3930,33 @@
 				"score": 2.79,
 				"ilscore": 45,
 				"submission_time_diff": -76567000
+			}
+		]
+	},
+	{
+		"jammer": "Brightish",
+		"jammer_link": "https://brightish.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 95,
+				"jam_name": "Chance",
+				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
+				"jam_vs": 64,
+				"title": "One Last Chance",
+				"title_link": "https://brightish.itch.io/one-last-chance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316012",
+				"by_list": [
+					"Brightish"
+				],
+				"by_link_list": [
+					"https://brightish.itch.io/"
+				],
+				"rank": 43,
+				"ratings": 7,
+				"score": 2.772,
+				"ilscore": 45,
+				"submission_time_diff": -5306000
 			}
 		]
 	}

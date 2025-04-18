@@ -1,57 +1,5 @@
 [
 	{
-		"jammer": "Diamond Dust",
-		"jammer_link": "https://diamonddustye.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 129,
-				"jam_name": "Poison",
-				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
-				"jam_vs": 75,
-				"title": "Venefica",
-				"title_link": "https://diamonddustye.itch.io/venefica",
-				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999736",
-				"by_list": [
-					"Diamond Dust"
-				],
-				"by_link_list": [
-					"https://diamonddustye.itch.io/"
-				],
-				"rank": 32,
-				"ratings": 9,
-				"score": 3.194,
-				"ilscore": 56,
-				"submission_time_diff": -15189000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 154,
-				"jam_name": "Travel",
-				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
-				"jam_vs": 79,
-				"title": "Cardboard Box Solid",
-				"title_link": "https://zirrock.itch.io/cardboardboxsolid",
-				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591273",
-				"by_list": [
-					"zirrock",
-					"Diamond Dust",
-					"WaluigiNumbaWan"
-				],
-				"by_link_list": [
-					"https://zirrock.itch.io/",
-					"https://diamonddustye.itch.io/",
-					"https://waluiginumbawan.itch.io/"
-				],
-				"rank": 56,
-				"ratings": 3,
-				"score": 2.191,
-				"ilscore": 39,
-				"submission_time_diff": -15756000
-			}
-		]
-	},
-	{
 		"jammer": "papercavegames",
 		"jammer_link": "https://papercavegames.itch.io/",
 		"game_list_sorted": [
@@ -248,6 +196,27 @@
 		"jammer": "Kvemon",
 		"jammer_link": "https://quemone.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Frog feast",
+				"title_link": "https://quemone.itch.io/frog-feast",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472343",
+				"by_list": [
+					"Kvemon"
+				],
+				"by_link_list": [
+					"https://quemone.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 23,
+				"score": 3.978,
+				"ilscore": 77,
+				"submission_time_diff": -3966000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 129,
@@ -2225,6 +2194,31 @@
 				"score": 3.625,
 				"ilscore": 98,
 				"submission_time_diff": -811000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Frog Crawl Experiment",
+				"title_link": "https://rodrigorosa.itch.io/frog-crawl-experiment",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472586",
+				"by_list": [
+					"rodrigoRosa",
+					"KitsuArtsy",
+					"DD"
+				],
+				"by_link_list": [
+					"https://rodrigorosa.itch.io/",
+					"https://kitsuartsy.itch.io/",
+					"https://games-by-dd.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 16,
+				"score": 2.938,
+				"ilscore": 57,
+				"submission_time_diff": 33110000
 			}
 		]
 	},
@@ -3760,6 +3754,54 @@
 				"score": 3.111,
 				"ilscore": 84,
 				"submission_time_diff": -32567000
+			}
+		]
+	},
+	{
+		"jammer": "Joshua Briggs",
+		"jammer_link": "https://joshua-briggs.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 131,
+				"jam_name": "Solar",
+				"jam_link": "https://itch.io/jam/mini-jam-131-solar",
+				"jam_vs": 58,
+				"title": "Eternal Possession",
+				"title_link": "https://joshua-briggs.itch.io/eternal-possession",
+				"submission_page_link": "https://itch.io/jam/mini-jam-131-solar/rate/2040523",
+				"by_list": [
+					"Joshua Briggs"
+				],
+				"by_link_list": [
+					"https://joshua-briggs.itch.io/"
+				],
+				"rank": 15,
+				"ratings": 12,
+				"score": 3.333,
+				"ilscore": 52,
+				"submission_time_diff": -132700000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 130,
+				"jam_name": "Lunar",
+				"jam_link": "https://itch.io/jam/mini-jam-130-lunar",
+				"jam_vs": 214,
+				"title": "Ultra Pong",
+				"title_link": "https://joshua-briggs.itch.io/ultra-pong",
+				"submission_page_link": "https://itch.io/jam/mini-jam-130-lunar/rate/2018425",
+				"by_list": [
+					"Joshua Briggs"
+				],
+				"by_link_list": [
+					"https://joshua-briggs.itch.io/"
+				],
+				"rank": 83,
+				"ratings": 39,
+				"score": 3.096,
+				"ilscore": 84,
+				"submission_time_diff": -51917000
 			}
 		]
 	}

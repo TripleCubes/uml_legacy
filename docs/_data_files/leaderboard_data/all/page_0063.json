@@ -1,53 +1,5 @@
 [
 	{
-		"jammer": "cunksley",
-		"jammer_link": "https://cunksley.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 123,
-				"jam_name": "Web",
-				"jam_link": "https://itch.io/jam/mini-jam-123-web",
-				"jam_vs": 208,
-				"title": "Web-a-pult",
-				"title_link": "https://cunksley.itch.io/web-apult",
-				"submission_page_link": "https://itch.io/jam/mini-jam-123-web/rate/1865959",
-				"by_list": [
-					"cunksley"
-				],
-				"by_link_list": [
-					"https://cunksley.itch.io/"
-				],
-				"rank": 73,
-				"ratings": 12,
-				"score": 3.125,
-				"ilscore": 84,
-				"submission_time_diff": -169643000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 280,
-				"title": "TONGUE",
-				"title_link": "https://cunksley.itch.io/tongue",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530859",
-				"by_list": [
-					"cunksley"
-				],
-				"by_link_list": [
-					"https://cunksley.itch.io/"
-				],
-				"rank": 187,
-				"ratings": 5,
-				"score": 2.409,
-				"ilscore": 72,
-				"submission_time_diff": -72889000
-			}
-		]
-	},
-	{
 		"jammer": "Unito-Dev",
 		"jammer_link": "https://unito-dev.itch.io/",
 		"game_list_sorted": [
@@ -1930,7 +1882,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Soldier Run",
 				"title_link": "https://dodgy-studio.itch.io/soldier-run",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889250",
@@ -1943,7 +1895,7 @@
 				"rank": 114,
 				"ratings": 4,
 				"score": 1.039,
-				"ilscore": 22,
+				"ilscore": 21,
 				"submission_time_diff": -31978000
 			},
 			{
@@ -2246,7 +2198,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Cauldron",
 				"title_link": "https://tornadoofsoup.itch.io/cauldron",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890045",
@@ -3587,6 +3539,33 @@
 				"score": 3.625,
 				"ilscore": 70,
 				"submission_time_diff": -6513000
+			}
+		]
+	},
+	{
+		"jammer": "GDYaseen",
+		"jammer_link": "https://gdyaseen.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 107,
+				"jam_name": "Music",
+				"jam_link": "https://itch.io/jam/mini-jam-107-music",
+				"jam_vs": 93,
+				"title": "EvoKroma",
+				"title_link": "https://gdyaseen.itch.io/evokroma",
+				"submission_page_link": "https://itch.io/jam/mini-jam-107-music/rate/1552743",
+				"by_list": [
+					"GDYaseen"
+				],
+				"by_link_list": [
+					"https://gdyaseen.itch.io/"
+				],
+				"rank": 16,
+				"ratings": 18,
+				"score": 3.611,
+				"ilscore": 70,
+				"submission_time_diff": -3896000
 			}
 		]
 	}

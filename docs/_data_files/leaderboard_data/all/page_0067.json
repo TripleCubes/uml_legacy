@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "wimser_rat",
-		"jammer_link": "https://wimser-rat.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 109,
-				"jam_name": "Depths",
-				"jam_link": "https://itch.io/jam/mini-jam-109-depths",
-				"jam_vs": 136,
-				"title": "Bug Busterz X-Treme Remastered DX+ Edition",
-				"title_link": "https://iotagamer69.itch.io/bug-busterz",
-				"submission_page_link": "https://itch.io/jam/mini-jam-109-depths/rate/1590555",
-				"by_list": [
-					"Iotagamer69",
-					"wimser_rat",
-					"SpeedyCodes"
-				],
-				"by_link_list": [
-					"https://iotagamer69.itch.io/",
-					"https://wimser-rat.itch.io/",
-					"https://speedycodes.itch.io/"
-				],
-				"rank": 92,
-				"ratings": 7,
-				"score": 2.706,
-				"ilscore": 61,
-				"submission_time_diff": 149494000
-			}
-		]
-	},
-	{
 		"jammer": "SpeedyCodes",
 		"jammer_link": "https://speedycodes.itch.io/",
 		"game_list_sorted": [
@@ -2674,7 +2643,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Memories of Warmth",
 				"title_link": "https://drdeadlock.itch.io/game-jam-124-warmth",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888133",
@@ -3803,6 +3772,35 @@
 				"score": 3.132,
 				"ilscore": 84,
 				"submission_time_diff": -448000
+			}
+		]
+	},
+	{
+		"jammer": "Matth_ew12zz",
+		"jammer_link": "https://matth-ew12zz.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 110,
+				"jam_name": "Sacrifice",
+				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
+				"jam_vs": 212,
+				"title": "Don't make deals with the Devil.",
+				"title_link": "https://henry-hamster.itch.io/dont-make-deals-with-the-devil",
+				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1608520",
+				"by_list": [
+					"Henry_Hamster",
+					"Matth_ew12zz"
+				],
+				"by_link_list": [
+					"https://henry-hamster.itch.io/",
+					"https://matth-ew12zz.itch.io/"
+				],
+				"rank": 73,
+				"ratings": 8,
+				"score": 3.125,
+				"ilscore": 84,
+				"submission_time_diff": -2875000
 			}
 		]
 	}

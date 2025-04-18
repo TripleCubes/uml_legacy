@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Crooked Apothecary",
-		"jammer_link": "https://quifflesnix.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 155,
-				"jam_name": "Wind",
-				"jam_link": "https://itch.io/jam/mini-jam-155-wind",
-				"jam_vs": 109,
-				"title": "Windwriter",
-				"title_link": "https://quifflesnix.itch.io/windwriter",
-				"submission_page_link": "https://itch.io/jam/mini-jam-155-wind/rate/2616478",
-				"by_list": [
-					"Crooked Apothecary"
-				],
-				"by_link_list": [
-					"https://quifflesnix.itch.io/"
-				],
-				"rank": 70,
-				"ratings": 5,
-				"score": 2.358,
-				"ilscore": 49,
-				"submission_time_diff": -96584000
-			}
-		]
-	},
-	{
 		"jammer": "BriamDev",
 		"jammer_link": "https://briamdev.itch.io/",
 		"game_list_sorted": [
@@ -212,7 +185,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Refreshing The World",
 				"title_link": "https://serchiidev.itch.io/refreshing-the-world",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402558",
@@ -225,7 +198,7 @@
 				"rank": 33,
 				"ratings": 21,
 				"score": 3.012,
-				"ilscore": 56,
+				"ilscore": 55,
 				"submission_time_diff": -6000
 			},
 			{
@@ -644,7 +617,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Paper Dungeoneer",
 				"title_link": "https://bornacvitanic.itch.io/paper-dungeoneer",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297430",
@@ -659,7 +632,7 @@
 				"rank": 28,
 				"ratings": 17,
 				"score": 2.897,
-				"ilscore": 47,
+				"ilscore": 46,
 				"submission_time_diff": -18671000
 			},
 			{
@@ -3994,6 +3967,29 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "What, frog?",
+				"title_link": "https://toazter.itch.io/what-frog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3469652",
+				"by_list": [
+					"Toaster",
+					"ilya_artemiev"
+				],
+				"by_link_list": [
+					"https://toazter.itch.io/",
+					"https://ilya-artemiev.itch.io/"
+				],
+				"rank": 93,
+				"ratings": 4,
+				"score": 1.225,
+				"ilscore": 23,
+				"submission_time_diff": -7525000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 159,
 				"jam_name": "Ocean",
 				"jam_link": "https://itch.io/jam/mini-jam-159-ocean",
@@ -4012,6 +4008,33 @@
 				"score": 1.89,
 				"ilscore": 41,
 				"submission_time_diff": 33698000
+			}
+		]
+	},
+	{
+		"jammer": "Saint Barb's Tavern",
+		"jammer_link": "https://stbarbstavern.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 156,
+				"jam_name": "Mushroom",
+				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
+				"jam_vs": 87,
+				"title": "Shrooms and Doom",
+				"title_link": "https://stbarbstavern.itch.io/shrooms-and-doom",
+				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2645853",
+				"by_list": [
+					"Saint Barb's Tavern"
+				],
+				"by_link_list": [
+					"https://stbarbstavern.itch.io/"
+				],
+				"rank": 78,
+				"ratings": 2,
+				"score": 1.876,
+				"ilscore": 35,
+				"submission_time_diff": -24387000
 			}
 		]
 	}

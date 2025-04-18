@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "JasminaM",
-		"jammer_link": "https://jasminam.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 105,
-				"jam_name": "Dreamy",
-				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
-				"jam_vs": 137,
-				"title": "Dreamy Penguin",
-				"title_link": "https://jasminam.itch.io/dreamypenguin",
-				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511645",
-				"by_list": [
-					"JasminaM",
-					"Imat00"
-				],
-				"by_link_list": [
-					"https://jasminam.itch.io/",
-					"https://imat00.itch.io/"
-				],
-				"rank": 97,
-				"ratings": 5,
-				"score": 2.609,
-				"ilscore": 59,
-				"submission_time_diff": -4851000
-			}
-		]
-	},
-	{
 		"jammer": "Imat00",
 		"jammer_link": "https://imat00.itch.io/",
 		"game_list_sorted": [
@@ -389,8 +360,8 @@
 		]
 	},
 	{
-		"jammer": "Meta",
-		"jammer_link": "https://metapikachu.itch.io/",
+		"jammer": "meta",
+		"jammer_link": "https://meta-pika.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -399,13 +370,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
 				"jam_vs": 137,
 				"title": "Inhuman Aspiration",
-				"title_link": "https://metapikachu.itch.io/inhuman-aspiration",
+				"title_link": "https://meta-pika.itch.io/inhuman-aspiration",
 				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511177",
 				"by_list": [
-					"Meta"
+					"meta"
 				],
 				"by_link_list": [
-					"https://metapikachu.itch.io/"
+					"https://meta-pika.itch.io/"
 				],
 				"rank": 114,
 				"ratings": 4,
@@ -3401,7 +3372,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Cold Miner",
 				"title_link": "https://yeahokaysure.itch.io/cold-miner",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890017",
@@ -3414,7 +3385,7 @@
 				"rank": 69,
 				"ratings": 4,
 				"score": 2.74,
-				"ilscore": 58,
+				"ilscore": 57,
 				"submission_time_diff": -1442000
 			}
 		]
@@ -4613,6 +4584,33 @@
 				"score": 3.446,
 				"ilscore": 103,
 				"submission_time_diff": -34074000
+			}
+		]
+	},
+	{
+		"jammer": "Eyawiin",
+		"jammer_link": "https://eyawiin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 280,
+				"title": "Toadal Turd Defense",
+				"title_link": "https://eyawiin.itch.io/toadal-turd-defense",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1532450",
+				"by_list": [
+					"Eyawiin"
+				],
+				"by_link_list": [
+					"https://eyawiin.itch.io/"
+				],
+				"rank": 72,
+				"ratings": 14,
+				"score": 3.446,
+				"ilscore": 103,
+				"submission_time_diff": -8020000
 			}
 		]
 	}

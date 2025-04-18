@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "s_marcell",
-		"jammer_link": "https://s-marcell.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 152,
-				"title": "Ancient Misunderstanding",
-				"title_link": "https://s-marcell.itch.io/ancient-misunderstanding",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459134",
-				"by_list": [
-					"s_marcell"
-				],
-				"by_link_list": [
-					"https://s-marcell.itch.io/"
-				],
-				"rank": 2,
-				"ratings": 23,
-				"score": 4.239,
-				"ilscore": 101,
-				"submission_time_diff": 33313000
-			}
-		]
-	},
-	{
 		"jammer": "MeatBallDemon",
 		"jammer_link": "https://meatball-demon.itch.io/",
 		"game_list_sorted": [
@@ -3599,6 +3572,33 @@
 				"score": 2.237,
 				"ilscore": 53,
 				"submission_time_diff": -19720000
+			}
+		]
+	},
+	{
+		"jammer": "NilWorld",
+		"jammer_link": "https://nilworld.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 149,
+				"jam_name": "Ancient",
+				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
+				"jam_vs": 152,
+				"title": "Crush in Russia",
+				"title_link": "https://nilworld.itch.io/crush-in-russia",
+				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459518",
+				"by_list": [
+					"NilWorld"
+				],
+				"by_link_list": [
+					"https://nilworld.itch.io/"
+				],
+				"rank": 110,
+				"ratings": 4,
+				"score": 2.173,
+				"ilscore": 51,
+				"submission_time_diff": -22162000
 			}
 		]
 	}

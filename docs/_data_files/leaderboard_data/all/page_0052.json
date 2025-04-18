@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "SupercraftD",
-		"jammer_link": "https://supercraftd.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 97,
-				"jam_name": "Simulation",
-				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
-				"jam_vs": 105,
-				"title": "Sore Knees",
-				"title_link": "https://supercraftd.itch.io/sore-knees",
-				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1345022",
-				"by_list": [
-					"SupercraftD"
-				],
-				"by_link_list": [
-					"https://supercraftd.itch.io/"
-				],
-				"rank": 49,
-				"ratings": 11,
-				"score": 2.977,
-				"ilscore": 61,
-				"submission_time_diff": -203246000
-			}
-		]
-	},
-	{
 		"jammer": "Monday's Lunch",
 		"jammer_link": "https://mondayslunch.itch.io/",
 		"game_list_sorted": [
@@ -264,7 +237,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Work through the Pane",
 				"title_link": "https://mrfibo123.itch.io/work-through-the-pane",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832486",
@@ -2316,7 +2289,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "I am...",
 				"title_link": "https://latrop.itch.io/i-am",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832387",
@@ -4042,6 +4015,60 @@
 				"score": 2.814,
 				"ilscore": 60,
 				"submission_time_diff": -39510000
+			}
+		]
+	},
+	{
+		"jammer": "Riptide",
+		"jammer_link": "https://riptide-studios.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 106,
+				"jam_name": "Frogs",
+				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
+				"jam_vs": 280,
+				"title": "Lilypad Lowdown",
+				"title_link": "https://riptide-studios.itch.io/lilly-l",
+				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530827",
+				"by_list": [
+					"Riptide",
+					"John Ivess",
+					"Nebora",
+					"Jolo"
+				],
+				"by_link_list": [
+					"https://riptide-studios.itch.io/",
+					"https://ivess.itch.io/",
+					"https://nebora.itch.io/",
+					"https://jolobro64.itch.io/"
+				],
+				"rank": 40,
+				"ratings": 16,
+				"score": 3.656,
+				"ilscore": 109,
+				"submission_time_diff": -21150000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 98,
+				"jam_name": "Empty",
+				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
+				"jam_vs": 117,
+				"title": "Void",
+				"title_link": "https://riptide-studios.itch.io/void",
+				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1361819",
+				"by_list": [
+					"Riptide"
+				],
+				"by_link_list": [
+					"https://riptide-studios.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 16,
+				"score": 2.813,
+				"ilscore": 60,
+				"submission_time_diff": -249757000
 			}
 		]
 	}

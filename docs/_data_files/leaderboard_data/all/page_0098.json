@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "NilWorld",
-		"jammer_link": "https://nilworld.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 149,
-				"jam_name": "Ancient",
-				"jam_link": "https://itch.io/jam/mini-jam-149-ancient",
-				"jam_vs": 152,
-				"title": "Crush in Russia",
-				"title_link": "https://nilworld.itch.io/crush-in-russia",
-				"submission_page_link": "https://itch.io/jam/mini-jam-149-ancient/rate/2459518",
-				"by_list": [
-					"NilWorld"
-				],
-				"by_link_list": [
-					"https://nilworld.itch.io/"
-				],
-				"rank": 110,
-				"ratings": 4,
-				"score": 2.173,
-				"ilscore": 51,
-				"submission_time_diff": -22162000
-			}
-		]
-	},
-	{
 		"jammer": "Yoshiro Akoshi",
 		"jammer_link": "https://yoshiro-akoshi.itch.io/",
 		"game_list_sorted": [
@@ -649,6 +622,27 @@
 		"jammer": "Okapi Dev",
 		"jammer_link": "https://okapi-dev.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Croak Bound",
+				"title_link": "https://okapi-dev.itch.io/croak",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472475",
+				"by_list": [
+					"Okapi Dev"
+				],
+				"by_link_list": [
+					"https://okapi-dev.itch.io/"
+				],
+				"rank": 91,
+				"ratings": 3,
+				"score": 1.369,
+				"ilscore": 26,
+				"submission_time_diff": 54190000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 149,
@@ -1390,7 +1384,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Clippy",
 				"title_link": "https://crewwe.itch.io/clippy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3299871",
@@ -1490,7 +1484,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Clippy",
 				"title_link": "https://crewwe.itch.io/clippy",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3299871",
@@ -3822,7 +3816,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "This is Jeff's first time skiing.",
 				"title_link": "https://t-spawn.itch.io/this-is-jeffs-first-time-skiing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402167",
@@ -3949,7 +3943,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "This is Jeff's first time skiing.",
 				"title_link": "https://t-spawn.itch.io/this-is-jeffs-first-time-skiing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402167",
@@ -4057,6 +4051,35 @@
 	{
 		"jammer": "Hexatin",
 		"jammer_link": "https://hexatin.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 150,
+				"jam_name": "Magic",
+				"jam_link": "https://itch.io/jam/mini-jam-150-magic",
+				"jam_vs": 125,
+				"title": "Need a Light?",
+				"title_link": "https://hexatin.itch.io/need-a-light",
+				"submission_page_link": "https://itch.io/jam/mini-jam-150-magic/rate/2485061",
+				"by_list": [
+					"Hexatin",
+					"spookiemilkjug"
+				],
+				"by_link_list": [
+					"https://hexatin.itch.io/",
+					"https://spookiemilkjug.itch.io/"
+				],
+				"rank": 65,
+				"ratings": 5,
+				"score": 2.831,
+				"ilscore": 62,
+				"submission_time_diff": 131896000
+			}
+		]
+	},
+	{
+		"jammer": "spookiemilkjug",
+		"jammer_link": "https://spookiemilkjug.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

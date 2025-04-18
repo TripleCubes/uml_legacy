@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Paouis",
-		"jammer_link": "https://paouis.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 110,
-				"jam_name": "Sacrifice",
-				"jam_link": "https://itch.io/jam/mini-jam-110-sacrifice",
-				"jam_vs": 212,
-				"title": "Sacrifice MiniJam 110",
-				"title_link": "https://paouis.itch.io/sacrifice",
-				"submission_page_link": "https://itch.io/jam/mini-jam-110-sacrifice/rate/1609241",
-				"by_list": [
-					"Paouis"
-				],
-				"by_link_list": [
-					"https://paouis.itch.io/"
-				],
-				"rank": 203,
-				"ratings": 2,
-				"score": 1.403,
-				"ilscore": 38,
-				"submission_time_diff": -22817000
-			}
-		]
-	},
-	{
 		"jammer": "Wollfie",
 		"jammer_link": "https://wollfie.itch.io/",
 		"game_list_sorted": [
@@ -1646,7 +1619,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Green Bot",
 				"title_link": "https://swsandra.itch.io/green-bot",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889606",
@@ -1825,7 +1798,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Burnie's Day Out",
 				"title_link": "https://aaaahron.itch.io/burnies-day-out",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1887010",
@@ -1838,7 +1811,7 @@
 				"rank": 45,
 				"ratings": 16,
 				"score": 3.25,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -3170000
 			},
 			{
@@ -3642,7 +3615,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "REFLAIM",
 				"title_link": "https://lenki387.itch.io/reflaim",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831739",
@@ -3678,6 +3651,33 @@
 				"score": 3.534,
 				"ilscore": 118,
 				"submission_time_diff": -34251000
+			}
+		]
+	},
+	{
+		"jammer": "Dospo_01",
+		"jammer_link": "https://dospo-01.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 384,
+				"title": "Inner War",
+				"title_link": "https://dospo-01.itch.io/inner-war",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634967",
+				"by_list": [
+					"Dospo_01"
+				],
+				"by_link_list": [
+					"https://dospo-01.itch.io/"
+				],
+				"rank": 89,
+				"ratings": 13,
+				"score": 3.519,
+				"ilscore": 117,
+				"submission_time_diff": -31000
 			}
 		]
 	}

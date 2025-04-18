@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Brightish",
-		"jammer_link": "https://brightish.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 95,
-				"jam_name": "Chance",
-				"jam_link": "https://itch.io/jam/mini-jam-95-chance",
-				"jam_vs": 64,
-				"title": "One Last Chance",
-				"title_link": "https://brightish.itch.io/one-last-chance",
-				"submission_page_link": "https://itch.io/jam/mini-jam-95-chance/rate/1316012",
-				"by_list": [
-					"Brightish"
-				],
-				"by_link_list": [
-					"https://brightish.itch.io/"
-				],
-				"rank": 43,
-				"ratings": 7,
-				"score": 2.772,
-				"ilscore": 45,
-				"submission_time_diff": -5306000
-			}
-		]
-	},
-	{
 		"jammer": "Stusse Games",
 		"jammer_link": "https://stusse-games.itch.io/",
 		"game_list_sorted": [
@@ -843,7 +816,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Coat Collector",
 				"title_link": "https://rabbitaddix.itch.io/coat-collector",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889643",
@@ -3312,7 +3285,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Mirror Dimension",
 				"title_link": "https://saran-krishnaraja.itch.io/mirror-dimension",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832255",
@@ -3522,7 +3495,7 @@
 		]
 	},
 	{
-		"jammer": "Attahh",
+		"jammer": "attahh",
 		"jammer_link": "https://attahh.itch.io/",
 		"game_list_sorted": [
 			{
@@ -3535,7 +3508,7 @@
 				"title_link": "https://attahh.itch.io/that-time-of-the-month-mj97",
 				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1347575",
 				"by_list": [
-					"Attahh"
+					"attahh"
 				],
 				"by_link_list": [
 					"https://attahh.itch.io/"
@@ -4420,6 +4393,33 @@
 				"score": 3,
 				"ilscore": 61,
 				"submission_time_diff": -9580000
+			}
+		]
+	},
+	{
+		"jammer": "SupercraftD",
+		"jammer_link": "https://supercraftd.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 97,
+				"jam_name": "Simulation",
+				"jam_link": "https://itch.io/jam/mini-jam-97-simulation",
+				"jam_vs": 105,
+				"title": "Sore Knees",
+				"title_link": "https://supercraftd.itch.io/sore-knees",
+				"submission_page_link": "https://itch.io/jam/mini-jam-97-simulation/rate/1345022",
+				"by_list": [
+					"SupercraftD"
+				],
+				"by_link_list": [
+					"https://supercraftd.itch.io/"
+				],
+				"rank": 49,
+				"ratings": 11,
+				"score": 2.977,
+				"ilscore": 61,
+				"submission_time_diff": -203246000
 			}
 		]
 	}

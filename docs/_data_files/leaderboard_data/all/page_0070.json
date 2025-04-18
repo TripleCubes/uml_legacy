@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Dospo_01",
-		"jammer_link": "https://dospo-01.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 384,
-				"title": "Inner War",
-				"title_link": "https://dospo-01.itch.io/inner-war",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634967",
-				"by_list": [
-					"Dospo_01"
-				],
-				"by_link_list": [
-					"https://dospo-01.itch.io/"
-				],
-				"rank": 89,
-				"ratings": 13,
-				"score": 3.519,
-				"ilscore": 117,
-				"submission_time_diff": -31000
-			}
-		]
-	},
-	{
 		"jammer": "Tomas Horacek",
 		"jammer_link": "https://tomas-horacek.itch.io/",
 		"game_list_sorted": [
@@ -3232,6 +3205,31 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Frog Crawl Experiment",
+				"title_link": "https://rodrigorosa.itch.io/frog-crawl-experiment",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472586",
+				"by_list": [
+					"rodrigoRosa",
+					"KitsuArtsy",
+					"DD"
+				],
+				"by_link_list": [
+					"https://rodrigorosa.itch.io/",
+					"https://kitsuartsy.itch.io/",
+					"https://games-by-dd.itch.io/"
+				],
+				"rank": 38,
+				"ratings": 16,
+				"score": 2.938,
+				"ilscore": 57,
+				"submission_time_diff": 33110000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 151,
 				"jam_name": "Dragons",
 				"jam_link": "https://itch.io/jam/mini-jam-151-dragons",
@@ -3523,6 +3521,33 @@
 				"score": 2.91,
 				"ilscore": 97,
 				"submission_time_diff": -3948000
+			}
+		]
+	},
+	{
+		"jammer": "Panda Head Interactive",
+		"jammer_link": "https://pandaheadinteractive.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 111,
+				"jam_name": "Colors",
+				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
+				"jam_vs": 384,
+				"title": "Colourain",
+				"title_link": "https://pandaheadinteractive.itch.io/colourain",
+				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634882",
+				"by_list": [
+					"Panda Head Interactive"
+				],
+				"by_link_list": [
+					"https://pandaheadinteractive.itch.io/"
+				],
+				"rank": 191,
+				"ratings": 13,
+				"score": 2.904,
+				"ilscore": 97,
+				"submission_time_diff": 40932000
 			}
 		]
 	}

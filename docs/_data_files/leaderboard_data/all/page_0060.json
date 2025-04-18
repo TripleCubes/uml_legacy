@@ -1,74 +1,5 @@
 [
 	{
-		"jammer": "MadeByMilan",
-		"jammer_link": "https://madebymilan.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Nightmare extraction (Gamejam)",
-				"title_link": "https://madebymilan.itch.io/nightmare-extraction-gamejam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2340792",
-				"by_list": [
-					"MadeByMilan"
-				],
-				"by_link_list": [
-					"https://madebymilan.itch.io/"
-				],
-				"rank": 19,
-				"ratings": 6,
-				"score": 3.139,
-				"ilscore": 52,
-				"submission_time_diff": -20525000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 127,
-				"jam_name": "Cats",
-				"jam_link": "https://itch.io/jam/mini-jam-127-cats",
-				"jam_vs": 116,
-				"title": "Catography (GameJam)",
-				"title_link": "https://madebymilan.itch.io/catography-gamejam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-127-cats/rate/1956437",
-				"by_list": [
-					"MadeByMilan"
-				],
-				"by_link_list": [
-					"https://madebymilan.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 7,
-				"score": 2.779,
-				"ilscore": 59,
-				"submission_time_diff": -13612000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 104,
-				"jam_name": "Cascade",
-				"jam_link": "https://itch.io/jam/mini-jam-104-cascade",
-				"jam_vs": 102,
-				"title": "Down The River (GameJam)",
-				"title_link": "https://madebymilan.itch.io/down-the-river-gamejam",
-				"submission_page_link": "https://itch.io/jam/mini-jam-104-cascade/rate/1491047",
-				"by_list": [
-					"MadeByMilan"
-				],
-				"by_link_list": [
-					"https://madebymilan.itch.io/"
-				],
-				"rank": 68,
-				"ratings": 9,
-				"score": 2.528,
-				"ilscore": 51,
-				"submission_time_diff": -19153000
-			}
-		]
-	},
-	{
 		"jammer": "antlerdads",
 		"jammer_link": "https://antlerdads.itch.io/",
 		"game_list_sorted": [
@@ -1015,6 +946,27 @@
 		"jammer": "Gesla",
 		"jammer_link": "https://gesla.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Croak Hollow",
+				"title_link": "https://gesla.itch.io/croak-hollow",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472257",
+				"by_list": [
+					"Gesla"
+				],
+				"by_link_list": [
+					"https://gesla.itch.io/"
+				],
+				"rank": 74,
+				"ratings": 6,
+				"score": 1.969,
+				"ilscore": 38,
+				"submission_time_diff": -6604000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 104,
@@ -2086,7 +2038,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Letter Lemmings",
 				"title_link": "https://philipnewsham.itch.io/letter-lemmings",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401959",
@@ -2099,7 +2051,7 @@
 				"rank": 11,
 				"ratings": 19,
 				"score": 3.605,
-				"ilscore": 67,
+				"ilscore": 66,
 				"submission_time_diff": -18880000
 			},
 			{
@@ -2128,7 +2080,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Desktop Reflections",
 				"title_link": "https://philipnewsham.itch.io/reflections",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1832090",
@@ -4301,6 +4253,35 @@
 				"score": 2.625,
 				"ilscore": 60,
 				"submission_time_diff": -2813000
+			}
+		]
+	},
+	{
+		"jammer": "JasminaM",
+		"jammer_link": "https://jasminam.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 105,
+				"jam_name": "Dreamy",
+				"jam_link": "https://itch.io/jam/mini-jam-105-dreamy",
+				"jam_vs": 137,
+				"title": "Dreamy Penguin",
+				"title_link": "https://jasminam.itch.io/dreamypenguin",
+				"submission_page_link": "https://itch.io/jam/mini-jam-105-dreamy/rate/1511645",
+				"by_list": [
+					"JasminaM",
+					"Imat00"
+				],
+				"by_link_list": [
+					"https://jasminam.itch.io/",
+					"https://imat00.itch.io/"
+				],
+				"rank": 97,
+				"ratings": 5,
+				"score": 2.609,
+				"ilscore": 59,
+				"submission_time_diff": -4851000
 			}
 		]
 	}

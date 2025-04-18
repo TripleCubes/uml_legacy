@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "nadpher",
-		"jammer_link": "https://nadpher.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 99,
-				"jam_name": "Birds",
-				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
-				"jam_vs": 253,
-				"title": "Abomibird",
-				"title_link": "https://nadpher.itch.io/abomibird",
-				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388587",
-				"by_list": [
-					"nadpher",
-					"Israh",
-					"JohnyWuijtsNL",
-					"ShadyLeeGamer"
-				],
-				"by_link_list": [
-					"https://nadpher.itch.io/",
-					"https://israboy.itch.io/",
-					"https://johnywuijtsnl.itch.io/",
-					"https://shadyleegamer.itch.io/"
-				],
-				"rank": 76,
-				"ratings": 10,
-				"score": 3.275,
-				"ilscore": 94,
-				"submission_time_diff": -18827000
-			}
-		]
-	},
-	{
 		"jammer": "JohnyWuijtsNL",
 		"jammer_link": "https://johnywuijtsnl.itch.io/",
 		"game_list_sorted": [
@@ -694,7 +661,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Kindle",
 				"title_link": "https://elox5.itch.io/kindle",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1889931",
@@ -709,7 +676,7 @@
 				"rank": 45,
 				"ratings": 14,
 				"score": 3.25,
-				"ilscore": 69,
+				"ilscore": 68,
 				"submission_time_diff": -3724000
 			},
 			{
@@ -2106,7 +2073,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "The Burning Fireplace",
 				"title_link": "https://stuguy.itch.io/fireplace-burn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1888936",
@@ -2119,7 +2086,7 @@
 				"rank": 57,
 				"ratings": 7,
 				"score": 3.071,
-				"ilscore": 65,
+				"ilscore": 64,
 				"submission_time_diff": -41114000
 			},
 			{
@@ -2737,7 +2704,7 @@
 				"jam_id": 121,
 				"jam_name": "Reflection",
 				"jam_link": "https://itch.io/jam/mini-jam-121-reflection",
-				"jam_vs": 118,
+				"jam_vs": 117,
 				"title": "Is that Dirt On The Window?",
 				"title_link": "https://guilty-d-games.itch.io/is-that-dirt-on-the-window",
 				"submission_page_link": "https://itch.io/jam/mini-jam-121-reflection/rate/1831532",
@@ -3886,6 +3853,33 @@
 				"score": 2.075,
 				"ilscore": 60,
 				"submission_time_diff": -139913000
+			}
+		]
+	},
+	{
+		"jammer": "gamingturtle",
+		"jammer_link": "https://gamingturtle.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 253,
+				"title": "Bird Game (fail)",
+				"title_link": "https://gamingturtle.itch.io/bird-game-fail",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388641",
+				"by_list": [
+					"gamingturtle"
+				],
+				"by_link_list": [
+					"https://gamingturtle.itch.io/"
+				],
+				"rank": 206,
+				"ratings": 8,
+				"score": 2.062,
+				"ilscore": 59,
+				"submission_time_diff": -18961000
 			}
 		]
 	}

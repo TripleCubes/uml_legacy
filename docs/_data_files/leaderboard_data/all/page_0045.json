@@ -1,84 +1,5 @@
 [
 	{
-		"jammer": "CoByte",
-		"jammer_link": "https://cobyte.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "A Letter from Canto",
-				"title_link": "https://smallbuggames.itch.io/a-letter-from-canto",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449957",
-				"by_list": [
-					"Small Bug Games",
-					"CoByte",
-					"MetaphysicalMonsters"
-				],
-				"by_link_list": [
-					"https://smallbuggames.itch.io/",
-					"https://cobyte.itch.io/",
-					"https://metaphysicalmonsters.itch.io/"
-				],
-				"rank": 30,
-				"ratings": 4,
-				"score": 2.101,
-				"ilscore": 30,
-				"submission_time_diff": 857000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 87,
-				"jam_name": "Break",
-				"jam_link": "https://itch.io/jam/mini-jam-87-break",
-				"jam_vs": 103,
-				"title": "Sticks and Bones",
-				"title_link": "https://smallbuggames.itch.io/sticks-and-stones",
-				"submission_page_link": "https://itch.io/jam/mini-jam-87-break/rate/1169375",
-				"by_list": [
-					"Small Bug Games",
-					"MetaphysicalMonsters",
-					"CoByte"
-				],
-				"by_link_list": [
-					"https://smallbuggames.itch.io/",
-					"https://metaphysicalmonsters.itch.io/",
-					"https://cobyte.itch.io/"
-				],
-				"rank": 54,
-				"ratings": 7,
-				"score": 2.839,
-				"ilscore": 57,
-				"submission_time_diff": -38000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 90,
-				"jam_name": "Illusion",
-				"jam_link": "https://itch.io/jam/mini-jam-90-illusion",
-				"jam_vs": 69,
-				"title": "Runecasting 101",
-				"title_link": "https://smallbuggames.itch.io/runecasting-101",
-				"submission_page_link": "https://itch.io/jam/mini-jam-90-illusion/rate/1221792",
-				"by_list": [
-					"Small Bug Games",
-					"CoByte"
-				],
-				"by_link_list": [
-					"https://smallbuggames.itch.io/",
-					"https://cobyte.itch.io/"
-				],
-				"rank": 60,
-				"ratings": 5,
-				"score": 2.191,
-				"ilscore": 37,
-				"submission_time_diff": -118000
-			}
-		]
-	},
-	{
 		"jammer": "Datguypotato",
 		"jammer_link": "https://datguypotato.itch.io/",
 		"game_list_sorted": [
@@ -3601,6 +3522,33 @@
 				"score": 2.821,
 				"ilscore": 59,
 				"submission_time_diff": -2903000
+			}
+		]
+	},
+	{
+		"jammer": "HellRok",
+		"jammer_link": "https://hellrok.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 88,
+				"jam_name": "Rush",
+				"jam_link": "https://itch.io/jam/mini-jam-88-rush",
+				"jam_vs": 113,
+				"title": "Mini Jam 88 - Rush",
+				"title_link": "https://hellrok.itch.io/mini-jam-88-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-88-rush/rate/1187457",
+				"by_list": [
+					"HellRok"
+				],
+				"by_link_list": [
+					"https://hellrok.itch.io/"
+				],
+				"rank": 66,
+				"ratings": 5,
+				"score": 2.789,
+				"ilscore": 58,
+				"submission_time_diff": -49368000
 			}
 		]
 	}

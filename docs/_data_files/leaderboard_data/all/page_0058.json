@@ -1,57 +1,5 @@
 [
 	{
-		"jammer": "Keitjah",
-		"jammer_link": "https://keitjah.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 115,
-				"jam_name": "Noir",
-				"jam_link": "https://itch.io/jam/mini-jam-115-noir",
-				"jam_vs": 37,
-				"title": "And the Light Fades out",
-				"title_link": "https://keitjah.itch.io/and-the-light-fades-out",
-				"submission_page_link": "https://itch.io/jam/mini-jam-115-noir/rate/1709197",
-				"by_list": [
-					"Keitjah",
-					"silurius"
-				],
-				"by_link_list": [
-					"https://keitjah.itch.io/",
-					"https://silurius.itch.io/"
-				],
-				"rank": 11,
-				"ratings": 11,
-				"score": 3.455,
-				"ilscore": 43,
-				"submission_time_diff": -9229000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 102,
-				"jam_name": "Steam",
-				"jam_link": "https://itch.io/jam/mini-jam-102-steam",
-				"jam_vs": 48,
-				"title": "The Ferryman",
-				"title_link": "https://keitjah.itch.io/the-ferryman",
-				"submission_page_link": "https://itch.io/jam/mini-jam-102-steam/rate/1449750",
-				"by_list": [
-					"Keitjah",
-					"silurius"
-				],
-				"by_link_list": [
-					"https://keitjah.itch.io/",
-					"https://silurius.itch.io/"
-				],
-				"rank": 18,
-				"ratings": 8,
-				"score": 2.789,
-				"ilscore": 39,
-				"submission_time_diff": -14305000
-			}
-		]
-	},
-	{
 		"jammer": "silurius",
 		"jammer_link": "https://silurius.itch.io/",
 		"game_list_sorted": [
@@ -1344,6 +1292,29 @@
 				"score": 3.088,
 				"ilscore": 62,
 				"submission_time_diff": -8061000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Cult Loose",
+				"title_link": "https://frodotimbaku.itch.io/mini",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3468482",
+				"by_list": [
+					"frodoTimBaku",
+					"SlayinKarak"
+				],
+				"by_link_list": [
+					"https://frodotimbaku.itch.io/",
+					"https://slayinkarak.itch.io/"
+				],
+				"rank": 55,
+				"ratings": 15,
+				"score": 2.367,
+				"ilscore": 46,
+				"submission_time_diff": 41393000
 			},
 			{
 				"jam_type": "mini_jam",
@@ -4049,6 +4020,33 @@
 				"score": 2.639,
 				"ilscore": 62,
 				"submission_time_diff": -3586000
+			}
+		]
+	},
+	{
+		"jammer": "greenman4890",
+		"jammer_link": "https://greenman4890.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 103,
+				"jam_name": "Darkness",
+				"jam_link": "https://itch.io/jam/mini-jam-103-darkness",
+				"jam_vs": 148,
+				"title": "Save the lumi's",
+				"title_link": "https://greenman4890.itch.io/xenoluminance",
+				"submission_page_link": "https://itch.io/jam/mini-jam-103-darkness/rate/1465594",
+				"by_list": [
+					"greenman4890"
+				],
+				"by_link_list": [
+					"https://greenman4890.itch.io/"
+				],
+				"rank": 90,
+				"ratings": 5,
+				"score": 2.609,
+				"ilscore": 61,
+				"submission_time_diff": -5128000
 			}
 		]
 	}

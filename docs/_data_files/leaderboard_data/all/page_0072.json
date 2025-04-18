@@ -1,34 +1,5 @@
 [
 	{
-		"jammer": "Nick",
-		"jammer_link": "https://nickcorrea.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 111,
-				"jam_name": "Colors",
-				"jam_link": "https://itch.io/jam/mini-jam-111-colors",
-				"jam_vs": 384,
-				"title": "CORI",
-				"title_link": "https://jullysaw.itch.io/cori",
-				"submission_page_link": "https://itch.io/jam/mini-jam-111-colors/rate/1634618",
-				"by_list": [
-					"JullySaw",
-					"Nick"
-				],
-				"by_link_list": [
-					"https://jullysaw.itch.io/",
-					"https://nickcorrea.itch.io/"
-				],
-				"rank": 308,
-				"ratings": 6,
-				"score": 1.912,
-				"ilscore": 63,
-				"submission_time_diff": 56083000
-			}
-		]
-	},
-	{
 		"jammer": "Foxy3DS",
 		"jammer_link": "https://foxy3ds.itch.io/",
 		"game_list_sorted": [
@@ -310,7 +281,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "Dotfence",
 				"title_link": "https://addsense.itch.io/dotfence",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890065",
@@ -2862,7 +2833,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "No Money To Burn",
 				"title_link": "https://crumby-games.itch.io/no-money-to-burn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890976",
@@ -3569,6 +3540,37 @@
 	{
 		"jammer": "Lsdlx",
 		"jammer_link": "https://lsdlx.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 112,
+				"jam_name": "Chrono",
+				"jam_link": "https://itch.io/jam/mini-jam-112-chrono",
+				"jam_vs": 93,
+				"title": "Maurice's odyssey",
+				"title_link": "https://tatawanda.itch.io/maurices-odyssey",
+				"submission_page_link": "https://itch.io/jam/mini-jam-112-chrono/rate/1653229",
+				"by_list": [
+					"tatawanda",
+					"Lsdlx",
+					"LoicLeGrosFrere"
+				],
+				"by_link_list": [
+					"https://tatawanda.itch.io/",
+					"https://lsdlx.itch.io/",
+					"https://loiclegrosfrere.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 12,
+				"score": 3.854,
+				"ilscore": 75,
+				"submission_time_diff": 32241000
+			}
+		]
+	},
+	{
+		"jammer": "LoicLeGrosFrere",
+		"jammer_link": "https://loiclegrosfrere.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

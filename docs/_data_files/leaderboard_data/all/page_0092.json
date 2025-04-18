@@ -1,40 +1,5 @@
 [
 	{
-		"jammer": "Emrox",
-		"jammer_link": "https://emrox.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 135,
-				"jam_name": "Deception",
-				"jam_link": "https://itch.io/jam/mini-jam-135-deception",
-				"jam_vs": 73,
-				"title": "Puzzsoft's Cooleidoscope",
-				"title_link": "https://puzzsoft.itch.io/koolaidnoscope",
-				"submission_page_link": "https://itch.io/jam/mini-jam-135-deception/rate/2134732",
-				"by_list": [
-					"PuzzSoft",
-					"Emrox",
-					"JohnLee Cooper",
-					"guattery",
-					"Teal_ish"
-				],
-				"by_link_list": [
-					"https://puzzsoft.itch.io/",
-					"https://emrox.itch.io/",
-					"https://ergman.itch.io/",
-					"https://guattery.itch.io/",
-					"https://teal-ish.itch.io/"
-				],
-				"rank": 57,
-				"ratings": 4,
-				"score": 2.194,
-				"ilscore": 38,
-				"submission_time_diff": -7016000
-			}
-		]
-	},
-	{
 		"jammer": "pkemmo4",
 		"jammer_link": "https://pkemmo4.itch.io/",
 		"game_list_sorted": [
@@ -1541,7 +1506,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Don't Drop Alice",
 				"title_link": "https://willowflame.itch.io/dont-drop-alice",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398073",
@@ -1560,7 +1525,7 @@
 				"rank": 20,
 				"ratings": 26,
 				"score": 3.375,
-				"ilscore": 63,
+				"ilscore": 62,
 				"submission_time_diff": -42310000
 			},
 			{
@@ -3301,6 +3266,37 @@
 				"score": 4.167,
 				"ilscore": 54,
 				"submission_time_diff": -24888000
+			}
+		]
+	},
+	{
+		"jammer": "Blast-MC",
+		"jammer_link": "https://blast-mc.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 140,
+				"jam_name": "Dungeons",
+				"jam_link": "https://itch.io/jam/mini-jam-140-dungeons",
+				"jam_vs": 40,
+				"title": "Dungeon of Wits",
+				"title_link": "https://luicel.itch.io/dungeon-of-wits",
+				"submission_page_link": "https://itch.io/jam/mini-jam-140-dungeons/rate/2246480",
+				"by_list": [
+					"Luicel",
+					"Blast-MC",
+					"AxeHam"
+				],
+				"by_link_list": [
+					"https://luicel.itch.io/",
+					"https://blast-mc.itch.io/",
+					"https://axeham.itch.io/"
+				],
+				"rank": 4,
+				"ratings": 6,
+				"score": 3.75,
+				"ilscore": 48,
+				"submission_time_diff": -2941000
 			}
 		]
 	}

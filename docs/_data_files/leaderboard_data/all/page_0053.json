@@ -1,59 +1,5 @@
 [
 	{
-		"jammer": "Riptide",
-		"jammer_link": "https://riptide-studios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 106,
-				"jam_name": "Frogs",
-				"jam_link": "https://itch.io/jam/mini-jam-106-frogs",
-				"jam_vs": 280,
-				"title": "Lilypad Lowdown",
-				"title_link": "https://riptide-studios.itch.io/lilly-l",
-				"submission_page_link": "https://itch.io/jam/mini-jam-106-frogs/rate/1530827",
-				"by_list": [
-					"Riptide",
-					"John Ivess",
-					"Nebora",
-					"Jolo"
-				],
-				"by_link_list": [
-					"https://riptide-studios.itch.io/",
-					"https://ivess.itch.io/",
-					"https://nebora.itch.io/",
-					"https://jolobro64.itch.io/"
-				],
-				"rank": 40,
-				"ratings": 16,
-				"score": 3.656,
-				"ilscore": 109,
-				"submission_time_diff": -21150000
-			},
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 98,
-				"jam_name": "Empty",
-				"jam_link": "https://itch.io/jam/mini-jam-98-empty",
-				"jam_vs": 117,
-				"title": "Void",
-				"title_link": "https://riptide-studios.itch.io/void",
-				"submission_page_link": "https://itch.io/jam/mini-jam-98-empty/rate/1361819",
-				"by_list": [
-					"Riptide"
-				],
-				"by_link_list": [
-					"https://riptide-studios.itch.io/"
-				],
-				"rank": 66,
-				"ratings": 16,
-				"score": 2.813,
-				"ilscore": 60,
-				"submission_time_diff": -249757000
-			}
-		]
-	},
-	{
 		"jammer": "ddimmick",
 		"jammer_link": "https://ddimmick.itch.io/",
 		"game_list_sorted": [
@@ -2071,7 +2017,7 @@
 				"jam_id": 124,
 				"jam_name": "Warmth",
 				"jam_link": "https://itch.io/jam/mini-jam-124-warmth",
-				"jam_vs": 114,
+				"jam_vs": 113,
 				"title": "No Money To Burn",
 				"title_link": "https://crumby-games.itch.io/no-money-to-burn",
 				"submission_page_link": "https://itch.io/jam/mini-jam-124-warmth/rate/1890976",
@@ -3338,6 +3284,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "FROGiNEER",
+				"title_link": "https://pi1ka.itch.io/frogineer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3470122",
+				"by_list": [
+					"Pilka"
+				],
+				"by_link_list": [
+					"https://pi1ka.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 19,
+				"score": 3.566,
+				"ilscore": 69,
+				"submission_time_diff": -26248000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 99,
 				"jam_name": "Birds",
 				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
@@ -3368,7 +3335,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "The Secret Side of Paper",
 				"title_link": "https://kmakaroni.itch.io/the-secret-side-of-paper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3294146",
@@ -3381,7 +3348,7 @@
 				"rank": 8,
 				"ratings": 18,
 				"score": 3.75,
-				"ilscore": 61,
+				"ilscore": 60,
 				"submission_time_diff": -14729000
 			},
 			{
@@ -4100,6 +4067,39 @@
 				"score": 3.278,
 				"ilscore": 94,
 				"submission_time_diff": -8643000
+			}
+		]
+	},
+	{
+		"jammer": "nadpher",
+		"jammer_link": "https://nadpher.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 99,
+				"jam_name": "Birds",
+				"jam_link": "https://itch.io/jam/mini-jam-99-birds",
+				"jam_vs": 253,
+				"title": "Abomibird",
+				"title_link": "https://nadpher.itch.io/abomibird",
+				"submission_page_link": "https://itch.io/jam/mini-jam-99-birds/rate/1388587",
+				"by_list": [
+					"nadpher",
+					"Israh",
+					"JohnyWuijtsNL",
+					"ShadyLeeGamer"
+				],
+				"by_link_list": [
+					"https://nadpher.itch.io/",
+					"https://israboy.itch.io/",
+					"https://johnywuijtsnl.itch.io/",
+					"https://shadyleegamer.itch.io/"
+				],
+				"rank": 76,
+				"ratings": 10,
+				"score": 3.275,
+				"ilscore": 94,
+				"submission_time_diff": -18827000
 			}
 		]
 	}

@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Saint Barb's Tavern",
-		"jammer_link": "https://stbarbstavern.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 156,
-				"jam_name": "Mushroom",
-				"jam_link": "https://itch.io/jam/mini-jam-156-mushroom",
-				"jam_vs": 87,
-				"title": "Shrooms and Doom",
-				"title_link": "https://stbarbstavern.itch.io/shrooms-and-doom",
-				"submission_page_link": "https://itch.io/jam/mini-jam-156-mushroom/rate/2645853",
-				"by_list": [
-					"Saint Barb's Tavern"
-				],
-				"by_link_list": [
-					"https://stbarbstavern.itch.io/"
-				],
-				"rank": 78,
-				"ratings": 2,
-				"score": 1.876,
-				"ilscore": 35,
-				"submission_time_diff": -24387000
-			}
-		]
-	},
-	{
 		"jammer": "Watermelon5311",
 		"jammer_link": "https://watermelon5311.itch.io/",
 		"game_list_sorted": [
@@ -1562,8 +1535,8 @@
 		]
 	},
 	{
-		"jammer": "CadetTheGameCooker",
-		"jammer_link": "https://cadetthegamecooker.itch.io/",
+		"jammer": "SGGGames",
+		"jammer_link": "https://sgggames.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1572,13 +1545,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
 				"jam_vs": 115,
 				"title": "The Leaps of Zeus",
-				"title_link": "https://cadetthegamecooker.itch.io/the-leaps-of-zeus",
+				"title_link": "https://sgggames.itch.io/the-leaps-of-zeus",
 				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2676073",
 				"by_list": [
-					"CadetTheGameCooker"
+					"SGGGames"
 				],
 				"by_link_list": [
-					"https://cadetthegamecooker.itch.io/"
+					"https://sgggames.itch.io/"
 				],
 				"rank": 47,
 				"ratings": 6,
@@ -2940,7 +2913,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Cake Merge",
 				"title_link": "https://filthyminx.itch.io/cake-merge",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3398089",
@@ -2953,7 +2926,7 @@
 				"rank": 54,
 				"ratings": 15,
 				"score": 2.568,
-				"ilscore": 48,
+				"ilscore": 47,
 				"submission_time_diff": -52788000
 			},
 			{
@@ -3423,6 +3396,33 @@
 				"score": 1.804,
 				"ilscore": 38,
 				"submission_time_diff": -117224000
+			}
+		]
+	},
+	{
+		"jammer": "TowaFR",
+		"jammer_link": "https://towafr.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 157,
+				"jam_name": "Electric",
+				"jam_link": "https://itch.io/jam/mini-jam-157-electric",
+				"jam_vs": 115,
+				"title": "Magnet Rush",
+				"title_link": "https://towafr.itch.io/magnet-rush",
+				"submission_page_link": "https://itch.io/jam/mini-jam-157-electric/rate/2674107",
+				"by_list": [
+					"TowaFR"
+				],
+				"by_link_list": [
+					"https://towafr.itch.io/"
+				],
+				"rank": 112,
+				"ratings": 3,
+				"score": 1.786,
+				"ilscore": 38,
+				"submission_time_diff": -67000000
 			}
 		]
 	}

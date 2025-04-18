@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "ChankoStudios",
-		"jammer_link": "https://chankostudios.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 128,
-				"jam_name": "Health",
-				"jam_link": "https://itch.io/jam/mini-jam-128-health",
-				"jam_vs": 133,
-				"title": "Alpiniste",
-				"title_link": "https://chankostudios.itch.io/alpiniste",
-				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1977105",
-				"by_list": [
-					"ChankoStudios"
-				],
-				"by_link_list": [
-					"https://chankostudios.itch.io/"
-				],
-				"rank": 34,
-				"ratings": 8,
-				"score": 3.317,
-				"ilscore": 75,
-				"submission_time_diff": -10924000
-			}
-		]
-	},
-	{
 		"jammer": "Starbuff",
 		"jammer_link": "https://starbuff.itch.io/",
 		"game_list_sorted": [
@@ -1536,7 +1509,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "PartyDown",
 				"title_link": "https://axelrubio.itch.io/partydown",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402331",
@@ -1659,7 +1632,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Pogo",
 				"title_link": "https://axial-studios.itch.io/mini-jam-180",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3395134",
@@ -1672,7 +1645,7 @@
 				"rank": 2,
 				"ratings": 29,
 				"score": 3.905,
-				"ilscore": 73,
+				"ilscore": 72,
 				"submission_time_diff": -18046000
 			},
 			{
@@ -2226,7 +2199,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Chimpken small escapes with a drill",
 				"title_link": "https://funny0102.itch.io/chimpken-small-escapes-with-a-drill",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3399091",
@@ -2931,7 +2904,7 @@
 		]
 	},
 	{
-		"jammer": "Solar Punch Games",
+		"jammer": "neilaemail77@gmail.com",
 		"jammer_link": "https://solar-punch-games.itch.io/",
 		"game_list_sorted": [
 			{
@@ -2944,7 +2917,7 @@
 				"title_link": "https://solar-punch-games.itch.io/heartbreak",
 				"submission_page_link": "https://itch.io/jam/mini-jam-128-health/rate/1975012",
 				"by_list": [
-					"Solar Punch Games"
+					"neilaemail77@gmail.com"
 				],
 				"by_link_list": [
 					"https://solar-punch-games.itch.io/"
@@ -3670,6 +3643,58 @@
 				"score": 3.297,
 				"ilscore": 58,
 				"submission_time_diff": -6290000
+			}
+		]
+	},
+	{
+		"jammer": "Diamond Dust",
+		"jammer_link": "https://diamonddustye.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 129,
+				"jam_name": "Poison",
+				"jam_link": "https://itch.io/jam/mini-jam-129-poison",
+				"jam_vs": 75,
+				"title": "Venefica",
+				"title_link": "https://diamonddustye.itch.io/venefica",
+				"submission_page_link": "https://itch.io/jam/mini-jam-129-poison/rate/1999736",
+				"by_list": [
+					"Diamond Dust"
+				],
+				"by_link_list": [
+					"https://diamonddustye.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 9,
+				"score": 3.194,
+				"ilscore": 56,
+				"submission_time_diff": -15189000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Cardboard Box Solid",
+				"title_link": "https://zirrock.itch.io/cardboardboxsolid",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591273",
+				"by_list": [
+					"zirrock",
+					"Diamond Dust",
+					"WaluigiNumbaWan"
+				],
+				"by_link_list": [
+					"https://zirrock.itch.io/",
+					"https://diamonddustye.itch.io/",
+					"https://waluiginumbawan.itch.io/"
+				],
+				"rank": 56,
+				"ratings": 3,
+				"score": 2.191,
+				"ilscore": 39,
+				"submission_time_diff": -15756000
 			}
 		]
 	}

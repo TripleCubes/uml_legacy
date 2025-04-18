@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Studio not-so studio",
-		"jammer_link": "https://notsostudio.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 153,
-				"jam_name": "Fishing",
-				"jam_link": "https://itch.io/jam/mini-jam-153-fishing",
-				"jam_vs": 199,
-				"title": "Gatorade Pond",
-				"title_link": "https://notsostudio.itch.io/gatorade-pond",
-				"submission_page_link": "https://itch.io/jam/mini-jam-153-fishing/rate/2564157",
-				"by_list": [
-					"Studio not-so studio"
-				],
-				"by_link_list": [
-					"https://notsostudio.itch.io/"
-				],
-				"rank": 113,
-				"ratings": 8,
-				"score": 2.563,
-				"ilscore": 67,
-				"submission_time_diff": -4720000
-			}
-		]
-	},
-	{
 		"jammer": "genderfreak",
 		"jammer_link": "https://genderfreak.itch.io/",
 		"game_list_sorted": [
@@ -952,6 +925,27 @@
 		"jammer": "Krah",
 		"jammer_link": "https://krah321.itch.io/",
 		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Tama-frog",
+				"title_link": "https://krah321.itch.io/tama-frog",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3472682",
+				"by_list": [
+					"Krah"
+				],
+				"by_link_list": [
+					"https://krah321.itch.io/"
+				],
+				"rank": 42,
+				"ratings": 5,
+				"score": 2.793,
+				"ilscore": 54,
+				"submission_time_diff": 312185000
+			},
 			{
 				"jam_type": "mini_jam",
 				"jam_id": 153,
@@ -2602,7 +2596,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "This is Jeff's first time skiing.",
 				"title_link": "https://t-spawn.itch.io/this-is-jeffs-first-time-skiing",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3402167",
@@ -3355,6 +3349,62 @@
 	{
 		"jammer": "Tom",
 		"jammer_link": "https://twads9816.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 135,
+				"title": "Mountain Momentum",
+				"title_link": "https://twads9816.itch.io/mountain-momentum",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3224660",
+				"by_list": [
+					"Tom",
+					"YaYa",
+					"rslezas",
+					"Benji.3DArt"
+				],
+				"by_link_list": [
+					"https://twads9816.itch.io/",
+					"https://yayamb.itch.io/",
+					"https://rslezas.itch.io/",
+					"https://benji3dart.itch.io/"
+				],
+				"rank": 35,
+				"ratings": 18,
+				"score": 3.403,
+				"ilscore": 77,
+				"submission_time_diff": -69000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 154,
+				"jam_name": "Travel",
+				"jam_link": "https://itch.io/jam/mini-jam-154-travel",
+				"jam_vs": 79,
+				"title": "Tele-Travel Technician Simulator",
+				"title_link": "https://twads9816.itch.io/tele-travel-technician-simulator",
+				"submission_page_link": "https://itch.io/jam/mini-jam-154-travel/rate/2591547",
+				"by_list": [
+					"Tom",
+					"YaYa"
+				],
+				"by_link_list": [
+					"https://twads9816.itch.io/",
+					"https://yayamb.itch.io/"
+				],
+				"rank": 37,
+				"ratings": 9,
+				"score": 2.899,
+				"ilscore": 52,
+				"submission_time_diff": -3138000
+			}
+		]
+	},
+	{
+		"jammer": "YaYa",
+		"jammer_link": "https://yayamb.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

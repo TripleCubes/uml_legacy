@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Spaghetti (Alex Mah)",
-		"jammer_link": "https://alexmah.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 169,
-				"jam_name": "Future",
-				"jam_link": "https://itch.io/jam/mini-jam-169-future",
-				"jam_vs": 44,
-				"title": "Cost of Vigilance",
-				"title_link": "https://alexmah.itch.io/cost-of-vigilance",
-				"submission_page_link": "https://itch.io/jam/mini-jam-169-future/rate/3034286",
-				"by_list": [
-					"Spaghetti (Alex Mah)"
-				],
-				"by_link_list": [
-					"https://alexmah.itch.io/"
-				],
-				"rank": 12,
-				"ratings": 10,
-				"score": 3.1,
-				"ilscore": 42,
-				"submission_time_diff": -134513000
-			}
-		]
-	},
-	{
 		"jammer": "Bubup",
 		"jammer_link": "https://burakcinar.itch.io/",
 		"game_list_sorted": [
@@ -1071,8 +1044,8 @@
 		]
 	},
 	{
-		"jammer": "One_Loop",
-		"jammer_link": "https://one-loo.itch.io/",
+		"jammer": "Loop_Box",
+		"jammer_link": "https://loop-box.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -1081,13 +1054,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-170-clean",
 				"jam_vs": 35,
 				"title": "Puzzle Car",
-				"title_link": "https://one-loo.itch.io/puzzle-car",
+				"title_link": "https://loop-box.itch.io/puzzle-car",
 				"submission_page_link": "https://itch.io/jam/mini-jam-170-clean/rate/3067048",
 				"by_list": [
-					"One_Loop"
+					"Loop_Box"
 				],
 				"by_link_list": [
-					"https://one-loo.itch.io/"
+					"https://loop-box.itch.io/"
 				],
 				"rank": 8,
 				"ratings": 11,
@@ -1102,13 +1075,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-179-energy",
 				"jam_vs": 83,
 				"title": "Energy_Jam",
-				"title_link": "https://one-loo.itch.io/energy-jam",
+				"title_link": "https://loop-box.itch.io/energy-jam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-179-energy/rate/3364653",
 				"by_list": [
-					"One_Loop"
+					"Loop_Box"
 				],
 				"by_link_list": [
-					"https://one-loo.itch.io/"
+					"https://loop-box.itch.io/"
 				],
 				"rank": 13,
 				"ratings": 25,
@@ -1123,13 +1096,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
 				"jam_vs": 78,
 				"title": "Monsters_Jam",
-				"title_link": "https://one-loo.itch.io/monsters-jam",
+				"title_link": "https://loop-box.itch.io/monsters-jam",
 				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3328966",
 				"by_list": [
-					"One_Loop"
+					"Loop_Box"
 				],
 				"by_link_list": [
-					"https://one-loo.itch.io/"
+					"https://loop-box.itch.io/"
 				],
 				"rank": 68,
 				"ratings": 14,
@@ -2071,6 +2044,27 @@
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "A Frog like you",
+				"title_link": "https://nathanthecraziest.itch.io/a-frog-like-you",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3469409",
+				"by_list": [
+					"NathanTheCraziest"
+				],
+				"by_link_list": [
+					"https://nathanthecraziest.itch.io/"
+				],
+				"rank": 2,
+				"ratings": 22,
+				"score": 3.943,
+				"ilscore": 77,
+				"submission_time_diff": -33203000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 171,
 				"jam_name": "Mystic",
 				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
@@ -2410,7 +2404,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "The Secret of Everglow Forest",
 				"title_link": "https://intro1.itch.io/the-secret-of-everglow-forest",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297938",
@@ -3373,6 +3367,37 @@
 	{
 		"jammer": "Gabby",
 		"jammer_link": "https://gsedi.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 171,
+				"jam_name": "Mystic",
+				"jam_link": "https://itch.io/jam/mini-jam-171-mystic",
+				"jam_vs": 56,
+				"title": "darling, darling sacrifices",
+				"title_link": "https://miseri-accordion.itch.io/darling-sacrifices",
+				"submission_page_link": "https://itch.io/jam/mini-jam-171-mystic/rate/3099462",
+				"by_list": [
+					"miseri",
+					"Gabby",
+					"Aishiana"
+				],
+				"by_link_list": [
+					"https://miseri-accordion.itch.io/",
+					"https://gsedi.itch.io/",
+					"https://aishianaarts.itch.io/"
+				],
+				"rank": 45,
+				"ratings": 3,
+				"score": 1.8,
+				"ilscore": 27,
+				"submission_time_diff": -786000
+			}
+		]
+	},
+	{
+		"jammer": "Aishiana",
+		"jammer_link": "https://aishianaarts.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",

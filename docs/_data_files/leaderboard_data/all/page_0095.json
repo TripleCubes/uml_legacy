@@ -1,36 +1,5 @@
 [
 	{
-		"jammer": "Levz",
-		"jammer_link": "https://levzsai.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 144,
-				"jam_name": "Nightmare",
-				"jam_link": "https://itch.io/jam/mini-jam-144-nightmare",
-				"jam_vs": 66,
-				"title": "Catatonic",
-				"title_link": "https://lenadev.itch.io/catatonic",
-				"submission_page_link": "https://itch.io/jam/mini-jam-144-nightmare/rate/2347838",
-				"by_list": [
-					"LenaDev",
-					"Levz",
-					"oladan"
-				],
-				"by_link_list": [
-					"https://lenadev.itch.io/",
-					"https://levzsai.itch.io/",
-					"https://oladan.itch.io/"
-				],
-				"rank": 64,
-				"ratings": 3,
-				"score": 1.735,
-				"ilscore": 28,
-				"submission_time_diff": 328435000
-			}
-		]
-	},
-	{
 		"jammer": "oladan",
 		"jammer_link": "https://oladan.itch.io/",
 		"game_list_sorted": [
@@ -2510,6 +2479,27 @@
 			},
 			{
 				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "Frogman",
+				"title_link": "https://crazedmonkey231.itch.io/frogman",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3471108",
+				"by_list": [
+					"crazedmonkey231"
+				],
+				"by_link_list": [
+					"https://crazedmonkey231.itch.io/"
+				],
+				"rank": 34,
+				"ratings": 12,
+				"score": 3.021,
+				"ilscore": 59,
+				"submission_time_diff": -4385000
+			},
+			{
+				"jam_type": "mini_jam",
 				"jam_id": 178,
 				"jam_name": "Monsters",
 				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
@@ -2702,7 +2692,7 @@
 				"jam_id": 180,
 				"jam_name": "Refresh",
 				"jam_link": "https://itch.io/jam/mini-jam-180-refresh",
-				"jam_vs": 85,
+				"jam_vs": 83,
 				"title": "Cloud Diver",
 				"title_link": "https://crazedmonkey231.itch.io/cloud-diver",
 				"submission_page_link": "https://itch.io/jam/mini-jam-180-refresh/rate/3401895",
@@ -2744,7 +2734,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Papercraft: Island Survival",
 				"title_link": "https://crazedmonkey231.itch.io/papercraft-island-survival",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3297807",
@@ -4108,6 +4098,54 @@
 				"score": 1.625,
 				"ilscore": 35,
 				"submission_time_diff": -8911000
+			}
+		]
+	},
+	{
+		"jammer": "Lordpotion",
+		"jammer_link": "https://lordpotion.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 146,
+				"jam_name": "Windows",
+				"jam_link": "https://itch.io/jam/mini-jam-146-windows",
+				"jam_vs": 57,
+				"title": "Data Restorer (jam edition)",
+				"title_link": "https://lordpotion.itch.io/data-restorer",
+				"submission_page_link": "https://itch.io/jam/mini-jam-146-windows/rate/2389078",
+				"by_list": [
+					"Lordpotion"
+				],
+				"by_link_list": [
+					"https://lordpotion.itch.io/"
+				],
+				"rank": 17,
+				"ratings": 8,
+				"score": 3.188,
+				"ilscore": 49,
+				"submission_time_diff": -22533000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 147,
+				"jam_name": "Cinema",
+				"jam_link": "https://itch.io/jam/mini-jam-147-cinema",
+				"jam_vs": 40,
+				"title": "Wild Westerns (jam edition)",
+				"title_link": "https://lordpotion.itch.io/wild-westerns",
+				"submission_page_link": "https://itch.io/jam/mini-jam-147-cinema/rate/2415691",
+				"by_list": [
+					"Lordpotion"
+				],
+				"by_link_list": [
+					"https://lordpotion.itch.io/"
+				],
+				"rank": 23,
+				"ratings": 6,
+				"score": 2.958,
+				"ilscore": 38,
+				"submission_time_diff": -13248000
 			}
 		]
 	}

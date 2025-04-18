@@ -1,32 +1,5 @@
 [
 	{
-		"jammer": "Sinitsaa",
-		"jammer_link": "https://sinitsaa.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 162,
-				"jam_name": "Heat",
-				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
-				"jam_vs": 135,
-				"title": "HotCube-ColdCube",
-				"title_link": "https://sinitsaa.itch.io/hotcube-coldcube",
-				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819113",
-				"by_list": [
-					"Sinitsaa"
-				],
-				"by_link_list": [
-					"https://sinitsaa.itch.io/"
-				],
-				"rank": 23,
-				"ratings": 9,
-				"score": 3.694,
-				"ilscore": 84,
-				"submission_time_diff": -20584000
-			}
-		]
-	},
-	{
 		"jammer": "LabChurros",
 		"jammer_link": "https://labchurros.itch.io/",
 		"game_list_sorted": [
@@ -2274,7 +2247,7 @@
 				"jam_id": 177,
 				"jam_name": "Papercraft",
 				"jam_link": "https://itch.io/jam/mini-jam-177-papercraft",
-				"jam_vs": 63,
+				"jam_vs": 62,
 				"title": "Unknown Papercrafter",
 				"title_link": "https://kohavit.itch.io/unknown-paper",
 				"submission_page_link": "https://itch.io/jam/mini-jam-177-papercraft/rate/3298264",
@@ -3356,6 +3329,33 @@
 				"score": 1.66,
 				"ilscore": 37,
 				"submission_time_diff": 2794000
+			}
+		]
+	},
+	{
+		"jammer": "Spider-Kittyy",
+		"jammer_link": "https://spider-kittyy.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 162,
+				"jam_name": "Heat",
+				"jam_link": "https://itch.io/jam/mini-jam-162-heat",
+				"jam_vs": 135,
+				"title": "Embers Trek",
+				"title_link": "https://spider-kittyy.itch.io/embers-trek",
+				"submission_page_link": "https://itch.io/jam/mini-jam-162-heat/rate/2819644",
+				"by_list": [
+					"Spider-Kittyy"
+				],
+				"by_link_list": [
+					"https://spider-kittyy.itch.io/"
+				],
+				"rank": 134,
+				"ratings": 4,
+				"score": 1.635,
+				"ilscore": 37,
+				"submission_time_diff": 1335000
 			}
 		]
 	}

@@ -35,7 +35,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "GoldHack",
 				"title_link": "https://anubisdunk.itch.io/goldhack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137354",
@@ -110,7 +110,7 @@
 				"jam_id": 85,
 				"jam_name": "Gold",
 				"jam_link": "https://itch.io/jam/mini-jam-85-gold",
-				"jam_vs": 170,
+				"jam_vs": 169,
 				"title": "GoldHack",
 				"title_link": "https://anubisdunk.itch.io/goldhack",
 				"submission_page_link": "https://itch.io/jam/mini-jam-85-gold/rate/1137354",
@@ -3879,11 +3879,13 @@
 				"submission_page_link": "https://itch.io/jam/mini-jam-181-rabbits/rate/3436080",
 				"by_list": [
 					"Evan Martin",
-					"enma"
+					"enma",
+					"Tossan"
 				],
 				"by_link_list": [
 					"https://evan-martin.itch.io/",
-					"https://enmakami.itch.io/"
+					"https://enmakami.itch.io/",
+					"https://tossan.itch.io/"
 				],
 				"rank": 26,
 				"ratings": 23,
@@ -3934,6 +3936,27 @@
 				"score": 3.56,
 				"ilscore": 81,
 				"submission_time_diff": -22677000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 182,
+				"jam_name": "Horror",
+				"jam_link": "https://itch.io/jam/mini-jam-182-horror",
+				"jam_vs": 94,
+				"title": "To You in the Future",
+				"title_link": "https://evan-martin.itch.io/from-me-to-you-in-the-future",
+				"submission_page_link": "https://itch.io/jam/mini-jam-182-horror/rate/3471732",
+				"by_list": [
+					"Evan Martin"
+				],
+				"by_link_list": [
+					"https://evan-martin.itch.io/"
+				],
+				"rank": 32,
+				"ratings": 19,
+				"score": 3.026,
+				"ilscore": 59,
+				"submission_time_diff": -19026000
 			},
 			{
 				"jam_type": "mini_jam",

@@ -1,38 +1,5 @@
 [
 	{
-		"jammer": "bigwomp",
-		"jammer_link": "https://bigwomp.itch.io/",
-		"game_list_sorted": [
-			{
-				"jam_type": "mini_jam",
-				"jam_id": 174,
-				"jam_name": "Defense",
-				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
-				"jam_vs": 98,
-				"title": "Fathomless",
-				"title_link": "https://snoodlegames.itch.io/fathomless",
-				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3199264",
-				"by_list": [
-					"snoodle",
-					"Dave",
-					"bigwomp",
-					"Rexotec"
-				],
-				"by_link_list": [
-					"https://snoodlegames.itch.io/",
-					"https://davit-g.itch.io/",
-					"https://bigwomp.itch.io/",
-					"https://rexotec.itch.io/"
-				],
-				"rank": 1,
-				"ratings": 11,
-				"score": 4.295,
-				"ilscore": 85,
-				"submission_time_diff": -515000
-			}
-		]
-	},
-	{
 		"jammer": "Rexotec",
 		"jammer_link": "https://rexotec.itch.io/",
 		"game_list_sorted": [
@@ -975,8 +942,8 @@
 		]
 	},
 	{
-		"jammer": "JohnnyUmami",
-		"jammer_link": "https://johnnyumamidev.itch.io/",
+		"jammer": "Johnny Vu",
+		"jammer_link": "https://johnnyvu.itch.io/",
 		"game_list_sorted": [
 			{
 				"jam_type": "mini_jam",
@@ -985,13 +952,13 @@
 				"jam_link": "https://itch.io/jam/mini-jam-174-defense",
 				"jam_vs": 98,
 				"title": "The Gold Is Mom's",
-				"title_link": "https://johnnyumamidev.itch.io/the-gold-is-moms",
+				"title_link": "https://johnnyvu.itch.io/the-gold-is-moms",
 				"submission_page_link": "https://itch.io/jam/mini-jam-174-defense/rate/3196286",
 				"by_list": [
-					"JohnnyUmami"
+					"Johnny Vu"
 				],
 				"by_link_list": [
-					"https://johnnyumamidev.itch.io/"
+					"https://johnnyvu.itch.io/"
 				],
 				"rank": 30,
 				"ratings": 15,
@@ -3375,6 +3342,54 @@
 				"score": 0.53,
 				"ilscore": 10,
 				"submission_time_diff": 3267000
+			}
+		]
+	},
+	{
+		"jammer": "lights+blue",
+		"jammer_link": "https://lightsblue.itch.io/",
+		"game_list_sorted": [
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 175,
+				"jam_name": "Gravity",
+				"jam_link": "https://itch.io/jam/mini-jam-175-gravity",
+				"jam_vs": 135,
+				"title": "2 Gravities",
+				"title_link": "https://lightsblue.itch.io/2gravities",
+				"submission_page_link": "https://itch.io/jam/mini-jam-175-gravity/rate/3225406",
+				"by_list": [
+					"lights+blue"
+				],
+				"by_link_list": [
+					"https://lightsblue.itch.io/"
+				],
+				"rank": 1,
+				"ratings": 16,
+				"score": 4.281,
+				"ilscore": 97,
+				"submission_time_diff": -2869000
+			},
+			{
+				"jam_type": "mini_jam",
+				"jam_id": 178,
+				"jam_name": "Monsters",
+				"jam_link": "https://itch.io/jam/mini-jam-178-monsters",
+				"jam_vs": 78,
+				"title": "Chromasoul",
+				"title_link": "https://lightsblue.itch.io/chromasoul",
+				"submission_page_link": "https://itch.io/jam/mini-jam-178-monsters/rate/3330499",
+				"by_list": [
+					"lights+blue"
+				],
+				"by_link_list": [
+					"https://lightsblue.itch.io/"
+				],
+				"rank": 10,
+				"ratings": 20,
+				"score": 3.763,
+				"ilscore": 67,
+				"submission_time_diff": -26505000
 			}
 		]
 	}
