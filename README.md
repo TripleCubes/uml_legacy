@@ -3,9 +3,9 @@
 
 Check out the new version of the unofficial leaderboard. It is located at https://github.com/TripleCubes/uml
 
-You will notice that the url of the new version is the same url as the github pages repo for the old unofficial leaderboard. From now on that url will be for the new unofficial leaderboard's source code and github pages repo
+Originally this repo is https://github.com/TripleCubes/uml. It has been chaned into https://github.com/TripleCubes/uml_legacy
 
-originally this repo is https://github.com/TripleCubes/uml. it has been chaned into https://github.com/TripleCubes/uml_legacy
+You will notice that the url of the new version is the same url as the github pages repo for the old unofficial leaderboard (aka the old github url of this repo). From now on that url will be for the new unofficial leaderboard's source code and github pages repo
 
 An archive of the old unofficial leaderboard is available at https://triplecubes.github.io/uml_legacy, aka the ghpages of this repo. We also have https://github.com/TripleCubes/uml_code that host the old unofficial leaderboard source code as well
 
